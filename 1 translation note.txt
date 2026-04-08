@@ -1,0 +1,17 @@
+A quick note when translating this game:
+
+If you see any unusual text within the dialogue, you'll need to include it in the translated text
+
+Example are the following:
+
+Anything within a [] or {} : denotes a variable being used or an aspect of the text being altered such a pause, its size or its speed
+
+\n : continues the text on a new line without stopping
+
+\" or \' : tells the game to include the quotation in the text rather than using it to recognize the beginning or end of a string 
+
+Åu and Åv : these are used in the original to show a character is speaking out loud.  It will be up to you to decide if you'd wish to use them as well, or take them out completely.  
+If you use these, be sure to leave an extra space before the Åv, otherwise it will look a bit awkward hugging the text.
+
+
+If you have any questions or concerns send a message to me at http://www.furaffinity.net/user/rtlstien/
