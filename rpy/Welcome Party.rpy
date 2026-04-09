@@ -8735,596 +8735,697 @@ translate chinese_simplified sit_with_torahiko_70ee490a:
 # game/Welcome Party.rpy:3167
 translate chinese_simplified sit_with_torahiko_451ee878:
 
-    # "I've been living in the city for so long,\nthis gave me a new feeling of nostalgia."
-    ""
+    # "I've been living in the city for so long,\nthis gave me a new feeling of nostalgia." 
+    # 参考:5121 重新回到这里来，[咱]觉得既怀念又新鲜。
+    "重新回到这里来，[咱]觉得既怀念又新鲜。"
 
 # game/Welcome Party.rpy:3168
 translate chinese_simplified sit_with_torahiko_6ef8ad06:
 
-    # "I'd say it's the calm,\ncarefree way of life,\nbut Minasato is definitely different from the city."
-    ""
+    # "I'd say it's the calm,\ncarefree way of life,\nbut Minasato is definitely different from the city." 
+    # 参考:5117-5118 该说是大家豁达呢，还是轻松呢……。总之水乡村就是有着这种城市中没有的氛围。
+    "该说是大家豁达呢，还是轻松呢……。总之水乡村就是有着这种城市中没有的氛围。"
 
 # game/Welcome Party.rpy:3169
 translate chinese_simplified sit_with_torahiko_69fad0bd:
 
-    # fn "「Anyway...{p} \ You're going to be in a national swim meet... 」"
-    fn ""
+    # fn "「Anyway...{p} \ You're going to be in a national swim meet... 」" 
+    # 参考:5124-5125 「那么说来……。不只是在全国大会出赛……」
+    fn "「那么说来……。[l]不只是在全国大会出赛……」"
 
 # game/Welcome Party.rpy:3170
 translate chinese_simplified sit_with_torahiko_53df78f7:
 
-    # fn "「Torahiko, you're helping at the inn,\n \ and you still have to study, too!{p} \ Not only that, but you still have to work out. 」"
-    fn ""
+    # fn "「Torahiko, you're helping at the inn,\n \ and you still have to study, too!{p} \ Not only that, but you still have to work out. 」" 
+    # 参考:5128-5129 「虎彦在旅店帮忙和读书这些方面也要做得很好呢，还能够兼顾游泳那一边诶。」
+    fn "「虎彦在旅店帮忙和读书这些方面也要做得很好呢，还能够兼顾游泳那一边诶。」"
 
 # game/Welcome Party.rpy:3171
 translate chinese_simplified sit_with_torahiko_593aff15:
 
     # fn "「That's a lot to deal with, isn't it? 」"
+    # 参考:5129-5130 「虎彦在旅店帮忙和读书这些方面也要做得很好呢，还能够兼顾游泳那一边诶。」
     fn ""
 
 # game/Welcome Party.rpy:3175
 translate chinese_simplified sit_with_torahiko_1212be4a:
 
-    # to "「No, ahahaha!{p} \ I don't think it's that much! 」"
-    to ""
+    # to "「No, ahahaha!{p} \ I don't think it's that much! 」" 
+    # 参考:5133-5134 「也没有啦。啊——哈——哈——[l]一般般啦！」
+    to "「也没有啦。啊——哈——哈——[l]一般般啦！」"
 
 # game/Welcome Party.rpy:3179
 translate chinese_simplified sit_with_torahiko_79eb58d0:
 
-    # ju "「Have you been studying? 」"
-    ju ""
+    # ju "「Have you been studying? 」" 
+    # 参考:5138 「读书方面根本就算不上做得好呢。」
+    ju "「读书方面根本就算不上做得好呢。」"
 
 # game/Welcome Party.rpy:3183
 translate chinese_simplified sit_with_torahiko_6e96329c:
 
-    # to "「Guh... don't bring that up, senpai. 」"
-    to ""
+     # to "「Guh... don't bring that up, senpai. 」" 
+     # 参考:5142 「呜……别突然打击我啊，前辈」
+    to "「呜……别突然打击我啊，前辈」"
 
 # game/Welcome Party.rpy:3184
 translate chinese_simplified sit_with_torahiko_57914678:
 
-    # ju "「The 2nd year's Summer vacation,\n \ involves a lot of homework.{p} \ Don't cry about it and run away when it's over. 」"
-    ju ""
+    # ju "「The 2nd year's Summer vacation,\n \ involves a lot of homework.{p} \ Don't cry about it and run away when it's over. 」" 
+    # 参考:5145-5146 「二年级的暑假作业，可是相当多的哦。不要又在暑假快结束的时候，露出一副苦逼的样子哦。」
+    ju "「二年级的暑假作业，可是相当多的哦。不要又在暑假快结束的时候，露出一副苦逼的样子哦。」"
 
 # game/Welcome Party.rpy:3188
 translate chinese_simplified sit_with_torahiko_1c5599ce:
 
     # to "「I-it's okay!{p} \ I've got everything perfectly planned out! 」"
-    to ""
+    # 参考:5156 「没、没问题！[l]　今年有好好地制订计划去做的。」
+    to "「没、没问题！[l]　今年有好好地制订计划去做的。」"
 
 # game/Welcome Party.rpy:3189
 translate chinese_simplified sit_with_torahiko_992a821b:
 
     # fn "「Didn't you say that every year...{p} \ in elementary school? 」"
-    fn ""
+    # 参考:5159 「那句话，不是从小学的时候就一直挂到嘴边到现在么？」
+    fn "「那句话，不是从小学的时候就一直挂到嘴边到现在么？」"
 
 # game/Welcome Party.rpy:3193
 translate chinese_simplified sit_with_torahiko_a7bd21ef:
 
     # to "「Guh... 」"
-    to ""
+    # 参考:5163 「咕……」
+    to "「咕……」"
 
 # game/Welcome Party.rpy:3194
 translate chinese_simplified sit_with_torahiko_fc480a5e:
 
     # ju "「Grow out of copying other's homework,\n \ it's irresponsible to say the least. 」"
-    ju ""
+    # 参考:5166 「多上点儿心思，只有好好地做作业，才能顺利毕业。」
+    ju "「多上点儿心思，只有好好地做作业，才能顺利毕业。」"
 
 # game/Welcome Party.rpy:3198
 translate chinese_simplified sit_with_torahiko_6561346e:
 
     # to "「Ha, hahaha! Summer vacation has just begun.{p} \ If you only think about the future,\n \ you won't get started with anything! Hahahaha... 」"
-    to ""
+    # 参考:5170-5172 「哈……哈哈哈，暑假不是才刚刚开始而已嘛。[l]总是把事情想得太远的话，眼前的事情可是做不好的呐！[l]哈哈哈哈……」
+    to "「哈……哈哈哈，暑假不是才刚刚开始而已嘛。[l]总是把事情想得太远的话，眼前的事情可是做不好的呐！[l]哈哈哈哈……」"
 
 # game/Welcome Party.rpy:3199
 translate chinese_simplified sit_with_torahiko_077c4546:
 
     # "Torahiko gives a dry smile and laugh."
-    ""
+    # 参考:5174 「虎彦扬着僵硬的脸，发出一阵阵干笑的声音。」
+    "虎彦扬着僵硬的脸，发出一阵阵干笑的声音。"
 
 # game/Welcome Party.rpy:3200
 translate chinese_simplified sit_with_torahiko_395ef396:
 
     # fn "「Mm-hm, he's taken a defiant attitude... 」"
-    fn ""
+    # 参考:5177 「啊——啊，开始自我催眠了……」
+    fn "「啊——啊，开始自我催眠了……」"
 
 # game/Welcome Party.rpy:3204
 translate chinese_simplified sit_with_torahiko_e636e850:
 
     # ju "「Looks like this year isn't going to be good. 」"
-    ju ""
+    # 参考:5180-5181 「今年看来也不行啊。」
+    ju "「今年看来也不行啊。」"
 
 # game/Welcome Party.rpy:3205
 translate chinese_simplified sit_with_torahiko_af8ec054:
 
     # to "「Hahahahahaha! Hahaha...{p} \ {nw}"
-    to ""
+    # 参考:5184 「哈哈哈哈哈哈……哈哈哈哈……[l][虎彦 呆れ normal][wt]哈啊……」
+    to "「哈哈哈哈哈哈……哈哈哈哈……[l][虎彦 呆れ normal][wt]哈啊……」"
 
 # game/Welcome Party.rpy:3207
 translate chinese_simplified sit_with_torahiko_84b58852:
 
-    # extend "Haaa... 」"
-    extend ""
+     # extend "Haaa... 」"
+    # 参考:5184 虎彦接着就开始消沉起来，大大地松了一口气。
+    extend "虎彦接着就开始消沉起来，大大地松了一口气。"
 
 # game/Welcome Party.rpy:3209
 translate chinese_simplified sit_with_torahiko_a985c454:
 
     # "Torahiko is completely down,\nand lets out a big sigh."
-    ""
+    # 参考:5186 「虎彦接着就开始消沉起来，大大地松了一口气。[l]」
+    "虎彦接着就开始消沉起来，大大地松了一口气。"
 
 # game/Welcome Party.rpy:3210
 translate chinese_simplified sit_with_torahiko_86d90b16:
 
     # "His keen ears are down,\nand his whiskers are drooping."
-    ""
+    # 参考:5187 「虎耳也耷拉了下来，胡子也软软地垂下来。」
+    "虎耳也耷拉了下来，胡子也软软地垂下来。"
 
 # game/Welcome Party.rpy:3211
 translate chinese_simplified sit_with_torahiko_4b31ea48:
 
     # "I fill up my plate with meat and vegetables,\nand place it in front of Torahiko."
-    ""
+    # 参考:5189 「[咱]把装满肉和蔬菜的小碟子送到他面前。」
+    "[咱]把装满肉和蔬菜的小碟子送到他面前。"
 
 # game/Welcome Party.rpy:3212
 translate chinese_simplified sit_with_torahiko_6af16ec4:
 
     # fn "「You've slowed down eating.{p} \ Here, eat some meat. 」"
-    fn ""
+    # 参考:5191-5193 「吃东西的速度下降了哦。[l]来，吃肉吧，[wdt]肉哦」
+    fn "「吃东西的速度下降了哦。[l]来，吃肉吧，[wdt]肉哦」"
 
 # game/Welcome Party.rpy:3213
 translate chinese_simplified sit_with_torahiko_1cf4a06f:
 
     # to "「[fn]... 」"
-    to ""
+    # 参考:5196 「[wdss][博行]……」[rd]
+    to "「[wdss][博行]……」[rd]"
 
 # game/Welcome Party.rpy:3214
 translate chinese_simplified sit_with_torahiko_d3909240:
 
     # fn "「It's okay that you're only thinking,\n \ about the swim meet right now.{p} \ You need the nutrition. 」"
-    fn ""
+    # 参考:5199-5201 「现在只需要考虑游泳大会的事情就足够了。因此，不好好地增加营养可不行。」
+    fn "「现在只需要考虑游泳大会的事情就足够了。因此，不好好地增加营养可不行。」"
 
 # game/Welcome Party.rpy:3218
 translate chinese_simplified sit_with_torahiko_0ac93602:
 
     # to "「O-oh yeah!{p} \ All right then, I'm gonna eat and eat and eat!{p} \ So that I'll definitely win! 」"
-    to ""
+    # 参考:5204-5206 「啊，[wdt]哦，说的对！[l]好，那就开吃啦，使劲吃！绝对要取得优胜给你们看！」
+    to "「啊，[wdt]哦，说的对！[l]好，那就开吃啦，使劲吃！绝对要取得优胜给你们看！」"
 
 # game/Welcome Party.rpy:3222
 translate chinese_simplified sit_with_torahiko_c28873b4:
 
     # "Torahiko fills up his bowl with rice,\nand starts shoveling in meat,\nand vegetables with amazing vigor."
-    ""
+    # 参考:5209-5210 「虎彦单手拿着满满的装着米饭的碗，以非常厉害的气势，狼吞虎咽着烤肉和蔬菜。」
+    "虎彦单手拿着满满的装着米饭的碗，以非常厉害的气势，狼吞虎咽着烤肉和蔬菜。"
 
 # game/Welcome Party.rpy:3223
 translate chinese_simplified sit_with_torahiko_5e9b87c6:
 
     # fn "「I think his bad mood is gone,\n \ he's completely fine now... 」"
-    fn ""
+    # 参考:5213-5214 「还以为会开始消沉起来了呢，结果又变得这样有活力起来了。」
+    fn "「还以为会开始消沉起来了呢，结果又变得这样有活力起来了。」"
 
 # game/Welcome Party.rpy:3227
 translate chinese_simplified sit_with_torahiko_4c318b6c:
 
     # ju "「It's because he's a simple guy.{p} \ He's the type of person who can...{p} \ change their mood very quickly. 」"
-    ju ""
+    # 参考:5218-5220 「因为本性非常单纯吧。[l]嘛，感情的快速变化能够表现出来，也是那家伙的特殊之处。」
+    ju "「因为本性非常单纯吧。[l]嘛，感情的快速变化能够表现出来，也是那家伙的特殊之处。」"
 
 # game/Welcome Party.rpy:3228
 translate chinese_simplified sit_with_torahiko_e0ecf4ce:
 
     # fn "「I see. 」"
-    fn ""
+    # 参考:5223 「说的是啊。」
+    fn "「说的是啊。」"
 
 # game/Welcome Party.rpy:3232
 translate chinese_simplified sit_with_torahiko_9ba5fdff:
 
     # "At first I was surprised at how...{p}different he looked since elementary school."
-    ""
+    # 参考:5227-5228 「同小学的时候相比，外表变化很大的虎彦，实际上却并没有太大的变化。」
+    "同小学的时候相比，外表变化很大的虎彦，实际上却并没有太大的变化。"
 
 # game/Welcome Party.rpy:3233
 translate chinese_simplified sit_with_torahiko_7dfee30e:
 
     # "But talking to him like this makes me feel,\nas if I've gone back to the way things...{p}used to be in Minasato Village."
-    ""
+    # 参考:5229 「让人感觉好像是回到了当年的水乡村一般。」
+    "让人感觉好像是回到了当年的水乡村一般。"
 
 # game/Welcome Party.rpy:3234
 translate chinese_simplified sit_with_torahiko_9fdd39c2:
 
     # "His endless cheer and simple character,\nTorahiko hasn't changed at all."
-    ""
+    # 参考:5231-5232 「无限开朗，天真烂漫的虎彦，和以前一样呢。」
+    "无限开朗，天真烂漫的虎彦，和以前一样呢。"
 
 # game/Welcome Party.rpy:3238
 translate chinese_simplified sit_with_torahiko_c4f46e9f:
 
     # to "「I'll be fine with just swimming and cooking!!{p} \ Just get rid of the homework!! 」"
-    to ""
+    # 参考:5236-5237 「俺只要精通游泳和料理就足够了！！[l]作业什么的——消失吧！！！」
+    to "「俺只要精通游泳和料理就足够了！！[l]作业什么的——消失吧！！！」"
 
 # game/Welcome Party.rpy:3239
 translate chinese_simplified sit_with_torahiko_ca998ac2:
 
     # fn "「You're still...{p} \ dragging your feet about that... 」"
-    fn ""
+    # 参考:5240 「看来还是在找借口拖延……」
+    fn "「看来还是在找借口拖延……」"
 
 # game/Welcome Party.rpy:3243
 translate chinese_simplified sit_with_torahiko_435290f6:
 
     # ju "「Half his food is already gone... 」"
-    ju ""
+    # 参考:5244 「应该说是有一半的成分是在破罐破摔……」
+    ju "「应该说是有一半的成分是在破罐破摔……」"
 
 # game/Welcome Party.rpy:3244
 translate chinese_simplified sit_with_torahiko_092f1cff:
 
     # "Still just a little childish as ever...{p}Well, I'll just have to see what happens."
-    ""
+    # 参考:5246-5247 「有些幼稚的地方，也仍然……。呀咧呀咧，反正有目共睹了。」
+    "有些幼稚的地方，也仍然……。呀咧呀咧，反正有目共睹了。"
 
 # game/Welcome Party.rpy:3258
 translate chinese_simplified party_end_0c9cfc72:
 
     # fn "「Whew, my stomach's full.{p} \ I can't eat another bite... 」"
-    fn ""
+    # 参考:5259 「呼——好饱。[l]已经吃不下了～」
+    fn "「呼——好饱。[l]已经吃不下了～」"
 
 # game/Welcome Party.rpy:3262
 translate chinese_simplified party_end_b8ee4e3c:
 
     # to "「I ate and ate...{p} \ It was just meat but there sure was a lot,\n \ and then there was also dessert. 」"
-    to ""
+    # 参考:5264-5266 「吃饱了吃饱了。[l]明明只是肉，就已经这么多了，还有附送上来的甜品呢。」
+    to "「吃饱了吃饱了。[l]明明只是肉，就已经这么多了，还有附送上来的甜品呢。」"
 
 # game/Welcome Party.rpy:3266
 translate chinese_simplified party_end_0d120931:
 
     # ky "「Well, this looks like a good time\n \ to wrap things up. 」"
-    ky ""
+    # 参考:5271 「那么，时间也差不多了吧。」
+    ky "「那么，时间也差不多了吧。」"
 
 # game/Welcome Party.rpy:3270
 translate chinese_simplified party_end_392a1c2c:
 
     # so "「Uh-huh! 」"
-    so ""
+    # 参考:5276 「是啊。」
+    so "「是啊。」"
 
 # game/Welcome Party.rpy:3274
 translate chinese_simplified party_end_d5a9a799:
 
     # su "「I had a lot of fun today. 」"
-    su ""
+    # 参考:5281 「今天非常开心的说。」
+    su "「今天非常开心的说。」"
 
 # game/Welcome Party.rpy:3275
 translate chinese_simplified party_end_aca9e95c:
 
     # fn "「Yeah, it was nice to see you guys,\n \ after such a long time. 」"
-    fn ""
+    # 参考:5284 「是呢，和久违的大家在一起，真的很开心。」
+    fn "「是呢，和久违的大家在一起，真的很开心。」"
 
 # game/Welcome Party.rpy:3279
 translate chinese_simplified party_end_03820135:
 
     # to "「Today isn't the only day you're having fun!{p} \ You're here all Summer vacation,\n \ let's meet every single day! 」"
-    to ""
+    # 参考:5287-5290 「喂喂，开心的应该不止是今天吧。[l]整个暑假都会待在这里吧，应该每天都能见面啦。」
+    to "「喂喂，开心的应该不止是今天吧。[l]整个暑假都会待在这里吧，应该每天都能见面啦。」"
 
 # game/Welcome Party.rpy:3283
 translate chinese_simplified party_end_dba8c3cb:
 
     # ju "「...Meet every single day? 」"
-    ju ""
+    # 参考:5295 「……每天见面？」
+    ju "「……每天见面？」"
 
 # game/Welcome Party.rpy:3287
 translate chinese_simplified party_end_9e518004:
 
     # to "「It's a figure of speech.{p} \ A. Figure. Of. Speech. 」"
-    to ""
+    # 参考:5299 「是说应该啦，应[wdt]·该[wdt]·吧[wdt]」
+    to "「是说应该啦，应[wdt]·该[wdt]·吧[wdt]」"
 
 # game/Welcome Party.rpy:3293
 translate chinese_simplified party_end_709a8f91:
 
     # ta "「Well, we played every day back then.{p} \ We liked to play baseball or go fishing,\n \ or do things like have a game of tag. 」"
-    ta ""
+    # 参考:5308-5310 「嘛，以前不也是每天都在一起玩嘛。[l]棒球、捉鱼……还有像捉迷藏之类的。」
+    ta "「嘛，以前不也是每天都在一起玩嘛。[l]棒球、捉鱼……还有像捉迷藏之类的。」"
 
 # game/Welcome Party.rpy:3297
 translate chinese_simplified party_end_307eadbe:
 
     # to "「That's right! Why don't we have...{p} \ a game of tag sometime?{p} \ Even better, we could do it all day long! 」"
-    to ""
+    # 参考:5314-5316 「对了！[l]　那么下次大家再聚在一起的时候，不如玩捉迷藏如何？[l]而且是一整天的。名字就叫做，"24小时持久捉迷藏"——」
+    to "「对了！[l]　那么下次大家再聚在一起的时候，不如玩捉迷藏如何？[l]而且是一整天的。名字就叫做，"24小时持久捉迷藏"——」"
 
 # game/Welcome Party.rpy:3298
 translate chinese_simplified party_end_38c68b4a:
 
     # to "「We could call it \"24-Hour Tag Endurance\"! 」"
-    to ""
+    # 参考:5316 名字就叫做，"24小时持久捉迷藏"——
+    to "名字就叫做，"24小时持久捉迷藏"——"
 
 # game/Welcome Party.rpy:3299
 translate chinese_simplified party_end_e1d7b7a8:
 
     # fn "「A 24-hour game of tag? All day? 」"
-    fn ""
+    # 参考:5319 「24小时……那岂不是有一个人要一直当鬼去捉人？」
+    fn "「24小时……那岂不是有一个人要一直当鬼去捉人？」"
 
 # game/Welcome Party.rpy:3303
 translate chinese_simplified party_end_a97237b1:
 
     # to "「Yep, I think it's worth a try.{p} \ It won't be over until everybody's caught! 」"
-    to ""
+    # 参考:5323-5324 「对啦——确实是一直当鬼，怎样，有趣吧。[l]当大家都被鬼捉到的话，游戏就结束了」
+    to "「对啦——确实是一直当鬼，怎样，有趣吧。[l]当大家都被鬼捉到的话，游戏就结束了」"
 
 # game/Welcome Party.rpy:3310
 translate chinese_simplified party_end_891afdcc:
 
     # ka "「I think we're a little too old...{p} \ to be playing tag. 」"
-    ka ""
+    # 参考:5335 「都多大了，还玩捉迷藏。」
+    ka "「都多大了，还玩捉迷藏。」"
 
 # game/Welcome Party.rpy:3311
 translate chinese_simplified party_end_9326ee87:
 
     # si "「It's ridiculous... 」"
-    si ""
+    # 参考:5338 「无聊……」
+    si "「无聊……」"
 
 # game/Welcome Party.rpy:3315
 translate chinese_simplified party_end_c9ae6c71:
 
     # ta "「Don't say that, it could be fun. 」"
-    ta ""
+    # 参考:5342 「别那么说嘛，玩起来可能会意外的很高兴也说不定。」
+    ta "「别那么说嘛，玩起来可能会意外的很高兴也说不定。」"
 
 # game/Welcome Party.rpy:3316
 translate chinese_simplified party_end_36a6f768:
 
     # ta "「You aren't allowed to use any vehicles,\n \ and you can hide anywhere in Minasato.{p} \ Do those sound like good rules? 」"
-    ta ""
+    # 参考:5345-5347 「禁止一切交通工具，仅限在水乡村内躲藏。这样的规则如何？」
+    ta "「禁止一切交通工具，仅限在水乡村内躲藏。这样的规则如何？」"
 
 # game/Welcome Party.rpy:3320
 translate chinese_simplified party_end_fd514bcf:
 
     # ka "「If that's the case...{p} \ the area around my house should be the boundary. 」"
-    ka ""
+    # 参考:5351-5352 「……如果那样的话，我家那一带似乎就是边界了。」
+    ka "「……如果那样的话，我家那一带似乎就是边界了。」"
 
 # game/Welcome Party.rpy:3324
 translate chinese_simplified party_end_15ebdd4a:
 
     # si "「Then it would be good to hide in my house.{p} \ However, that would make things too simple and easy. 」"
-    si ""
+    # 参考:5355-5357 「那我就躲在自己的家里好了。[l]其实，是在家待着休息而已。」
+    si "「那我就躲在自己的家里好了。[l]其实，是在家待着休息而已。」"
 
 # game/Welcome Party.rpy:3325
 translate chinese_simplified party_end_8090bd2b:
 
     # "Those two were just complaining,\nand now they're eager to join in..."
-    ""
+    # 参考:5359 「这两个人，虽然刚才有抱怨，但是似乎还是挺想参加的样子……。」
+    "这两个人，虽然刚才有抱怨，但是似乎还是挺想参加的样子……。"
 
 # game/Welcome Party.rpy:3330
 translate chinese_simplified party_end_26786981:
 
     # ky "「But wouldn't it be troublesome to do that,\n \ all day in the middle of Summer? 」"
-    ky ""
+    # 参考:5364 「不过在这样的大夏天整天玩的话，不会很辛苦么？」
+    ky "「不过在这样的大夏天整天玩的话，不会很辛苦么？」"
 
 # game/Welcome Party.rpy:3334
 translate chinese_simplified party_end_60cddd89:
 
     # ju "「That's not very realistic. 」"
-    ju ""
+    # 参考:5368 「实在是不现实呢。」
+    ju "「实在是不现实呢。」"
 
 # game/Welcome Party.rpy:3338
 translate chinese_simplified party_end_b05be942:
 
     # so "「It's Summer, so shouldn't we do...{p} \ something Summer-ish? 」"
-    so ""
+    # 参考:5372 「既然是夏天，不如做些夏天的事情如何？」
+    so "「既然是夏天，不如做些夏天的事情如何？」"
 
 # game/Welcome Party.rpy:3342
 translate chinese_simplified party_end_f69b99f3:
 
     # su "「Before [fn]-san moved,\n \ we would go bug-catching or fishing! 」"
-    su ""
+    # 参考:5376-5377 「[博行]君搬家之前，有一起去捕昆虫、钓小龙虾诶～」
+    su "「[博行]君搬家之前，有一起去捕昆虫、钓小龙虾诶～」"
 
 # game/Welcome Party.rpy:3343
 translate chinese_simplified party_end_176099d7:
 
     # "Shun-kun holding a bug-catching net,\nand wearing a straw hat..."
-    ""
+    # 参考:5379 「拿着捕虫网和笼子，戴着草帽的峻君……」
+    "拿着捕虫网和笼子，戴着草帽的峻君……"
 
 # game/Welcome Party.rpy:3344
 translate chinese_simplified party_end_d3e8ecf9:
 
     # "That would be suitable for him.{p}But, that's not really something\na high school student would do..."
-    ""
+    # 参考:5380-5381 「那副样子实在是太适合他了。[l]不过，这也不像是高中生聚在一起去做的事情啊。」
+    "那副样子实在是太适合他了。[l]不过，这也不像是高中生聚在一起去做的事情啊。"
 
 # game/Welcome Party.rpy:3345
 translate chinese_simplified party_end_968173df:
 
     # ky "「No, that's a little... 」"
-    ky ""
+    # 参考:5383-5384 「不……感觉那样也有点儿……」
+    ky "「不……感觉那样也有点儿……」"
 
 # game/Welcome Party.rpy:3350
 translate chinese_simplified party_end_76687a23:
 
     # ko "「Hmm, something Summer-ish.{p} \ How about we all go to the beach? 」"
-    ko ""
+    # 参考:5390 「嗯——既然是夏天，那么大家一起去海边如何？」
+    ko "「嗯——既然是夏天，那么大家一起去海边如何？」"
 
 # game/Welcome Party.rpy:3351
 translate chinese_simplified party_end_02039485:
 
     # fn "「That sounds great! 」"
-    fn ""
+    # 参考:5392-5393 「这个听起来不错啊」
+    fn "「这个听起来不错啊」"
 
 # game/Welcome Party.rpy:3355
 translate chinese_simplified party_end_72be4817:
 
     # to "「Kounosuke suggested something normal for once,\n \ that's rare! 」"
-    to ""
+    # 参考:5397-5398 「孝之助居然能提出这样正常的提案，罕见诶。。。」
+    to "「孝之助居然能提出这样正常的提案，罕见诶。。。」"
 
 # game/Welcome Party.rpy:3359
 translate chinese_simplified party_end_3311427e:
 
     # ko "「What? I'm always normal...{p} \ {nw}"
-    ko ""
+    # 参考:5402-5403 「什么啊，我一直都正常得很。[l]从来都没说过24小时捉迷藏之类的傻事。」
+    ko "「什么啊，我一直都正常得很。[l]从来都没说过24小时捉迷藏之类的傻事。」"
 
 # game/Welcome Party.rpy:3361
 translate chinese_simplified party_end_341208e5:
 
     # extend "A 24-hour game of tag sounds pretty stupid. 」"
-    extend ""
+    # 参考:5403 「从来都没说过24小时捉迷藏之类的傻事。」
+    extend "从来都没说过24小时捉迷藏之类的傻事。」"
 
 # game/Welcome Party.rpy:3365
 translate chinese_simplified party_end_0bad235b:
 
     # to "「What!? 」"
-    to ""
+    # 参考:5407 「什么？！」
+    to "「什么？！」"
 
 # game/Welcome Party.rpy:3369
 translate chinese_simplified party_end_6d095b97:
 
     # ju "「...I don't think that sounded so bad. 」"
-    ju ""
+    # 参考:5411 「……俺其实觉得那个也不是坏主意。」
+    ju "「……俺其实觉得那个也不是坏主意。」"
 
 # game/Welcome Party.rpy:3373
 translate chinese_simplified party_end_3da498e9:
 
     # ta "「Hm, Juuichi? Did you say something? 」"
-    ta ""
+    # 参考:5415 「啊？[l]　柔一，你说什么？」
+    ta "「啊？[l]　柔一，你说什么？」"
 
 # game/Welcome Party.rpy:3377
 translate chinese_simplified party_end_9dc3ca48:
 
     # ju "「No, it's nothing... 」"
-    ju ""
+    # 参考:5419 「不，什么也没……」
+    ju "「不，什么也没……」"
 
 # game/Welcome Party.rpy:3381
 translate chinese_simplified party_end_9a74ba4f:
 
     # ta "「So then, the next thing to do is go to the beach. 」"
-    ta ""
+    # 参考:5424 「那么，下次大家一起去海边吧。」
+    ta "「那么，下次大家一起去海边吧。」"
 
 # game/Welcome Party.rpy:3382
 translate chinese_simplified party_end_da2a7c7d:
 
     # ta "「I have work, and you guys are busy,\n \ so it would be convenient\n \ to go on everybody's next day off. 」"
-    ta ""
+    # 参考:5427-5429 「因为俺还要工作，其他家伙也有为了自己的事情而忙活的，所以就等到大家都能够休息的日子，再一起去吧。[l]详细的，就以后再讨论吧。」
+    ta "「因为俺还要工作，其他家伙也有为了自己的事情而忙活的，所以就等到大家都能够休息的日子，再一起去吧。[l]详细的，就以后再讨论吧。」"
 
 # game/Welcome Party.rpy:3383
 translate chinese_simplified party_end_0394f375:
 
     # ta "「We'll work out the details eventually. 」"
-    ta ""
+    # 参考:5429 「详细的，就以后再讨论吧。」
+    ta "「详细的，就以后再讨论吧。」"
 
 # game/Welcome Party.rpy:3387
 translate chinese_simplified party_end_b1449f08:
 
     # to "「All right, we'll try that. 」"
-    to ""
+    # 参考:5433 「说的对，那就这样啦！）
+    to "「说的对，那就这样啦！」"
 
 # game/Welcome Party.rpy:3391
 translate chinese_simplified party_end_2695e4cd:
 
     # ko "「I agree! 」"
-    ko ""
+    # 参考:5437 「赞成～」
+    ko "「赞成～」"
 
 # game/Welcome Party.rpy:3396
 translate chinese_simplified party_end_7418cf75:
 
     # so "「The beach, huh?{p} \ I've got a bathing suit! 」"
-    so ""
+    # 参考:5443 「海么，需要有泳衣呢。」
+    so "「海么，需要有泳衣呢。」"
 
 # game/Welcome Party.rpy:3400
 translate chinese_simplified party_end_25c0dfe9:
 
     # su "「Woof! I'm excited! 」"
-    su ""
+    # 参考:5447 「哇唔！[l]　好激动。」
+    su "「哇唔！[l]　好激动。」"
 
 # game/Welcome Party.rpy:3405
 translate chinese_simplified party_end_37490e89:
 
     # ky "「So it's decided.{p} \ Then we have just one\n \ last thing to do before we end today. 」"
-    ky ""
+    # 参考:5452-5453 「那就这么定下来了。[l]最后，大家再为了那个干一杯吧。」
+    ky "「那就这么定下来了。[l]最后，大家再为了那个干一杯吧。」"
 
 # game/Welcome Party.rpy:3406
 translate chinese_simplified party_end_203ba352:
 
     # fn "「What do you mean? 」"
-    fn ""
+    # 参考:5456 「那个？」
+    fn "「那个？」"
 
 # game/Welcome Party.rpy:3410
 translate chinese_simplified party_end_07b299fc:
 
     # to "「One... two... 」"
-    to ""
+    # 参考:5459-5460 「来了哦……准——备——」
+    to "「来了哦……准——备——」"
 
 # game/Welcome Party.rpy:3414
 translate chinese_simplified party_end_f4ebeef5:
 
     # "{size=+15}「WELCOME HOME, [fn]! 」"
-    ""
+    # 参考:5464 「欢迎回来，[wdss][博行]！」[rd]
+    "{size=+15}「欢迎回来，[wdss][博行]！」[rd]"
 
 # game/Welcome Party.rpy:3420
 translate chinese_simplified party_end_9b0d6e23:
 
     # "Aah, I've really come back to Minasato Village...{p}To my friends who are so warm."
-    ""
+    # 参考:5467-5468 「啊啊，看样子，[咱]真的回归水乡村了呢……。[l]朋友们的感觉，是那样的温暖。」
+    "啊啊，看样子，[咱]真的回归水乡村了呢……。[l]朋友们的感觉，是那样的温暖。"
 
 # game/Welcome Party.rpy:3421
 translate chinese_simplified party_end_029918b9:
 
     # fn "「I'm back, everyone!{p} \ Thanks for today! 」"
-    fn ""
+    # 参考:5471 「[咱]回来了，谢谢大家今天的招待。」
+    fn "「[咱]回来了，谢谢大家今天的招待。」"
 
 # game/Welcome Party.rpy:3422
 translate chinese_simplified party_end_fa3db0fd:
 
     # "I was born and raised in this village,\nand I met everyone here, too.{p}It feels really great."
-    ""
+    # 参考:5473-5474 「[咱]出生在这样的村子中，能遇到大家，真是太好了。」
+    "[咱]出生在这样的村子中，能遇到大家，真是太好了。"
 
 # game/Welcome Party.rpy:3426
 translate chinese_simplified party_end_473bfa5e:
 
     # to "「Heh heh, don't cry! 」"
-    to ""
+    # 参考:5477-5478 「嘿嘿，别哭啦。」
+    to "「嘿嘿，别哭啦。」"
 
 # game/Welcome Party.rpy:3427
 translate chinese_simplified party_end_1847c7bd:
 
     # fn "「Yeah, I'm not crying. 」"
-    fn ""
+    # 参考:5481 「嗯，才不会哭呢。」
+    fn "「嗯，才不会哭呢。」"
 
 # game/Welcome Party.rpy:3431
 translate chinese_simplified party_end_ac318aff:
 
     # ta "「Things have gotten sappy here,\n \ but the next time we meet at the beach,\n \ we'll be excited. Don't forget! 」"
-    ta ""
+    # 参考:5485-5487 「虽然来得这么低调，但是下次聚会的时候，可是要在海边大闹特闹了哦，别忘了！
+    ta "「虽然来得这么低调，但是下次聚会的时候，可是要在海边大闹特闹了哦，别忘了！」"
 
 # game/Welcome Party.rpy:3435
 translate chinese_simplified party_end_c26cc525:
 
     # si "「But you're the best at forgetting things. 」"
-    si ""
+    # 参考:5491-5492 「不过反倒是辰树君总忘。」
+    si "「不过反倒是辰树君总忘。」"
 
 # game/Welcome Party.rpy:3439
 translate chinese_simplified party_end_ee5f1035:
 
     # ta "「Shin, don't say such things. 」"
-    ta ""
+    # 参考:5496 「深～，别这么说我嘛。。」
+    ta "「深～，别这么说我嘛。。」"
 
 # game/Welcome Party.rpy:3440
 translate chinese_simplified party_end_a912041d:
 
     # fn "「Ahahaha! 」"
-    fn ""
+    # 参考:5499 「啊哈哈哈哈」
+    fn "「啊哈哈哈哈」"
 
 # game/Welcome Party.rpy:3444
 translate chinese_simplified party_end_b35e51b0:
 
     # "For the next month,\nI'll be in Minasato Village with everybody."
-    ""
+    # 参考:5502-5504 「从今天开始的一个月，会与大家一同在水乡村度过。[l]不仅仅是去海边，在一起一定会有更多有趣的事情吧。
+    "从今天开始的一个月，会与大家一同在水乡村度过。"
 
 # game/Welcome Party.rpy:3445
 translate chinese_simplified party_end_92f7f8af:
 
     # "Not only are we going to the beach,\nI'm sure there are plenty of other things in store."
-    ""
+    # 参考:5502-5504
+    "不仅仅是去海边，在一起一定会有更多有趣的事情吧。"
 
 # game/Welcome Party.rpy:3446
 translate chinese_simplified party_end_9fe1f2ef:
 
     # "Inside my chest,\nmy heart is like an album."
-    ""
+    # 参考:5506-5507 「珍藏在胸中的那本心的相册，[l]一旦打开，宝石般闪耀的回忆便会再次复苏。」
+    "珍藏在胸中的那本心的相册，"
 
 # game/Welcome Party.rpy:3447
 translate chinese_simplified party_end_93220393:
 
     # "When I open it,\nmy memories shine like brilliant jewels."
-    ""
+    # 参考:5507 「宝石般闪耀的回忆便会再次复苏。」
+
+    "一旦打开，宝石般闪耀的回忆便会再次复苏。"
 
 # game/Welcome Party.rpy:3448
 translate chinese_simplified party_end_fa143c40:
 
     # "There I can make a new page.{p}This year's Summer only happens once.{p}So, I'll enjoy it as much as I can."
-    ""
+    # 参考:5509-5511 「并且，在此之后，会开启更新的一页。[l]今年的夏天仅此一次。[l]来吧，[wdt]尽情地去享受吧。」
+
+    "并且，在此之后，会开启更新的一页。[l]今年的夏天仅此一次。[l]来吧，[wdt]尽情地去享受吧。"
 
 translate chinese_simplified strings:
 
