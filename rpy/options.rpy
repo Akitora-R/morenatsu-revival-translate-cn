@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2018-08-20 02:35
+﻿# TODO: Translation updated at 2026-04-10 22:44
 
 translate chinese_simplified strings:
 
-    # options.rpy:15
+    # game/options.rpy:17
     old "Morenatsu Revival"
     new ""
 

@@ -1,20 +1,16 @@
-﻿# TODO: Translation updated at 2018-08-20 02:35
+﻿# TODO: Translation updated at 2026-04-10 22:44
 
 translate chinese_simplified strings:
 
-    # Save-Load.rpy:41
+    # game/Save-Load.rpy:40
     old "Save"
     new ""
 
-    # Save-Load.rpy:53
+    # game/Save-Load.rpy:52
     old "Load"
     new ""
 
-    # Save-Load.rpy:665
+    # game/Save-Load.rpy:448
     old "Save Time:{#file_time} %Y/%m/%d %H:%M:%S"
-    new ""
-
-    # Save-Load.rpy:665
-    old "NO DATA"
     new ""
 

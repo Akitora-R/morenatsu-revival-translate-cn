@@ -1,316 +1,352 @@
-﻿# TODO: Translation updated at 2018-08-20 02:35
+﻿# TODO: Translation updated at 2026-04-10 22:44
 
 translate chinese_simplified strings:
 
-    # initname.rpy:10
+    # game/initname.rpy:10
     old "Kounosuke"
     new ""
 
-    # initname.rpy:11
+    # game/initname.rpy:11
     old "Tatsuki"
     new ""
 
-    # initname.rpy:12
+    # game/initname.rpy:12
     old "Shun"
     new ""
 
-    # initname.rpy:13
+    # game/initname.rpy:13
     old "Kouya"
     new ""
 
-    # initname.rpy:14
+    # game/initname.rpy:14
     old "Juuichi"
     new ""
 
-    # initname.rpy:15
+    # game/initname.rpy:15
     old "Shin"
     new ""
 
-    # initname.rpy:16
+    # game/initname.rpy:16
     old "Soutarou"
     new ""
 
-    # initname.rpy:17
+    # game/initname.rpy:17
     old "Kyouji"
     new ""
 
-    # initname.rpy:18
+    # game/initname.rpy:18
     old "Torahiko"
     new ""
 
-    # initname.rpy:22
+    # game/initname.rpy:22
     old "Amaki"
     new ""
 
-    # initname.rpy:23
+    # game/initname.rpy:23
     old "Tappei"
     new ""
 
-    # initname.rpy:24
+    # game/initname.rpy:24
     old "Horseman"
     new ""
 
-    # initname.rpy:25
+    # game/initname.rpy:25
     old "Birdman"
     new ""
 
-    # initname.rpy:26
+    # game/initname.rpy:26
     old "Catman"
     new ""
 
-    # initname.rpy:27
+    # game/initname.rpy:27
     old "Nikaidou"
     new ""
 
-    # initname.rpy:28
+    # game/initname.rpy:28
     old "Rat Boy"
     new ""
 
-    # initname.rpy:29
+    # game/initname.rpy:29
     old "Chuukichi"
     new ""
 
-    # initname.rpy:30
+    # game/initname.rpy:30
     old "Boy"
     new ""
 
-    # initname.rpy:31
+    # game/initname.rpy:31
     old "Yukiharu"
     new ""
 
-    # initname.rpy:32
+    # game/initname.rpy:32
     old "Botan"
     new ""
 
-    # initname.rpy:33
+    # game/initname.rpy:33
     old "Kou & Yuki"
     new ""
 
-    # initname.rpy:34
+    # game/initname.rpy:34
     old "You & Tora"
     new ""
 
-    # initname.rpy:35
+    # game/initname.rpy:35
     old "Tora & Shun"
     new ""
 
-    # initname.rpy:36
+    # game/initname.rpy:36
+    old "Tora & Tatsuki"
+    new ""
+
+    # game/initname.rpy:37
     old "You & Shun"
     new ""
 
-    # initname.rpy:37
+    # game/initname.rpy:38
     old "You & Shin"
     new ""
 
-    # initname.rpy:38
+    # game/initname.rpy:39
     old "Kouno & Shun"
     new ""
 
-    # initname.rpy:39
+    # game/initname.rpy:40
     old "All Three"
     new ""
 
-    # initname.rpy:40
+    # game/initname.rpy:41
     old "Everybody"
     new ""
 
-    # initname.rpy:41
+    # game/initname.rpy:42
     old "Nanafuse"
     new ""
 
-    # initname.rpy:42
+    # game/initname.rpy:43
     old "Gaku"
     new ""
 
-    # initname.rpy:43
+    # game/initname.rpy:44
     old "Wolf"
     new ""
 
-    # initname.rpy:44
+    # game/initname.rpy:45
     old "Ten"
     new ""
 
-    # initname.rpy:45
+    # game/initname.rpy:46
     old "Tetsuya"
     new ""
 
-    # initname.rpy:46
+    # game/initname.rpy:47
     old "Keisuke"
     new ""
 
-    # initname.rpy:47
+    # game/initname.rpy:48
     old "Yuuki"
     new ""
 
-    # initname.rpy:48
+    # game/initname.rpy:49
     old "Jun"
     new ""
 
-    # initname.rpy:49
+    # game/initname.rpy:50
     old "Shigure"
     new ""
 
-    # initname.rpy:50
+    # game/initname.rpy:51
     old "Tatsu & Tora"
     new ""
 
-    # initname.rpy:51
+    # game/initname.rpy:52
     old "Tatsu & Kouno"
     new ""
 
-    # initname.rpy:52
+    # game/initname.rpy:53
     old "Tora & Kouno"
     new ""
 
-    # initname.rpy:53
+    # game/initname.rpy:54
     old "Kyou & Juu"
     new ""
 
-    # initname.rpy:54
+    # game/initname.rpy:55
     old "Friend"
     new ""
 
-    # initname.rpy:55
+    # game/initname.rpy:56
     old "Shun & Sou"
     new ""
 
-    # initname.rpy:56
+    # game/initname.rpy:57
     old "Yuki's Friend"
     new ""
 
-    # initname.rpy:57
+    # game/initname.rpy:58
     old "Juu & [fn]"
     new ""
 
-    # initname.rpy:58
+    # game/initname.rpy:59
     old "[fn] & Kyouji"
     new ""
 
-    # initname.rpy:59
+    # game/initname.rpy:60
     old "Kyouji & Kouya"
     new ""
 
-    # initname.rpy:60
+    # game/initname.rpy:61
     old "Mitsuhisa"
     new ""
 
-    # initname.rpy:61
+    # game/initname.rpy:62
     old "Kouya & Tora"
     new ""
 
-    # initname.rpy:62
+    # game/initname.rpy:63
     old "Both"
     new ""
 
-    # initname.rpy:63
+    # game/initname.rpy:64
     old "Captain"
     new ""
 
-    # initname.rpy:66
+    # game/initname.rpy:65
+    old "Satoru"
+    new ""
+
+    # game/initname.rpy:66
+    old "Kuroda"
+    new ""
+
+    # game/initname.rpy:69
     old "Mom"
     new ""
 
-    # initname.rpy:67
+    # game/initname.rpy:70
     old "Driver"
     new ""
 
-    # initname.rpy:68
+    # game/initname.rpy:71
     old "???"
     new ""
 
-    # initname.rpy:69
+    # game/initname.rpy:72
     old "Grandma"
     new ""
 
-    # initname.rpy:70
+    # game/initname.rpy:73
     old "Grandpa"
     new ""
 
-    # initname.rpy:71
+    # game/initname.rpy:74
     old "Grandparents"
     new ""
 
-    # initname.rpy:72
+    # game/initname.rpy:75
     old "Old Man"
     new ""
 
-    # initname.rpy:73
+    # game/initname.rpy:76
     old "Old Woman"
     new ""
 
-    # initname.rpy:74
+    # game/initname.rpy:77
     old "Clerk"
     new ""
 
-    # initname.rpy:75
+    # game/initname.rpy:78
     old "Shopkeeper"
     new ""
 
-    # initname.rpy:76
+    # game/initname.rpy:79
     old "Yukino"
     new ""
 
-    # initname.rpy:77
+    # game/initname.rpy:80
     old "Harue"
     new ""
 
-    # initname.rpy:78
+    # game/initname.rpy:81
     old "Narration"
     new ""
 
-    # initname.rpy:79
+    # game/initname.rpy:82
     old "Housewife A"
     new ""
 
-    # initname.rpy:80
+    # game/initname.rpy:83
     old "Housewife B"
     new ""
 
-    # initname.rpy:81
+    # game/initname.rpy:84
     old "Ryo"
     new ""
 
-    # initname.rpy:82
+    # game/initname.rpy:85
     old "Bystanders"
     new ""
 
-    # initname.rpy:83
+    # game/initname.rpy:86
     old "Farmer"
     new ""
 
-    # initname.rpy:84
+    # game/initname.rpy:87
     old "Everyone"
     new ""
 
-    # initname.rpy:85
+    # game/initname.rpy:88
     old "Attendant"
     new ""
 
-    # initname.rpy:86
+    # game/initname.rpy:89
     old "Door"
     new ""
 
-    # initname.rpy:87
+    # game/initname.rpy:90
     old "Phone"
     new ""
 
-    # initname.rpy:88
+    # game/initname.rpy:91
     old "Note"
     new ""
 
-    # initname.rpy:89
+    # game/initname.rpy:92
     old "Kazumi"
     new ""
 
-    # initname.rpy:90
+    # game/initname.rpy:93
     old "MC"
     new ""
 
-    # initname.rpy:91
+    # game/initname.rpy:94
     old "Judge"
     new ""
 
-    # initname.rpy:92
+    # game/initname.rpy:95
     old "Club Member"
+    new ""
+
+    # game/initname.rpy:96
+    old "Takemi"
+    new ""
+
+    # game/initname.rpy:97
+    old "Member"
+    new ""
+
+    # game/initname.rpy:98
+    old "Members"
+    new ""
+
+    # game/initname.rpy:99
+    old "Referee"
+    new ""
+
+    # game/initname.rpy:100
+    old "Audience"
+    new ""
+
+    # game/initname.rpy:101
+    old "Owner"
     new ""
 

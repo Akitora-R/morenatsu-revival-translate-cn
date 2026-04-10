@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2018-08-20 02:35
+﻿# TODO: Translation updated at 2026-04-10 22:44
 
 translate chinese_simplified strings:
 
-    # nameinput.rpy:49
+    # game/nameinput.rpy:49
     old "[first]"
     new ""
 
-    # nameinput.rpy:50
+    # game/nameinput.rpy:50
     old "[last]"
     new ""
 
