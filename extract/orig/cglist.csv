@@ -1,0 +1,26 @@
+# CGモード用のデータ
+# ページ名,コメント,CG名
+# page0,アイキャッチ１,eyec1
+page0,辰樹と,ev_tatsuki_1
+page0,流星群の夜,ev_tatsuki_2
+page0,恋人の証,ev_kounosuke_1
+page0,星の降る夜,ev_kounosuke_2
+page0,七つ目の秘密,七つ目の秘密1,七つ目の秘密2,七つ目の秘密3
+page1,おしえて☆はじめてのせいつう,ev_shun_1,ev_shun_1b
+page1,こないだの続き,ev_shun_2,ev_shun_2b
+page1,ろくじゅうきゅう,ev_kouya_1,ev_kouya_1b
+page1,感謝のかたち,ev_kouya_2,ev_kouya_2b
+page2,心と体が繋がるとき,ev_juichi_1,ev_juichi_1b
+page2,混ざり合う心音,ev_juichi_2,ev_juichi_2b,ev_juichi_2c
+page2,キミが、好き,ev_shin_1,ev_shin_1b
+page2,別れと始まりのキス,ev_shin_2,ev_shin_2b
+#page3,辰樹編あとがき ウメ,あとがき_ウメ1,あとがき_ウメ2
+#page3,孝之助編あとがき ルーオゥ,あとがき_ルーオゥ1,あとがき_ルーオゥ2
+page3,第一弾あとがき ウメ&ルーオゥ,あとがき_ウメ1,あとがき_ウメ2,あとがき_ルーオゥ1,あとがき_ルーオゥ2
+#page3,峻編あとがき ひゅがくぉ,あとがき_ひゅがくぉ
+#page3,洸哉編あとがき 雪だるま,あとがき_雪だるま
+page3,第二弾あとがき ひゅがくぉ&雪だるま,あとがき_ひゅがくぉ,あとがき_雪だるま
+#page3,柔一編あとがき iwak,あとがき_iwak
+#page3,深編あとがき ルーオゥ,あとがき_ルーオゥ3,あとがき_ルーオゥ4
+page3,第三弾あとがき iwak&ルーオゥ,あとがき_イワーク,あとがき_ルーオゥ3,あとがき_ルーオゥ4
+page3,スクリプトあとがき 虎犬,あとがき_虎犬

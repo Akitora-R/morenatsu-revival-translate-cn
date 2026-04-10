@@ -1,0 +1,290 @@
+;
+;¥ë©`¥È‰ä¸ü
+
+;
+*startFromTitle|¥Ç¥Ð¥Ã¥°¥á¥Ë¥å©`
+
+[rclick enabled=true jump=true storage="" target=*backtotitle]
+;¥á¥Ã¥»©`¥¸¤ò¥í¥°¤ËÓ›åh¤·¤Ê¤¤
+[history output=false]
+
+; ¥Ù©`¥¹»­ÏñÕi¤ßÞz¤ß
+*setbutton
+[backlay]
+[hideyesno]
+[position layer=message1 frame="ÈÕ¸¶±³¾°" left=0 top=0 width=800 height=600 marginT=0 marginL=0 marginR=0 marginB=0 visible=true  transparent=false page=back]
+[current layer=message1 page=back]
+
+
+; ¥Ü¥¿¥ó¤ÎÅäÖÃ
+[nowait]¡¡¡¡Scenario¤ÎEnd Flag¡¢¼°¤ÓGallery¤ò[r]
+¡¡¡¡é_·Å¤·¤¿¤¤¥­¥ã¥é¤òßx’k¤·¤Æ¤¯¤À¤µ¤¤[r]
+¡¡¡¡ÓÒ¼üµ¥»÷·µ»Ø±êÌâ»­Ãæ¡£
+
+
+[iscript]
+function charClear(charnum, flags){
+	switch(charnum){
+		case 1:
+			//Ð¢Ö®Öú
+			sf.kounosuke_clear = flags;
+			sf.kounosuke_clear2 = flags;
+			if(flags){
+				sf.encountSubChar_konosuke = [0,1,1,1,1,0,0,0,0,0];
+				sf.clear = true;
+				sf['cg_EV_KOUNOSUKE_1'] = true;
+				sf['cg_EV_KOUNOSUKE_2'] = true;
+				sf['cg_Æß¤ÄÄ¿¤ÎÃØÃÜ1'] = true;
+				sf['cg_Æß¤ÄÄ¿¤ÎÃØÃÜ2'] = true;
+				sf['cg_Æß¤ÄÄ¿¤ÎÃØÃÜ3'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥1'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥2'] = true;
+				sf['trail_Ð¢Ö®Öú_m_08_ÁµÈË¤ÎÔ^'] = 1;
+				sf['trail_Ð¢Ö®Öú_s_01_Ð¢Ö®Öú¡¢¤ª¤Þ¤±'] = 1;
+			}else{
+				sf.encountSubChar_konosuke = [0,0,0,0,0,0,0,0,0,0];
+				sf['cg_EV_KOUNOSUKE_1'] = false;
+				sf['cg_EV_KOUNOSUKE_2'] = false;
+				sf['cg_Æß¤ÄÄ¿¤ÎÃØÃÜ1'] = false;
+				sf['cg_Æß¤ÄÄ¿¤ÎÃØÃÜ2'] = false;
+				sf['cg_Æß¤ÄÄ¿¤ÎÃØÃÜ3'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥1'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥2'] = false;
+				sf['trail_Ð¢Ö®Öú_m_08_ÁµÈË¤ÎÔ^'] = 0;
+				sf['trail_Ð¢Ö®Öú_s_01_Ð¢Ö®Öú¡¢¤ª¤Þ¤±'] = 0;
+			}
+			break;
+
+		case 2:
+			//³½˜ä
+			sf.tatuki_clear = flags;
+			if(flags){
+				sf.encountSubChar_tatsuki = [0,1,1,1,1,1,1,1,0,0];
+				sf.clear = true;
+				sf['cg_EV_TATSUKI_1'] = true;
+				sf['cg_EV_TATSUKI_2'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥¦¥á1'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥¦¥á2'] = true;
+				sf['trail_³½˜ä_m_n_ero1'] = 1;
+				sf['trail_³½˜ä_m_09_ameteorshower'] = 1;
+			}else{
+				sf.encountSubChar_tatsuki = [0,0,0,0,0,0,0,0,0,0];
+				sf['cg_EV_TATSUKI_1'] = false;
+				sf['cg_EV_TATSUKI_2'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥¦¥á1'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥¦¥á2'] = false;
+				sf['trail_³½˜ä_m_n_ero1'] = 0;
+				sf['trail_³½˜ä_m_09_ameteorshower'] = 0;
+			}
+			break;
+
+		case 3:
+			//›²ÔÕ
+			sf.kouya_clear = flags;
+			if(flags){
+				sf.encountSubChar_koya = [0,1,1,1,1,1,0,0,0,0];
+				sf.clear = true;
+				sf['cg_EV_KOUYA_1'] = true;
+				sf['cg_EV_KOUYA_1B'] = true;
+				sf['cg_EV_KOUYA_2'] = true;
+				sf['cg_EV_KOUYA_2B'] = true;
+				sf['cg_¤¢¤È¤¬¤­_Ñ©¤À¤ë¤Þ'] = true;
+				sf['trail_›²ÔÕ_m_05_heart'] = 1;
+				sf['trail_›²ÔÕ_m_08_i_think'] = 1;
+			}else{
+				sf.encountSubChar_koya = [0,0,0,0,0,0,0,0,0,0];
+				sf.clear = true;
+				sf['cg_EV_KOUYA_1'] = false;
+				sf['cg_EV_KOUYA_1B'] = false;
+				sf['cg_EV_KOUYA_2'] = false;
+				sf['cg_EV_KOUYA_2B'] = false;
+				sf['cg_¤¢¤È¤¬¤­_Ñ©¤À¤ë¤Þ'] = false;
+				sf['trail_›²ÔÕ_m_05_heart'] = 0;
+				sf['trail_›²ÔÕ_m_08_i_think'] = 0;
+			}
+			break;
+
+		case 4:
+			//»¢Ñå
+			f.selopchr=9;
+			f.encountSubChar = f.encountSubChar_torahiko;
+			break;
+
+		case 5:
+			//Éî
+			sf.shin_clear = flags;
+			if(flags){
+				sf.encountSubChar_shin = [0,1,0,0,0,0,0,0,0,0];
+				sf.clear = true;
+				sf['cg_EV_SHIN_1'] = true;
+				sf['cg_EV_SHIN_1B'] = true;
+				sf['cg_EV_SHIN_2'] = true;
+				sf['cg_EV_SHIN_2B'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥3'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥4'] = true;
+				sf['trail_Éî_m_08_¥­¥ß¤¬¡¢ºÃ¤­'] = 1;
+			}else{
+				sf.encountSubChar_shin = [0,0,0,0,0,0,0,0,0,0];
+				sf['cg_EV_SHIN_1'] = false;
+				sf['cg_EV_SHIN_1B'] = false;
+				sf['cg_EV_SHIN_2'] = false;
+				sf['cg_EV_SHIN_2B'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥3'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥ë©`¥ª¥¥4'] = false;
+				sf['trail_Éî_m_08_¥­¥ß¤¬¡¢ºÃ¤­'] = 0;
+			}
+			break;
+
+		case 6:
+			//¾þ
+			sf.shun_clear = flags;
+			if(flags){
+				sf.encountSubChar_shun = [0,1,1,0,0,0,0,0,0,0];
+				sf.clear = true;
+				sf['cg_EV_SHUN_1'] = true;
+				sf['cg_EV_SHUN_1B'] = true;
+				sf['cg_EV_SHUN_2'] = true;
+				sf['cg_EV_SHUN_2B'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¤Ò¤å¤¬¤¯¤©'] = true;
+				sf['trail_¾þ_m_03_shunmain03-06'] = 1;
+				sf['trail_¾þ_m_05_shunmain05-06'] = 1;
+			}else{
+				sf.encountSubChar_shun = [0,0,0,0,0,0,0,0,0,0];
+				sf['cg_EV_SHUN_1'] = false;
+				sf['cg_EV_SHUN_1B'] = false;
+				sf['cg_EV_SHUN_2'] = false;
+				sf['cg_EV_SHUN_2B'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¤Ò¤å¤¬¤¯¤©'] = false;
+				sf['trail_¾þ_m_03_shunmain03-06'] = 0;
+				sf['trail_¾þ_m_05_shunmain05-06'] = 0;
+			}
+			break;
+
+		case 7:
+			//¾©´È
+			f.selopchr=8;
+			f.encountSubChar = f.encountSubChar_kyoji;
+			break;
+
+		case 8:
+			//×ÚÌ«ÀÉ
+			f.selopchr=7;
+			f.encountSubChar = f.encountSubChar_sotaro;
+			break;
+
+		case 9:
+			//ÈáÒ»
+			sf.juichi_clear = flags;
+			if(flags){
+				sf.encountSubChar_juichi = [0,1,0,0,0,0,0,0,0,0];
+				sf.clear = true;
+				sf['cg_EV_JUICHI_1'] = true;
+				sf['cg_EV_JUICHI_1B'] = true;
+				sf['cg_EV_JUICHI_2'] = true;
+				sf['cg_EV_JUICHI_2B'] = true;
+				sf['cg_EV_JUICHI_2C'] = true;
+				sf['cg_¤¢¤È¤¬¤­_¥¤¥ï©`¥¯'] = true;
+				sf['trail_ÈáÒ»_m_07_jm07_09'] = 1;
+				sf['trail_ÈáÒ»_m_08_sex01'] = 1;
+			}else{
+				sf['cg_EV_JUICHI_1'] = false;
+				sf['cg_EV_JUICHI_1B'] = false;
+				sf['cg_EV_JUICHI_2'] = false;
+				sf['cg_EV_JUICHI_2B'] = false;
+				sf['cg_EV_JUICHI_2C'] = false;
+				sf['cg_¤¢¤È¤¬¤­_¥¤¥ï©`¥¯'] = false;
+				sf['trail_ÈáÒ»_m_07_jm07_09'] = 0;
+				sf['trail_ÈáÒ»_m_08_sex01'] = 0;
+			}
+			f.encountSubChar = f.encountSubChar_juichi;
+			break;
+	}
+	
+	if(sf.clear == true){
+		sf['cg_¤¢¤È¤¬¤­_»¢È®'] = 1;
+		sf.numatogakinotice = 1;
+		sf.numgalnotice = 1;
+	}
+
+}
+
+[endscript]
+;¥­¥ã¥é¥¯¥¿¤Î»­Ïñ
+;³½˜ä
+[locate x=80 y=150]
+[if exp="sf.tatuki_clear"]
+[button name="tatsu" normal="micon_tatu"  clickse="pi47" target="*setbutton" exp="charClear(2,false)"]
+[else]
+[button name="tatsu" normal="micon_tatu2"  clickse="pi47" target="*setbutton" exp="charClear(2,true)"]
+[endif]
+
+
+;Ð¢Ö®Öú
+[locate x=80 y=300]
+[if exp="sf.kounosuke_clear2"]
+[button name="kou" normal="micon_kou" clickse="pi47" target="*setbutton" exp="charClear(1,false)"]
+[else]
+[button name="kou" normal="micon_kou2" clickse="pi47" target="*setbutton" exp="charClear(1,true)"]
+[endif]
+
+
+;¾þ
+[locate x=230 y=150]
+[if exp="sf.shun_clear"]
+[button name="shun" normal="micon_shun"  clickse="pi47" target="*setbutton" exp="charClear(6,false)"]
+[else]
+[button name="syun" normal="micon_shun2"  clickse="pi47" target="*setbutton" exp="charClear(6,true)"]
+[endif]
+
+;›²ÔÕ
+[locate x=230 y=300]
+[if exp="sf.kouya_clear"]
+[button name="koya" normal="micon_koya"  clickse="pi47" target="*setbutton" exp="charClear(3,false)"]
+[else]
+[button name="koya" normal="micon_koya2"  clickse="pi47" target="*setbutton" exp="charClear(3,true)"]
+[endif]
+
+;ÈáÒ»
+[locate x=380 y=150]
+[if exp="sf.juichi_clear"]
+[button name="juichi" normal="micon_jyu"  clickse="pi47" target="*setbutton" exp="charClear(9,false)"]
+[else]
+[button name="juichi" normal="micon_jyu2"  clickse="pi47" target="*setbutton" exp="charClear(9,true)"]
+[endif]
+
+
+;Éî
+[locate x=380 y=300]
+[if exp="sf.shin_clear"]
+[button name="shin" normal="micon_sin"  clickse="pi47" target="*setbutton" exp="charClear(5,false)"]
+[else]
+[button name="shin" normal="micon_sin2"  clickse="pi47" target="*setbutton" exp="charClear(5,true)"]
+[endif]
+
+
+;¾©´È
+[locate x=530 y=150]
+[button name="kyoji" normal="micon_kyou2"  clickse="pi47" disabled]
+
+;×ÚÌ«ÀÉ
+[locate x=530 y=300]
+[button name="sotaro" normal="micon_sou2"  clickse="pi47" disabled]
+
+;»¢Ñå
+[locate x=80 y=450]
+[button name="torahiko" normal="micon_tora2"  clickse="pi47" disabled]
+
+
+[endnowait]
+[trans method="universal" rule="×óÉÏ¤«¤éÓÒÏÂ¤Ø" vague="10" time=150]
+[wt]
+;¥á¥Ã¥»©`¥¸¤ò¥í¥°¤ËÓ›åh¤¹¤ë
+[history output=false]
+[s]
+
+
+*backtotitle
+[rclick enabled=false jump=false]
+[eval exp='configExit()']
+[current layer=message0]
+[jump storage="title.ks" target=*backtotitle]
