@@ -431,1291 +431,1506 @@ translate chinese_simplified torahiko02_8c36068a:
 translate chinese_simplified shin02_38b7d953:
 
     # "Hmm, I've heard the talks,\nbut it's true nothing changed."
-    ""
+    # [旧版翻译]
+    "嗯――虽然之前就有听说了，但还真的是完全没变呢。"
 
 # game/day 2.rpy:254
 translate chinese_simplified shin02_2308be2f:
 
     # "I just went out for a walk on a whim,\nbut I was really surprised\nto actually feel that."
-    ""
+    # [旧版翻译]
+    "靠着模糊的记忆四处逛逛时，更是惊人地感到那个没变的程度。"
 
 # game/day 2.rpy:255
 translate chinese_simplified shin02_458095c0:
 
     # "I thought I'd forgotten the village's structure,\nbut as I walk I'm sure this connected\nto someplace, and there's a sidepath here."
-    ""
+    # [旧版翻译]
+    "虽然已经几乎记不得村子大概的模样了，实际在走时，这条路往前会通到哪、这里旁边有条小路什么的，看到还是会想起来。"
 
 # game/day 2.rpy:256
 translate chinese_simplified shin02_40e99e7b:
 
     # "I sure remember a lot..."
-    ""
+    # [旧版翻译]
+    "虽然已经几乎记不得村子大概的模样了……"
 
 # game/day 2.rpy:260
 translate chinese_simplified shin02_737774f5:
 
     # "Over here, somewhat disconnected from\nthe village, out of place among\nthe Japanese-style houses,"
-    ""
+    # [旧版翻译]
+    "这里是稍微离村子有些远的地方，在林立的和风房舍间看起来有些显眼的，"
 
 # game/day 2.rpy:261
 translate chinese_simplified shin02_7e49c9ac:
 
     # "there was a Western-style home\nwith a pure white wall."
-    ""
+    # [旧版翻译]
+    "纯白色的洋馆。"
 
 # game/day 2.rpy:266
 translate chinese_simplified shin02_13dbd3cf:
 
     # who "「Yes, who might this be?」"
-    who ""
+    # [旧版翻译]
+    who "「您好，请问是哪位？」"
 
 # game/day 2.rpy:267
 translate chinese_simplified shin02_90505c46:
 
     # fn "「Hello.{p} I'm a friend of Shin-kun's,{p} my name is [fn] [ln].」"
-    fn ""
+    # [旧版翻译]
+    fn "「午安。[漏れ]是深君的朋友[西村][博行]。」"
 
 # game/day 2.rpy:268
 translate chinese_simplified shin02_6befac40:
 
     # who "「[ln]?{p} Oh! Please wait a moment...」"
-    who ""
+    # [旧版翻译]
+    who "「[西村]？啊啊！请稍等一下。」"
 
 # game/day 2.rpy:269
 translate chinese_simplified shin02_0fd4d656:
 
     # "......"
-    ""
+    # [旧版翻译]
+    "……"
 
 # game/day 2.rpy:275
 translate chinese_simplified shin02_c883d927:
 
     # fn "「Good afternoon, Shin-kun.」"
-    fn ""
+    # [旧版翻译]
+    fn "「深君，午安啊。」"
 
 # game/day 2.rpy:276
 translate chinese_simplified shin02_92a8a8bc:
 
     # si "「Good afternoon.{p} So, what brings you here all of a sudden?」"
-    si ""
+    # [旧版翻译]
+    si "「午安。怎么了吗，突然过来？」"
 
 # game/day 2.rpy:277
 translate chinese_simplified shin02_3af7a407:
 
     # fn "「Uhh.」"
-    fn ""
+    # [旧版翻译]
+    fn "「这个……」"
 
 # game/day 2.rpy:278
 translate chinese_simplified shin02_2ae64ced:
 
     # "Now that I've been asked,\nthe words just won't come out."
-    ""
+    # [旧版翻译]
+    "被问是怎么了，[漏れ]反而一时说不出来。"
 
 # game/day 2.rpy:279
 translate chinese_simplified shin02_d0cc72ce:
 
     # "I was out on a walk\nwhen I noticed I had come here,"
-    ""
+    # [旧版翻译]
+    "只是散步刚好走到附近，正好想说顺便见见深君而已，没有什么特别的事。"
 
 # game/day 2.rpy:280
 translate chinese_simplified shin02_89fdc8d0:
 
     # "then I just felt like seeing his face,\nso it wasn't anything really important."
-    ""
+    # [旧版翻译]
+    "只是散步刚好走到附近，正好想说顺便见见深君而已，没有什么特别的事。"
 
 # game/day 2.rpy:281
 translate chinese_simplified shin02_9289ad46:
 
     # "Well this is a fix.{p}It would've been great if I had\nanything to talk about..."
-    ""
+    # [旧版翻译]
+    "糟糕了。要是有带什么可以拿来当聊天素材的东西就好了，可是……"
 
 # game/day 2.rpy:282
 translate chinese_simplified shin02_56da8cd7:
 
     # fn "「Uhh...{w=.3} I just came by unexpectedly\n and wanted to see you.」"
-    fn ""
+    # [旧版翻译]
+    fn "「那个……只是刚好经过附近所以就想说来看看深君啦。」"
 
 # game/day 2.rpy:283
 translate chinese_simplified shin02_bef95801:
 
     # si "「...」"
-    si ""
+    # [旧版翻译]
+    si "「……」"
 
 # game/day 2.rpy:288
 translate chinese_simplified shin02_f873edc8:
 
     # "Well, that was expected.{p}Shin's embarrassed and shocked expression\npierced straight through me."
-    ""
+    # [旧版翻译]
+    "啊，跟想像中一样的反应。深君那不知道该说是困扰还是无奈的眼神就这样刺中了[漏れ]。"
 
 # game/day 2.rpy:289
 translate chinese_simplified shin02_74a3c2dc:
 
     # si "「Yesterday and today,{w=.3} you really are an abrupt person."
-    si ""
+    # [旧版翻译]
+    si "「昨天也是今天也是，你真是想到什么就做什么耶。真是的。」"
 
 # game/day 2.rpy:291
 translate chinese_simplified shin02_aa8915eb:
 
     # fn "「A-haha...」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊，啊哈哈……」"
 
 # game/day 2.rpy:292
 translate chinese_simplified shin02_81aa1b41:
 
     # "Now I was just laughing politely.{p}I wonder, am I actually getting in the way\nof something by coming here so suddenly?"
-    ""
+    # [旧版翻译]
+    "结果[漏れ]也只能尴尬地陪笑。突然就跑来找他果然会让他觉得困扰吗？"
 
 # game/day 2.rpy:298
 translate chinese_simplified shin02_caed2e84:
 
     # si "「Well, since you're already here,\n would you like to come up?」"
-    si ""
+    # [旧版翻译]
+    si "「唉，既然来了的话，要上来坐坐吗？」"
 
 # game/day 2.rpy:299
 translate chinese_simplified shin02_4c4390c6:
 
     # fn "「Y-yeah.{p} Thanks for inviting me in.」"
-    fn ""
+    # [旧版翻译]
+    fn "「嗯，嗯。打扰了！」"
 
 # game/day 2.rpy:300
 translate chinese_simplified shin02_51693106:
 
     # "As I relaxed when Shin-kun's face relaxed,\nI entered his home."
-    ""
+    # [旧版翻译]
+    "随着深君的表情和缓下来的同时，[漏れ]走进了深君的家。"
 
 # game/day 2.rpy:309
 translate chinese_simplified shin02_17488e3b:
 
     # si "「Make yourself at home.{p} I'll bring something back.」"
-    si ""
+    # [旧版翻译]
+    si "「那么请自便吧，我去拿点东西过来。」"
 
 # game/day 2.rpy:310
 translate chinese_simplified shin02_b8fcb9e3:
 
     # fn "「Oh, okay. Thanks.」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊，嗯，谢谢。」"
 
 # game/day 2.rpy:316
 translate chinese_simplified shin02_fe11827a:
 
     # "Hmm, even so, it's all as I expected."
-    ""
+    # [旧版翻译]
+    "嗯――不过还真的是很惊人呢。"
 
 # game/day 2.rpy:317
 translate chinese_simplified shin02_010020ae:
 
     # "I never thought about it much as a kid,\nbut this year even my impression\nof this house completely changed."
-    ""
+    # [旧版翻译]
+    "虽然小时候是怎么想的记不太起来了，不过到了这年纪对这个房子的感想也不一样了。"
 
 # game/day 2.rpy:318
 translate chinese_simplified shin02_1f9963b8:
 
     # "There was a nice feeling carpet on the\nsparkling clean floor, a nice cushy sofa,\nand what looks like a high class table."
-    ""
+    # [旧版翻译]
+    "打扫得闪闪发光的地板、触感很舒服的地毯、低反弹的沙发、看起来就很高级的桌子。"
 
 # game/day 2.rpy:319
 translate chinese_simplified shin02_df66bffd:
 
     # "At first glance it looked no different from any\nold home, but when you observe it for yourself,"
-    ""
+    # [旧版翻译]
+    "乍看之下，只是随处可见的普通房屋，但试着去摸摸看等等地仔细观察的话，"
 
 # game/day 2.rpy:320
 translate chinese_simplified shin02_a60a4045:
 
     # "you can simply tell that\nnothing's a cheap low class article.{p}There wasn't a speck of dust on anything."
-    ""
+    # [旧版翻译]
+    "就会发现房子里的每样东西都不便宜。而且这些家具虽然被打扫得一尘不染，"
 
 # game/day 2.rpy:321
 translate chinese_simplified shin02_45c1038a:
 
     # "You couldn't sarcastically call it\nhigh class pricey stuff,\nit was all just simple and elegant."
-    ""
+    # [旧版翻译]
+    "但却不会给人这是「高价物」的那种暴发户的感觉，而只会带给人一种朴质的气氛。"
 
 # game/day 2.rpy:322
 translate chinese_simplified shin02_df5bddf4:
 
     # "Adding to that, the decorative plants added\nto the corners of the room help direct\nthe cozy atmosphere in here."
-    ""
+    # [旧版翻译]
+    "再加上，房间角落摆放的观叶植物，更添增了一种家庭内的舒适感。"
 
 # game/day 2.rpy:323
 translate chinese_simplified shin02_9455177b:
 
     # "It isn't an exaggeration to say this\nwould be the best way to relax at home."
-    ""
+    # [旧版翻译]
+    "以能让人放松的空间来说，可以说是最高级也不为过吧。"
 
 # game/day 2.rpy:324
 translate chinese_simplified shin02_0f72e1e1:
 
     # "The air conditioner works really well too.{p}Even the air conditioning in Shin-kun's house\nis different, as expected."
-    ""
+    # [旧版翻译]
+    "冷气在这之中也发挥了作用。不愧是深君家，连冷气也不一样。"
 
 # game/day 2.rpy:325
 translate chinese_simplified shin02_78643b73:
 
     # "As for what, it's something about the air.\nTo be specific...it's amazingly refreshing.\nIt isn't just because the temp's down low."
-    ""
+    # [旧版翻译]
+    "要说哪里不一样的话，是吹出来的空气不一样。该怎么说呢，这冷气的感觉非常清爽。不只是温度低而已。"
 
 # game/day 2.rpy:330
 translate chinese_simplified shin02_5b8def19:
 
     # "As soon as I took one step in here,\nthat nice chilly sensation wrapped me up."
-    ""
+    # [旧版翻译]
+    "在踏进这个房子的一瞬间，[漏れ]就被围绕在这种让人非常舒服的冷气中了。"
 
 # game/day 2.rpy:331
 translate chinese_simplified shin02_10ae7bce:
 
     # "Viva air conditioning!{w} Viva the rich!{p}Here on this soft sofa, I could sleep\nthrough the whole summer!"
-    ""
+    # [旧版翻译]
+    "冷气真好。有钱人真好。要是能在这种地方、这种柔软的沙发上睡觉的话，肯定能渡过一个非常舒服愉快的暑假吧！"
 
 # game/day 2.rpy:335
 translate chinese_simplified shin02_96639cda:
 
     # si "「{cps=5}. . .」"
-    si ""
+    # [旧版翻译]
+    si "「{cps=5}……{cps=40}」"
 
 # game/day 2.rpy:339
 translate chinese_simplified shin02_f725f9ef:
 
     # si "「Well, you certainly are making\n yourself comfortable.」"
-    si ""
+    # [旧版翻译]
+    si "「真是豪放的姿势呢。」"
 
 # game/day 2.rpy:340
 translate chinese_simplified shin02_408c750d:
 
     # fn "「Uweh?」"
-    fn ""
+    # [旧版翻译]
+    fn "「呃？」"
 
 # game/day 2.rpy:344
 translate chinese_simplified shin02_e9e1a2ae:
 
     # "Sometime while I was basking\nin the upper class atmosphere,\nShin-kun had come back."
-    ""
+    # [旧版翻译]
+    "就在[漏れ]沉浸在上流阶级的气氛中时，不知何时深君已经回来了。"
 
 # game/day 2.rpy:345
 translate chinese_simplified shin02_8951bd89:
 
     # "In short, I was so absorbed in feeling the sofa\nthat I was slovenly laying across it,"
-    ""
+    # [旧版翻译]
+    "也就是说，[漏れ]陶醉地横躺在沙发上、在别人的家里放松到丢脸的程度的样子，"
 
 # game/day 2.rpy:346
 translate chinese_simplified shin02_99b718b3:
 
     # "not minding that I was in someone else's\nhome when Shin-kun saw me."
-    ""
+    # [旧版翻译]
+    "完全都被深君给看见了。"
 
 # game/day 2.rpy:347
 translate chinese_simplified shin02_f1006c67:
 
     # "Furthermore, my shirt got rumpled so much\nmy stomach was showing."
-    ""
+    # [旧版翻译]
+    "而且，上衣还稍微掀起连肚子都露了出来。"
 
 # game/day 2.rpy:348
 translate chinese_simplified shin02_846788d6:
 
     # "I reflexively sat straight up again,\nbut by that point it was already too late."
-    ""
+    # [旧版翻译]
+    "虽然[漏れ]立即跳起来端正地坐好，但这时已经来不及了。"
 
 # game/day 2.rpy:349
 translate chinese_simplified shin02_750d87b0:
 
     # "Shin-kun's shocked face was looking at me,\nand I was swallowed up by a deep despair."
-    ""
+    # [旧版翻译]
+    "就在深君渐渐变得一脸受不了的表情中，[漏れ]也被惨痛的气氛给包围了起来。"
 
 # game/day 2.rpy:353
 translate chinese_simplified shin02_2e8b44c9:
 
     # si "「I kind of admire that side of you.\n You could be a match for Kounosuke.」"
-    si ""
+    # [旧版翻译]
+    si "「你就是这一点，真的很让人敬佩。可以跟孝之助打成平手了吧。」"
 
 # game/day 2.rpy:354
 translate chinese_simplified shin02_e99a0088:
 
     # fn "「IESU-! I apologize, I'm sorry.」"
-    fn ""
+    # [旧版翻译]
+    fn "「是是是的！是[漏れ]的错真的非常抱歉！」"
 
 # game/day 2.rpy:358
 translate chinese_simplified shin02_aa78826e:
 
     # si "「Well I wouldn't go that far...{p} Is it that hot outside?」"
-    si ""
+    # [旧版翻译]
+    si "「我也没有讲到那种程度啦……外面真的有那么热吗？」"
 
 # game/day 2.rpy:359
 translate chinese_simplified shin02_e3472324:
 
     # fn "「Yeah.{p} Didn't it break 30 C?」"
-    fn ""
+    # [旧版翻译]
+    fn "「嗯。应该已经超过三十度了吧？」"
 
 # game/day 2.rpy:360
 translate chinese_simplified shin02_c580a611:
 
     # si "「It always gets hot here every year.」"
-    si ""
+    # [旧版翻译]
+    si "「这里每年都变得越来越热的关系吧。」"
 
 # game/day 2.rpy:366
 translate chinese_simplified shin02_ac2e6801:
 
     # "As he said that,\nhe placed an ice tea in front of me."
-    ""
+    # [旧版翻译]
+    "深君一边说着一边在[漏れ]前面放了杯冰红茶。"
 
 # game/day 2.rpy:367
 translate chinese_simplified shin02_759f4128:
 
     # "It's such a little thing,\nbut Shin-kun looks like he fell\nout of a painting doing even that."
-    ""
+    # [旧版翻译]
+    "虽然只是这么简单的动作，但由深君来做感觉就简直像画一般。"
 
 # game/day 2.rpy:371
 translate chinese_simplified shin02_df83f837:
 
     # si "「There's cookies too, so no need to hold back.\n Eat.」"
-    si ""
+    # [旧版翻译]
+    si "「还有饼干，不用在意尽量吃吧。」"
 
 # game/day 2.rpy:372
 translate chinese_simplified shin02_b56245d9:
 
     # fn "「I'll take nine, please.」"
-    fn ""
+    # [旧版翻译]
+    fn "「九块就够了。」"
 
 # game/day 2.rpy:376
 translate chinese_simplified shin02_de9ee591:
 
     # si "「?」"
-    si ""
+    # [旧版翻译]
+    si "「？」"
 
 # game/day 2.rpy:377
 translate chinese_simplified shin02_15bfacba:
 
     # "When I took a bite,\nI suddenly returned to my senses."
-    ""
+    # [旧版翻译]
+    "[漏れ]略过没听懂梗的深君，把手往放在桌上的饼干伸了过去。再咬了一口之后，突然醒悟了过来。"
 
 # game/day 2.rpy:378
 translate chinese_simplified shin02_8871ca31:
 
     # "In Shin-kun's topicless eyes,\nI reached out for a cookie on the table."
-    ""
+    # [旧版翻译]
+    "[漏れ]略过没听懂梗的深君，把手往放在桌上的饼干伸了过去。"
 
 # game/day 2.rpy:382
 translate chinese_simplified shin02_215afaf6:
 
     # "After relaxing so carelessly\nin someone else's home,"
-    ""
+    # [旧版翻译]
+    "在别人家里太过放松做出丢脸的动作也就算了，"
 
 # game/day 2.rpy:383
 translate chinese_simplified shin02_991288cd:
 
     # "isn't it completely childish to stuff some\nsnacks placed right in front of me into my mouth?"
-    ""
+    # [旧版翻译]
+    "别人一拿出点心还马上就开始吃了起来，这不完全就是小孩子吗。"
 
 # game/day 2.rpy:384
 translate chinese_simplified shin02_6eabbcd4:
 
     # "You might need a Mach number\nto estimate my stress value like this..."
-    ""
+    # [旧版翻译]
+    "这样下去[漏れ]的评价不就会跌到谷底……"
 
 # game/day 2.rpy:385
 translate chinese_simplified shin02_14847500:
 
     # "After taking a bite and realizing my actions,\nI saw Shin-kun sitting on the other side,\nleaning over a glass."
-    ""
+    # [旧版翻译]
+    "在咬了一口饼干注意到自己的行动之后，[漏れ]看了一下深君，他正坐在对面，拿着玻璃杯正准备要喝。"
 
 # game/day 2.rpy:389
 translate chinese_simplified shin02_d749528d:
 
     # si "「No good?」"
-    si ""
+    # [旧版翻译]
+    si "「不好吃？」"
 
 # game/day 2.rpy:390
 translate chinese_simplified shin02_9536b05a:
 
     # fn "「Oh, not that.」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊，不，」"
 
 # game/day 2.rpy:391
 translate chinese_simplified shin02_11d8ba9a:
 
     # "After carelessly meeting his eyes,\nShin-kun asked me."
-    ""
+    # [旧版翻译]
+    "看到[漏れ]晃神的样子，深君开口问道。"
 
 # game/day 2.rpy:392
 translate chinese_simplified shin02_d13345f6:
 
     # "In a panic, I shoved the rest of the\ncookie into my mouth then drained\nthe rest of my cold tea."
-    ""
+    # [旧版翻译]
+    "[漏れ]连忙将剩下的饼干塞到口中，用冰凉的红茶将它一口气灌了下去。"
 
 # game/day 2.rpy:393
 translate chinese_simplified shin02_a51686d7:
 
     # fn "「...{w=.3}this cookie is awesome.」"
-    fn ""
+    # [旧版翻译]
+    fn "「……很好吃呢，这饼干。」"
 
 # game/day 2.rpy:394
 translate chinese_simplified shin02_d8a0c8fb:
 
     # "My mouth just moved by itself.{w} Hey!?{p}My mind was struggling to keep my act clean,\nand it decides to do something stupid?"
-    ""
+    # [旧版翻译]
+    "[漏れ]自然而然地说了出来。喂！？明明脑袋里在拼命地想着华丽的说辞，结果说出来的这不是跟笨蛋差不多吗？"
 
 # game/day 2.rpy:395
 translate chinese_simplified shin02_325cc4cb:
 
     # "Already I've done:{p}Impudent Childhood Friend{w} →Had Terrible Manners{p}→Been Narrow-minded Until I Saw His Face"
-    ""
+    # [旧版翻译]
+    "该不会，厚脸皮的幼驯染[l]→超级不懂礼貌[l]→心胸狭隘从脸就看得出来"
 
 # game/day 2.rpy:396
 translate chinese_simplified shin02_d5858db6:
 
     # "→Left for Mars,{p}and obviously headed nowhere in mind."
-    ""
+    # [旧版翻译]
+    "→没救的人，确定的明显地变成这样了吧。"
 
 # game/day 2.rpy:397
 translate chinese_simplified shin02_017478df:
 
     # "No, it's partly a joke, but isn't this a terrible\nimpression?{w} I played it cool just like always,\nthen timidly, turned my eyes up to him and..."
-    ""
+    # [旧版翻译]
+    "哎不是开玩笑的啊这个，这下对[漏れ]的印象肯定会非常差吧？像平常那样实在是太过放纵自己了。[漏れ]戒慎恐惧地，偷偷地抬头往上看。"
 
 # game/day 2.rpy:401
 translate chinese_simplified shin02_5d2c74d7:
 
     # si "「Really?{p} {nw}"
-    si ""
+    # [旧版翻译]
+    si "「是吗？[bgm stop=1500] "
 
 # game/day 2.rpy:403
 translate chinese_simplified shin02_abd2b1d2:
 
     # extend "If it suited your tastes, then that's good.」"
-    extend ""
+    # [旧版翻译]
+    extend "你喜欢就太好了。」"
 
 # game/day 2.rpy:407
 translate chinese_simplified shin02_9016b226:
 
     # "...{w=.3}huh?{p}I was so sure he'd be shocked and go\n\"You really are such a kid.\""
-    ""
+    # [旧版翻译]
+    "……咦？还以为会被说「真是像小孩耶」之类的，然后一脸不耐烦地看着[漏れ]的说。"
 
 # game/day 2.rpy:411
 translate chinese_simplified shin02_715b4243:
 
     # "Shin-kun's face was calmer than expected,\nand for a moment he was smiling widely."
-    ""
+    # [旧版翻译]
+    "深君的表情比[漏れ]想像中还平和，[漏れ]一瞬间还想说他是不是笑了一下。"
 
 # game/day 2.rpy:412
 translate chinese_simplified shin02_09fb078b:
 
     # "He turned away from my eyes,\nand took another sip of tea."
-    ""
+    # [旧版翻译]
+    "接着他的视线从[漏れ]身上转开，再次喝了一口茶。"
 
 # game/day 2.rpy:413
 translate chinese_simplified shin02_ef54a792:
 
     # fn "「Is it okay if I have another?」"
-    fn ""
+    # [旧版翻译]
+    fn "「[漏れ]可以再吃一个吗？」"
 
 # game/day 2.rpy:417
 translate chinese_simplified shin02_5612e3c1:
 
     # si "「Go ahead.{w} Just don't go over nine pieces\n like you said before.」"
-    si ""
+    # [旧版翻译]
+    si "「请吧。不用限制九块，想吃就吃吧。」"
 
 # game/day 2.rpy:418
 translate chinese_simplified shin02_35b85066:
 
     # "It was unusually awkward to be seriously replied\nto when joking, but what held my interest was\nless that and more the snacks in front of me."
-    ""
+    # [旧版翻译]
+    "虽然深把[漏れ]刚刚开玩笑说的梗当真了让[漏れ]非常尴尬，不过[漏れ]的注意力马上从这个转移到了眼前的饼干上。"
 
 # game/day 2.rpy:419
 translate chinese_simplified shin02_2b91b84b:
 
     # "An airy sweetness spread into my mouth when my\nteeth cut into them.{w} But one step later, the\ngentle aroma of cinnamon was left inside my mouth."
-    ""
+    # [旧版翻译]
+    "一咬下去，那种柔软的甜香就在唇齿间扩散开来。而且在吞下去后，肉桂的香气便跟着冒了出来，让口中剩下的甜味感觉更为柔和。"
 
 # game/day 2.rpy:420
 translate chinese_simplified shin02_e6a64c71:
 
     # "So I wanted that sweetness one more time,\nmore,{w=.3} and more,{w=.3}\nand before I knew it I was reaching out again."
-    ""
+    # [旧版翻译]
+    "[漏れ]想要再一次尝尝这种甜味，于是便多拿了一块，然后又是一块，不断地一口接一口吃了起来。"
 
 # game/day 2.rpy:421
 translate chinese_simplified shin02_b56524e6:
 
     # "Crap. These really are good.{w} Great as it is,\nthe taste isn't heavy so I could eat a lot more.{p}I could lick up the whole plate afterward."
-    ""
+    # [旧版翻译]
+    "不妙啊这个。真的很好吃。不但很好吃还不会腻，感觉不管多少块都吃的完。如果是这种饼干的话[漏れ]想就算有一大碗[漏れ]也会吃得干干净净吧。"
 
 # game/day 2.rpy:422
 translate chinese_simplified shin02_432cdf14:
 
     # "I wonder where he got them?{w} There aren't many\nsweet shops here, so was it from Kazenari?{p}No, it's probably something he ordered."
-    ""
+    # [旧版翻译]
+    "是在哪买的啊？这个村子里可没有蛋糕店，该不会是在风鸣镇的店吧？啊不，有可能是邮购的也不一定。"
 
 # game/day 2.rpy:423
 translate chinese_simplified shin02_56816e7c:
 
     # fn "「Were these possibly ordered and sent here?」"
-    fn ""
+    # [旧版翻译]
+    fn "「这个该不会是邮购的吧？」"
 
 # game/day 2.rpy:427
 translate chinese_simplified shin02_82a4537d:
 
     # si "「Mm, well.」"
-    si ""
+    # [旧版翻译]
+    si "「嗯，是啊。」"
 
 # game/day 2.rpy:428
 translate chinese_simplified shin02_d520d009:
 
     # "Shin-kun bit into the cookie in his hand.{p}So picturesque."
-    ""
+    # [旧版翻译]
+    "深君将饼干放到口边轻咬一口。这画面真的很像画呢。"
 
 # game/day 2.rpy:432
 translate chinese_simplified shin02_3d407aad:
 
     # si "「Mom has always been particular\n about the black tea...」"
-    si ""
+    # [旧版翻译]
+    si "「母亲对红茶很讲究，所以一直都[ch text=──]」"
 
 # game/day 2.rpy:433
 translate chinese_simplified shin02_380d99ef:
 
     # fn "「No, I meant about the cookies.」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊不，[漏れ]是说这个饼干啦。」"
 
 # game/day 2.rpy:434
 translate chinese_simplified shin02_aa0015fa:
 
     # si "「Eh?」"
-    si ""
+    # [旧版翻译]
+    si "「哎？」"
 
 # game/day 2.rpy:438
 translate chinese_simplified shin02_601332eb:
 
     # si "「What do you think?」"
-    si ""
+    # [旧版翻译]
+    si "「你觉得呢？」"
 
 # game/day 2.rpy:452
 translate chinese_simplified shin02_an_import_8736ebf1:
 
     # fn "「I guess, something authentically high class?」"
-    fn ""
+    # [旧版翻译]
+    fn "「果然，是外国的高级品？」"
 
 # game/day 2.rpy:456
 translate chinese_simplified shin02_an_import_aa0015fa:
 
     # si "「Eh?」"
-    si ""
+    # [旧版翻译]
+    si "「哎？」"
 
 # game/day 2.rpy:460
 translate chinese_simplified shin02_an_import_334cebae:
 
     # si "「Well... {w=.5}you're wrong.」"
-    si ""
+    # [旧版翻译]
+    si "「啊……不是喔。」"
 
 # game/day 2.rpy:461
 translate chinese_simplified shin02_an_import_16ac9cee:
 
     # fn "「But it must be from some famous store,\n isn't it?」"
-    fn ""
+    # [旧版翻译]
+    fn "「不过是很有名的店的吧？」"
 
 # game/day 2.rpy:462
 translate chinese_simplified shin02_an_import_b2d09561:
 
     # si "「Don't exagerrate so much\n about a drop cookie...」"
-    si ""
+    # [旧版翻译]
+    si "「只是普通的水果饼干，没那么夸张啦……」"
 
 # game/day 2.rpy:470
 translate chinese_simplified shin02_actually_cheap_1aef446c:
 
     # fn "「Um, is it from a new sweets shop in Kazenari?」"
-    fn ""
+    # [旧版翻译]
+    fn "「这个，该不会是风鸣镇有什么新开的蛋糕店吧？」"
 
 # game/day 2.rpy:471
 translate chinese_simplified shin02_actually_cheap_d70a0967:
 
     # si "「No point for you.」"
-    si ""
+    # [旧版翻译]
+    si "「不是喔。」"
 
 # game/day 2.rpy:472
 translate chinese_simplified shin02_actually_cheap_a6661fa2:
 
     # "Shin-kun giggled like a little kid.{w} It's\nthe first time I've seen him laugh like this...{p}Crap, I'm getting kind of excited by this."
-    ""
+    # [旧版翻译]
+    "深君掩着嘴，像小孩子似地笑着。深君会这样子笑，[漏れ]还是第一次看到……糟糕，[漏れ]突然有点心动耶。"
 
 # game/day 2.rpy:480
 translate chinese_simplified shin02_something_handmade_e2c77add:
 
     # fn "「Could it be... handmade?」"
-    fn ""
+    # [旧版翻译]
+    fn "「该不会，是手工做的？」"
 
 # game/day 2.rpy:484
 translate chinese_simplified shin02_something_handmade_8f231773:
 
     # si "「Yeah, you could tell?」"
-    si ""
+    # [旧版翻译]
+    si "「啊啊，吃得出來？」"
 
 # game/day 2.rpy:485
 translate chinese_simplified shin02_something_handmade_ad8dfff6:
 
     # fn "「What? Really?」"
-    fn ""
+    # [旧版翻译]
+    fn "「哎？真的吗？」"
 
 # game/day 2.rpy:489
 translate chinese_simplified shin02_something_handmade_2435b9f8:
 
     # si "「I baked them just this morning.」"
-    si ""
+    # [旧版翻译]
+    si "「是今天早上刚烤好的喔。」"
 
 # game/day 2.rpy:495
 translate chinese_simplified shin02_amaki_recipe_4f76eb03:
 
     # si "「It's Amaki's recipe.」"
-    si ""
+    # [旧版翻译]
+    si "「照天木的食谱做的。这个。」"
 
 # game/day 2.rpy:496
 translate chinese_simplified shin02_amaki_recipe_cfcb2e61:
 
     # fn "「Amaki-san?{w} So wait, {w=.3}a servant's?」"
-    fn ""
+    # [旧版翻译]
+    fn "「天木？你是说，管家的那位天木？」"
 
 # game/day 2.rpy:500
 translate chinese_simplified shin02_amaki_recipe_63de8442:
 
     # si "「Yes.{w} Do you remember?」"
-    si ""
+    # [旧版翻译]
+    si "「是啊。你还记得？」"
 
 # game/day 2.rpy:501
 translate chinese_simplified shin02_amaki_recipe_7bbf1566:
 
     # fn "「Kind of.」"
-    fn ""
+    # [旧版翻译]
+    fn "「一点点啦。」"
 
 # game/day 2.rpy:502
 translate chinese_simplified shin02_amaki_recipe_f5c1e134:
 
     # "I reached for another cookie as\nI mumbled in confirmation."
-    ""
+    # [旧版翻译]
+    "[漏れ]一边闲聊着，一边继续伸手去拿饼干。"
 
 # game/day 2.rpy:503
 translate chinese_simplified shin02_amaki_recipe_638ff3f6:
 
     # fn "「That reminds me, didn't I used\n to come here a lot for Amaki's treats as a kid?」"
-    fn ""
+    # [旧版翻译]
+    fn "「说起来，小时候好像天木常常做饼干糖果送给[漏れ]们的样子？」"
 
 # game/day 2.rpy:507
 translate chinese_simplified shin02_amaki_recipe_f7bbd5dc:
 
     # si "「That's true.{p} It wasn't just you though,\n Kounosuke kept asking me stubbornly.」"
-    si ""
+    # [旧版翻译]
+    si "「是啊。你是还好啦，孝之助就老是缠着我一直问呢。」"
 
 # game/day 2.rpy:508
 translate chinese_simplified shin02_amaki_recipe_302daef9:
 
     # fn "「I remember that.{p} 'Will there be treats tomorrow?'{p} 'When can I come over?'{w=.3} Like that.」"
-    fn ""
+    # [旧版翻译]
+    fn "「对啊对啊。明天有饼干吗？什么时候去比较好？之类的。」"
 
 # game/day 2.rpy:512
 translate chinese_simplified shin02_amaki_recipe_9a895292:
 
     # si "「Yes, just like that.」"
-    si ""
+    # [旧版翻译]
+    si "「是啊，总是那样呢。」"
 
 # game/day 2.rpy:513
 translate chinese_simplified shin02_amaki_recipe_5adcf802:
 
     # "He'd follow Shin-kun around with ulterior\nmotives, and got a good scolding from his\nparents when they found out."
-    ""
+    # [旧版翻译]
+    "因为那种为了饼干才来讨好深君的态度太明显，被家长看到后大家都被家长瞪了。"
 
 # game/day 2.rpy:514
 translate chinese_simplified shin02_amaki_recipe_71204843:
 
     # "Amaki-san smiled through it all,\nbut they apologized so much."
-    ""
+    # [旧版翻译]
+    "虽然天木先生还是保持微笑，但家长仍然道歉了。"
 
 # game/day 2.rpy:515
 translate chinese_simplified shin02_amaki_recipe_747c60d6:
 
     # "So,{w=.3} for a while we all\nrestrained ourselves when coming over here."
-    ""
+    # [旧版翻译]
+    "结果，被说要[漏れ]们自重一点，暂时不要太常来这里。"
 
 # game/day 2.rpy:516
 translate chinese_simplified shin02_amaki_recipe_31e74b92:
 
     # "At that point, Shin-kun hadn't really fit\nin yet, so he was sort of cut off by himself\neven at school."
-    ""
+    # [旧版翻译]
+    "那时候深君还没有跟村子里的大家混熟，在学校也是跟其他人有点距离。"
 
 # game/day 2.rpy:517
 translate chinese_simplified shin02_amaki_recipe_69ca93cc:
 
     # fn "「'The Mansion Exploration Tour,' huh...{p} That brings back memories.」"
-    fn ""
+    # [旧版翻译]
+    fn "「还有『大屋观光探险』什么的呢。真令人怀念啊。」"
 
 # game/day 2.rpy:521
 translate chinese_simplified shin02_amaki_recipe_15b08756:
 
     # si "「Mansion exploration...?」"
-    si ""
+    # [旧版翻译]
+    si "「大屋观光探险……？」"
 
 # game/day 2.rpy:522
 translate chinese_simplified shin02_amaki_recipe_ba4d58f3:
 
     # fn "「Come on, don't you remember?{w} The first time\n Torahiko, Kounosuke, and I came here.{p} Back then,{w=.3} when we were just classmates.」"
-    fn ""
+    # [旧版翻译]
+    fn "「哎呀，你忘了吗？那是[漏れ]和孝之助和虎彦第一次来这里的事。说因为是深君的同班同学什么的，就擅自跑来了。」"
 
 # game/day 2.rpy:526
 translate chinese_simplified shin02_amaki_recipe_afc5696f:
 
     # si "「Oh. {w=.3}\n You really do remember a lot.」"
-    si ""
+    # [旧版翻译]
+    si "「啊啊。我想起来了。」"
 
 # game/day 2.rpy:527
 translate chinese_simplified shin02_amaki_recipe_d1d96748:
 
     # fn "「After all,\n if you think about it wasn't that the beginning?」"
-    fn ""
+    # [旧版翻译]
+    fn "「而且，要说起来那应该是和深君熟起来的契机吧？」"
 
 # game/day 2.rpy:531
 translate chinese_simplified shin02_amaki_recipe_95716597:
 
     # si "「I...suppose so?」"
-    si ""
+    # [旧版翻译]
+    si "「是……那样吗？」"
 
 # game/day 2.rpy:532
 translate chinese_simplified shin02_amaki_recipe_88c85b45:
 
     # fn "「You cried so much then, Shin-kun.」"
-    fn ""
+    # [旧版翻译]
+    fn "「深君那时候还哭了喔。」"
 
 # game/day 2.rpy:536
 translate chinese_simplified shin02_amaki_recipe_d262ce42:
 
     # si "「...you certainly do remember a lot.」"
-    si ""
+    # [旧版翻译]
+    si "「……那部分倒是挺印象深刻的。」"
 
 # game/day 2.rpy:537
 translate chinese_simplified shin02_amaki_recipe_beef0ccb:
 
     # "Looking back, that incident really was the\nbeginning of our relationship with Shin-kun."
-    ""
+    # [旧版翻译]
+    "现在回想起来，那个事件，确实是[漏れ]们和深君熟起来的原因呢。"
 
 # game/day 2.rpy:546
 translate chinese_simplified shin02_amaki_recipe_cd5d9b85:
 
     # "In those days, Shin-kun was the newest person\nin our school, and there was no one\nhe could call a friend."
-    ""
+    # [旧版翻译]
+    "那个时候的深君，在学校的时间大多都是一个人，可以说是朋友的人也完全没有。"
 
 # game/day 2.rpy:547
 translate chinese_simplified shin02_amaki_recipe_c34c04ea:
 
     # "There were times someone transferred\nand there was no room, but somehow"
-    ""
+    # [旧版翻译]
+    "虽然刚转学过来也是原因之一，"
 
 # game/day 2.rpy:548
 translate chinese_simplified shin02_amaki_recipe_839291fb:
 
     # "there was an approachable mood around him,\nand he fit in well enough."
-    ""
+    # [旧版翻译]
+    "不过深君总是给人一种不容易接近的感觉，所以就更难融入班上了。"
 
 # game/day 2.rpy:549
 translate chinese_simplified shin02_amaki_recipe_59a39fb1:
 
     # "We could figure it out later on,\nbut at the time Shin-kun's\nlooks was the source of it."
-    ""
+    # [旧版翻译]
+    "这点是[漏れ]后来才知道的，不过深君的容貌似乎是主要原因的样子。"
 
 # game/day 2.rpy:550
 translate chinese_simplified shin02_amaki_recipe_89d30970:
 
     # "He was half-foreigner.{w} As a human, even\nnow I can't really tell all that well, but\nbeastmen could easily tell from looking at him."
-    ""
+    # [旧版翻译]
+    "和外国人的混血儿。身为人类的[漏れ]还看不太出来有什么不同，不过对兽人来说深君的外表相当特别的样子。"
 
 # game/day 2.rpy:551
 translate chinese_simplified shin02_amaki_recipe_5a967987:
 
     # "So naturally everyone put Shin-kun a bit aways,\nI picked up on that,\nand somehow felt like getting closer."
-    ""
+    # [旧版翻译]
+    "所以大家很自然地就和深君保持着距离，于是[漏れ]也就跟着有了深君似乎很不好接近的印象。"
 
 # game/day 2.rpy:552
 translate chinese_simplified shin02_amaki_recipe_fbec428a:
 
     # "The one who zeroed in on that isolation\nwas Kounosuke."
-    ""
+    # [旧版翻译]
+    "而这时对这个被孤立的同学特别好奇的人，则是孝之助。"
 
 # game/day 2.rpy:553
 translate chinese_simplified shin02_amaki_recipe_40323403:
 
     # ko "「Hey Shin, do you know where you live?」"
-    ko ""
+    # [旧版翻译]
+    ko "「喂，喂，你们知道深住在哪吗？」"
 
 # game/day 2.rpy:554
 translate chinese_simplified shin02_amaki_recipe_35ce131f:
 
     # "I clearly remember that joyful form\ntalking with him."
-    ""
+    # [旧版翻译]
+    "孝之助那兴奋地讲话的样子，实在是很让人难忘。"
 
 # game/day 2.rpy:558
 translate chinese_simplified shin02_amaki_recipe_81ca9562:
 
     # "At the time, we were entering into the\nWestern-style house that left\non the outskirts of the village."
-    ""
+    # [旧版翻译]
+    "对当时的[漏れ]们来说，那是个在村子的边缘，禁止进入的洋馆。"
 
 # game/day 2.rpy:559
 translate chinese_simplified shin02_amaki_recipe_1d45f773:
 
     # "The building was clearly different from the rest\nin the village, which made it so suitable to our\nchildish adventure-seeking hearts."
-    ""
+    # [旧版翻译]
+    "很明显和村子里的其他房子不一样的建筑，难免会激起幼小的[漏れ]们的冒险心。"
 
 # game/day 2.rpy:560
 translate chinese_simplified shin02_amaki_recipe_b461dc83:
 
     # "If it was a vacant house,\nwe would have absolutely\nmade it our secret base."
-    ""
+    # [旧版翻译]
+    "如果那是间空房子的话，无疑地[漏れ]们肯定会把那里当成[漏れ]们的秘密基地吧。"
 
 # game/day 2.rpy:561
 translate chinese_simplified shin02_amaki_recipe_cb23e691:
 
     # "But there were residents there,\nand the adults would strictly tell us\n\"Don't make a mess!\""
-    ""
+    # [旧版翻译]
+    "不过可惜那里有人住，而大人也总是跟[漏れ]们说「不可以把墙弄脏喔」等等的，严格地告戒[漏れ]们。"
 
 # game/day 2.rpy:562
 translate chinese_simplified shin02_amaki_recipe_ba98f1f3:
 
     # "In order for us to boldly walk in,\nour reason was Shin-kun."
-    ""
+    # [旧版翻译]
+    "而最终让[漏れ]们能够堂而皇之地进去那里的理由，就是深君。"
 
 # game/day 2.rpy:563
 translate chinese_simplified shin02_amaki_recipe_2425e727:
 
     # "We used the fact he was our classmate\nso we could look around that house."
-    ""
+    # [旧版翻译]
+    "借称[漏れ]们是深君的同班同学，进到那个洋馆里去探险。"
 
 # game/day 2.rpy:564
 translate chinese_simplified shin02_amaki_recipe_c3310d55:
 
     # "That was the hope of us Three Stooges,{p}Torahiko,{w} Kounosuke,{w} and my resolve,"
-    ""
+    # [旧版翻译]
+    "于是提出这种蠢主意的三个笨蛋，[漏れ]、虎彦、孝之助三人便决定开始进行，"
 
 # game/day 2.rpy:565
 translate chinese_simplified shin02_amaki_recipe_e8db8daa:
 
     # "but it was Kounosuke\nwho suggested the \"Mansion Exploration Tour.\""
-    ""
+    # [旧版翻译]
+    "由孝之助提案的「大屋观光探险」计划。"
 
 # game/day 2.rpy:569
 translate chinese_simplified shin02_amaki_recipe_d26fde94:
 
     # "We never really talked that much about it,\nbut the three of us walked in all of a sudden,\nand Shin-kun looked so worried."
-    ""
+    # [旧版翻译]
+    "在这之前明明没讲过几句话，三人却突然跑来自己家，那时深君的脸上也是一脸困扰呢。"
 
 # game/day 2.rpy:570
 translate chinese_simplified shin02_amaki_recipe_d0d3bb8d:
 
     # "We were children, so we didn't have any\nreservations about playing on the bed,\nand we messed up every room we ran into"
-    ""
+    # [旧版翻译]
+    "还是小孩子的[漏れ]们就这样毫无顾虑地在深君的床上跳来跳去，把房间给弄得乱七八糟。"
 
 # game/day 2.rpy:574
 translate chinese_simplified shin02_amaki_recipe_0120b883:
 
     # "And then, that's when it happened.{p}It started when I picked up a little\nornamental black cat from the end of the shelves."
-    ""
+    # [旧版翻译]
+    "然后，事情就发生了。事件的开端，是当[漏れ]在四处搜索着柜子，从里面拿出一个小小的黑猫摆饰的时候。"
 
 # game/day 2.rpy:578
 translate chinese_simplified shin02_amaki_recipe_35a59668:
 
     # fn "「Shin-kun, what is this?」"
-    fn ""
+    # [旧版翻译]
+    fn "「深君，这是什么？」"
 
 # game/day 2.rpy:579
 translate chinese_simplified shin02_amaki_recipe_659571a2:
 
     # si "「Ah! Don't touch that!」"
-    si ""
+    # [旧版翻译]
+    si "「啊。那个不能碰！」"
 
 # game/day 2.rpy:580
 translate chinese_simplified shin02_amaki_recipe_6057d0e6:
 
     # to "「Oh? What's that?」"
-    to ""
+    # [旧版翻译]
+    to "「喔？什么什么？」"
 
 # game/day 2.rpy:584
 translate chinese_simplified shin02_amaki_recipe_29ad133f:
 
     # "Torahiko was surprised from Shin-kun's\nloud voice, then came over to pick up\nthe black cat from my hand."
-    ""
+    # [旧版翻译]
+    "就在[漏れ]被深君突然大喊的声音给吓到的时候，旁边的虎彦从[漏れ]的手中把那个黑猫给拿了过去。"
 
 # game/day 2.rpy:586
 translate chinese_simplified shin02_amaki_recipe_102f78c5:
 
     # si "「Give that back!{w=.3} "
-    si ""
+    # [旧版翻译]
+    si "「快还给我！"
 
 # game/day 2.rpy:588
 translate chinese_simplified shin02_amaki_recipe_349aa96a:
 
     # extend "Give it back!」{w=.3}"
-    extend ""
+    # [旧版翻译]
+    extend "还给我啦！」"
 
 # game/day 2.rpy:591
 translate chinese_simplified shin02_amaki_recipe_6a729ed0:
 
     # "Shin-kun tried to reclaim it, but with the height\ndifference he couldn't reach even when he jumped.{p}Even so, he desperately tried to get it back."
-    ""
+    # [旧版翻译]
+    "深君为了把东西拿回来而向虎彦抗议着，但因为身高的关系就算跳起来也还差一点才能碰到。即使如此，深君还是不断地想要把黑猫拿回去。"
 
 # game/day 2.rpy:592
 translate chinese_simplified shin02_amaki_recipe_7d3d8746:
 
     # "There wasn't any ill intent behind it,\nbut I just sat back and watched those two."
-    ""
+    # [旧版翻译]
+    "虽然没有想要故意闹他，但[漏れ]也只是就这样沉默地看着两人。"
 
 # game/day 2.rpy:593
 translate chinese_simplified shin02_amaki_recipe_a21c3d19:
 
     # to "「Ha ha.」"
-    to ""
+    # [旧版翻译]
+    to "「这里这里――」"
 
 # game/day 2.rpy:595
 translate chinese_simplified shin02_amaki_recipe_4f09cbee:
 
     # si "「Give it back!{w=.3} "
-    si ""
+    # [旧版翻译]
+    si "「还给我！"
 
 # game/day 2.rpy:597
 translate chinese_simplified shin02_amaki_recipe_ed474318:
 
     # extend "I said give it back!{w=.3} "
-    extend ""
+    # [旧版翻译]
+    extend "快还给我！"
 
 # game/day 2.rpy:599
 translate chinese_simplified shin02_amaki_recipe_887e220b:
 
     # extend "GIVE IT!」"
-    extend ""
+    # [旧版翻译]
+    extend "还来！」"
 
 # game/day 2.rpy:602
 translate chinese_simplified shin02_amaki_recipe_dce2c386:
 
     # "It was funny seeing the normally stoic\ntransfer student showing some emotion.{p}And then..."
-    ""
+    # [旧版翻译]
+    "平常一直很冷漠的转学生，突然间变得这么激动真的很有趣。然后[ch text=──]"
 
 # game/day 2.rpy:603
 translate chinese_simplified shin02_amaki_recipe_919edc98:
 
     # to "「Kounosuke, catch!」"
-    to ""
+    # [旧版翻译]
+    to "「孝之助，接着！」"
 
 # game/day 2.rpy:607
 translate chinese_simplified shin02_amaki_recipe_98de7798:
 
     # ko "「Hm? What?」"
-    ko ""
+    # [旧版翻译]
+    ko "「嗯？什么？」"
 
 # game/day 2.rpy:611
 translate chinese_simplified shin02_amaki_recipe_c5ff15f2:
 
     # fn "「Ah-!」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊！」"
 
 # game/day 2.rpy:618
 translate chinese_simplified shin02_amaki_recipe_fe582ddb:
 
     # "The ornament Torahiko threw hit\nKounosuke's head, then bounced out\nthe second story window."
-    ""
+    # [旧版翻译]
+    "虎彦把摆饰丢过去，却撞到了孝之助的头，然后从这个二楼的窗户掉到了外面。"
 
 # game/day 2.rpy:619
 translate chinese_simplified shin02_amaki_recipe_92572766:
 
     # ko "「Oh man, Torahiko~」"
-    ko ""
+    # [旧版翻译]
+    ko "「诶呦，虎彦～」"
 
 # game/day 2.rpy:620
 translate chinese_simplified shin02_amaki_recipe_20c8db02:
 
     # to "「I-{w=.3}It's your fault for not catching it!」"
-    to ""
+    # [旧版翻译]
+    to "「是、是你没有好好接着的关系！」"
 
 # game/day 2.rpy:621
 translate chinese_simplified shin02_amaki_recipe_452cd55d:
 
     # ko "「How could I ever catch that?」"
-    ko ""
+    # [旧版翻译]
+    ko "「那样怎么可能接得到啊。」"
 
 # game/day 2.rpy:622
 translate chinese_simplified shin02_amaki_recipe_bef95801:
 
     # si "「...」"
-    si ""
+    # [旧版翻译]
+    si "「……」"
 
 # game/day 2.rpy:623
 translate chinese_simplified shin02_amaki_recipe_13c1f580:
 
     # "We all overdid it, and we quickly\nlooked at Shin-kun.{p}He said nothing as his shoulders quaked"
-    ""
+    # [旧版翻译]
+    "[漏れ]们也发现做得太过火了，害怕地往深君的方向看过去的时候，却发现深君沉默着，肩膀不断抖动。"
 
 # game/day 2.rpy:624
 translate chinese_simplified shin02_amaki_recipe_a3cac969:
 
     # fn "「Shin-kun...?」"
-    fn ""
+    # [旧版翻译]
+    fn "「深君……？」"
 
 # game/day 2.rpy:625
 translate chinese_simplified shin02_amaki_recipe_fe9aede2:
 
     # "At the same time I called out to him,\na large tear fell out of those big eyes."
-    ""
+    # [旧版翻译]
+    "就在[漏れ]出声叫他的时候，眼泪从他张大的眼睛里滴了下来。"
 
 # game/day 2.rpy:629
 translate chinese_simplified shin02_amaki_recipe_53b1b05a:
 
     # "We tried to calm him down however we could,\nbut nothing we said to him had any effect."
-    ""
+    # [旧版翻译]
+    "虽然[漏れ]们试着想要安抚他，但对开始大哭的深君来说已经说什么都没用了。"
 
 # game/day 2.rpy:633
 translate chinese_simplified shin02_amaki_recipe_35ca9e19:
 
     # "After that, Amaki-san brought us all together\ninto the living room.{w} By then Shin-kun\nstopped crying,{w=.3} but he still said nothing."
-    ""
+    # [旧版翻译]
+    "后来天木先生出现，把[漏れ]们全员带到了客厅去。不过深君还一直在哭，什么话都没说。"
 
 # game/day 2.rpy:634
 translate chinese_simplified shin02_amaki_recipe_69d41a7d:
 
     # "The unbearable, awkward\nsilence for children continued,{w=.3}\nand as we trembled in fear of the biggest"
-    ""
+    # [旧版翻译]
+    "对小孩子来说很难受的、尴尬的沉默不断持续着。就在[漏れ]们战战兢兢地担心会不会被骂的时候，"
 
 # game/day 2.rpy:635
 translate chinese_simplified shin02_amaki_recipe_1269a8d5:
 
     # "scolding of our lives,{w=.3}\nthere was some sweets in front of us."
-    ""
+    # [旧版翻译]
+    "出现在[漏れ]们面前的，却是一盘饼干。"
 
 # game/day 2.rpy:636
 translate chinese_simplified shin02_amaki_recipe_6d63d756:
 
     # "We all ate them in bewilderment together with\nShin-kun, and while a bit of it was burned,\nit was really sweet and delicious."
-    ""
+    # [旧版翻译]
+    "大家困惑地一起和深君吃着的饼干，虽然旁边有一点点焦掉，但还是非常甜非常好吃。"
 
 # game/day 2.rpy:637
 translate chinese_simplified shin02_amaki_recipe_c2ddf8ec:
 
     # "We apologized again afterwards, but as\nShin-kun only said {w=.3}\"I don't care anymore,\"{w=.3}\nwe weren't sure he really forgave us."
-    ""
+    # [旧版翻译]
+    "后来[漏れ]们再次跟深君道歉，深君只是一脸不高兴地说着「不必了」，也不知道到底有没有原谅[漏れ]们。"
 
 # game/day 2.rpy:638
 translate chinese_simplified shin02_amaki_recipe_b054b118:
 
     # "We all felt uncomfortable,\nso after that we all went home.{p}Even so, we were in the wrong."
-    ""
+    # [旧版翻译]
+    "于是大家心情都变得不太好，之后马上就回去了。明明不好的是[漏れ]们这边的说呢。"
 
 # game/day 2.rpy:642
 translate chinese_simplified shin02_amaki_recipe_ebcda814:
 
     # am "「Come again.」"
-    am ""
+    # [旧版翻译]
+    am "「有空再来玩喔。」"
 
 # game/day 2.rpy:643
 translate chinese_simplified shin02_amaki_recipe_e21e17cc:
 
     # "That gentle adult voice that called out to us\nas we left was the biggest forgiveness for us,"
-    ""
+    # [旧版翻译]
+    "在回去时，天木先生那种大人的温柔语气，让[漏れ]们幼小的心灵觉得被原谅了，也正因此，"
 
 # game/day 2.rpy:644
 translate chinese_simplified shin02_amaki_recipe_f1875a05:
 
     # "so that's why{w=.3} we all felt\nas though we did something horrible."
-    ""
+    # [旧版翻译]
+    "才发现自己似乎是做了很残酷的事。"
 
 # game/day 2.rpy:651
 translate chinese_simplified shin02_amaki_recipe_0c82733a:
 
     # "So after that apology, it was strained at first,\nbut we started being able to talk to one another."
-    ""
+    # [旧版翻译]
+    "从那时的道歉开始，虽然起初还是有许多不顺利的地方，但后来也慢慢能和深君说上话了。"
 
 # game/day 2.rpy:652
 translate chinese_simplified shin02_amaki_recipe_dcb2c5d3:
 
     # "If we had just talked to him,\nnone of it would have happened."
-    ""
+    # [旧版翻译]
+    "开始说上话后，就觉得没什么特别的。"
 
 # game/day 2.rpy:653
 translate chinese_simplified shin02_amaki_recipe_197382b2:
 
     # "He was the \"mysterious gloomy guy,\" but we\nwere children who didn't change anything."
-    ""
+    # [旧版翻译]
+    "「不知道在想什么的阴暗家伙」什么的，对[漏れ]们来说也没什么不同，就是普通的小孩罢了。"
 
 # game/day 2.rpy:654
 translate chinese_simplified shin02_amaki_recipe_bbc95bc2:
 
     # "Before we realized,\nthat invisible wall we felt between us\nand Shin-kun{w=.5} disappeared."
-    ""
+    # [旧版翻译]
+    "不知何时，原本感觉和深君之间的那种看不见的墙壁，也渐渐消失不见了。"
 
 # game/day 2.rpy:655
 translate chinese_simplified shin02_amaki_recipe_f092a679:
 
     # "There are parts we can't really understand,\nbut he wasn't a bad guy.{p}We all understood that."
-    ""
+    # [旧版翻译]
+    "虽然确实不是很好亲近，但也不是无法亲近。大家渐渐了解了这一点。"
 
 # game/day 2.rpy:656
 translate chinese_simplified shin02_amaki_recipe_1680b31c:
 
     # "And so, we all became friends."
-    ""
+    # [旧版翻译]
+    "于是，[漏れ]们便成为了朋友。"
 
 # game/day 2.rpy:664
 translate chinese_simplified shin02_amaki_recipe_97f16d8d:
 
     # fn "「D-do you remember?{w=.3}That one time we went to the river.」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊、还记得那件事吗？去河边时发生的事。」"
 
 # game/day 2.rpy:665
 translate chinese_simplified shin02_amaki_recipe_0065b13c:
 
     # si "「Why do you remember only those things...?」"
-    si ""
+    # [旧版翻译]
+    si "「为什么总是记住那种事情啊……」"
 
 # game/day 2.rpy:666
 translate chinese_simplified shin02_amaki_recipe_4357b577:
 
     # fn "「Well, because I can't forget them.」"
-    fn ""
+    # [旧版翻译]
+    fn "「那个，因为很难忘嘛。」"
 
 # game/day 2.rpy:670
 translate chinese_simplified shin02_amaki_recipe_a7e7314e:
 
     # si "「My fear of water is 80%% your's\n and Torahiko's fault.」"
-    si ""
+    # [旧版翻译]
+    si "「我会讨厌水的原因，有八成都是你和虎彦害的呢。」"
 
 # game/day 2.rpy:671
 translate chinese_simplified shin02_amaki_recipe_8cf47747:
 
     # fn "「Huh?{w} Me too!?」"
-    fn ""
+    # [旧版翻译]
+    fn "「咦？[漏れ]也算吗！？」"
 
 # game/day 2.rpy:675
 translate chinese_simplified shin02_amaki_recipe_bc6a17c8:
 
     # si "「You'd always sit back and watch quietly.{p} Same thing.」"
-    si ""
+    # [旧版翻译]
+    si "「你每次都在旁边默默地看着不是吗。所以同罪啊。」"
 
 # game/day 2.rpy:676
 translate chinese_simplified shin02_amaki_recipe_7e72fdb0:
 
     # fn "「Come on...」"
-    fn ""
+    # [旧版翻译]
+    fn "「怎么这样～」"
 
 # game/day 2.rpy:681
 translate chinese_simplified shin02_amaki_recipe_7caa1562:
 
     # "Just when we reached a good stopping point,\nthe clock rung."
-    ""
+    # [旧版翻译]
+    "当话题正好告一段落的时候，时钟响了起来。"
 
 # game/day 2.rpy:682
 translate chinese_simplified shin02_amaki_recipe_97c54eda:
 
     # "We looked over as if to fish something out,\nand the hand was much further\nalong than I expected."
-    ""
+    # [旧版翻译]
+    "听到声音后[漏れ]往时钟看了一眼，才发现时针前进的比[漏れ]想像中还要多。"
 
 # game/day 2.rpy:686
 translate chinese_simplified shin02_amaki_recipe_1afe67c6:
 
     # si "「It's that time already?」"
-    si ""
+    # [旧版翻译]
+    si "「都已经这个时间了么。」"
 
 # game/day 2.rpy:687
 translate chinese_simplified shin02_amaki_recipe_60d1b524:
 
     # fn "「What?{w} Seriously?」"
-    fn ""
+    # [旧版翻译]
+    fn "「哎？不会吧？」"
 
 # game/day 2.rpy:688
 translate chinese_simplified shin02_amaki_recipe_ac18c3d5:
 
     # "Before I realized it,\nthere was no more tea or snacks left."
-    ""
+    # [旧版翻译]
+    "注意到的时候茶和饼干都已经吃完了。"
 
 # game/day 2.rpy:689
 translate chinese_simplified shin02_amaki_recipe_17e08dbf:
 
     # "We really have been reminiscing\nlonger than I thought."
-    ""
+    # [旧版翻译]
+    "真的是聊了好多好多以前的事呢。"
 
 # game/day 2.rpy:690
 translate chinese_simplified shin02_amaki_recipe_e833856d:
 
     # si "「Now seems like a good place\n to stop for the day.」"
-    si ""
+    # [旧版翻译]
+    si "「差不多该是结束的时候了呢。」"
 
 # game/day 2.rpy:691
 translate chinese_simplified shin02_amaki_recipe_4ed21bbe:
 
     # fn "「Yeah,{w=.3} I have to get back soon.」"
-    fn ""
+    # [旧版翻译]
+    fn "「嗯，[漏れ]也是不回去不行了。」"
 
 # game/day 2.rpy:699
 translate chinese_simplified shin02_amaki_recipe_aeed3d70:
 
     # fn "「Well see you later,{w=.3} Shin-kun.」"
-    fn ""
+    # [旧版翻译]
+    fn "「那就再见啦，深。」"
 
 # game/day 2.rpy:700
 translate chinese_simplified shin02_amaki_recipe_cbdd2141:
 
     # si "「Later.」"
-    si ""
+    # [旧版翻译]
+    si "「再见。」"
 
 # game/day 2.rpy:701
 translate chinese_simplified shin02_amaki_recipe_00136d6b:
 
     # fn "「Can I come over again?」"
-    fn ""
+    # [旧版翻译]
+    fn "「可以再来吗？」"
 
 # game/day 2.rpy:702
 translate chinese_simplified shin02_amaki_recipe_50a30531:
 
     # si "「Of course...」"
-    si ""
+    # [旧版翻译]
+    si "「当然[ch text=──]」"
 
 # game/day 2.rpy:706
 translate chinese_simplified shin02_amaki_recipe_258267c6:
 
     # si "「...not.{w} How does that feel?」"
-    si ""
+    # [旧版翻译]
+    si "「不行，如果我这样说的话呢？」"
 
 # game/day 2.rpy:707
 translate chinese_simplified shin02_amaki_recipe_6252366d:
 
     # fn "「Huh!?」"
-    fn ""
+    # [旧版翻译]
+    fn "「诶诶！？」"
 
 # game/day 2.rpy:708
 translate chinese_simplified shin02_amaki_recipe_731fd80c:
 
     # si "「I'm kidding.{p} {nw}"
-    si ""
+    # [旧版翻译]
+    si "「开玩笑的。"
 
 # game/day 2.rpy:710
 translate chinese_simplified shin02_amaki_recipe_7477b835:
 
     # extend "I can't do any grand entertainments,\n but come over whenever you like.」"
-    extend ""
+    # [旧版翻译]
+    extend "虽然没什么值得特别跑一趟的东西，不过随时欢迎。」"
 
 # game/day 2.rpy:712
 translate chinese_simplified shin02_amaki_recipe_da6a9dca:
 
     # fn "「Ah, okay...」"
-    fn ""
+    # [旧版翻译]
+    fn "「啊，嗯……」"
 
 # game/day 2.rpy:716
 translate chinese_simplified shin02_amaki_recipe_4dff02e9:
 
     # si "「Well then,{w=.3} take care on your way back.」"
-    si ""
+    # [旧版翻译]
+    si "「那么，回去时路上小心。」"
 
 # game/day 2.rpy:717
 translate chinese_simplified shin02_amaki_recipe_9b75e8ea:
 
     # fn "「See you later.」"
-    fn ""
+    # [旧版翻译]
+    fn "「再见喽。」"
 
 # game/day 2.rpy:722
 translate chinese_simplified shin02_amaki_recipe_45620797:
 
     # "Shin-kun hasn't changed much over these 5 years.{p}I mean that in a good way.{p}He feels a lot more gentler than I remember."
-    ""
+    # [旧版翻译]
+    "深君在这五年间也变了呢。是好的变化。比记忆中的深君来得温柔了许多。"
 
 # game/day 2.rpy:723
 translate chinese_simplified shin02_amaki_recipe_17b9b3fb:
 
     # "As I walked back on the sunset-dyed road,\nI kept thinking about that."
-    ""
+    # [旧版翻译]
+    "在回去的道路，这个被夕阳染上橙红的乡间小路上，[漏れ]一边走一边这样想着。"
 
 # game/day 2.rpy:740
 translate chinese_simplified kounosuke02_342f5257:
