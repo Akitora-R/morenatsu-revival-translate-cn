@@ -101,14 +101,15 @@ def process_translated(
         entries = load_jsonl(jsonl_file)
 
         out_file = out_dir / f"{route}.jsonl"
-        # Skip if already done
-        existing_ids = set()
+
+        # Build set of already-embedded IDs from output file
+        done_ids = set()
         if out_file.exists():
             for e in load_jsonl(out_file):
                 if "embedding" in e:
-                    existing_ids.add(e.get("id", ""))
+                    done_ids.add(e.get("id", ""))
 
-        new_entries = [e for e in entries if e.get("id", "") not in existing_ids]
+        new_entries = [e for e in entries if e.get("id", "") not in done_ids]
         print(
             f"  {len(new_entries)} new entries to embed (out of {len(entries)} total)"
         )
@@ -117,7 +118,6 @@ def process_translated(
             batch = new_entries[i : i + batch_size]
             texts = []
             for e in batch:
-                # Combine source + translated for richer embedding
                 text_parts = []
                 if e.get("source"):
                     text_parts.append(e["source"])
@@ -145,10 +145,10 @@ def process_translated(
                     if emb:
                         entry["embedding"] = emb
 
-            # Save progress after each batch
-            all_entries = load_jsonl(out_file) if out_file.exists() else []
-            all_entries.extend(batch)
-            save_jsonl(out_file, all_entries)
+            # Append batch to output file
+            with open(out_file, "a", encoding="utf-8") as f:
+                for entry in batch:
+                    f.write(json.dumps(entry, ensure_ascii=False) + "\n")
             print(
                 f"  Processed {min(i + batch_size, len(new_entries))}/{len(new_entries)}"
             )
@@ -177,13 +177,15 @@ def process_untranslated(
         entries = load_jsonl(jsonl_file)
 
         out_file = out_dir / f"{route}.jsonl"
-        existing_ids = set()
+
+        # Build set of already-embedded IDs from output file
+        done_ids = set()
         if out_file.exists():
             for e in load_jsonl(out_file):
                 if "embedding" in e:
-                    existing_ids.add(e.get("id", ""))
+                    done_ids.add(e.get("id", ""))
 
-        new_entries = [e for e in entries if e.get("id", "") not in existing_ids]
+        new_entries = [e for e in entries if e.get("id", "") not in done_ids]
         print(
             f"  {len(new_entries)} new entries to embed (out of {len(entries)} total)"
         )
@@ -208,9 +210,10 @@ def process_untranslated(
                     if emb:
                         entry["embedding"] = emb
 
-            all_entries = load_jsonl(out_file) if out_file.exists() else []
-            all_entries.extend(batch)
-            save_jsonl(out_file, all_entries)
+            # Append batch to output file
+            with open(out_file, "a", encoding="utf-8") as f:
+                for entry in batch:
+                    f.write(json.dumps(entry, ensure_ascii=False) + "\n")
             print(
                 f"  Processed {min(i + batch_size, len(new_entries))}/{len(new_entries)}"
             )
@@ -239,14 +242,16 @@ def process_ks_texts(
         entries = load_jsonl(jsonl_file)
 
         out_file = out_dir / f"{route}.jsonl"
-        existing_count = 0
+
+        # Build set of already-embedded text hashes from output file
+        done_texts = set()
         if out_file.exists():
             for e in load_jsonl(out_file):
                 if "embedding" in e:
-                    existing_count += 1
+                    done_texts.add(hash(e.get("text", "")))
 
-        # Process all entries, skip those already embedded
-        new_entries = [e for e in entries if "embedding" not in e]
+        # Skip entries already embedded
+        new_entries = [e for e in entries if hash(e.get("text", "")) not in done_texts]
         print(
             f"  {len(new_entries)} new entries to embed (out of {len(entries)} total)"
         )
@@ -271,9 +276,10 @@ def process_ks_texts(
                     if emb:
                         entry["embedding"] = emb
 
-            all_entries = load_jsonl(out_file) if out_file.exists() else []
-            all_entries.extend(batch)
-            save_jsonl(out_file, all_entries)
+            # Append batch to output file
+            with open(out_file, "a", encoding="utf-8") as f:
+                for entry in batch:
+                    f.write(json.dumps(entry, ensure_ascii=False) + "\n")
             print(
                 f"  Processed {min(i + batch_size, len(new_entries))}/{len(new_entries)}"
             )

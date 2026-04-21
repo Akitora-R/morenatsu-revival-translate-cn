@@ -188,6 +188,7 @@ def extract_ks(filepath: str) -> list[dict]:
       - text: the actual text content
       - line_number: line number in file
       - section: current section label
+      - source_file: original KS filename (without path)
     """
     results = []
     with open(filepath, "r", encoding="utf-8") as f:
@@ -195,6 +196,7 @@ def extract_ks(filepath: str) -> list[dict]:
 
     route = identify_route_ks(filepath)
     current_section = "start"
+    source_file = Path(filepath).stem
 
     i = 0
     while i < len(lines):
@@ -263,31 +265,57 @@ def extract_ks(filepath: str) -> list[dict]:
                         "text": text,
                         "line_number": line_num,
                         "section": current_section,
+                        "source_file": source_file,
                     }
                 )
             continue
 
         # Narration: plain text (not commands, not brackets)
+        # Accumulate consecutive narration lines (separated by [l] tags) into one entry
         if (
             line.strip()
             and not line.strip().startswith("[")
             and not line.strip().startswith(";")
         ):
-            # Could be narration
-            text = line.strip()
-            # Clean up KS markup
+            text_parts = [line.strip()]
+            start_line = line_num
+            i += 1
+
+            # Collect consecutive plain text lines
+            while i < len(lines):
+                next_line = lines[i].rstrip("\n")
+                stripped = next_line.strip()
+
+                # Stop at commands, comments, empty lines, or dialogue
+                if (
+                    stripped == ""
+                    or stripped.startswith("[")
+                    or stripped.startswith(";")
+                    or stripped.startswith("【")
+                    or re.match(r"^\*\w+", stripped)
+                ):
+                    break
+
+                text_parts.append(stripped)
+                i += 1
+
+            # Merge and clean up
+            text = "".join(text_parts)
             text = re.sub(r"\[l\]|\[wdt\]|\[wt\]|\[p\]|\[r\]", "", text)
             text = text.strip()
+
             if text and len(text) > 2:
                 results.append(
                     {
                         "route": route,
                         "speaker": None,
                         "text": text,
-                        "line_number": line_num,
+                        "line_number": start_line,
                         "section": current_section,
+                        "source_file": source_file,
                     }
                 )
+            continue
 
         i += 1
 
@@ -377,6 +405,9 @@ def process_rpy_files(rpy_dir: str, output_dir: str):
 def process_ks_files(ks_dirs: list[str], output_dir: str):
     """Process all .ks files and output organized results.
 
+    Output files use the original KS filename (without .ks extension)
+    to maintain a clear 1:1 mapping between KS source and JSONL output.
+
     When multiple directories contain files with the same name,
     only the first directory's version is used (priority order).
     This avoids double-counting overlapping files between
@@ -401,32 +432,23 @@ def process_ks_files(ks_dirs: list[str], output_dir: str):
                 seen_filenames.add(fname)
                 files_to_process.append(ks_file)
 
-    all_texts = []
+    ks_output = output_path / "ks_texts"
+    ks_output.mkdir(exist_ok=True)
 
     for ks_file in files_to_process:
         print(f"Processing {ks_file.name} (from {ks_file.parent.name})...")
         entries = extract_ks(str(ks_file))
-        all_texts.extend(entries)
 
-    # Group by route
-    route_groups = {}
-    for entry in all_texts:
-        key = entry["route"]
-        route_groups.setdefault(key, []).append(entry)
-
-    # Write output
-    ks_output = output_path / "ks_texts"
-    ks_output.mkdir(exist_ok=True)
-
-    for route, entries in sorted(route_groups.items()):
-        out_file = ks_output / f"{route}.jsonl"
+        # Use original KS filename (without .ks) as output name
+        out_name = ks_file.stem  # e.g. "2日目" or "辰樹_m_01"
+        out_file = ks_output / f"{out_name}.jsonl"
         with open(out_file, "w", encoding="utf-8") as f:
             for e in entries:
                 f.write(json.dumps(e, ensure_ascii=False) + "\n")
-        print(f"  {route} -> {len(entries)} entries")
+        print(f"  {ks_file.name} -> {out_name}.jsonl ({len(entries)} entries)")
 
-    print(f"\nTotal KS texts extracted: {len(all_texts)}")
-    return all_texts
+    total = sum(len(extract_ks(str(f))) for f in files_to_process)
+    print(f"\nTotal KS texts extracted: {total}")
 
 
 def main():
