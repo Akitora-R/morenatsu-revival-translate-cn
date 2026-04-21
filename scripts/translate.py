@@ -85,7 +85,7 @@ from copy import deepcopy
 from typing import Optional
 
 RPY_DIR = Path("rpy")
-TABLE_FILE = Path("output/translation_table.jsonl")
+TABLE_FILE = Path("translation_table.jsonl")
 
 TRANSLATE_BLOCK_RE = re.compile(
     r"(translate\s+chinese_simplified\s+)(\w+)(:\s*\n)((?:[ \t]+[^\n]*\n)*)",
