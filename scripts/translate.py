@@ -88,7 +88,7 @@ RPY_DIR = Path("rpy")
 TABLE_FILE = Path("output/translation_table.jsonl")
 
 TRANSLATE_BLOCK_RE = re.compile(
-    r"(translate\s+chinese_simplified\s+)(\w+)(:\s*\n)((?:\s+.*\n)*)",
+    r"(translate\s+chinese_simplified\s+)(\w+)(:\s*\n)((?:[ \t]+[^\n]*\n)*)",
     re.MULTILINE,
 )
 SOURCE_COMMENT_RE = re.compile(r'^\s*#\s+(?:(\w+)\s+)?"(.*)"$')
@@ -103,6 +103,8 @@ def extract_rpy_blocks(rpy_path: Path) -> list[dict]:
     results = []
     for match in TRANSLATE_BLOCK_RE.finditer(content):
         block_id = match.group(2)
+        if block_id == "strings":
+            continue
         block_content = match.group(4)
 
         source_line = 0
@@ -298,6 +300,8 @@ def cmd_apply(args):
         replacements = []
         for match in TRANSLATE_BLOCK_RE.finditer(content):
             block_id = match.group(2)
+            if block_id == "strings":
+                continue
             if block_id not in table:
                 continue
             entry = table[block_id]
@@ -325,90 +329,54 @@ def cmd_apply(args):
 def _build_translated_block(block_content: str, entry: dict) -> str:
     """Build new block content with translation from table entry."""
     lines = block_content.split("\n")
-    source_text = entry.get("source", "")
-    speaker = entry.get("speaker", "")
     translation = entry.get("translation", "")
     ttype = entry.get("translation_type", "")
     tsource = entry.get("translation_source", "")
     ks_lines = entry.get("ks_lines", "")
 
-    # Find where to insert
-    empty_idx = -1
-    indent = "    "
-    existing_speaker = ""
+    comment_indent = "    "
+    trans_indent = "    "
+    trans_speaker = ""
 
-    for i, line in enumerate(lines):
+    result_lines = []
+    for line in lines:
         stripped = line.strip()
         if not stripped:
             continue
 
-        m = SOURCE_COMMENT_RE.match(line)
-        if m and "[旧版翻译]" not in line and "[机翻]" not in line:
-            indent = line[: len(line) - len(line.lstrip())]
-            continue
-
         if "[旧版翻译]" in line or "[机翻]" in line:
-            # Remove old marker — we'll re-add
-            lines[i] = None
             continue
 
-        if not stripped.startswith("#") and '"' in stripped:
-            trans_m = re.match(r'^\s*(\w*)\s+"(.*)"$', line)
-            if trans_m:
-                li = line[: len(line) - len(line.lstrip())]
-                if not li.strip():
-                    li = trans_m.group(1)
-                line_indent = trans_m.group(1) and line[: len(line) - len(line.lstrip())] or indent
-                existing_speaker = trans_m.group(1)
-                text = trans_m.group(2)
-                if not text and empty_idx == -1:
-                    empty_idx = i
-                    indent = line_indent
-                elif text:
-                    # Has existing translation, overwrite
-                    empty_idx = i
-                    indent = line_indent
+        m = SOURCE_COMMENT_RE.match(line)
+        if m:
+            comment_indent = line[:len(line) - len(line.lstrip())]
+            result_lines.append(line)
+            continue
+
+        trans_m = re.match(r'^\s*(\w*)\s+"(.*)"$', line)
+        if trans_m and not stripped.startswith("#"):
+            trans_indent = line[:len(line) - len(line.lstrip())]
+            trans_speaker = trans_m.group(1)
+            continue
+
+        result_lines.append(line)
 
     # Build marker
     parts = [f"[{ttype}]"]
     if tsource:
         parts.append(f"来源: {tsource}")
     if ks_lines:
-        parts.append(f"KS {ks_lines}")
-    marker = "# " + " ".join(parts) if ttype else ""
+        parts.append(f"(KS {ks_lines})")
+    if ttype:
+        result_lines.append(f"{comment_indent}# " + " ".join(parts))
 
-    # Remove None lines (old markers)
-    lines = [l for l in lines if l is not None]
+    # Build translation line
+    if trans_speaker:
+        result_lines.append(f'{trans_indent}{trans_speaker} "{translation}"')
+    else:
+        result_lines.append(f'{trans_indent}"{translation}"')
 
-    # Find the empty/translation line again after cleanup
-    target_idx = -1
-    for i, line in enumerate(lines):
-        stripped = line.strip()
-        if not stripped or stripped.startswith("#"):
-            continue
-        if '"' in stripped and not stripped.startswith("#"):
-            trans_m = re.match(r'^\s*(\w*)\s+"(.*)"$', line)
-            if trans_m:
-                text = trans_m.group(2)
-                target_idx = i
-                indent = line[: len(line) - len(line.lstrip())]
-                existing_speaker = trans_m.group(1)
-                break
-
-    if target_idx >= 0:
-        # Replace existing translation line
-        if marker:
-            lines.insert(target_idx, f"{indent}{marker}")
-            target_idx += 1
-        lines[target_idx] = f'{indent}{existing_speaker} "{translation}"'
-    elif source_text:
-        # Append translation
-        if marker:
-            lines.append(f"{indent}{marker}")
-        sp = speaker or ""
-        lines.append(f'{indent}{sp} "{translation}"')
-
-    return "\n".join(lines)
+    return "\n".join(result_lines) + "\n"
 
 
 def cmd_status(args):
