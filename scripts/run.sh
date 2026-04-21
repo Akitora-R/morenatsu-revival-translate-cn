@@ -1,20 +1,31 @@
 #!/bin/bash
-# Convenience script to run extraction and embedding pipeline
-# Usage: ./scripts/run.sh [extract|embed|both]
+# Convenience script to run extraction pipeline
+# Usage: ./scripts/run.sh [extract|rpy|ks|init]
 set -e
 
-ACTION="${1:-both}"
-
-# Activate venv
 source .venv/bin/activate
 
-if [ "$ACTION" = "extract" ] || [ "$ACTION" = "both" ]; then
-    echo "=== Step 1: Extracting texts ==="
-    python scripts/extract_texts.py --mode both
-fi
+ACTION="${1:-init}"
 
-if [ "$ACTION" = "embed" ] || [ "$ACTION" = "both" ]; then
-    echo ""
-    echo "=== Step 2: Generating embeddings ==="
-    python scripts/embed_texts.py --mode ollama --model qwen3-embedding:8b
-fi
+case "$ACTION" in
+    extract|rpy)
+        echo "=== Extracting RPY texts ==="
+        python scripts/extract_texts.py --mode rpy
+        ;;
+    ks)
+        echo "=== Extracting KS texts ==="
+        python scripts/extract_texts.py --mode ks
+        ;;
+    both)
+        echo "=== Extracting all texts ==="
+        python scripts/extract_texts.py --mode both
+        ;;
+    init)
+        echo "=== Initializing translation table ==="
+        python scripts/translate.py init
+        ;;
+    *)
+        echo "Usage: $0 [extract|rpy|ks|both|init]"
+        exit 1
+        ;;
+esac

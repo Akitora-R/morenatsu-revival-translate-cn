@@ -182,10 +182,15 @@ def extract_rpy(filepath: str) -> list[dict]:
 def extract_ks(filepath: str) -> list[dict]:
     """
     Extract dialogue and narration from a .ks file.
+    
+    Each line of text content produces a SEPARATE entry (no merging).
+    This allows fine-grained matching against RPY blocks which may
+    combine or split KS content differently.
+    
     Returns list of dicts with keys:
       - route: identified route from filename
-      - speaker: character name or None for narration
-      - text: the actual text content
+      - speaker: character name (persists until next 【name】) or None
+      - text: the actual text content (single line)
       - line_number: line number in file
       - section: current section label
       - source_file: original KS filename (without path)
@@ -197,124 +202,104 @@ def extract_ks(filepath: str) -> list[dict]:
     route = identify_route_ks(filepath)
     current_section = "start"
     source_file = Path(filepath).stem
+    current_speaker = None
+    in_dialogue = False
 
     i = 0
     while i < len(lines):
         line = lines[i].rstrip("\n")
         line_num = i + 1
+        stripped = line.strip()
 
-        # Skip comments and empty lines
-        if line.strip().startswith(";") or line.strip() == "":
+        if stripped.startswith(";") or stripped == "":
+            in_dialogue = False
             i += 1
             continue
 
-        # Section labels: *label|description
         sec_m = re.match(r"^\*(\w+)\|?(.*)?$", line)
         if sec_m:
             current_section = sec_m.group(1)
+            in_dialogue = False
             i += 1
             continue
 
-        # Skip command lines [...]
-        if line.strip().startswith("["):
+        if stripped.startswith("["):
             i += 1
             continue
 
-        # Character dialogue: 【name】
-        char_m = re.match(r"^【(.+?)】$", line.strip())
+        char_m = re.match(r"^【(.+?)】$", stripped)
         if char_m:
-            speaker = char_m.group(1)
-            # Next line(s) contain the dialogue in 「」
-            text_parts = []
+            current_speaker = char_m.group(1)
+            in_dialogue = False
             i += 1
-            while i < len(lines):
-                dline = lines[i].rstrip("\n")
-                # Check for 「text」
-                dia_m = re.search(r"「(.*?)」", dline)
-                if dia_m:
-                    text_parts.append(dia_m.group(1))
-                    # Check if line ends without closing bracket (multi-line)
-                    if "」" in dline:
-                        i += 1
-                        break
-                    i += 1
-                    continue
-                elif (
-                    dline.strip() == ""
-                    or dline.strip().startswith("[")
-                    or dline.strip().startswith(";")
-                ):
-                    break
-                else:
-                    # Plain text continuation
-                    if dline.strip():
-                        text_parts.append(dline.strip())
-                    i += 1
-                    continue
-
-            text = "".join(text_parts)
-            # Clean up KS markup like [l], [wdt], etc.
-            text = re.sub(r"\[l\]|\[wdt\]|\[wt\]|\[p\]|\[r\]", "", text)
-            text = text.strip()
-
-            if text:
-                results.append(
-                    {
-                        "route": route,
-                        "speaker": speaker,
-                        "text": text,
-                        "line_number": line_num,
-                        "section": current_section,
-                        "source_file": source_file,
-                    }
-                )
             continue
 
-        # Narration: plain text (not commands, not brackets)
-        # Accumulate consecutive narration lines (separated by [l] tags) into one entry
-        if (
-            line.strip()
-            and not line.strip().startswith("[")
-            and not line.strip().startswith(";")
-        ):
-            text_parts = [line.strip()]
-            start_line = line_num
-            i += 1
-
-            # Collect consecutive plain text lines
-            while i < len(lines):
-                next_line = lines[i].rstrip("\n")
-                stripped = next_line.strip()
-
-                # Stop at commands, comments, empty lines, or dialogue
-                if (
-                    stripped == ""
-                    or stripped.startswith("[")
-                    or stripped.startswith(";")
-                    or stripped.startswith("【")
-                    or re.match(r"^\*\w+", stripped)
-                ):
-                    break
-
-                text_parts.append(stripped)
-                i += 1
-
-            # Merge and clean up
-            text = "".join(text_parts)
+        if stripped.startswith("「"):
+            in_dialogue = True
+            text = stripped
             text = re.sub(r"\[l\]|\[wdt\]|\[wt\]|\[p\]|\[r\]", "", text)
             text = text.strip()
+            if text:
+                results.append({
+                    "route": route,
+                    "speaker": current_speaker,
+                    "text": text,
+                    "line_number": line_num,
+                    "section": current_section,
+                    "source_file": source_file,
+                })
+            i += 1
+            continue
 
-            if text and len(text) > 2:
-                results.append(
-                    {
-                        "route": route,
-                        "speaker": None,
-                        "text": text,
-                        "line_number": start_line,
-                        "section": current_section,
-                        "source_file": source_file,
-                    }
-                )
+        # Check if this is a dialogue continuation line (inside 「」 block)
+        if in_dialogue and "」" in stripped:
+            in_dialogue = False
+            text = stripped
+            text = re.sub(r"\[l\]|\[wdt\]|\[wt\]|\[p\]|\[r\]", "", text)
+            text = text.strip()
+            if text:
+                results.append({
+                    "route": route,
+                    "speaker": current_speaker,
+                    "text": text,
+                    "line_number": line_num,
+                    "section": current_section,
+                    "source_file": source_file,
+                })
+            i += 1
+            continue
+
+        if in_dialogue:
+            text = stripped
+            text = re.sub(r"\[l\]|\[wdt\]|\[wt\]|\[p\]|\[r\]", "", text)
+            text = text.strip()
+            if text:
+                results.append({
+                    "route": route,
+                    "speaker": current_speaker,
+                    "text": text,
+                    "line_number": line_num,
+                    "section": current_section,
+                    "source_file": source_file,
+                })
+            i += 1
+            continue
+
+        # Narration: no current speaker
+        if stripped and not stripped.startswith("[") and not stripped.startswith(";"):
+            text = stripped
+            text = re.sub(r"\[l\]|\[wdt\]|\[wt\]|\[p\]|\[r\]", "", text)
+            text = text.strip()
+            if text and len(text) > 1:
+                results.append({
+                    "route": route,
+                    "speaker": None,
+                    "text": text,
+                    "line_number": line_num,
+                    "section": current_section,
+                    "source_file": source_file,
+                })
+            i += 1
             continue
 
         i += 1

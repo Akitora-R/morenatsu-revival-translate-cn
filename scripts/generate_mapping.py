@@ -57,14 +57,14 @@ LABEL_TO_KS_MAP = {
     "kounosuke06": "孝之助_s_02",
     "tatsuki06": "辰樹_s_02",
     "torahiko06": "6日目",
-    # === Day 7 (beach - c_海水浴.ks) ===
+    # === Day 7 (beach - c_海水浴.ks for shared routes, 7日目 for torahiko) ===
     "beach07_juuichi": "c_海水浴",
     "beach07_kounosuke": "c_海水浴",
     "beach07_kouya": "c_海水浴",
     "beach07_shin": "c_海水浴",
     "beach07_shun": "c_海水浴",
     "beach07_tatsuki": "c_海水浴",
-    "beach07_torahiko": "c_海水浴",
+    "beach07_torahiko": "7日目",
     "torahiko07": "7日目",
     # === Day 8 ===
     "kounosuke08": "孝之助_s_03",
@@ -222,10 +222,13 @@ def find_ks_match(entry_id: str) -> tuple[str, str]:
     """
     label_prefix = entry_id.rsplit("_", 1)[0]
 
-    for prefix, ks_file in LABEL_TO_KS_MAP.items():
-        if label_prefix.startswith(prefix) or label_prefix == prefix:
-            return ks_file, "old"
+    # Exact match first
+    if label_prefix in LABEL_TO_KS_MAP:
+        return LABEL_TO_KS_MAP[label_prefix], "old"
 
+    # Only match sub-labels if the parent prefix explicitly allows it
+    # (e.g., day06_pick_kounosuke should NOT match day06)
+    # For now, only exact matches are considered old translations.
     return "", "new"
 
 
