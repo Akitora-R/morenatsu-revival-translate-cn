@@ -370,11 +370,12 @@ def _build_translated_block(block_content: str, entry: dict) -> str:
     if ttype:
         result_lines.append(f"{comment_indent}# " + " ".join(parts))
 
-    # Build translation line
+    # Build translation line — escape literal newlines so the string stays on one line
+    escaped_translation = translation.replace("\n", "\\n")
     if trans_speaker:
-        result_lines.append(f'{trans_indent}{trans_speaker} "{translation}"')
+        result_lines.append(f'{trans_indent}{trans_speaker} "{escaped_translation}"')
     else:
-        result_lines.append(f'{trans_indent}"{translation}"')
+        result_lines.append(f'{trans_indent}"{escaped_translation}"')
 
     return "\n".join(result_lines) + "\n"
 
