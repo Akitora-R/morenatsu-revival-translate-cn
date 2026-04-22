@@ -10,120 +10,140 @@ translate chinese_simplified day02_2db87860:
 translate chinese_simplified torahiko02_3cc5a000:
 
     # "The second day of my stay in Minasato has also started with a sweltering heat."
+    # [旧版翻译]
     "待在水乡村的第二天，依旧是非常闷热的天气。"
 
 # game/day 2.rpy:129
 translate chinese_simplified torahiko02_141d20ba:
 
     # "The chorus of insects.{w} And the harsh summer sunlight that's penetrating my skin."
+    # [旧版翻译]
     "以蝉声为首的昆虫们的大合唱在耳边缭绕着。夏天的毒辣阳光仿佛要穿透肌肤。"
 
 # game/day 2.rpy:130
 translate chinese_simplified torahiko02_bf0645bf:
 
     # "Compared to the weather outside,{w} what I feel is \nby no means exaggerated."
+    # [旧版翻译]
     "用「酷暑」来形容实在是名副其实。"
 
 # game/day 2.rpy:131
 translate chinese_simplified torahiko02_61b17dc0:
 
     # "However,{w} this is the first time for me to come back here after such a long absence."
+    # [旧版翻译]
     "不过，难得回到水乡村。"
 
 # game/day 2.rpy:132
 translate chinese_simplified torahiko02_0ff3d2bc:
 
     # "And everyone has also given me a rousing welcome.{p}Therefore I must enjoy my stay here to the fullest!"
+    # [旧版翻译]
     "大家也都很欢迎[fn]，要是不好好享受一下也太浪费了！"
 
 # game/day 2.rpy:133
 translate chinese_simplified torahiko02_0941a9f6:
 
     # "Starting with grabbing my first great lunch."
+    # [旧版翻译]
     "所以在午餐过后稍微休息一下，"
 
 # game/day 2.rpy:134
 translate chinese_simplified torahiko02_b76f9c8e:
 
     # "Then I went out to take a walk in the village."
+    # [旧版翻译]
     "[fn]就到村里随便走走。"
 
 # game/day 2.rpy:140
 translate chinese_simplified torahiko02_6871521f:
 
     # fn "「I wonder if the others are around here somewhere...」"
+    # [旧版翻译]
     fn "「（谁都好，真想见到个人……）」"
 
 # game/day 2.rpy:141
 translate chinese_simplified torahiko02_181d0841:
 
     # "At first, that was just a random thought which appeared in my mind as I walked along the fields."
+    # [旧版翻译]
     "虽然[fn]一开始满脑都是这样的想法，"
 
 # game/day 2.rpy:142
 translate chinese_simplified torahiko02_c911aa7a:
 
     # "But even when I've got a whole field behind me,{p}I still didn't meet anybody."
+    # [旧版翻译]
     "但在这一大片稻田边无论再怎么走，也还是谁都没遇到。"
 
 # game/day 2.rpy:143
 translate chinese_simplified torahiko02_e9d1384d:
 
     # fn "「Hmmm...{w} There aren't many people around here.{p} Where is everyone?」"
+    # [旧版翻译]
     fn "「「可恶……居然在这感受到人口稀少！」」"
 
 # game/day 2.rpy:144
 translate chinese_simplified torahiko02_c9b7aee8:
 
     # "Minasato is one of the most marginal villages in Japan and it can also be said that my hometown is a model case of a marginal village."
+    # [旧版翻译]
     "水乡村，在日本中是少有的极限村落。要说是极限村落的典范也绝不为过。"
 
 # game/day 2.rpy:145
 translate chinese_simplified torahiko02_376a8522:
 
     # "Because of that,{w} I usually feel like a traveler wandering in the middle of a desert."
+    # [旧版翻译]
     "总觉得，自己就像是在沙漠中徬徨的旅人一般。荒无人烟的土地，灼热的太阳。"
 
 # game/day 2.rpy:146
 translate chinese_simplified torahiko02_2bec5a96:
 
     # "An empty land,{w} the shining sun.{p}And my throat is getting dry..."
+    # [旧版翻译]
     "喉咙也干了……[fn]想着这些蠢事，在现实与妄想之间一步一步前进。"
 
 # game/day 2.rpy:147
 translate chinese_simplified torahiko02_154c244d:
 
     # "What am I looking for actually?{p}I might pass out here anytime soon if I keep walking under the heat like this."
+    # [旧版翻译]
     "等待着[fn]的是……曝尸荒野……！"
 
 # game/day 2.rpy:148
 translate chinese_simplified torahiko02_2ad8a3b6:
 
     # "I keep thinking about those gloomy ideas,{p}while walking between reality and delusion."
+    # [旧版翻译]
     "[fn]想着这些蠢事，在现实与妄想之间一步一步前进。"
 
 # game/day 2.rpy:149
 translate chinese_simplified torahiko02_c5304773:
 
     # who "「HEYYY!!{w} Is that you, Hiroyuki!?」{nw}"
+    # [旧版翻译]
     who "「呦，这不是[fn]吗！」"
 
 # game/day 2.rpy:151
 translate chinese_simplified torahiko02_8d272086:
 
     # extend "{w} "
+    # [旧版翻译]
     extend " "
 
 # game/day 2.rpy:152
 translate chinese_simplified torahiko02_d354af79:
 
     # fn "{size=+10}「Huuuhhh!?」"
+    # [旧版翻译]
     fn "{size=+10}「唔哇！？」"
 
 # game/day 2.rpy:153
 translate chinese_simplified torahiko02_8bf8c140:
 
     # "Suddenly I heard a voice from behind."
+    # [旧版翻译]
     "来不及回应从背后突如其来的叫[fn]的声音，吓了一跳。"
 
 # game/day 2.rpy:154
@@ -136,36 +156,42 @@ translate chinese_simplified torahiko02_3af039af:
 translate chinese_simplified torahiko02_e662ccf8:
 
     # fn "「Tora?... Torahiko!」{nw}"
+    # [旧版翻译]
     fn "「……虎彦！」"
 
 # game/day 2.rpy:158
 translate chinese_simplified torahiko02_009d7ccb:
 
     # "As soon as I turn around to confirm that voice,{p}I see a tiger wearing a uniform, riding his bike towards where I'm standing."
+    # [旧版翻译]
     "当[fn] 转头去确认声音的主人时，在那的是穿着制服骑着自行车的虎彦。"
 
 # game/day 2.rpy:159
 translate chinese_simplified torahiko02_47a5a9ea:
 
     # to "「What makes you keep walking after I've called your \n name five times like that, eh?」"
+    # [旧版翻译]
     to "「咦，有必要惊讶成这样吗？」"
 
 # game/day 2.rpy:160
 translate chinese_simplified torahiko02_9c84f042:
 
     # "Thinking about that now, I admit I didn't even notice him calling my name."
+    # [旧版翻译]
     "不管是谁来看肯定是难以预料的……"
 
 # game/day 2.rpy:161
 translate chinese_simplified torahiko02_f16fb1ce:
 
     # "Apparently, my thoughts were so vivid that they must have prevented me from hearing the sound of his bicycle approaching from behind."
+    # [旧版翻译]
     "看来是[fn]沉浸在旅人的气氛里时，完全没注意到从后方传来自行车的声音的样子。"
 
 # game/day 2.rpy:162
 translate chinese_simplified torahiko02_d481f3a6:
 
     # fn "「Sorry, I got lost in my mind during the walk.」"
+    # [旧版翻译]
     fn "「抱歉，走一走就开始恍神了」"
 
 # game/day 2.rpy:163
@@ -178,120 +204,140 @@ translate chinese_simplified torahiko02_3d181290:
 translate chinese_simplified torahiko02_b12bd9bf:
 
     # extend "「So what were you thinking then?{p} If I wasn't riding my bike,{w} I'd have \n jumped on you instead of greeting you like this!」"
+    # [旧版翻译]
     extend "「搞什么啊……如果[fn]不是骑自行车的话，我可是会用飞扑代替打招呼喔」"
 
 # game/day 2.rpy:169
 translate chinese_simplified torahiko02_60a788a3:
 
     # "Torahiko says that with a laugh.{w} Honestly, if he had jumped on me,{w} he would have broken my hips."
+    # [旧版翻译]
     "虎彦边笑边说着。[l]如果被飞扑的话，也许腰会撑不住也说不定。"
 
 # game/day 2.rpy:170
 translate chinese_simplified torahiko02_f2ac3dd8:
 
     # fn "「My body is not as sturdy as Tatsuki's and Juuichi's, \n so please don't jump on me.」"
+    # [旧版翻译]
     fn "「[fn]不像辰兄或是柔一那么壮，禁止飞扑！」"
 
 # game/day 2.rpy:171
 translate chinese_simplified torahiko02_db028f77:
 
     # "It can't be denied that Torahiko's body has grown considerably in the last few years."
+    # [旧版翻译]
     "再加上虎彦的身体，在这几年已经变得实在太高大了。"
 
 # game/day 2.rpy:172
 translate chinese_simplified torahiko02_641b9ea9:
 
     # "My human body, for sure, won't be able to support his weight."
+    # [旧版翻译]
     "身为人类的[fn]可受不了。"
 
 # game/day 2.rpy:173
 translate chinese_simplified torahiko02_d00a5d93:
 
     # to "「I don't care about it anyways.{p} So where are you going?」"
+    # [旧版翻译]
     to "「别在意那些小事啦。[l]那么，你半路上在干嘛啊？」"
 
 # game/day 2.rpy:174
 translate chinese_simplified torahiko02_033509b3:
 
     # "Luckily, my request for his \"jump-on-[fn]\" game is easily passed through."
+    # [旧版翻译]
     "[fn]的抗议就这样被他忽略。"
 
 # game/day 2.rpy:175
 translate chinese_simplified torahiko02_f075a8ae:
 
     # fn "「I was taking a walk.{p} It's summer vacation after all.{p}No use for me to stay home all the time.」"
+    # [旧版翻译]
     fn "「只是散个步而已啦。[l]难得的暑假，一直待在家里也没什么事可以做」"
 
 # game/day 2.rpy:179
 translate chinese_simplified torahiko02_f8cfce8b:
 
     # to "「There is nothing interesting here, right?」"
+    # [旧版翻译]
     to "「没什么特别有趣的事，对吧？」"
 
 # game/day 2.rpy:180
 translate chinese_simplified torahiko02_db602d32:
 
     # "Oof,{w} that's so sharp of a mouth."
+    # [旧版翻译]
     "唔，真是敏锐……"
 
 # game/day 2.rpy:181
 translate chinese_simplified torahiko02_3b3079d2:
 
     # fn "「Well... I did take a walk with my nostalgia.」"
+    # [旧版翻译]
     fn "「确，确实如此……不过，一边散步一边看着风景还真是会令人怀念呢」"
 
 # game/day 2.rpy:185
 translate chinese_simplified torahiko02_dc33ba34:
 
     # to "「That kind of thing?」"
+    # [旧版翻译]
     to "「是这样啊」"
 
 # game/day 2.rpy:186
 translate chinese_simplified torahiko02_7128c744:
 
     # fn "「Yeah,{w} that kind of thing.」"
+    # [旧版翻译]
     fn "「这就是」"
 
 # game/day 2.rpy:187
 translate chinese_simplified torahiko02_51d65cc4:
 
     # fn "「Oh, by the way,{p} why did you contact me by letter?」"
+    # [旧版翻译]
     fn "「啊，话说回来，为什么之前要用写信的方式联系啊？」"
 
 # game/day 2.rpy:188
 translate chinese_simplified torahiko02_4596460c:
 
     # fn "「There's also landline phone service here.{p} And I could have used the phone.」"
+    # [旧版翻译]
     fn "「水乡村里也有电话，用电话联系不是比较好吗？」"
 
 # game/day 2.rpy:189
 translate chinese_simplified torahiko02_eb1d5b94:
 
     # to "「Ah...{w} I was just wondering if a letter,{p} could convey my feelings better than a phonecall.」"
+    # [旧版翻译]
     to "「啊……[l]怎么说呢，写信比起电话更能传递感情，不是吗？」"
 
 # game/day 2.rpy:190
 translate chinese_simplified torahiko02_2ccb26f4:
 
     # fn "「That kind of thing?」"
+    # [旧版翻译]
     fn "「是这样啊」"
 
 # game/day 2.rpy:191
 translate chinese_simplified torahiko02_95544971:
 
     # to "「Yeah,{w} that kind of thing...」"
+    # [旧版翻译]
     to "「就是这样」"
 
 # game/day 2.rpy:195
 translate chinese_simplified torahiko02_b3840b7f:
 
     # fntora "「Pfft!」"
+    # [旧版翻译]
     fntora "「噗」"
 
 # game/day 2.rpy:196
 translate chinese_simplified torahiko02_d2669fda:
 
     # "The conversation became a little bit strange,{w} so we just burst out laughing."
+    # [旧版翻译]
     "不知道为什么，[fn]们两个同时笑了。"
 
 # game/day 2.rpy:197

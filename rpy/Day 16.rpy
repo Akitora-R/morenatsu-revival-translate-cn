@@ -4174,12 +4174,14 @@ translate chinese_simplified tatsuki16_8f7f115c:
 translate chinese_simplified tatsuki16_84e3ef9e:
 
     # "Souichirou" "「Sachiko-san... I love you.」"
+    # [旧版翻译]
     "Souichirou" ""
 
 # game/Day 16.rpy:1806
 translate chinese_simplified tatsuki16_a4379858:
 
     # "Sachiko" "「No, Souichirou-san...{p}If Mother finds out about that, I...」"
+    # [旧版翻译]
     "Sachiko" ""
 
 # game/Day 16.rpy:1807
@@ -4216,12 +4218,14 @@ translate chinese_simplified tatsuki16_b0b91c49:
 translate chinese_simplified tatsuki16_92a7493b:
 
     # "Souichirou" "「Sachiko-san!!」"
+    # [旧版翻译]
     "Souichirou" ""
 
 # game/Day 16.rpy:1824
 translate chinese_simplified tatsuki16_18c4b446:
 
     # "Sachiko" "「Nooo!」"
+    # [旧版翻译]
     "Sachiko" ""
 
 # game/Day 16.rpy:1825
@@ -4258,12 +4262,14 @@ translate chinese_simplified tatsuki16_7ffdd1ae:
 translate chinese_simplified tatsuki16_e9a26206:
 
     # "Narration" "「Thus, the Madam of Karuizawa,\n overthrown by Souichirou, who was protecting Sachiko,\n snuck out of his estate, and ran into the forest...」"
+    # [旧版翻译]
     "Narration" ""
 
 # game/Day 16.rpy:1845
 translate chinese_simplified tatsuki16_f9b83d71:
 
     # "Narration" "「To be continued.」"
+    # [旧版翻译]
     "Narration" ""
 
 # game/Day 16.rpy:1849

@@ -1228,6 +1228,7 @@ translate chinese_simplified kouya05_takoyaki_bbaef1c8:
 translate chinese_simplified kouya05_takoyaki_581b824b:
 
     # "All Three" "「Huh?」"
+    # [旧版翻译]
     "All Three" ""
 
 # game/day 5.rpy:680
