@@ -9,24 +9,38 @@
 
 ### 翻译流程
 
-```
-┌──────────────┐    ┌──────────────────┐    ┌──────────────┐
-│  1. 提取文本   │───▶│  2. 人工对齐翻译表  │───▶│  3. 写入 RPY  │
-│   init       │    │   update         │    │   apply      │
-└──────────────┘    └──────────────────┘    └──────────────┘
-       │                    │                       │
-  从 .rpy 提取         比对 .ks 翻译          把翻译表内容
-  所有 translate       按 block ID 对齐       写回 .rpy 文件
-  block → JSONL        → JSONL               自动处理 marker
-                                                 和缩进
+```mermaid
+flowchart LR
+    A["1. 提取文本<br/>init"] --> B["2. 人工对齐翻译表<br/>update"] --> C["3. 写入 RPY<br/>apply"]
+    A -.- A1["从 .rpy 提取所有<br/>translate block → JSONL"]
+    B -.- B1["逐条比对 .ks 翻译<br/>按语义对齐写入 JSONL"]
+    C -.- C1["把翻译表内容写回 .rpy<br/>自动处理 marker 和缩进"]
 ```
 
 ### 核心规则
 
 1. **优先使用旧版翻译**：所有翻译以 `extract/` 下 `.ks` 文件为准
-2. **新增内容标记**：旧版中不存在的台词，使用机翻或人工翻译，标记类型为 `机翻` 或 `人工`
-3. **翻译来源注释**：每条翻译上方自动插入注释，格式 `# [旧版翻译] 来源: 3日目.ks (KS 18-19)`
-4. **占位符保留**：Ren'Py 变量如 `[fn]`、`[ln]`、`[漏れ]` 等保持原样
+2. **逐条人工比对**：KS 与 RPY 是多对多关系，不可按行号偏移自动匹配，必须逐条按语义对齐
+3. **新增内容标记**：旧版中不存在的台词，使用机翻或人工翻译，标记类型为 `机翻` 或 `人工`
+4. **翻译来源注释**：每条翻译上方自动插入注释，格式 `# [旧版翻译] 来源: 3日目.ks (KS 18-19)`
+5. **占位符替换**：`[漏れ]`→`我`，`[博行]`→`博行`，`[西村]`→`西村`；Ren'Py 变量如 `[fn]`、`[ln]` 保持原样
+
+### 格式转换规则
+
+| KS 标签 | RPY 标签 | 说明 |
+|---------|----------|------|
+| `[l]` | `{p}` | 段落停顿 |
+| `[wdt]` | `{w=.3}` | 短暂等待 |
+| `【角色】「…」` | `spk "「…」"` | 对话用「」，去掉【】 |
+| 旁白文本 | `"文本"` | 纯文本，不用引号 |
+| `[漏れ]` | `我` | 第一人称 |
+| `[博行]` | `博行` | 主人公名 |
+| `[西村]` | `西村` | 主人公姓 |
+
+### KS 文件优先级
+
+同一天数的 `.ks` 文件可能同时存在于 `extract/orig/` 和 `extract/torahiko/`。
+当两者文件名相同时，**`extract/torahiko/` 优先**（该目录包含完整翻译版本）。
 
 ## 快速开始
 
@@ -38,7 +52,7 @@ source .venv/bin/activate
 # 查看翻译进度
 python scripts/translate.py status
 
-# 从 RPY 文件初始化翻译表（仅首次）
+# 从 RPY 文件初始化翻译表（仅首次或翻译表丢失时）
 python scripts/translate.py init
 
 # 提取旧版 KS 文本（用于比对参考）
@@ -86,8 +100,8 @@ python scripts/translate.py update \
 
 **批量更新**（JSONL 格式）：
 ```bash
-# 每行一个 JSON 对象：{"id":"xxx","translation":"xxx","translation_type":"旧版翻译","translation_source":"深_s_01.ks","ks_lines":"18"}
-python scripts/translate.py update --batch updates.jsonl
+# 每行一个 JSON 对象：{"id":"xxx","translation":"xxx"}
+python scripts/translate.py update --batch updates.jsonl --type 旧版翻译
 ```
 
 ### `apply` — 将翻译写回 RPY 文件
@@ -109,6 +123,7 @@ python scripts/translate.py apply
 `apply` 会自动处理：
 - 插入 `# [旧版翻译] 来源: 文件名 (KS 行号)` 注释
 - 正确保留 narration（4空格+引号）和 speaker（4空格+发言者+引号）的缩进
+- 翻译中的换行符自动转义为 `\n`（Ren'Py 要求字符串在单行内）
 - 跳过 `translate chinese_simplified strings:` 块（`old`/`new` 格式）
 - 覆盖已有的旧翻译（如有标记则更新）
 
@@ -130,7 +145,7 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
   "source_line": 99,
   "speaker": "gm",
   "source": "「Hello. This is [ln] speaking...」",
-  "translation": "「你好，这里是[西村]家。」",
+  "translation": "「你好，这里是西村家。」",
   "translation_type": "旧版翻译",
   "translation_source": "3日目.ks",
   "ks_lines": "18-19",
@@ -140,7 +155,7 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 
 | 字段 | 说明 |
 |------|------|
-| `id` | translate block ID（唯一键） |
+| `id` | translate block ID（唯一键，基于哈希） |
 | `rpy_file` | 源 RPY 文件名 |
 | `source_line` | RPY 文件中对应的行号 |
 | `speaker` | 发言者前缀（`fn`/`gm`/`ka` 等），空字符串表示旁白 |
@@ -157,16 +172,11 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 ├── rpy/                          # Ren'Py 翻译文件（目标）
 ├── extract/
 │   ├── orig/                     # 旧版 KS 中文翻译（源）
-│   └── torahiko/                 # 部分路线的旧版翻译
+│   └── torahiko/                 # 虎彦路线完整翻译（同文件名时优先）
 ├── scripts/
 │   ├── translate.py              # 翻译管理核心脚本
-│   ├── extract_texts.py          # 文本提取（KS/RPY）
-│   └── generate_mapping.py       # 路线映射生成
-├── output/
-│   └── texts/
-│       └── ks_texts/             # 提取的 KS 文本（JSONL）
-├── docs/
-│   └── route_differences.md      # 路线差异对比文档
+│   └── extract_texts.py          # 文本提取（KS/RPY）
+├── output/                       # 批量更新 JSONL 文件
 └── translation_table.jsonl       # 翻译表（核心数据）
 ```
 
@@ -185,13 +195,33 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | `kn` | 孝之助 | 孝之助 |
 | `ju` | 柔一 | 柔一 |
 | `so` | 宗太郎 | 宗太郎 |
+| `yk` | 幸春 | 幸春（孝之助之弟） |
+| `harue` | 春恵 | 春恵（孝之助之母） |
+| `boy` | 七伏 | 七伏（谜之少年） |
+| `who` | — | 未确认身份的发言者 |
+| `brothers` | — | 兄弟齐声 |
+
+## Day 4 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `day04` | `extract/orig/4日目.ks` | 电话/日常选择 |
+| `torahiko04` | `extract/torahiko/4日目.ks` | 自行车看海 |
+| `tatsuki04` | `extract/orig/辰樹_s_01.ks` | 醉龙（3分支: party/scold/help） |
+| `shin04` | `extract/orig/深_m_02.ks` | 购物（2分支: commoner/familial） |
+| `shun04` | `extract/orig/峻_s_05.ks` | 棒冰（2分支: biteshun/bitesou） |
+| `kounosuke04` | `extract/orig/孝之助_m_02.ks` | 与幸春重逢 |
+| `juuichi04` | `extract/orig/柔一_m_02.ks` | 萤火虫（含鬼故事分支+背送回家） |
 
 ## 翻译进度
 
 | 文件 | 已翻译 | 总数 | 状态 |
 |------|--------|------|------|
+| Day 4.rpy | 748 | 748 | **100%** |
 | Welcome Party.rpy | 1336 | 1380 | 96.8% |
 | day 3.rpy | 419 | 422 | 99.3% |
 | day 2.rpy | 864 | 1076 | 80.3% |
-| 其他 26 个文件 | 8 | ~29000 | 待处理 |
-| **合计** | **2629** | **34191** | **7.7%** |
+| Day 16.rpy | 6 | 2148 | 0.3% |
+| day 5.rpy | 1 | 454 | 0.2% |
+| 其他 25 个文件 | 0 | ~28500 | 待处理 |
+| **合计** | **3374** | **34191** | **9.9%** |
