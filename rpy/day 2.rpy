@@ -6609,7 +6609,7 @@ translate chinese_simplified tatsuki02_coworkers_4586e84c:
 
     # "Like he's positively excellent, or something...{p}I've made him mad a lot,\nso I had an impression of him as a scary guy..."
     # [旧版翻译]
-    "似乎变得非常积极，从某种方面来说……因为他以前经常大发雷霆当时只觉得他是"很恐怖的人"，"
+    "似乎变得非常积极，从某种方面来说……因为他以前经常大发雷霆当时只觉得他是『很恐怖的人』，"
 
 # game/day 2.rpy:1909
 translate chinese_simplified tatsuki02_coworkers_b04c2f4e:

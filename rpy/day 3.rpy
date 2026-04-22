@@ -2181,7 +2181,7 @@ translate chinese_simplified shun03_6042a224:
 
     # "So {w=.5}that means it shouldn't be a problem even{p}if I take home a half-dried one."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 443)
-    "这[wait time="500"]意味着，把半干的胖次放在里面带回家也没问题吧。"
+    "这[wait time=500]意味着，把半干的胖次放在里面带回家也没问题吧。"
 
 # game/day 3.rpy:818
 translate chinese_simplified shun03_951a4c65:

@@ -1221,7 +1221,7 @@ translate chinese_simplified tatsuki04_party_5422c749:
 
     # ta "「If you're my father I'll eat my tail!!!」"
     # [旧版翻译]
-    ta "「少这里给我装什么"父令如山"！！！！」"
+    ta "「少这里给我装什么\"父令如山\"！！！！」"
 
 # game/Day 4.rpy:544
 translate chinese_simplified tatsuki04_party_7ac6ce71:

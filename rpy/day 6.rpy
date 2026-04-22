@@ -4264,7 +4264,7 @@ translate chinese_simplified day06_toratest_6433cd54:
 translate chinese_simplified day06_toratest_449559df:
 
     # "As his senpai, if I were to say,{p}\"I couldn't take any pictures,{p}because I was too scared\","
-    "作为前辈，如果我说{p}"因为害怕没能拍照"{p}的话"
+    "作为前辈，如果我说{p}\"因为害怕没能拍照\"{p}的话"
 
 # game/day 6.rpy:1950
 translate chinese_simplified day06_toratest_9016ec86:
@@ -5914,7 +5914,7 @@ translate chinese_simplified day06_shuntest_aa5ae3d7:
 translate chinese_simplified day06_shuntest_8bb3c717:
 
     # su "「Huh? Eeh!?\n Uwawawa!!」"
-    su "「哎？喂喂！？\n呜啊啊啊啊！」"
+    su "「哎？喂喂！？\\n呜啊啊啊啊！」"
 
 # game/day 6.rpy:2586
 translate chinese_simplified day06_shuntest_e7f95354:

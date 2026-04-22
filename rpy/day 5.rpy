@@ -1464,7 +1464,7 @@ translate chinese_simplified tatsuki05_busy_bd7a5111:
 translate chinese_simplified tatsuki05_busy_f5dcaac8:
 
     # "He's kind of careless, and his driving's crazy.{p}But that's just like him."
-    "糊里糊涂的，开车也好像很"厉害"呢。\n嘛——这样才像是辰兄的风格。"
+    "糊里糊涂的，开车也好像很『厉害』呢。\n嘛——这样才像是辰兄的风格。"
 
 # game/day 5.rpy:799
 translate chinese_simplified tatsuki05_busy_6b36696f:
