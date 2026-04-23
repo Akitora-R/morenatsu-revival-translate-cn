@@ -604,7 +604,7 @@ translate chinese_simplified kouya05_cheese_7ea6a772:
 translate chinese_simplified kouya05_cheese_4a2b400a:
 
     # "I thought about it,{p}then timidly looked around..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 洸哉_s_02.ks
     "我这么想着然后战战兢兢地环顾四周……"
 
 # game/day 5.rpy:368
@@ -1229,7 +1229,7 @@ translate chinese_simplified kouya05_takoyaki_bbaef1c8:
 translate chinese_simplified kouya05_takoyaki_581b824b:
 
     # "All Three" "「Huh?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 洸哉_s_02.ks
     "三人异口同声：「诶？」"
 
 # game/day 5.rpy:680
@@ -1464,7 +1464,7 @@ translate chinese_simplified tatsuki05_busy_bd7a5111:
 translate chinese_simplified tatsuki05_busy_f5dcaac8:
 
     # "He's kind of careless, and his driving's crazy.{p}But that's just like him."
-    "糊里糊涂的，开车也好像很『厉害』呢。\n嘛——这样才像是辰兄的风格。"
+    "糊里糊涂的，开车也好像很\"厉害\"呢。\n嘛——这样才像是辰兄的风格。"
 
 # game/day 5.rpy:799
 translate chinese_simplified tatsuki05_busy_6b36696f:

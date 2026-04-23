@@ -963,14 +963,14 @@ translate chinese_simplified torahiko04_6cdf86c0:
 translate chinese_simplified tatsuki04_21411347:
 
     # "Ah, it's hot...{p}I shouldn't have come out so carelessly.{p}Better hurry and get inside."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "哇，这么热的天。{p}看来我不应该随便出来的。{p}赶快进屋吧。"
 
 # game/Day 4.rpy:425
 translate chinese_simplified tatsuki04_01334a92:
 
     # fn "「Excuse me...!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「打搅喽......」"
 
 # game/Day 4.rpy:426
@@ -995,28 +995,28 @@ translate chinese_simplified tatsuki04_b9e7bba8:
 translate chinese_simplified tatsuki04_935a3228:
 
     # ta "「Oh,{w=.3} you came.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「呦！{w=.3}来的正好！！！」"
 
 # game/Day 4.rpy:436
 translate chinese_simplified tatsuki04_01644c6e:
 
     # ta "「Hurry up and come in,\n you gotta start sweeping up... Or something.{p} Gahahahahahahaha!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「快进来吧！再不进来的话我就把你绑进来！！！[l]嘎哈哈哈哈哈哈哈！！！！」"
 
 # game/Day 4.rpy:437
 translate chinese_simplified tatsuki04_3e1b4157:
 
     # "Urgh,{w=.3} it smells like sake."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "唔！{w=.3}好大一阵酒气。"
 
 # game/Day 4.rpy:438
 translate chinese_simplified tatsuki04_ff135c41:
 
     # fn "「Tatsu-nii, you reek of sake.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「辰兄，你身上的酒味好大啊。」"
 
 # game/Day 4.rpy:439
@@ -1035,14 +1035,14 @@ translate chinese_simplified tatsuki04_e604e22c:
 translate chinese_simplified tatsuki04_2d4e0f38:
 
     # ta "「I was made to drink in weather like this.{p} Hey, come in already, or it'll all be finished.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「这么好的天气不喝酒可伤不起啊![l]好啦！快进来！我要吃掉你呦！~」"
 
 # game/Day 4.rpy:445
 translate chinese_simplified tatsuki04_ac6bd44e:
 
     # "What are you saying..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "在说什么啊......"
 
 # game/Day 4.rpy:450
@@ -1055,21 +1055,21 @@ translate chinese_simplified tatsuki04_eccc8804:
 translate chinese_simplified tatsuki04_b42d4fe2:
 
     # tp "「Ooh, if it isn't [fn]! You come over here\n and have a drink, too.{p} You're old enough, right?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「呦~这不是博行嘛！你也到这边来一起喝吧。[l]这个年龄，也能喝酒了吧？」"
 
 # game/Day 4.rpy:455
 translate chinese_simplified tatsuki04_af753df8:
 
     # fn "「Tappei-san, you'll have to excuse me.{p} I'm not old enough to drink yet.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「啊！辰平叔饶了我吧。[l]我还远远没到能喝酒的年龄啊。」"
 
 # game/Day 4.rpy:461
 translate chinese_simplified tatsuki04_ddf438bc:
 
     # tp "「The hell are you on about, I was even younger\n than you when I had my first.{w} Are you saying you\n don't want my sake? Disrespecting your elders...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「诶？你小子在胡说些什么呢，我学会喝酒的时候，年龄可比你还小呢。{w}就是说...你是不想喝我的酒。是吧？[l]换言之，你居然在拒绝长辈的要求......」"
 
 # game/Day 4.rpy:465
@@ -1082,28 +1082,28 @@ translate chinese_simplified tatsuki04_5994516d:
 translate chinese_simplified tatsuki04_60b867a8:
 
     # "Phew, I'm saved."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "哎，终于得救了。"
 
 # game/Day 4.rpy:470
 translate chinese_simplified tatsuki04_6340cc49:
 
     # ta "「Anyway, let's make a toast.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「总之...先来干掉这杯吧！~」"
 
 # game/Day 4.rpy:471
 translate chinese_simplified tatsuki04_c50b779e:
 
     # fn "「No, that's not...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「不、不是那样的……」"
 
 # game/Day 4.rpy:475
 translate chinese_simplified tatsuki04_d7437ec4:
 
     # tp "「First off, beer.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「嘛！那就先从啤酒开始吧！」"
 
 # game/Day 4.rpy:479
@@ -1116,21 +1116,21 @@ translate chinese_simplified tatsuki04_7b2990a3:
 translate chinese_simplified tatsuki04_46555058:
 
     # "So many!!!{w=.3} And so long!!!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "好多！！！！{w=.3}而且好长！！！！"
 
 # game/Day 4.rpy:484
 translate chinese_simplified tatsuki04_5b64dbcc:
 
     # ta "「It's gotta be beer. I'll bring the vintage.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「果然还是从啤酒开始吧。我帮你拿瓶子过来。」"
 
 # game/Day 4.rpy:488
 translate chinese_simplified tatsuki04_f85277d9:
 
     # fn "「No, {w=.3}uh...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「不，{w=.3}那个...」"
 
 # game/Day 4.rpy:490
@@ -1143,91 +1143,91 @@ translate chinese_simplified tatsuki04_2990949e:
 translate chinese_simplified tatsuki04_e46514e5:
 
     # tp "「I'll teach ya about so many things...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「我会教你很多很多东西的啦……」"
 
 # game/Day 4.rpy:499
 translate chinese_simplified tatsuki04_a8c63955:
 
     # fn "「Ta-Tappei-san, what are you going to teach me?{p} Would you please wait???{p} And not pull me into strange situations!?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「欸！？辰、辰平叔，你要教我……教我做什么。。[l]等一下？？？[l]请别拉我奇怪的地方！？」"
 
 # game/Day 4.rpy:504
 translate chinese_simplified tatsuki04_b41283a9:
 
     # ta "「Pa, what are you doing, you bastard?!{p} [fn]'s mine,{w=.3}{nw}"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「喂！老爸，你想干什么。[l]博行可是我的人，{w=.3}{nw}"
 
 # game/Day 4.rpy:506
 translate chinese_simplified tatsuki04_cc4e48f7:
 
     # extend "hands off!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     extend "别随便碰他啊！！！」"
 
 # game/Day 4.rpy:508
 translate chinese_simplified tatsuki04_a60baa2c:
 
     # fn "「Uh, hey...{p} I feel like you two are going to rip me in half.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「那个，等一下……[l]两个人一起拉的话身体要裂开啦。」"
 
 # game/Day 4.rpy:509
 translate chinese_simplified tatsuki04_be9ea384:
 
     # "Yet, I'm kinda happy they're scrambling over me..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "不过，互相争夺我什么的，我反而感觉到有点点高兴呐……"
 
 # game/Day 4.rpy:513
 translate chinese_simplified tatsuki04_dfbdffac:
 
     # "I'm a terrible person."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "我怎么会这样想，{w=.3}我可真是罪孽深重的男人啊。"
 
 # game/Day 4.rpy:517
 translate chinese_simplified tatsuki04_911d97ec:
 
     # tp "「Get lost, shorty.{p} This is grown-up time.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「小孩子滚一边去！！！[l]接下来要到大人的时间了。」"
 
 # game/Day 4.rpy:521
 translate chinese_simplified tatsuki04_fa94a7c4:
 
     # ta "「Shut it, baldy.{p} This is the age of youth.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「秃头！给我闭嘴！[l]现在的世界可是属于我们年轻人的啊！」"
 
 # game/Day 4.rpy:522
 translate chinese_simplified tatsuki04_3a9b2bbf:
 
     # "Aaah, what should I do...?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "啊啊啊啊，怎么办……"
 
 # game/Day 4.rpy:539
 translate chinese_simplified tatsuki04_party_d38db8dd:
 
     # tp "「Bastard... Defying your father!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「什么！你……想要反抗父母吗！！！！」"
 
 # game/Day 4.rpy:543
 translate chinese_simplified tatsuki04_party_5422c749:
 
     # ta "「If you're my father I'll eat my tail!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「少这里给我装什么\"父令如山\"！！！！」"
 
 # game/Day 4.rpy:544
 translate chinese_simplified tatsuki04_party_7ac6ce71:
 
     # "This isn't getting better.{p}But how do I stop this...{p}Screw it. I've got to use my last resort!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "不妙的发展啊。{p}不过，要怎么阻止呢……{p}不管了，{w}既然这样了就喝吧！"
 
 # game/Day 4.rpy:545
@@ -1246,91 +1246,91 @@ translate chinese_simplified tatsuki04_party_e5bb51a5:
 translate chinese_simplified tatsuki04_party_df4d3ba6:
 
     # ta "「So it's like that.{p} Let's do this!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「就得这样嘛。[l]尽情开喝吧！！！」"
 
 # game/Day 4.rpy:557
 translate chinese_simplified tatsuki04_party_c8b911f9:
 
     # "Two hours later..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "两小时后……"
 
 # game/Day 4.rpy:561
 translate chinese_simplified tatsuki04_party_a1d58c15:
 
     # fn "「It hurts...{p} Hurk!{p} I can't...{w=.3} Drink anymore...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「好辛苦……[l]唔咕！[l]我已经……{w=.3}喝不下了……」"
 
 # game/Day 4.rpy:565
 translate chinese_simplified tatsuki04_party_0dc06640:
 
     # ta "「What's that...?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「什么嘛～」"
 
 # game/Day 4.rpy:566
 translate chinese_simplified tatsuki04_party_fe3503c0:
 
     # ta "「We just started, and you're already finished.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「这才刚刚开始呢，酒就已经喝光了吗？」"
 
 # game/Day 4.rpy:570
 translate chinese_simplified tatsuki04_party_39ee4e37:
 
     # tp "「Oh well... Let's keep drinking at Raimon.{p} My treat, so come along.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「真～真没办法呢，算啦！到雷门那里去喝吧。[l]那两个臭小子！跟过来。」"
 
 # game/Day 4.rpy:571
 translate chinese_simplified tatsuki04_party_cfed0566:
 
     # fn "「Hurk! We're still drinking...?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「噗，还要喝吗～」"
 
 # game/Day 4.rpy:575
 translate chinese_simplified tatsuki04_party_c8b911f9_1:
 
     # "Two hours later..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "两个小时后……"
 
 # game/Day 4.rpy:579
 translate chinese_simplified tatsuki04_party_63d2b8f9:
 
     # fn "「Spin... Spin... The world is spinning...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「转～转～世界转来转去～」"
 
 # game/Day 4.rpy:583
 translate chinese_simplified tatsuki04_party_da538cbf:
 
     # tp "「So stubborn!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「别和我啰嗦了！」"
 
 # game/Day 4.rpy:584
 translate chinese_simplified tatsuki04_party_6dc7b2d7:
 
     # tp "「I said [fn] will be staying in my room!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「博行都说了要到我的房间里留宿啊！！！！」"
 
 # game/Day 4.rpy:588
 translate chinese_simplified tatsuki04_party_c9c406d4:
 
     # ta "「Why does it have to be yours?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「诶！？怎么会变成是在老爸房间里留宿啊？」"
 
 # game/Day 4.rpy:592
 translate chinese_simplified tatsuki04_party_e27ac7a1:
 
     # tp "「Shaddup!{w} Stop bitching about what I do!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「真啰嗦！{w}别跟我挑刺！！」"
 
 # game/Day 4.rpy:596
@@ -1349,63 +1349,63 @@ translate chinese_simplified tatsuki04_party_73465669:
 translate chinese_simplified tatsuki04_party_66b38d2b:
 
     # ta "「Heh, bring it on.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「哼，很好」"
 
 # game/Day 4.rpy:602
 translate chinese_simplified tatsuki04_party_25aacc72:
 
     # ta "「I won't hold back, prepare yourself!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「我可不会放水的，你给我做好觉悟吧！！」"
 
 # game/Day 4.rpy:608
 translate chinese_simplified tatsuki04_party_adf7ce7d:
 
     # fn "「U-{w=.3}uuumm...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「唔、{w=.3}唔~」"
 
 # game/Day 4.rpy:609
 translate chinese_simplified tatsuki04_party_b94490d3:
 
     # om "「Kid,{w=.3} kid,{w=.3}wake up.{p} It's closing time.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     om "「小哥、{w=.3}小哥，{w=.3}快起来。[l]今晚店子已经要打烊了哦。」"
 
 # game/Day 4.rpy:613
 translate chinese_simplified tatsuki04_party_405db91c:
 
     # fn "「Hm?{w} Huh, where am I...?{p} Urgh,{w=.3} I feel sick...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「唔？{w}阿勒？这是哪里？[l]哇，{w=.3}好难受啊..」"
 
 # game/Day 4.rpy:614
 translate chinese_simplified tatsuki04_party_8b39b92a:
 
     # om "「Kid, are you all right?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     om "「小哥，没事吧？」"
 
 # game/Day 4.rpy:615
 translate chinese_simplified tatsuki04_party_79c192c0:
 
     # fn "「That's right, I was drinking at Raimon.{p} Huh...? Where'd those two go?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「啊！想起来了，是来了雷门喝酒来著。[l]阿勒？他们俩到哪里去了？」"
 
 # game/Day 4.rpy:616
 translate chinese_simplified tatsuki04_party_bd6b84cc:
 
     # om "「Right, here's the bill.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     om "「给您，麻烦确认下账单」"
 
 # game/Day 4.rpy:620
 translate chinese_simplified tatsuki04_party_4c6af77a:
 
     # fn "「What!?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「诶！？」"
 
 # game/Day 4.rpy:621
@@ -1424,7 +1424,7 @@ translate chinese_simplified tatsuki04_party_b9663d77:
 translate chinese_simplified tatsuki04_party_43b54e32:
 
     # om "「Don't make that face{w=.3} it's a joke.{p}This should make Mr. Midoriya uneasy.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     om "「小哥，不用摆出这么不安的表情啦。{w=.3}开玩笑的。[l]这笔账会记在翠屋的老板那里的，您就放心吧。」"
 
 # game/Day 4.rpy:627
@@ -1437,7 +1437,7 @@ translate chinese_simplified tatsuki04_party_5d642792:
 translate chinese_simplified tatsuki04_scold_d448ed45:
 
     # fn "「Please stop this, you two!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「你们！给我！适！可！而止啊！」"
 
 # game/Day 4.rpy:641
@@ -1450,14 +1450,14 @@ translate chinese_simplified tatsuki04_scold_95c53d68:
 translate chinese_simplified tatsuki04_scold_722edf77:
 
     # "Hmhmhm, I forcibly told them off.{p}I can do things when I need to..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "哼哼哼，到底把狠话说了出来了。{p}我也是那种到了忍无可忍的时候，什么事都能做出来的人呢......"
 
 # game/Day 4.rpy:649
 translate chinese_simplified tatsuki04_scold_e98adda3:
 
     # "Both" "「Shut up, you!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "「你给我闭嘴！！！！」"
 
 # game/Day 4.rpy:653
@@ -1470,7 +1470,7 @@ translate chinese_simplified tatsuki04_scold_e10cb584:
 translate chinese_simplified tatsuki04_scold_f397c31f:
 
     # ta "「Good god you're slutty.{p} You're a man, get ahold of yourself!!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「真是没出息。[l]要是个男人的话就给我振作起来！！！！」"
 
 # game/Day 4.rpy:655
@@ -1483,14 +1483,14 @@ translate chinese_simplified tatsuki04_scold_5537f7d3:
 translate chinese_simplified tatsuki04_scold_df550353:
 
     # "Both" "「What was that?! You got a problem?!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "「什么啊？你这家伙，难道还有什么意见吗！！！！」"
 
 # game/Day 4.rpy:663
 translate chinese_simplified tatsuki04_scold_63dadb59:
 
     # fn "「No, not at all.{w} I'm so sorry.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「不、没有。{w}对不起」"
 
 # game/Day 4.rpy:664
@@ -1503,91 +1503,91 @@ translate chinese_simplified tatsuki04_scold_dfa258ba:
 translate chinese_simplified tatsuki04_scold_4baff650:
 
     # ta "「Seriously, that was shameful.{p} What happened to the old you?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「真是的，真没出息。[l]以前的你到底哪里去了？」"
 
 # game/Day 4.rpy:669
 translate chinese_simplified tatsuki04_scold_89491752:
 
     # "Why are these drunkards making me mad?{p}These two get nasty when they drink...{p}I won't drink, and won't get close when they do."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "为什么我要被醉鬼给骂一顿啊？{p}这对父子喝醉酒后酒品真的很差啊……{p}以后还是趁他们不喝酒的时候再过来拜访吧。"
 
 # game/Day 4.rpy:676
 translate chinese_simplified tatsuki04_scold_811d8436:
 
     # "Both" "「You even listening?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "「听见了没？」"
 
 # game/Day 4.rpy:677
 translate chinese_simplified tatsuki04_scold_12cf189a:
 
     # fn "「Yes, I'm listening.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「是，有在听。」"
 
 # game/Day 4.rpy:691
 translate chinese_simplified tatsuki04_help_01c3ed07:
 
     # tp "「O-kay, I got it.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「好吧~我懂了。」"
 
 # game/Day 4.rpy:695
 translate chinese_simplified tatsuki04_help_e0ac555b:
 
     # tp "「Why don't we let [fn] pick?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「要选哪一边，就由博行来决定吧。」"
 
 # game/Day 4.rpy:699
 translate chinese_simplified tatsuki04_help_f5952afe:
 
     # ta "「I was waiting for that.{p} [fn], who do you think is better, me or Pa?{p} Pick the one you like.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「正合我意。[l]博行，我和老爸哪一边更好。[l]就由你来选择吧。」"
 
 # game/Day 4.rpy:700
 translate chinese_simplified tatsuki04_help_b1a79d9c:
 
     # "???"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "？？？"
 
 # game/Day 4.rpy:705
 translate chinese_simplified tatsuki04_help_4eff039b:
 
     # "Whaaat!!!{p}What the hell!!?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "纳尼~~~~~~~~～～！！！！{p}这到底是怎么回事！！！！"
 
 # game/Day 4.rpy:706
 translate chinese_simplified tatsuki04_help_a48b94b8:
 
     # "What do I do!?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "怎么办！！"
 
 # game/Day 4.rpy:707
 translate chinese_simplified tatsuki04_help_3d52ce6d:
 
     # "If I pick one, then I lose the other!!!{p}But!!{w} There's a really good situation here, too."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "鱼与熊掌不可兼得啊！！！！{p}不过！！{w}这也是很棒的状况呢。"
 
 # game/Day 4.rpy:708
 translate chinese_simplified tatsuki04_help_6fe59876:
 
     # "This is a once-in-a-lifetime chance.{p}I can't let this go right under my nose."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "倒过来想的话，这样的机会可是很难得的啊。{p}我绝对不会眼睁睁放跑这个好机会的。"
 
 # game/Day 4.rpy:709
 translate chinese_simplified tatsuki04_help_833e42a8:
 
     # "Ok, I've decided.{w} And that..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "好！决定了。{w}那就选……"
 
 # game/Day 4.rpy:714
@@ -1606,14 +1606,14 @@ translate chinese_simplified tatsuki04_help_8b5e0193:
 translate chinese_simplified tatsuki04_help_2845fff1:
 
     # ta "「Ma!?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「老妈！？」"
 
 # game/Day 4.rpy:721
 translate chinese_simplified tatsuki04_help_44b6b4cf:
 
     # "At some point, Yukino-san had appeared in the\ndoorway.{p}I wonder how much she saw?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "竟然没察觉到雪乃姨就站在起居室的门口。{p}到底是从什么时候开始偷看的啊？"
 
 # game/Day 4.rpy:725
@@ -1626,14 +1626,14 @@ translate chinese_simplified tatsuki04_help_2f0c9116:
 translate chinese_simplified tatsuki04_help_98dfa3f3:
 
     # tp "「Didn't you have a village assembly to go to?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「你今天不是有要紧的会议吗？」"
 
 # game/Day 4.rpy:731
 translate chinese_simplified tatsuki04_help_1e622654:
 
     # yukino "「I did.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     yukino "「啊啊」"
 
 # game/Day 4.rpy:732
@@ -1646,84 +1646,84 @@ translate chinese_simplified tatsuki04_help_9192992a:
 translate chinese_simplified tatsuki04_help_653ff3ed:
 
     # yukino "「More importantly, it looks like you've drunk a\n lot.{w} What kind of snacks do you want?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     yukino "「比起那个，看起来，你们喝了很多嘛。{w}要不要我做几个下酒菜给你们？」"
 
 # game/Day 4.rpy:737
 translate chinese_simplified tatsuki04_help_8097b5be:
 
     # tp "「Won't need any, we're going out now.{p} Bring me my clothes!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「不用了，等下我还要出门。[l]帮我把要穿的衣服拿过来！！」"
 
 # game/Day 4.rpy:738
 translate chinese_simplified tatsuki04_help_c7f12edb:
 
     # yukino "「You're going out?{p} Even though you're in the\n middle of drinking?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     yukino "「你要出门吗？[l]喝了这么多酒还要到外面去吗？」"
 
 # game/Day 4.rpy:739
 translate chinese_simplified tatsuki04_help_64a9cb4e:
 
     # tp "「Just hurry and get them.{p} They'll be in my room!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     tp "「别啰啰嗦嗦了！总之快点...快点给我拿过来。[l]就放在房间里！」"
 
 # game/Day 4.rpy:740
 translate chinese_simplified tatsuki04_help_7270d7b9:
 
     # yukino "「Yes, yes, I understand.{p} I'll clean up here.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     yukino "「是是，我知道了啦。[l]这里我就先打扫干净了哦。」"
 
 # game/Day 4.rpy:744
 translate chinese_simplified tatsuki04_help_fa34ed33:
 
     # "Tappei-san is running away from his wife...{p}Can't see that in such a scary guy."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     "辰平叔在老婆面前也是抬不起头呢……{p}雪乃姨明明看上去并不是那么可怕的人啊。"
 
 # game/Day 4.rpy:745
 translate chinese_simplified tatsuki04_help_4b92decd:
 
     # yukino "「Geez... that man can't be helped.{p} As soon as the living room gets messy, he runs.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     yukino "「真是的……那家伙真是叫人没办法呢。[l]只要情况不妙的话就会马上溜走。」"
 
 # game/Day 4.rpy:746
 translate chinese_simplified tatsuki04_help_620c0ee5:
 
     # yukino "「I'm sorry, [fn]-kun,\n you're always welcome here.{p} Come on, don't stand there idly. See them off.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     yukino "「博行真是抱歉啊博行，欢迎你下次再来。[l]喂，你也别在这发呆了，快去送送他啊。」"
 
 # game/Day 4.rpy:750
 translate chinese_simplified tatsuki04_help_572ad23b:
 
     # ta "「My bad.{w} I got a bit hot under the collar there...{p} I'll treat you to a meal.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「真是抱歉呢。{w}喝多了竟会为鸡毛蒜皮的小事生气……[l]下次请你吃饭吧。」"
 
 # game/Day 4.rpy:751
 translate chinese_simplified tatsuki04_help_4318c6ee:
 
     # fn "「Aaawesome.{w} But no alcohol.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     fn "「好耶。{w}不过酒是不能喝的哦~」"
 
 # game/Day 4.rpy:755
 translate chinese_simplified tatsuki04_help_4c706044:
 
     # ta "「Just food, I got it.{p} All right, let's go.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 辰樹_s_01.ks
     ta "「只是吃饭而已嘛，知道啦。[l]那我们也出发吧。」"
 
 # game/Day 4.rpy:773
 translate chinese_simplified shin04_e4adadbb:
 
     # fn "「Let's see, eggs are...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「这个，蛋在……」"
 
 # game/Day 4.rpy:774
@@ -1742,7 +1742,7 @@ translate chinese_simplified shin04_9759ec3f:
 translate chinese_simplified shin04_f818e483:
 
     # "I have been doing it so many times now."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "从刚刚开始就一直是这样。"
 
 # game/Day 4.rpy:777
@@ -1761,154 +1761,154 @@ translate chinese_simplified shin04_f2f6fe6b:
 translate chinese_simplified shin04_abc65e3c:
 
     # "It's awkward to get someone\nto come along just to shop too."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "不过只是出来买东西还要找人也有点丢脸。{p}而且，连买东西都会迷路什么的，\n要是给别人知道了，肯定会被笑的。"
 
 # game/Day 4.rpy:780
 translate chinese_simplified shin04_4aa02ee2:
 
     # "Besides, if I tell someone I got lost on a grocery run,\nI'll probably never live it down."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "这个，{w=.3}哎，蛋应该在刚刚经过的某个地方吧。{p}接下来是昆布酱油和葱还有小麦粉……"
 
 # game/Day 4.rpy:781
 translate chinese_simplified shin04_976abb25:
 
     # "Uhh, wait eggs should have been somewhere back there.\nAfter that is konbu, soy sauce, onions, wheat flour..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "「啊。」"
 
 # game/Day 4.rpy:785
 translate chinese_simplified shin04_c5ff15f2:
 
     # fn "「Ah-!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「啊。」"
 
 # game/Day 4.rpy:786
 translate chinese_simplified shin04_8bdeb57c:
 
     # who "「Ah-」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     who "「抱歉。」"
 
 # game/Day 4.rpy:790
 translate chinese_simplified shin04_644b5ced:
 
     # si "「Excuse me.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「不，是我不小心……{w}咦、诶？」"
 
 # game/Day 4.rpy:791
 translate chinese_simplified shin04_96ea3e8f:
 
     # fn "「No, it's my fault...{w} what?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「博行？」"
 
 # game/Day 4.rpy:795
 translate chinese_simplified shin04_4ad28681:
 
     # si "「[fn]?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「深君？」"
 
 # game/Day 4.rpy:796
 translate chinese_simplified shin04_a6369635:
 
     # fn "「Shin?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「你也来买东西吗？」"
 
 # game/Day 4.rpy:800
 translate chinese_simplified shin04_8111b4c8:
 
     # si "「Are you out shopping?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「嗯，对啊。{w}奶奶要我来的。」"
 
 # game/Day 4.rpy:801
 translate chinese_simplified shin04_3cc20744:
 
     # fn "「Well, yeah.{w} Grandma asked me.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "……"
 
 # game/Day 4.rpy:805
 translate chinese_simplified shin04_95fcdee9:
 
     # "{cps=5}..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "「深君刚好也来真是太好了。{p}我完全搞不清楚各种东西到底都在哪呢。」"
 
 # game/Day 4.rpy:811
 translate chinese_simplified shin04_f17afb3a:
 
     # fn "「I'm really lucky you were around Shin-kun.{p} I couldn't get a bead on where anything was.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「不客气。」"
 
 # game/Day 4.rpy:812
 translate chinese_simplified shin04_f2c25ab3:
 
     # si "「You're welcome.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「而且不能用手机真的很不方便呢。」"
 
 # game/Day 4.rpy:813
 translate chinese_simplified shin04_54bc738f:
 
     # fn "「It really is inconvenient not being able\n to use my cell phone.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「这样吗？{w}我倒觉得没什么关系。」"
 
 # game/Day 4.rpy:814
 translate chinese_simplified shin04_3ea0f809:
 
     # si "「Really?{w} I think I get on fine without it.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「在那边的话手机可是日常用品的说。{p}不能用的话好多事都很不方便。」"
 
 # game/Day 4.rpy:815
 translate chinese_simplified shin04_59c30228:
 
     # fn "「It's already become\n the most important everyday thing.\n Not being able to use it is a real pain.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「嗯……」"
 
 # game/Day 4.rpy:819
 translate chinese_simplified shin04_99fb6f40:
 
     # si "「Hmm...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「深君也会出来买东西啊？」"
 
 # game/Day 4.rpy:820
 translate chinese_simplified shin04_f2d3679e:
 
     # fn "「Are you out buying something?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「很意外么？」"
 
 # game/Day 4.rpy:824
 translate chinese_simplified shin04_eab88986:
 
     # si "「Does that surprise you?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「嗯。{p}还以为都是请产地直接送高级食材过来什么的。」"
 
 # game/Day 4.rpy:825
 translate chinese_simplified shin04_ee5c02a3:
 
     # fn "「Yeah.{p} Always figured you'd have\n high class stuff delivered home.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「嗯。{p}还以为都是请产地直接送高级食材过来什么的。」"
 
 # game/Day 4.rpy:829
 translate chinese_simplified shin04_06de70fa:
 
     # si "「We've got so much fresh produce nearby,\n why order in from far away?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「当地就可以买到这些新鲜的食材，\n没必要特地再从远方寄过来吧？」"
 
 # game/Day 4.rpy:830
@@ -1921,7 +1921,7 @@ translate chinese_simplified shin04_dc6dd94f:
 translate chinese_simplified shin04_a36240c9:
 
     # fn "「B-but still,\n won't you have to do it for everyone at home?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「不、不过啊，{w=.3}\n这种事平常应该都是家里的人在做吧？」"
 
 # game/Day 4.rpy:835
@@ -1940,70 +1940,70 @@ translate chinese_simplified shin04_0d513861:
 translate chinese_simplified shin04_9dd71d44:
 
     # fn "「O-oh...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「咦，啊……」"
 
 # game/Day 4.rpy:841
 translate chinese_simplified shin04_61cc23b7:
 
     # "That's so..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "这个嘛，总觉得感觉还挺"
 
 # game/Day 4.rpy:854
 translate chinese_simplified shin04_commoner_84232383:
 
     # fn "「Shin-kun, you're more like a commoner than I thought.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「深君意外地还挺贴近平民的嘛。」"
 
 # game/Day 4.rpy:858
 translate chinese_simplified shin04_commoner_c41f47c5:
 
     # si "「What do you mean by that?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「这是什么意思？」"
 
 # game/Day 4.rpy:859
 translate chinese_simplified shin04_commoner_18f73803:
 
     # fn "「I thought you'd be more detached\n from ordinary life or something.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「还以为深君平常的生活会离凡人更远一点的。」"
 
 # game/Day 4.rpy:863
 translate chinese_simplified shin04_commoner_bef95801:
 
     # si "「...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「……」"
 
 # game/Day 4.rpy:870
 translate chinese_simplified shin04_familial_f042f988:
 
     # fn "「Shin-kun, you're surprisingly familial-minded.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「深君意外地还挺顾家的嘛。」"
 
 # game/Day 4.rpy:874
 translate chinese_simplified shin04_familial_7d4a1f26:
 
     # si "「Surprisingly?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「意外？」"
 
 # game/Day 4.rpy:875
 translate chinese_simplified shin04_familial_cadbf69c:
 
     # fn "「Yeah.{w} I thought you'd leave\n all the house matters to the servants.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「嗯。{w}还以为家里的事会全都交给管家去办的说。」"
 
 # game/Day 4.rpy:879
 translate chinese_simplified shin04_familial_1ef86831:
 
     # si "「...there's only one servant in the house, you know?\n Besides, even I do housework.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「……我家的管家，可只有一个人而已喔？{p}而且，我跟一般人一样也是会做家事的。」"
 
 # game/Day 4.rpy:892
@@ -2016,35 +2016,35 @@ translate chinese_simplified shin04_after_b7cd5314:
 translate chinese_simplified shin04_after_bb9affa3:
 
     # fn "「Ah, yeah.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「啊，嗯。」"
 
 # game/Day 4.rpy:894
 translate chinese_simplified shin04_after_b2564ac3:
 
     # "Did I make him mad?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     "该不会有点生气了吧？"
 
 # game/Day 4.rpy:898
 translate chinese_simplified shin04_after_aaa23f14:
 
     # si "「I hate it.{p} I hate having people put this image on me like that.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「我不喜欢这样。{p}用那种方式，凭外表来判断一个人什么的。」"
 
 # game/Day 4.rpy:899
 translate chinese_simplified shin04_after_17aafd9c:
 
     # fn "「Sorry...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「抱歉……」"
 
 # game/Day 4.rpy:903
 translate chinese_simplified shin04_after_165fd015:
 
     # si "「It's fine...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「不，没事……」"
 
 # game/Day 4.rpy:904
@@ -2063,14 +2063,14 @@ translate chinese_simplified shin04_after_537d8f51:
 translate chinese_simplified shin04_after_b3fdc9c3:
 
     # si "「See you later, [fn].」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     si "「再见，博行。」"
 
 # game/Day 4.rpy:910
 translate chinese_simplified shin04_after_a605d445:
 
     # fn "「Oh, right. Later.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 深_m_02.ks
     fn "「啊，嗯。再见。」"
 
 # game/Day 4.rpy:914
@@ -2083,7 +2083,7 @@ translate chinese_simplified shin04_after_2f81be17:
 translate chinese_simplified shun04_a566f543:
 
     # "I rustle the hem of my shirt open,\nsending a breeze directly to my bare skin."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "呼啦呼啦地敞开衬衫的下摆，让吹来的风直接接触皮肤。"
 
 # game/Day 4.rpy:933
@@ -2096,98 +2096,98 @@ translate chinese_simplified shun04_e9189c8a:
 translate chinese_simplified shun04_10a14edd:
 
     # "It's still morning, and yet the sun's starting\ndash isn't half-done."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "明明还没到中午，太阳的威力还真不是盖的。"
 
 # game/Day 4.rpy:935
 translate chinese_simplified shun04_2a046a2e:
 
     # "Surely by afternoon some of the village's\nresidents will have melted."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "中午过后，这个村的住民有些会热到融化吧。"
 
 # game/Day 4.rpy:936
 translate chinese_simplified shun04_851720db:
 
     # "I'm flowing with sweat.{p}In an impending water shortage,\nmy body sends out an SOS."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "汗不停地流下。{p}由于水分不足，我的身体发出了SOS的信号。"
 
 # game/Day 4.rpy:937
 translate chinese_simplified shun04_352203c6:
 
     # "<SAVE OUR SWEATS.>"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "SAVE OUR SWEATS."
 
 # game/Day 4.rpy:938
 translate chinese_simplified shun04_07fcd473:
 
     # "I'll stop at the candy store\nand buy something to drink."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "去一趟糖果屋，买些什么来喝吧。"
 
 # game/Day 4.rpy:943
 translate chinese_simplified shun04_9eb67089:
 
     # "Uugh, I'm dizzy just from walking a little bit.{p}I wonder if there's body training to endure heat..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "唔唔，明明只是走了一小段路，就有点头晕目眩的感觉了。{p}看来要能更耐热的话，就必须去锻炼身体了啊……"
 
 # game/Day 4.rpy:944
 translate chinese_simplified shun04_e13d468b:
 
     # "Gasping for air, I barely manage to make it\nto my destination and its proceeding visitors."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "一边喘气一边走到了目的地，这时候已经有人先到了。"
 
 # game/Day 4.rpy:945
 translate chinese_simplified shun04_3c59f223:
 
     # "It's slightly cooler under the edge of the eaves,\nsince it makes shade."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "在屋檐下，有一块因为背阴而稍微凉快的阴影。"
 
 # game/Day 4.rpy:946
 translate chinese_simplified shun04_020482dc:
 
     # "Two people are lined up, sitting on a bench,\nand holding something in their mouths.{p}I recognize them by the shape of their ears."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "两只兽坐在一张长椅上，在吃着些什么。{p}那耳朵的形状看起来很眼熟啊。"
 
 # game/Day 4.rpy:952
 translate chinese_simplified shun04_e9eabaef:
 
     # fn "「Heeey!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「喂！」"
 
 # game/Day 4.rpy:956
 translate chinese_simplified shun04_e56cda33:
 
     # su "「Ah, [fn]-san! Good morning!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「啊，博行桑！早上好！」"
 
 # game/Day 4.rpy:960
 translate chinese_simplified shun04_38022888:
 
     # so "「Good mornin'!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「早上好！」"
 
 # game/Day 4.rpy:961
 translate chinese_simplified shun04_e2c059d7:
 
     # fn "「Aah, morning, to both of you.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「啊啊，早上好，你们两个。」"
 
 # game/Day 4.rpy:967
 translate chinese_simplified shun04_556a7e4e:
 
     # "I want to greet them,{w} but I'm already\nout of strength to run up to them."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "虽然打招呼是件好事，但是{w}已经完全没有任何体力先到两人那里去了啊。"
 
 # game/Day 4.rpy:968
@@ -2200,56 +2200,56 @@ translate chinese_simplified shun04_0f85fca7:
 translate chinese_simplified shun04_8e9fd259:
 
     # su "「A-are you alright?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「没、没问题吗？」"
 
 # game/Day 4.rpy:975
 translate chinese_simplified shun04_7350fa8b:
 
     # so "「You were staggerin' around.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「摇摇晃晃的啊。」"
 
 # game/Day 4.rpy:976
 translate chinese_simplified shun04_d69ee663:
 
     # fn "「Ahaha, I'm fine I'm fine.{p} It's a little too hot today...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「啊哈哈，没问题没问题。{p}只是今天实在是有些热过头了啊……」"
 
 # game/Day 4.rpy:982
 translate chinese_simplified shun04_70a07f38:
 
     # "It's different for them.{p}Unlike me, both of them have spent\nmany summers in Minasato."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "他们不一样呢。{p}跟我不一样，两人夏天都是在水乡村度过的。"
 
 # game/Day 4.rpy:983
 translate chinese_simplified shun04_bcd4c195:
 
     # "This heat and humidity{p}doesn't seem to be much to them."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "这种炎热和湿气{p}对他们来说似乎不算什么。"
 
 # game/Day 4.rpy:984
 translate chinese_simplified shun04_dc0470db:
 
     # "Rattle.{p}Rattlerattle.{p}Rattlerattlerattle."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "喀拉。{p}喀拉喀拉。{p}喀拉喀拉喀拉。"
 
 # game/Day 4.rpy:985
 translate chinese_simplified shun04_162f7601:
 
     # fn "「Guh, it's hard to drink.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「唔，难饮用啊。」"
 
 # game/Day 4.rpy:986
 translate chinese_simplified shun04_4265f803:
 
     # "I was deceived by it's refreshing\nappearance and made a mistake."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "被那个看上去很清凉的外型给骗了啊。"
 
 # game/Day 4.rpy:987
@@ -2268,7 +2268,7 @@ translate chinese_simplified shun04_d7222536:
 translate chinese_simplified shun04_c75ab1e7:
 
     # su "「Um, [fn]-san, there's-」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「那个，博行桑，那个……」"
 
 # game/Day 4.rpy:993
@@ -2281,21 +2281,21 @@ translate chinese_simplified shun04_5432da0a:
 translate chinese_simplified shun04_6c68f615:
 
     # su "「At the neck of the bottle there's a spot where{p} you trap it and drink.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「在瓶口的那个，要拉开那个扣环才能喝。」"
 
 # game/Day 4.rpy:998
 translate chinese_simplified shun04_b5fb207e:
 
     # fn "「What?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「咦？」"
 
 # game/Day 4.rpy:999
 translate chinese_simplified shun04_fbbdc3f9:
 
     # "Shun-kun garnishes his words with reservation.{p}Once again I stare at the thing in my hand."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "峻还是很关心的把话说完了。{p}我又重新看了看手中的东西。"
 
 # game/Day 4.rpy:1000
@@ -2308,77 +2308,77 @@ translate chinese_simplified shun04_19d9a1a8:
 translate chinese_simplified shun04_bb8729a9:
 
     # "In other words, if it does this from the inside,\nthis must be the \"bulge\"!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "也就是说，把这个拉开就可以了啊！"
 
 # game/Day 4.rpy:1002
 translate chinese_simplified shun04_e185235a:
 
     # fn "「Ooh!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「喔喔！」"
 
 # game/Day 4.rpy:1003
 translate chinese_simplified shun04_444667d8:
 
     # "Gently tilting it, I hold back the marble\nof the root of all evil."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "此时再往口中一倒，万恶的根源的那颗弹珠终于不再碍事。"
 
 # game/Day 4.rpy:1004
 translate chinese_simplified shun04_aec48e63:
 
     # "A clear, fresh stream fills the inside of my mouth.{p}My throat dances to the stimulus\nthat pierces through."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "口中满是清爽的水流。{p}碳酸的刺激，在喉咙中跳跃着。"
 
 # game/Day 4.rpy:1005
 translate chinese_simplified shun04_b1b780ed:
 
     # fn "「Guh! Thanks, Shun-kun!{p} So this is how you drink ramune.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「呼！谢谢啦峻君！{p}汽水要这样子才能喝啊。」"
 
 # game/Day 4.rpy:1009
 translate chinese_simplified shun04_46094ae8:
 
     # so "「You didn't know?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「你不知道吗？」"
 
 # game/Day 4.rpy:1010
 translate chinese_simplified shun04_04b1e4ca:
 
     # "There's no implication of criticizing me for\nignorance in his eyes, pure surprise dwells in them."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "那双眼睛并不是在责备着自己的无知，只是单纯的很惊讶。"
 
 # game/Day 4.rpy:1011
 translate chinese_simplified shun04_97be44da:
 
     # "Yeah, it's probably common sense\nfor everybody in this village."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "唔，这种事情在这村子里面是常识吧。"
 
 # game/Day 4.rpy:1015
 translate chinese_simplified shun04_48b34190:
 
     # su "「[fn]-san used to drink\n like that back then, too.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「博行在以前也喝过喔。」"
 
 # game/Day 4.rpy:1019
 translate chinese_simplified shun04_524c02a6:
 
     # su "「You forgot, didn't you?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「忘记了吧？」"
 
 # game/Day 4.rpy:1020
 translate chinese_simplified shun04_1e02fcfe:
 
     # fn "「Oh, well...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「啊，是啊。」"
 
 # game/Day 4.rpy:1021
@@ -2409,35 +2409,35 @@ translate chinese_simplified shun04_1b07cc6f:
 translate chinese_simplified shun04_d9d58eee:
 
     # fn "「Both of you are eating the same popsicle?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「你们两个，吃一样的冰吗？」"
 
 # game/Day 4.rpy:1036
 translate chinese_simplified shun04_91c3932c:
 
     # so "「Yep.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「是啊。」"
 
 # game/Day 4.rpy:1037
 translate chinese_simplified shun04_484e9ec6:
 
     # su "「We split it in half.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「两人各吃一半。」"
 
 # game/Day 4.rpy:1038
 translate chinese_simplified shun04_80a4136a:
 
     # "He shows me the empty package.{p}Stuck on a stick, are long and narrow lumps of ice,\nthe two of them joined together."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "看了看那空了的包装袋。{p}一份是由两个木棒并排串着的角柱状的冰块。"
 
 # game/Day 4.rpy:1039
 translate chinese_simplified shun04_93d571cb:
 
     # "It can be broken vertically and eaten,\na popsicle double bar.{p}It's green and seems to taste like soda."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "可以从中间分成两半来食用。{p}看上去是苏打口味的绿色。"
 
 # game/Day 4.rpy:1040
@@ -2450,7 +2450,7 @@ translate chinese_simplified shun04_850cbc9e:
 translate chinese_simplified shun04_852e9f04:
 
     # "They don't have much pocket money do they?{p}I worry about that."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "是因为零用钱的关系吗？{p}还是在担心些什么呢。"
 
 # game/Day 4.rpy:1042
@@ -2463,7 +2463,7 @@ translate chinese_simplified shun04_eddca760:
 translate chinese_simplified shun04_880d3b20:
 
     # "it really doesn't seem\nlike they'd be around the same age as me."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "完全想不到会是跟我差不多同样年纪的啊。"
 
 # game/Day 4.rpy:1044
@@ -2482,7 +2482,7 @@ translate chinese_simplified shun04_99c84751:
 translate chinese_simplified shun04_9b551283:
 
     # su "「It's too big for me to eat.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「不能一次吃那么多的冰啦。」"
 
 # game/Day 4.rpy:1050
@@ -2495,28 +2495,28 @@ translate chinese_simplified shun04_8fa0b9da:
 translate chinese_simplified shun04_e1b3e45a:
 
     # "Is it because of the smallness of his body?{p}Or maybe he's naturally weak against cold things."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "是因为身体很小的关系吗？{p}还是天生就对冷的东西比较没辙。"
 
 # game/Day 4.rpy:1055
 translate chinese_simplified shun04_64157948:
 
     # su "「So when we take it out to eat,\n I choose the small one.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「所以买外面的东西来吃时就选择小的。」"
 
 # game/Day 4.rpy:1056
 translate chinese_simplified shun04_48a78d0b:
 
     # fn "「What about you, Soutarou-kun?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「那宗太郎你呢？」"
 
 # game/Day 4.rpy:1057
 translate chinese_simplified shun04_7bda01ab:
 
     # "I try to compare their heights.\nThey're not very different."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "两个人以身高来看的话，实在是没什么差异。"
 
 # game/Day 4.rpy:1058
@@ -2529,14 +2529,14 @@ translate chinese_simplified shun04_80b5b4c0:
 translate chinese_simplified shun04_012e3135:
 
     # "Maybe he went halfsies with Shun-kun\nbecause they're dating?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "该不会是为了配合峻才吃一半的吧？"
 
 # game/Day 4.rpy:1063
 translate chinese_simplified shun04_6d709d65:
 
     # so "「I'm kinda restrictin' myself from too much\n sweet stuff right now.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「我现在必须少吃甜食。」"
 
 # game/Day 4.rpy:1064
@@ -2549,28 +2549,28 @@ translate chinese_simplified shun04_1a71776a:
 translate chinese_simplified shun04_663b1cad:
 
     # fn "「Isn't soccer a sport where you run around a lot?{p} I'd think that eating a lot would be helpful.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「足球是一种要奔跑的运动对吧？{p}应该要多吃一些才会有力气吧。」"
 
 # game/Day 4.rpy:1069
 translate chinese_simplified shun04_0536921a:
 
     # so "「I'm goin' easy on the sweets so I'll only\n be hungry for breakfast, lunch, and dinner.{p} Having too much sugar is bad.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「肚子饿的话是也会在正餐之外进食，但是糖果不能多吃。{p}摄取糖分太多不好。」"
 
 # game/Day 4.rpy:1070
 translate chinese_simplified shun04_5e895615:
 
     # fn "「I see.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「这样啊。」"
 
 # game/Day 4.rpy:1071
 translate chinese_simplified shun04_fe515059:
 
     # "I'm satisfied with each of their reasons."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "这么讲的话能接受啊。"
 
 # game/Day 4.rpy:1072
@@ -2583,7 +2583,7 @@ translate chinese_simplified shun04_503d0ed7:
 translate chinese_simplified shun04_c585fb25:
 
     # "It's heartwarming."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "还真是愉快啊。"
 
 # game/Day 4.rpy:1074
@@ -2602,14 +2602,14 @@ translate chinese_simplified shun04_94ab84fa:
 translate chinese_simplified shun04_dfe19a89:
 
     # "The theme for my research project has been\nstrongly decided!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "自由研究就决定是这个题目了！"
 
 # game/Day 4.rpy:1077
 translate chinese_simplified shun04_3672b441:
 
     # "August 4th."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "８月４日。"
 
 # game/Day 4.rpy:1081
@@ -2622,7 +2622,7 @@ translate chinese_simplified shun04_9c7e2730:
 translate chinese_simplified shun04_e3c8f0d0:
 
     # "He's the type who chews and swallows."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "是咬碎吞下的类型。"
 
 # game/Day 4.rpy:1086
@@ -2635,21 +2635,21 @@ translate chinese_simplified shun04_3a316b6e:
 translate chinese_simplified shun04_4c07d2f0:
 
     # "He's the type who gradually wears it down."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "是慢慢舔蚀的类型。"
 
 # game/Day 4.rpy:1088
 translate chinese_simplified shun04_3dc4c083:
 
     # "They softly bite down, and it changes shape\nin the tip of their muzzles."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "轻轻地把冰棒咬下，再含入口中。"
 
 # game/Day 4.rpy:1089
 translate chinese_simplified shun04_7701a4a1:
 
     # "Occasionally they lick up the drops oozing down.{p}Then they put their lips gently around the tips\nand rotate it so that it runs along their tongues."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "不时地舔着快要溶化滴下的冰棒的水滴。{p}沿着嘴唇舔着舌头。"
 
 # game/Day 4.rpy:1090
@@ -2662,28 +2662,28 @@ translate chinese_simplified shun04_11868ea9:
 translate chinese_simplified shun04_c3d3c9bc:
 
     # "Ooh, it's no use.{p}Dammit, the heat seems to have wrecked\nmy central nervous system."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "唔，不行不行。{p}真是的，因为太热了大脑反应不过来了的样子啊。"
 
 # game/Day 4.rpy:1092
 translate chinese_simplified shun04_a3eeafbc:
 
     # "I withdraw from the immoral direction my thoughts\nwere going."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "得快点跳离那色情的思考方向。"
 
 # game/Day 4.rpy:1093
 translate chinese_simplified shun04_0d477fbb:
 
     # "However,{p}my hot bar has begun to raise its head."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "不过。{p}我那发热的棒子已经开始抬起了头。"
 
 # game/Day 4.rpy:1094
 translate chinese_simplified shun04_aba4f5e8:
 
     # "I think I should enjoy this situation a little longer!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "稍微，乐于这种状况不是也不错吗！"
 
 # game/Day 4.rpy:1112
@@ -2696,28 +2696,28 @@ translate chinese_simplified shun04_biteshun_0b102cef:
 translate chinese_simplified shun04_biteshun_87f51db6:
 
     # su "「Well then, go ahead and have some of mine♪」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「那要吃我的吗？」"
 
 # game/Day 4.rpy:1117
 translate chinese_simplified shun04_biteshun_8a2d65a8:
 
     # "He offers it to me without hesitation.{p}Not too long, not too thick. The best size."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "峻君毫不犹豫地递出冰棒。{p}是刚刚好的最棒的尺寸。"
 
 # game/Day 4.rpy:1118
 translate chinese_simplified shun04_biteshun_5cbea187:
 
     # "Half of it has already been chewed,\nand the surface has melted."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "已经有一半左右被吃掉了，表面也有些溶化。"
 
 # game/Day 4.rpy:1119
 translate chinese_simplified shun04_biteshun_1524e9ca:
 
     # fn "「Thank you!\n Alright, let's eat!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「谢谢啦！那开动了！」"
 
 # game/Day 4.rpy:1120
@@ -2730,21 +2730,21 @@ translate chinese_simplified shun04_biteshun_a6024219:
 translate chinese_simplified shun04_biteshun_fcfed78d:
 
     # "This is the rod Shun-kun has been licking\nand rolling his tongue on..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "这个冰棒是被峻君舔过的呢……"
 
 # game/Day 4.rpy:1123
 translate chinese_simplified shun04_biteshun_318bc1bd:
 
     # "[fn], bite at it from the side☆{w}{nw}"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "博行，横着咬了一口☆{w}{nw}"
 
 # game/Day 4.rpy:1125
 translate chinese_simplified shun04_biteshun_d4d5b9b8:
 
     # "Kapu. Porori."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "咔卟。嘙咯。"
 
 # game/Day 4.rpy:1127
@@ -2757,70 +2757,70 @@ translate chinese_simplified shun04_biteshun_83ca79d2:
 translate chinese_simplified shun04_biteshun_3a3e78f9:
 
     # "My wish that it escapes into my mouth\nalso doesn't come true,{p}and it falls off the stick and onto the ground."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "想要把它含进嘴里的愿望也没能实现，{p}就这样从冰棒棍掉到了地上。"
 
 # game/Day 4.rpy:1132
 translate chinese_simplified shun04_biteshun_8ff30a08:
 
     # so "「Ah.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「啊。」"
 
 # game/Day 4.rpy:1133
 translate chinese_simplified shun04_biteshun_b7fd84b7:
 
     # fn "「Ah.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「啊。」"
 
 # game/Day 4.rpy:1137
 translate chinese_simplified shun04_biteshun_8bd97340:
 
     # su "「...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「……」"
 
 # game/Day 4.rpy:1141
 translate chinese_simplified shun04_biteshun_a847dba0:
 
     # su "「Fueh.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「唔。」"
 
 # game/Day 4.rpy:1145
 translate chinese_simplified shun04_biteshun_3df91c76:
 
     # su "「It fell off.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「掉下去了。」"
 
 # game/Day 4.rpy:1151
 translate chinese_simplified shun04_biteshun_b4009bef:
 
     # "After that, I buy another\nof the same kind of popsicle,"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "当然的在那之后，我买了一支同样的冰棒，"
 
 # game/Day 4.rpy:1152
 translate chinese_simplified shun04_biteshun_5d742c33:
 
     # "Remove a portion of the same length that fell,{p}and, needless to say, give it to Shun-kun."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "分成跟掉下去时一样的长度，{p}当然，递给了峻君。"
 
 # game/Day 4.rpy:1165
 translate chinese_simplified shun04_bitesou_2e13e7ce:
 
     # "While I'm thinking,\nShun-kun already finishes his popsicle."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "在思考了一下之后，才发现峻君已经把冰棒给吃完了。"
 
 # game/Day 4.rpy:1166
 translate chinese_simplified shun04_bitesou_c3526a31:
 
     # fn "「Soutarou-kun.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「宗太郎君。」"
 
 # game/Day 4.rpy:1167
@@ -2839,119 +2839,119 @@ translate chinese_simplified shun04_bitesou_2f9b517a:
 translate chinese_simplified shun04_bitesou_66211d64:
 
     # so "「Um...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「那个……」"
 
 # game/Day 4.rpy:1173
 translate chinese_simplified shun04_bitesou_1cfe1c62:
 
     # so "「Sorry, but no.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「不好意思，不行。」"
 
 # game/Day 4.rpy:1174
 translate chinese_simplified shun04_bitesou_f73600cc:
 
     # "!{w} I've been rejected!{p}But he has an apologetic look on his face!{w=.3}\nPush him further!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "！{w}被拒绝了！{p}不过表情看上去是有些抱歉的样子！{w=.3}再试一次！"
 
 # game/Day 4.rpy:1175
 translate chinese_simplified shun04_bitesou_b102190e:
 
     # fn "「Just a little will be fine, won't it?{p} I want to taste it.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「只要一点点就可以喔？{p}只是想尝尝味道。」"
 
 # game/Day 4.rpy:1176
 translate chinese_simplified shun04_bitesou_183761d1:
 
     # so "「No.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「不行。」"
 
 # game/Day 4.rpy:1177
 translate chinese_simplified shun04_bitesou_03e5063e:
 
     # fn "「You don't like me?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「是讨厌我吗？」"
 
 # game/Day 4.rpy:1178
 translate chinese_simplified shun04_bitesou_7ffb453b:
 
     # so "「Th-that's not it, but.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「不、不是那个意思。」"
 
 # game/Day 4.rpy:1179
 translate chinese_simplified shun04_bitesou_1d9abc99:
 
     # "A brief silence."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "沉默了一下。"
 
 # game/Day 4.rpy:1180
 translate chinese_simplified shun04_bitesou_13c86eb2:
 
     # so "「...that's like an indirect {size=15}×kiss×,{size=25} isn't it?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「……间接{size=15}接吻{/size}，那个不是很像是吗？」"
 
 # game/Day 4.rpy:1181
 translate chinese_simplified shun04_bitesou_89a69c34:
 
     # "He quietly mutters.{p}I make up for the part I couldn't hear\nwith the surrounding context."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "那句话讲得非常的小声。{p}听不到的部分已经用前后文推测的方式补起来了。"
 
 # game/Day 4.rpy:1182
 translate chinese_simplified shun04_bitesou_62bd5d07:
 
     # "My midsummer day brain is not to be made light of!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "要是在盛夏中的大脑被小看了的话是很让人困扰的啊！"
 
 # game/Day 4.rpy:1186
 translate chinese_simplified shun04_bitesou_74c10e7f:
 
     # su "「?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「？」"
 
 # game/Day 4.rpy:1187
 translate chinese_simplified shun04_bitesou_bcb9d0c3:
 
     # "On the other hand, Shun-kun tilts his head\nin deep interest."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "另一方面，峻君相当感兴趣地歪着头。"
 
 # game/Day 4.rpy:1188
 translate chinese_simplified shun04_bitesou_6c97d67a:
 
     # su "「I couldn't hear you very well.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「听得不是很清楚啊。」"
 
 # game/Day 4.rpy:1192
 translate chinese_simplified shun04_bitesou_d4a18bcd:
 
     # so "「Uhh, that's because...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「就、就是，啊……」"
 
 # game/Day 4.rpy:1193
 translate chinese_simplified shun04_bitesou_03ded123:
 
     # "Then Shun-kun stares at him with pure eyes.\nFeeling bewildered,{w} Soutarou-kun's cheeks redden."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "被峻那单纯的眼神一看，宗太郎困惑的红了脸。"
 
 # game/Day 4.rpy:1194
 translate chinese_simplified shun04_bitesou_7505b309:
 
     # "Shun-kun must still be at an age where he doesn't\nworry about those kinds of things."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "以峻君来说的话，应该是还不会注意到那件事情的年纪吧。"
 
 # game/Day 4.rpy:1195
@@ -2964,28 +2964,28 @@ translate chinese_simplified shun04_bitesou_ec5b0761:
 translate chinese_simplified shun04_bitesou_5ad86ce5:
 
     # su "「Ah, Soutarou-kun!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「啊、宗太郎君！」"
 
 # game/Day 4.rpy:1200
 translate chinese_simplified shun04_bitesou_6b27f39e:
 
     # "Suddenly,\nShun-kun's expression does a complete change."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "峻君的表情突然改变了。"
 
 # game/Day 4.rpy:1204
 translate chinese_simplified shun04_bitesou_ba414bc8:
 
     # so "「Huh?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     so "「咦？」"
 
 # game/Day 4.rpy:1208
 translate chinese_simplified shun04_bitesou_a28c208f:
 
     # su "「You're a winner! It's the winner mark!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「是中奖喔！是中奖的图案！」"
 
 # game/Day 4.rpy:1209
@@ -2998,7 +2998,7 @@ translate chinese_simplified shun04_bitesou_4ae550c7:
 translate chinese_simplified shun04_bitesou_1ee9dfc0:
 
     # "The word \"winner\" is showing through\non the stick."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "冰棒棍上透出了「中奖」这两个字。"
 
 # game/Day 4.rpy:1214
@@ -3011,28 +3011,28 @@ translate chinese_simplified shun04_bitesou_458846db:
 translate chinese_simplified shun04_bitesou_1c49c20d:
 
     # fn "「Oh... okay. Thanks, Soutarou-kun.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     fn "「啊……嗯。谢谢啊，宗太郎君。」"
 
 # game/Day 4.rpy:1216
 translate chinese_simplified shun04_bitesou_87e7934c:
 
     # "Looks like he gave me the slip.{p}I'm heartbroken."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     "话题好像巧妙地被扯开了的样子。{p}真失望。"
 
 # game/Day 4.rpy:1217
 translate chinese_simplified shun04_bitesou_b1db05ea:
 
     # su "「Good for you!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 峻_s_05.ks
     su "「真是太好了！」"
 
 # game/Day 4.rpy:1235
 translate chinese_simplified juuichi04_bd68ee26:
 
     # "Smoke rises silently from the pig figurine's nose.{p}I watch it from the corner of my eye,{w=.3}\nas I flop down to go to sleep."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "猪型摆饰的鼻子处正缓缓地冒着烟。"
 
 # game/Day 4.rpy:1236
@@ -3045,49 +3045,49 @@ translate chinese_simplified juuichi04_e5a0f5b2:
 translate chinese_simplified juuichi04_563d47a2:
 
     # "When I'm there, I have to keep the windows shut\nbecause of the air conditioner."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "因为在都市里时，都会把窗户关紧打开冷气拼命吹。"
 
 # game/Day 4.rpy:1238
 translate chinese_simplified juuichi04_71fa8662:
 
     # "When I found out my grandpa's house doesn't\neven have a working fan,{p}I was wrapped in a feeling of despair."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "在知道爷爷家没有冷气，甚至连电风扇都坏掉时，我感受到了能够被称为恐怖的绝望感。"
 
 # game/Day 4.rpy:1239
 translate chinese_simplified juuichi04_c6e3b64a:
 
     # "...When you get used to having it,{w=.3}\nthat's what happens."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "……不过习惯之后，{w=.3}就会觉得这种事就是这样而已了。"
 
 # game/Day 4.rpy:1240
 translate chinese_simplified juuichi04_094bf12f:
 
     # "I tried to come up with an explanation that the low\ntech surroundings somehow lessen the heat,\nwhile fanning myself."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "在以前……也就是科技还不怎么发达的年代，想要消暑，大概也只能像这样用扇子搧风而已吧。"
 
 # game/Day 4.rpy:1241
 translate chinese_simplified juuichi04_2b38e9e8:
 
     # "The feeling of a full stomach is making me sleepy.{p}My eyelids gradually get heavier."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "吃饱的感觉自然地变成了想睡。眼皮感觉越来越重了起来。"
 
 # game/Day 4.rpy:1245
 translate chinese_simplified juuichi04_ab3ce5cc:
 
     # "It might be rude to fall asleep after eating,{w=.3}\nBut surely a nap would be okay...?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "刚吃饱就睡觉好像是有点不太雅观，{w=.3}不过还是先小睡个一下好了……"
 
 # game/Day 4.rpy:1251
 translate chinese_simplified juuichi04_1dc7e36e:
 
     # "Any chance of a nap is thrown out the window\nwhen loud voices start coming from the television."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "将我那甜美的小小沉眠给打断的，{w=.3}是电视突然发出的巨大声响。"
 
 # game/Day 4.rpy:1252
@@ -3100,14 +3100,14 @@ translate chinese_simplified juuichi04_419eeeba:
 translate chinese_simplified juuichi04_85f50d4f:
 
     # "It looks like a feature on living in the country.{p}What's on screen is fascinating.{w=.3}\nGreen lights are floating freely by a river."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "似乎是介绍如何在乡下生活的特别节目的样子。{p}而画面上特别引人注目的，是那在河边自在地飞舞着的绿色光点。"
 
 # game/Day 4.rpy:1254
 translate chinese_simplified juuichi04_d018d3c4:
 
     # "The studio audience voices their awe at the scene.{w=.3}\nThat must have been what woke me."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "那个幻想般的景色让观众大声惊呼，{w=.3}因此才把我吵醒了的样子。"
 
 # game/Day 4.rpy:1255
@@ -3120,7 +3120,7 @@ translate chinese_simplified juuichi04_eb4a547d:
 translate chinese_simplified juuichi04_4da84cb5:
 
     # "Maybe I should go firefily catching while I'm here.{p}My brain quickly resumes activity as I think."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "偶尔去找找看萤火虫或许也不错。{p}我刚睡醒的脑袋，迅速地开始转动起来。"
 
 # game/Day 4.rpy:1257
@@ -3151,7 +3151,7 @@ translate chinese_simplified juuichi04_c6832e49:
 translate chinese_simplified juuichi04_6cf18acd:
 
     # fn "「...This is bad.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……糟糕了。」"
 
 # game/Day 4.rpy:1270
@@ -3164,7 +3164,7 @@ translate chinese_simplified juuichi04_9d31dbeb:
 translate chinese_simplified juuichi04_13081198:
 
     # "As a result, I'm now lost."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "结果，就变成了这样。"
 
 # game/Day 4.rpy:1272
@@ -3177,14 +3177,14 @@ translate chinese_simplified juuichi04_32deb358:
 translate chinese_simplified juuichi04_1e82f49c:
 
     # fn "「Aaah,{w=.3} where was it?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「啊啊啊，{w=.3}到底在哪里啊——」"
 
 # game/Day 4.rpy:1274
 translate chinese_simplified juuichi04_466288b5:
 
     # "My voice is swallowed up by the darkness."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "我的叫声就像是被黑暗吸收掉一样地消散了。"
 
 # game/Day 4.rpy:1275
@@ -3215,7 +3215,7 @@ translate chinese_simplified juuichi04_9b1f3df6:
 translate chinese_simplified juuichi04_6451fc52:
 
     # "That said, I feel like I shouldn't\ngo out at a time like this anyway."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "但是，考虑到时间的话，那时候也差不多不该出门了。"
 
 # game/Day 4.rpy:1280
@@ -3228,7 +3228,7 @@ translate chinese_simplified juuichi04_30e8032c:
 translate chinese_simplified juuichi04_0d983677:
 
     # "I should be in the general area,{w=.3}\nso I'll look around a little longer.{p}I check out my surroundings."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "应该已经差不多到了附近了才对，还是先再找找看好了。"
 
 # game/Day 4.rpy:1282
@@ -3241,7 +3241,7 @@ translate chinese_simplified juuichi04_2d3dfae6:
 translate chinese_simplified juuichi04_9b78e109:
 
     # "...Hm?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "……嗯？"
 
 # game/Day 4.rpy:1289
@@ -3260,14 +3260,14 @@ translate chinese_simplified juuichi04_f6e8a3a1:
 translate chinese_simplified juuichi04_4b512dde:
 
     # "Even from this distance,\nI can distinctly tell that it's white."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "从这里看过去也可以看出是个白色的光芒。"
 
 # game/Day 4.rpy:1292
 translate chinese_simplified juuichi04_73774e1d:
 
     # "It's moving slowly, but...{w=.3}\nIt looks like it's gradually moving towards me."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "而且虽然速度很慢……{w=.3}但是感觉得出来似乎正在往我这里接近。"
 
 # game/Day 4.rpy:1293
@@ -3280,14 +3280,14 @@ translate chinese_simplified juuichi04_01953282:
 translate chinese_simplified juuichi04_9bd1c4b1:
 
     # "No way... Is this thing...{w=.3}{nw} "
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "该不会……那个是{w=.3}{nw}"
 
 # game/Day 4.rpy:1297
 translate chinese_simplified juuichi04_3463b450:
 
     # extend "A disembodied soul?{p}A cold sweat runs down my back at my guess."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     extend "所谓的鬼火？{p}某种讨厌的预感让背上开始冒起冷汗。"
 
 # game/Day 4.rpy:1299
@@ -3312,21 +3312,21 @@ translate chinese_simplified juuichi04_94a375f9:
 translate chinese_simplified juuichi04_5006f1b2:
 
     # "...{w} Geh!{p}{nw}"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "……{w}啊！{p}{nw}"
 
 # game/Day 4.rpy:1304
 translate chinese_simplified juuichi04_10c5500f:
 
     # extend "As soon as I think such a leisurely thing,{w=.3}\nit came right up to me!"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     extend "才只不过想了点事，{w=.3}一下子它就已经几乎到了我身旁了是怎么回事啊！"
 
 # game/Day 4.rpy:1305
 translate chinese_simplified juuichi04_1fe2b652:
 
     # "Oh God oh God oh God oh God!{p}That was a near miss!{p}Wh-wh-what do I do!?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "糟糕糟糕糟糕！{p}这样下去，我不就要和那种东西擦身而过了吗！{p}怎怎怎怎怎么办！？"
 
 # game/Day 4.rpy:1309
@@ -3339,7 +3339,7 @@ translate chinese_simplified juuichi04_23b5857f:
 translate chinese_simplified juuichi04_192abd49:
 
     # "Aah,{w=.3} please don't find me..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "啊啊，{w=.3}拜托请不要注意到我……"
 
 # game/Day 4.rpy:1311
@@ -3364,21 +3364,21 @@ translate chinese_simplified juuichi04_365034c3_1:
 translate chinese_simplified juuichi04_09ac838f:
 
     # "...Nothing happened?{p}Timidly,{w=.3} I open one eye."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "……什么事都没发生？{p}我满怀恐惧地，{w=.3}张开一只眼睛偷看。"
 
 # game/Day 4.rpy:1319
 translate chinese_simplified juuichi04_8e3daec9:
 
     # "When I look up,{w=.3}\nI see the freshly-severed head of a bear."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "张开眼看到的是，{w=.3}一个熊的脑袋浮在那里。"
 
 # game/Day 4.rpy:1325
 translate chinese_simplified juuichi04_9ea25908:
 
     # fn "「Gyaaah!!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「呀啊——！！」"
 
 # game/Day 4.rpy:1326
@@ -3391,21 +3391,21 @@ translate chinese_simplified juuichi04_1eba57d7:
 translate chinese_simplified juuichi04_4dcc625c:
 
     # who "「...Hey,{w=.3} [ln]」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     who "「……喂，{w=.3}西村。」"
 
 # game/Day 4.rpy:1328
 translate chinese_simplified juuichi04_56bea375:
 
     # fn "「N-n-n-no!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「什什什什什什什什什」"
 
 # game/Day 4.rpy:1329
 translate chinese_simplified juuichi04_917afe7e:
 
     # who "「[ln],{w=.3} it's me.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     who "「西村，{w=.3}是我。」"
 
 # game/Day 4.rpy:1330
@@ -3430,14 +3430,14 @@ translate chinese_simplified juuichi04_cd0b3113:
 translate chinese_simplified juuichi04_de843109:
 
     # ju "「...That's not what I was doing.{p} I just came from over there.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……就算你这么说。{p}我也只是单纯地往你这里走过来而已啊。」"
 
 # game/Day 4.rpy:1338
 translate chinese_simplified juuichi04_b5ad05af:
 
     # fn "「Huh?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「咦。」"
 
 # game/Day 4.rpy:1342
@@ -3456,56 +3456,56 @@ translate chinese_simplified juuichi04_d276dc22:
 translate chinese_simplified juuichi04_00b00233:
 
     # fn "「...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……」"
 
 # game/Day 4.rpy:1348
 translate chinese_simplified juuichi04_c21cb17d:
 
     # "So it was all a complete misunderstanding?{p}The light I thought was a soul is just a flashlight?{w=.3}\nThe presence I felt so close to me was Juuichi-san?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "也就是说，{w=.3}全都是我弄错了？{p}我以为是鬼火的东西，{w=.3}其实是柔一手上拿的手电筒？"
 
 # game/Day 4.rpy:1352
 translate chinese_simplified juuichi04_b6458004:
 
     # "{cps=10}The soul that I saw{w=.3}\nUpon closer inspection{w=.3}\nWas just a flashlight"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "{cps=10}想说是鬼火之物，{w=.3}谁知一看其真身，{w=.3}却是手电筒。"
 
 # game/Day 4.rpy:1353
 translate chinese_simplified juuichi04_64d9a85b:
 
     # "[fn], this...{w=.3}\nThis isn't the time for haiku from the heart."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "博行的，心之俳句……{w=.3}好像不是说这个的时候。"
 
 # game/Day 4.rpy:1354
 translate chinese_simplified juuichi04_bf4cca36:
 
     # fn "「I'm so sorry!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「真的很对不起！」"
 
 # game/Day 4.rpy:1355
 translate chinese_simplified juuichi04_d4ae7052:
 
     # "I threw myself prostrate on the ground,\nand apologized to Juuichi-san."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "我用马上要跪地拜倒的气势跟柔一道了歉。"
 
 # game/Day 4.rpy:1366
 translate chinese_simplified juuichi04_23ee1877:
 
     # ju "「So,{w=.3} you thought I was a ghost?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「也就是说，{w=.3}你把我当成是幽灵了吗。」"
 
 # game/Day 4.rpy:1367
 translate chinese_simplified juuichi04_8e9466a0:
 
     # fn "「Yeah...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「是的……」"
 
 # game/Day 4.rpy:1368
@@ -3530,7 +3530,7 @@ translate chinese_simplified juuichi04_bdf73f62:
 translate chinese_simplified juuichi04_d8ea6845:
 
     # ju "「You shouldn't be in a place\n like this without a light.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「是没有拿灯就跑到这么暗的地方的你的错。」"
 
 # game/Day 4.rpy:1378
@@ -3549,7 +3549,7 @@ translate chinese_simplified juuichi04_5c2b51e3:
 translate chinese_simplified juuichi04_b143253a:
 
     # "Don't tell me that's what caused all this...{p}Is this what 'the future is a closed book' means?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "结果因此造成了这样子的结果……{p}只能说真的是世事难料啊，{w=.3}这个。"
 
 # game/Day 4.rpy:1395
@@ -3562,21 +3562,21 @@ translate chinese_simplified juuichi04_1196e453:
 translate chinese_simplified juuichi04_251cf341:
 
     # fn "「Ooh,{w=.3} I'm so ashamed of myself...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「呜呜呜，{w=.3}没脸见人了……」"
 
 # game/Day 4.rpy:1400
 translate chinese_simplified juuichi04_b5d0a4aa:
 
     # ju "「Wait a minute.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「等一下。」"
 
 # game/Day 4.rpy:1404
 translate chinese_simplified juuichi04_e5700345:
 
     # "Juuichi-san looks towards us with sharp eyes."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "柔一像是想到什么似的，朝我们投过来锐利的眼神。"
 
 # game/Day 4.rpy:1408
@@ -3601,14 +3601,14 @@ translate chinese_simplified juuichi04_6cb51257:
 translate chinese_simplified juuichi04_90bf51ab:
 
     # ju "「...How did you see that?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……到底是在哪看见的。」"
 
 # game/Day 4.rpy:1418
 translate chinese_simplified juuichi04_7c7a2aaf:
 
     # boy "「Hehehe,{w=.3} it's a secret.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     boy "「呼呼呼，{w=.3}秘密——」"
 
 # game/Day 4.rpy:1419
@@ -3621,7 +3621,7 @@ translate chinese_simplified juuichi04_c20597ac:
 translate chinese_simplified juuichi04_aa3ecc63:
 
     # extend "he sighs heavily."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     extend "柔一深深地叹了口气。"
 
 # game/Day 4.rpy:1425
@@ -3640,7 +3640,7 @@ translate chinese_simplified juuichi04_6e399740:
 translate chinese_simplified juuichi04_3a33bb74:
 
     # ju "「Old man...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「叔叔……」"
 
 # game/Day 4.rpy:1431
@@ -3653,35 +3653,35 @@ translate chinese_simplified juuichi04_fb2bd3de:
 translate chinese_simplified juuichi04_5cca9454:
 
     # ju "「[ln],{w=.3} are you going to back me up here?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「西村，{w=.3}你是打算认同他吗。」"
 
 # game/Day 4.rpy:1436
 translate chinese_simplified juuichi04_ece94e5f:
 
     # boy "「Ahaha.{p} {nw}"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     boy "「啊哈哈。{p}{nw}"
 
 # game/Day 4.rpy:1438
 translate chinese_simplified juuichi04_b49e9eb4:
 
     # extend "I have a habit of moving weirdly in the air,{w=.3}\n I can't seem to get rid of it.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     extend "总是喜欢在这种奇怪的话题上打转的习惯，{w=.3}看来还是没改呢。」"
 
 # game/Day 4.rpy:1439
 translate chinese_simplified juuichi04_d5f29b00:
 
     # "Oh,{w=.3} I don't have anything to respond with..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "呜，{w=.3}完全没办法回嘴……"
 
 # game/Day 4.rpy:1440
 translate chinese_simplified juuichi04_e6ab28b8:
 
     # fn "「You say that, but-」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「虽然这么说，可是——」"
 
 # game/Day 4.rpy:1444
@@ -3694,7 +3694,7 @@ translate chinese_simplified juuichi04_df664729:
 translate chinese_simplified juuichi04_5510f932:
 
     # boy "「Looks like it's time to go.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     boy "「看来似乎时间到了。」"
 
 # game/Day 4.rpy:1449
@@ -3707,7 +3707,7 @@ translate chinese_simplified juuichi04_319b93fb:
 translate chinese_simplified juuichi04_749d0f2e:
 
     # fn "「Na,{w=.3} na...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「什、{w=.3}什——」"
 
 # game/Day 4.rpy:1451
@@ -3720,28 +3720,28 @@ translate chinese_simplified juuichi04_a710fc78:
 translate chinese_simplified juuichi04_d34e814e:
 
     # ju "「What's wrong?{w=.3}\n You look confused.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「怎么了，{w=.3}一脸呆滞的样子。」"
 
 # game/Day 4.rpy:1462
 translate chinese_simplified juuichi04_bd339688:
 
     # fn "「Huh?{w=.3} Juuichi-san...?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「咦，{w=.3}柔、{w=.3}柔一……？」"
 
 # game/Day 4.rpy:1466
 translate chinese_simplified juuichi04_e736fd07:
 
     # ju "「It looked like you were talking to somebody.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「难道还有其他人吗。」"
 
 # game/Day 4.rpy:1467
 translate chinese_simplified juuichi04_244ed85f:
 
     # fn "「No,{w=.3} I wasn't...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「不，{w=.3}不是那样……」"
 
 # game/Day 4.rpy:1468
@@ -3772,7 +3772,7 @@ translate chinese_simplified juuichi04_rideback_24a2ea2c:
 translate chinese_simplified juuichi04_rideback_fff12769:
 
     # fn "「...Huh?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……咦？」"
 
 # game/Day 4.rpy:1482
@@ -3785,84 +3785,84 @@ translate chinese_simplified juuichi04_rideback_0b88a16c:
 translate chinese_simplified juuichi04_rideback_c4bbb6e0:
 
     # ju "「...What,{w=.3} did your back give out?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……怎么了，{w=.3}吓到站不起来了吗？」"
 
 # game/Day 4.rpy:1487
 translate chinese_simplified juuichi04_rideback_13f24952:
 
     # fn "「Seems like it...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「好像是这样……」"
 
 # game/Day 4.rpy:1491
 translate chinese_simplified juuichi04_rideback_4e341d57:
 
     # ju "「...You're hopless.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……真是的。」"
 
 # game/Day 4.rpy:1495
 translate chinese_simplified juuichi04_rideback_246a0524:
 
     # "He turns his back to me, and crouches down."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "柔一转身把背朝向我，就这么蹲了下去。"
 
 # game/Day 4.rpy:1496
 translate chinese_simplified juuichi04_rideback_d57a0481:
 
     # ju "「I'll give you a ride home.{w=.3}\n Hurry up and get on.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「我把你送回家，{w=.3}快点上来。」"
 
 # game/Day 4.rpy:1497
 translate chinese_simplified juuichi04_rideback_38187fde:
 
     # fn "「What?!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「咦咦？！」"
 
 # game/Day 4.rpy:1498
 translate chinese_simplified juuichi04_rideback_838b338a:
 
     # "I blurt out my response a bit too loudly\nat his sudden proposal."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "对这个突然的要求，我想都没想就发出了惊人的喊声。"
 
 # game/Day 4.rpy:1499
 translate chinese_simplified juuichi04_rideback_e17a0a78:
 
     # fn "「You don't need to do that!{p} Give me a minute and I'll be able to stand.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「不能那么麻烦你啦！{p}稍微休息一下就可以站起来了。」"
 
 # game/Day 4.rpy:1500
 translate chinese_simplified juuichi04_rideback_0bbfd796:
 
     # ju "「There's no way I'm going to\n leave you here in the dark.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「不可能把你一个人丢在这这么暗的地方吧。」"
 
 # game/Day 4.rpy:1501
 translate chinese_simplified juuichi04_rideback_81e1d6c9:
 
     # fn "「Yeah, but...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「虽然可能是那样啦……」"
 
 # game/Day 4.rpy:1502
 translate chinese_simplified juuichi04_rideback_cbf9afba:
 
     # ju "「Then don't just sit there and whine.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「那就不要再说什么任性的话了。」"
 
 # game/Day 4.rpy:1503
 translate chinese_simplified juuichi04_rideback_da733c5f:
 
     # fn "「...Sorry,{w=.3} I'll do it.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……抱歉。{w=.3}那就麻烦你了。」"
 
 # game/Day 4.rpy:1504
@@ -3875,7 +3875,7 @@ translate chinese_simplified juuichi04_rideback_fe45a1ee:
 translate chinese_simplified juuichi04_rideback_e4fc9ee3:
 
     # extend "\nI entrust my body to Juuichi-san's back."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     extend "一边让自己的身体靠到了柔一的背上。"
 
 # game/Day 4.rpy:1508
@@ -3888,7 +3888,7 @@ translate chinese_simplified juuichi04_rideback_fb53e5b9:
 translate chinese_simplified juuichi04_rideback_1f1db24d:
 
     # "I hastily wrap my arms around his neck,\nso that I don't fall off."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "为了怕掉下去，我连忙抱紧柔一的脖子。"
 
 # game/Day 4.rpy:1510
@@ -3907,14 +3907,14 @@ translate chinese_simplified juuichi04_rideback_52e279b8:
 translate chinese_simplified juuichi04_rideback_d93886f7:
 
     # fn "「Juuichi-san,{w=.3} aren't I heavy?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「柔一，{w=.3}这样不会太重吗？」"
 
 # game/Day 4.rpy:1521
 translate chinese_simplified juuichi04_rideback_b8d0ec2f:
 
     # "I ask him quietly, as he carries me in silence."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "看柔一一直沉默地背着我前进，{w=.3}我忍不住问道。"
 
 # game/Day 4.rpy:1522
@@ -3927,7 +3927,7 @@ translate chinese_simplified juuichi04_rideback_85d9c5ff:
 translate chinese_simplified juuichi04_rideback_6b3da311:
 
     # fn "「Hahaha...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「哈哈哈……」"
 
 # game/Day 4.rpy:1524
@@ -3964,7 +3964,7 @@ translate chinese_simplified juuichi04_rideback_d28bbb0a:
 translate chinese_simplified juuichi04_rideback_4831721b:
 
     # ju "「...I'm certain that Tatsu-san is\n being a bad influence on him.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……我肯定是受到了辰的不良影响没错。」"
 
 # game/Day 4.rpy:1530
@@ -3989,28 +3989,28 @@ translate chinese_simplified juuichi04_rideback_e217e8f0:
 translate chinese_simplified juuichi04_rideback_e3593ae6:
 
     # ju "「...Taking a walk.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……来散步。」"
 
 # game/Day 4.rpy:1534
 translate chinese_simplified juuichi04_rideback_abac8d44:
 
     # fn "「A walk?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「散、{w=.3}散步吗？」"
 
 # game/Day 4.rpy:1535
 translate chinese_simplified juuichi04_rideback_5916133e:
 
     # ju "「Yeah.{w} It's kind of a daily routine for me.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「啊啊。像例行公事那样的。」"
 
 # game/Day 4.rpy:1536
 translate chinese_simplified juuichi04_rideback_d3260a2d:
 
     # fn "「Wow,{w=.3} really?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「咦，{w=.3}是这样啊。」"
 
 # game/Day 4.rpy:1537
@@ -4029,7 +4029,7 @@ translate chinese_simplified juuichi04_rideback_b9de4c67:
 translate chinese_simplified juuichi04_rideback_bf9b36ab:
 
     # fn "「Didn't I tell you?{p} I was planning on catching fireflies.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「这么说起来我刚刚好像没讲？{p}我是来找萤火虫的，{w=.3}这样。」"
 
 # game/Day 4.rpy:1540
@@ -4042,7 +4042,7 @@ translate chinese_simplified juuichi04_rideback_158ca7a5:
 translate chinese_simplified juuichi04_rideback_0f473176:
 
     # "He talked with a slightly gentler tone of voice."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "接着，柔一说话的音调突然降低了些。"
 
 # game/Day 4.rpy:1542
@@ -4073,7 +4073,7 @@ translate chinese_simplified juuichi04_rideback_b071b93f:
 translate chinese_simplified juuichi04_rideback_b49ff7a7:
 
     # fn "「...No comment.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……对不起，我无从辩驳。」"
 
 # game/Day 4.rpy:1547
@@ -4098,7 +4098,7 @@ translate chinese_simplified juuichi04_rideback_5496e5ac:
 translate chinese_simplified juuichi04_rideback_d14fb2c8:
 
     # "I quietly reflected on Juuichi-san told me."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "我在听了柔一说的话后便乖乖地自我反省起来。"
 
 # game/Day 4.rpy:1551
@@ -4123,14 +4123,14 @@ translate chinese_simplified juuichi04_rideback_0d7dd700:
 translate chinese_simplified juuichi04_rideback_3b02d897:
 
     # "...I remember what happened to Torahiko,{w=.3}\nand involuntarily shudder."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "……想到虎彦发生过的惨状，{w=.3}我忍不住抖了两下。"
 
 # game/Day 4.rpy:1555
 translate chinese_simplified juuichi04_rideback_bc7a0d10:
 
     # ju "「Hm?{w=.3} Are you cold?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「嗯，{w=.3}觉得冷？」"
 
 # game/Day 4.rpy:1556
@@ -4143,7 +4143,7 @@ translate chinese_simplified juuichi04_rideback_448997df:
 translate chinese_simplified juuichi04_rideback_1952fb49:
 
     # ju "「...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……」"
 
 # game/Day 4.rpy:1558
@@ -4222,21 +4222,21 @@ translate chinese_simplified juuichi04_rideback_16c3d357:
 translate chinese_simplified juuichi04_rideback_3b6f328b:
 
     # "Oh, did he notice me starting to doze off?{w=.3}\nHe turns his head and talks to me."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "可是不管怎么说，就这样在柔一的背上睡着也未免太失礼了。"
 
 # game/Day 4.rpy:1577
 translate chinese_simplified juuichi04_rideback_b7c8cb0d:
 
     # ju "「You seem sleepy.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「想睡了吗。」"
 
 # game/Day 4.rpy:1578
 translate chinese_simplified juuichi04_rideback_63abd9f9:
 
     # fn "「I-{w=.3}I'm not going to sleep! Not yet...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「没、{w=.3}没有要睡啦，现在还没。」"
 
 # game/Day 4.rpy:1579
@@ -4249,7 +4249,7 @@ translate chinese_simplified juuichi04_rideback_403c8930:
 translate chinese_simplified juuichi04_rideback_4a4c600f:
 
     # fn "「But,{w=.3} that's...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「可是，{w=.3}这有点……」"
 
 # game/Day 4.rpy:1581
@@ -4262,7 +4262,7 @@ translate chinese_simplified juuichi04_rideback_88a92360:
 translate chinese_simplified juuichi04_rideback_fdd5c6d7:
 
     # fn "「Ah,{w=.3} I need to tell you how to get to my house...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「啊，{w=.3}可是，{w=.3}不用带路吗，我家……」"
 
 # game/Day 4.rpy:1583
@@ -4275,7 +4275,7 @@ translate chinese_simplified juuichi04_rideback_d35053d7:
 translate chinese_simplified juuichi04_rideback_1a925554:
 
     # fn "「...Sorry.{w=.3}\n I guess I'll sleep for a bit.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……抱歉。{w=.3}那，{w=.3}我小睡一下。」"
 
 # game/Day 4.rpy:1585
@@ -4300,14 +4300,14 @@ translate chinese_simplified juuichi04_rideback_7e625744:
 translate chinese_simplified juuichi04_rideback_71d25957:
 
     # ju "「...[ln].」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……西村。」"
 
 # game/Day 4.rpy:1600
 translate chinese_simplified juuichi04_rideback_6e095645:
 
     # fn "「...Nnah?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……啊嗯？」"
 
 # game/Day 4.rpy:1601
@@ -4320,7 +4320,7 @@ translate chinese_simplified juuichi04_rideback_d94ac34a:
 translate chinese_simplified juuichi04_rideback_d520d177:
 
     # "His words snap me out of my half-asleep state."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "这句话，{w=.3}让睡眼惺忪的我马上了解现在的状况。"
 
 # game/Day 4.rpy:1603
@@ -4333,14 +4333,14 @@ translate chinese_simplified juuichi04_rideback_a536fd64:
 translate chinese_simplified juuichi04_rideback_b27e9edf:
 
     # fn "「...How long was I out?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……我睡了多久啊？」"
 
 # game/Day 4.rpy:1605
 translate chinese_simplified juuichi04_rideback_856a4a11:
 
     # ju "「About 30 minutes, give or take.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「大概快三十分钟吧。」"
 
 # game/Day 4.rpy:1606
@@ -4359,7 +4359,7 @@ translate chinese_simplified juuichi04_rideback_57482b56:
 translate chinese_simplified juuichi04_rideback_0dff21ab:
 
     # fn "「Oh, I'll be fine from here. You can put me down!{p} You've been carrying me for so long...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「啊，已经可以放我下来了！{p}那个，让你背着我这么久真的很不好意思……」"
 
 # game/Day 4.rpy:1609
@@ -4396,7 +4396,7 @@ translate chinese_simplified juuichi04_rideback_5e84bcc4:
 translate chinese_simplified juuichi04_rideback_c25f11a9:
 
     # ju "「Hm,{w=.3} seems that there's nothing to worry about.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「嗯，{w=.3}看来是不需要担心了。」"
 
 # game/Day 4.rpy:1618
@@ -4409,14 +4409,14 @@ translate chinese_simplified juuichi04_rideback_7999ff24:
 translate chinese_simplified juuichi04_rideback_b4a3acf7:
 
     # fn "「Juuichi-san,{w=.3} thank you so much for everything.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「柔一，{w=.3}不管怎么说真的是非常感谢。」"
 
 # game/Day 4.rpy:1623
 translate chinese_simplified juuichi04_rideback_08a6a3f5:
 
     # ju "「Ah,{w=.3} no problem.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「不，{w=.3}没什么。」"
 
 # game/Day 4.rpy:1624
@@ -4435,14 +4435,14 @@ translate chinese_simplified juuichi04_rideback_25fd2fb9:
 translate chinese_simplified juuichi04_rideback_216534a3:
 
     # ju "「...So,{w=.3} can I go with you tomorrow?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「……这样的话，{w=.3}我陪你去吧。」"
 
 # game/Day 4.rpy:1630
 translate chinese_simplified juuichi04_rideback_b5ad05af:
 
     # fn "「Huh?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「咦？」"
 
 # game/Day 4.rpy:1631
@@ -4455,7 +4455,7 @@ translate chinese_simplified juuichi04_rideback_59a37ad7:
 translate chinese_simplified juuichi04_rideback_192344f8:
 
     # ju "「I'm worried about letting you\n walk around alone at night.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「我不放心让西村一个人在夜晚四处跑。」"
 
 # game/Day 4.rpy:1636
@@ -4474,14 +4474,14 @@ translate chinese_simplified juuichi04_rideback_96b2f0c7:
 translate chinese_simplified juuichi04_rideback_652402c5:
 
     # fn "「...Would you, if it's not too much trouble?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「……那，{w=.3}可以麻烦你吗？」"
 
 # game/Day 4.rpy:1642
 translate chinese_simplified juuichi04_rideback_e367b661:
 
     # ju "「Sure.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「啊啊。」"
 
 # game/Day 4.rpy:1643
@@ -4500,21 +4500,21 @@ translate chinese_simplified juuichi04_rideback_d5a78eae:
 translate chinese_simplified juuichi04_rideback_8046f146:
 
     # "...It's not like I have anything\nelse to do with my free time."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     "……反正我就是很闲嘛。"
 
 # game/Day 4.rpy:1649
 translate chinese_simplified juuichi04_rideback_2d1bbc73:
 
     # ju "「Make sure you dress appropriately tomorrow.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「明天要好好准备过了再去啊。」"
 
 # game/Day 4.rpy:1650
 translate chinese_simplified juuichi04_rideback_62c11326:
 
     # fn "「I will.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     fn "「好的，我知道了。」"
 
 # game/Day 4.rpy:1651
@@ -4539,7 +4539,7 @@ translate chinese_simplified juuichi04_rideback_ebf1ab73:
 translate chinese_simplified juuichi04_rideback_87a5c955:
 
     # ju "「Well then,{w=.3} see you tomorrow.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 柔一_m_02.ks
     ju "「那么，{w=.3}明天见了。」"
 
 # game/Day 4.rpy:1659
@@ -4558,7 +4558,7 @@ translate chinese_simplified juuichi04_rideback_98e4e624:
 translate chinese_simplified kounosuke04_f32840b5:
 
     # fn "「It's still the same...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「没有变化呢……」"
 
 # game/Day 4.rpy:1682
@@ -4571,28 +4571,28 @@ translate chinese_simplified kounosuke04_5a60eba9:
 translate chinese_simplified kounosuke04_b843ef0c:
 
     # "The building seems to be a little worn.{p}This store also hasn't changed."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "走近这已经有点年代的建筑，{p}甚至连门都和以前是一样的。"
 
 # game/Day 4.rpy:1688
 translate chinese_simplified kounosuke04_176f8e1d:
 
     # fn "「Oh, hello.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「打扰了——」"
 
 # game/Day 4.rpy:1689
 translate chinese_simplified kounosuke04_95bc7b77:
 
     # who "「Yes?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     who "「来了——」"
 
 # game/Day 4.rpy:1690
 translate chinese_simplified kounosuke04_cc1156a0:
 
     # "The store smells a little dusty and old."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "满是灰尘的小店，这种味道还真是令人怀念。"
 
 # game/Day 4.rpy:1694
@@ -4605,63 +4605,63 @@ translate chinese_simplified kounosuke04_08918e0e:
 translate chinese_simplified kounosuke04_0d1497d2:
 
     # yk "「Sorry, dad's out right now.{p} Is there something you need?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「不好意思，爸爸现在在外出。{p}要买些什么吗？」"
 
 # game/Day 4.rpy:1702
 translate chinese_simplified kounosuke04_c66b2e6f:
 
     # fn "「Ah. I came to see Kounosuke.{p} Is he here right now?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「啊，我是来找孝之助的，他在不？」"
 
 # game/Day 4.rpy:1703
 translate chinese_simplified kounosuke04_c08b722c:
 
     # yk "「Big brother?{p} He went somewhere...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「找哥哥吗？哥哥他现在也出去了……」"
 
 # game/Day 4.rpy:1707
 translate chinese_simplified kounosuke04_6c193778:
 
     # yk "「Mom! Do you know where Kounosuke went?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「妈妈——你知道哥哥去哪了吗？」"
 
 # game/Day 4.rpy:1711
 translate chinese_simplified kounosuke04_ac2d5a1d:
 
     # harue "「Well now, I was wondering that myself.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     harue "「啊，我也不知道呢。」"
 
 # game/Day 4.rpy:1712
 translate chinese_simplified kounosuke04_eb2d9c7d:
 
     # yk "「Looks like one of his friends is here.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「哥哥的朋友来了」"
 
 # game/Day 4.rpy:1713
 translate chinese_simplified kounosuke04_184e32ae:
 
     # harue "「Maybe he didn't leave?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     harue "「他呀，是不是又出去了？」"
 
 # game/Day 4.rpy:1714
 translate chinese_simplified kounosuke04_c4b7ef60:
 
     # yk "「So you don't know where he is?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「所以我才问他去哪了？」"
 
 # game/Day 4.rpy:1715
 translate chinese_simplified kounosuke04_5f5ed3d1:
 
     # harue "「Hmm, I'm still not so sure...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     harue "「啊，不知道呢」"
 
 # game/Day 4.rpy:1716
@@ -4674,49 +4674,49 @@ translate chinese_simplified kounosuke04_9b5c6ed3:
 translate chinese_simplified kounosuke04_1900dd66:
 
     # yk "「Sorry. Hmm, where did he go...{p} I think he's probably somewhere in town.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「对不起呢。不太清楚他去哪了……{p}大概是在村子里的什么地方吧。」"
 
 # game/Day 4.rpy:1721
 translate chinese_simplified kounosuke04_a8b68a28:
 
     # fn "「Oh well. That's okay I guess.{p} I didn't come here for anything business related.{p} Just wanted to see if he was around.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「啊，没关系，也没有什么特别的事情。{p}只是想见见他而已。」"
 
 # game/Day 4.rpy:1722
 translate chinese_simplified kounosuke04_c49ba960:
 
     # yk "「Really?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「是这样啊。」"
 
 # game/Day 4.rpy:1723
 translate chinese_simplified kounosuke04_86330bfa:
 
     # fn "「By the way, you're Yukiharu-kun, aren't you?{p} You've gotten bigger!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「对了，你是幸春吧？{p}长大了呢。」"
 
 # game/Day 4.rpy:1727
 translate chinese_simplified kounosuke04_a8d5fe58:
 
     # yk "「Huh?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「诶？」"
 
 # game/Day 4.rpy:1728
 translate chinese_simplified kounosuke04_31da0127:
 
     # yk "「Umm, who are you?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「那个，请问你是哪位？」"
 
 # game/Day 4.rpy:1729
 translate chinese_simplified kounosuke04_5eff18d7:
 
     # "Guh, he doesn't remember me..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "唔咕……不记得我了呀……"
 
 # game/Day 4.rpy:1730
@@ -4729,252 +4729,252 @@ translate chinese_simplified kounosuke04_501268e9:
 translate chinese_simplified kounosuke04_a56bad1f:
 
     # yk "「......」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「……」"
 
 # game/Day 4.rpy:1735
 translate chinese_simplified kounosuke04_da51edcc:
 
     # "For a while, Yukiharu stares at me, puzzled."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "幸春君莫名其妙地盯着我的脸看，"
 
 # game/Day 4.rpy:1739
 translate chinese_simplified kounosuke04_09e5d166:
 
     # yk "「Uh, ah... were you the one who...{p} always got into trouble with my brother?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「啊，啊——经常和哥哥一起惹别人生气的那个？」"
 
 # game/Day 4.rpy:1740
 translate chinese_simplified kounosuke04_9ed134ce:
 
     # "Oh..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "唔……"
 
 # game/Day 4.rpy:1741
 translate chinese_simplified kounosuke04_cbef81a0:
 
     # "It seems like he remembers one thing,{p}but then I would get dragged along with Kounosuke.{p}I didn't have anything to do with it."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "虽然大致上是想起来了，{p}但是那些事情都是被孝之助连累的，我可什么都没做过……"
 
 # game/Day 4.rpy:1742
 translate chinese_simplified kounosuke04_97f0e8e9:
 
     # "Well, there's no use in testifying."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "算了，那些事就算抱怨也没辙。"
 
 # game/Day 4.rpy:1743
 translate chinese_simplified kounosuke04_be8fb6e8:
 
     # fn "「Y-yeah... that [fn]-onii-chan.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「对，对啦。就是那个博行哥。」"
 
 # game/Day 4.rpy:1744
 translate chinese_simplified kounosuke04_aa6abacb:
 
     # yk "「I kind of remember.{p} Why are you back in Minasato?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「总算想起来了。{p}回水乡村来了？」"
 
 # game/Day 4.rpy:1745
 translate chinese_simplified kounosuke04_8bfad486:
 
     # fn "「I'm just here for Summer vacation.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「嗯，虽然只是暑假的这段时间」"
 
 # game/Day 4.rpy:1749
 translate chinese_simplified kounosuke04_eeba7349:
 
     # yk "「Oh, that's it, then.{p} Well then, I need to get back there.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「啊啊，什么嘛……{p}那么说还是要回到那边去的啊。」"
 
 # game/Day 4.rpy:1753
 translate chinese_simplified kounosuke04_9cc90713:
 
     # ko "「I'm back!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「我回来了——」"
 
 # game/Day 4.rpy:1754
 translate chinese_simplified kounosuke04_5c19b3eb:
 
     # "While talking to Yukiharu-kun,{p}Kounosuke seems to have come back."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "正和幸春君说话的时候，孝之助回来了。"
 
 # game/Day 4.rpy:1755
 translate chinese_simplified kounosuke04_24b99c25:
 
     # "When I turn around,{p}it's just one innocent tanuki face."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "回过头一看，{p}果然在那里站着一个满脸呆相的狸兽人。"
 
 # game/Day 4.rpy:1760
 translate chinese_simplified kounosuke04_72e111fb:
 
     # yk "「Ah, you're back.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「啊，哥哥你回来啦」"
 
 # game/Day 4.rpy:1761
 translate chinese_simplified kounosuke04_8b9b287b:
 
     # fn "「Welcome home.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「你回来啦——」"
 
 # game/Day 4.rpy:1766
 translate chinese_simplified kounosuke04_3b20baae:
 
     # ko "「Oh, what's wrong [fn]?{p} Is there something you need?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「啊？博行你来啦？有什么事吗？」"
 
 # game/Day 4.rpy:1767
 translate chinese_simplified kounosuke04_d0741e89:
 
     # fn "「No, I just came to drop in and visit.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「没有，只是串串门而已」"
 
 # game/Day 4.rpy:1771
 translate chinese_simplified kounosuke04_aa34ee12:
 
     # ko "「Ah, is that so.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「啊，是那样啊」"
 
 # game/Day 4.rpy:1775
 translate chinese_simplified kounosuke04_0d1f50cd:
 
     # yk "「Hey, onii-chan!{p} I'm not the only one who has to watch the store!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「话说回来，哥哥，{p}不要总是让我看店嘛！」"
 
 # game/Day 4.rpy:1779
 translate chinese_simplified kounosuke04_18b7b671:
 
     # ko "「What!{p} I wouldn't make you do something like that.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「诶诶！没有让你看店啊？」"
 
 # game/Day 4.rpy:1780
 translate chinese_simplified kounosuke04_1b3da474:
 
     # yk "「But you just went out somewhere!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「但是你一转眼就不知道去哪了」"
 
 # game/Day 4.rpy:1784
 translate chinese_simplified kounosuke04_efb3ec89:
 
     # ko "「But dad didn't catch me leaving, did he?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「因为要是被爸爸抓到那就出不去了，对吧？」"
 
 # game/Day 4.rpy:1785
 translate chinese_simplified kounosuke04_6698d4dd:
 
     # yk "「I wanted to go out and play too!{p} But I promised I wouldn't!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「我也想要出去玩！已经约好了的！」"
 
 # game/Day 4.rpy:1786
 translate chinese_simplified kounosuke04_257c9bdb:
 
     # fn "「C-come on now. Calm down you two...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「嘛，好啦好啦。你们两个都冷静点」"
 
 # game/Day 4.rpy:1787
 translate chinese_simplified kounosuke04_ec752f36:
 
     # "A fight between brothers suddenly breaks out,{p}so I rush in and try to calm things down."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "突然而来的吵架，{p}我慌慌张张的给这对兄弟拉架，"
 
 # game/Day 4.rpy:1791
 translate chinese_simplified kounosuke04_13c37bac:
 
     # ko "「Eh? But what needs calming down?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「？什么冷静？」"
 
 # game/Day 4.rpy:1795
 translate chinese_simplified kounosuke04_fe612e55:
 
     # yk "「What's wrong?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     yk "「怎么了吗？」"
 
 # game/Day 4.rpy:1796
 translate chinese_simplified kounosuke04_76e4ff34:
 
     # "They look at me as if nothing happened,{p}I'm at a loss for words.{p}Is this what it's normally like for siblings?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "面对两个人一致的表情，{p}我的话就梗在了喉咙中。{p}这种事难道很寻常吗……"
 
 # game/Day 4.rpy:1797
 translate chinese_simplified kounosuke04_356b6dee:
 
     # harue "「Yuki-chan, Kou-chan!{p} The noodles have boiled.{p} Come and eat!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     harue "「小幸——阿孝——{p}面煮好了，过来吃吧——」"
 
 # game/Day 4.rpy:1803
 translate chinese_simplified kounosuke04_1ff9b55c:
 
     # brothers "「Coming!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     brothers "「好——」"
 
 # game/Day 4.rpy:1808
 translate chinese_simplified kounosuke04_418536f3:
 
     # ko "「[fn], you should eat with us!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「博行也来吃吧」"
 
 # game/Day 4.rpy:1809
 translate chinese_simplified kounosuke04_52ab05ac:
 
     # fn "「Ah, okay. Is that alright?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「啊，嗯，可以吗？」"
 
 # game/Day 4.rpy:1813
 translate chinese_simplified kounosuke04_6c546bde:
 
     # ko "「Of course, of course.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「当然了」"
 
 # game/Day 4.rpy:1814
 translate chinese_simplified kounosuke04_181ef525:
 
     # fn "「Then without further ado,{p} I'll take your offer!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     fn "「那，难得那么凑巧，我就不客气了」"
 
 # game/Day 4.rpy:1818
 translate chinese_simplified kounosuke04_d763fa7d:
 
     # harue "「Oh, that's right!{p} Kounosuke, you're watching the store this afternoon.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     harue "「啊啊，对了。{p}下午阿孝要看店哦」"
 
 # game/Day 4.rpy:1822
 translate chinese_simplified kounosuke04_00d4499a:
 
     # ko "「Whaaa!?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「诶诶！？」"
 
 # game/Day 4.rpy:1823
@@ -4987,21 +4987,21 @@ translate chinese_simplified kounosuke04_63b22f7c:
 translate chinese_simplified kounosuke04_25be3018:
 
     # ko "「That's...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「那样啊……」"
 
 # game/Day 4.rpy:1828
 translate chinese_simplified kounosuke04_8d508788:
 
     # harue "「Now, now. You're the older brother.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     harue "「好啦，你可是哥哥呢」"
 
 # game/Day 4.rpy:1832
 translate chinese_simplified kounosuke04_2a0302ac:
 
     # ko "「Ooh...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「嗯……」"
 
 # game/Day 4.rpy:1833
@@ -5014,35 +5014,35 @@ translate chinese_simplified kounosuke04_9932597d:
 translate chinese_simplified kounosuke04_20c346f0:
 
     # "At that moment, a light dwells in his eyes.{p}A restless light, I can't miss it."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "那一瞬间，{p}我没法逃过孝之助那充满了险恶目光的眼睛。"
 
 # game/Day 4.rpy:1845
 translate chinese_simplified kounosuke04_949101c8:
 
     # ko "「[fn]...{p} Can I... discuss something with you...?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     ko "「博行~？{p}能商量点事么——」"
 
 # game/Day 4.rpy:1846
 translate chinese_simplified kounosuke04_0fd4d656:
 
     # "......"
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "……"
 
 # game/Day 4.rpy:1850
 translate chinese_simplified kounosuke04_7fe00347:
 
     # "And for some reason,{p}I helped Kounosuke out all afternoon.{p}I was a salesperson."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "午后，不知道为什么，{p}我和被要求看店的孝之助，一起帮忙店里的生意，"
 
 # game/Day 4.rpy:1851
 translate chinese_simplified kounosuke04_f54f1e73:
 
     # "I'm not sure why I did this,{p}but it went on and on until sundown..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: 孝之助_m_02.ks
     "那天就那么过去了……"
 
 translate chinese_simplified strings:

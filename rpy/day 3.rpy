@@ -10,259 +10,259 @@ translate chinese_simplified day03_a06babf4:
 translate chinese_simplified torahiko03_57e52401:
 
     # gm "「Hello. This is [ln] speaking.{w} Oh, yes!{p}Please wait a minute.」"
-    # [旧版翻译] 来源: 3日目 (KS 18-19)
+    # [旧版翻译] 来源: 3日目.ks (KS 18-19)
     gm "「你好，这里是[西村]家。哎呀，你好啊！……嗯，稍等一下哦……"
 
 # game/day 3.rpy:100
 translate chinese_simplified torahiko03_9a835bab:
 
     # gm "「[fn]-chan! You got a phone call!」"
-    # [旧版翻译] 来源: 3日目 (KS 20)
+    # [旧版翻译] 来源: 3日目.ks (KS 20)
     gm "小[博行]，有你的电话哦～」"
 
 # game/day 3.rpy:101
 translate chinese_simplified torahiko03_0cc54b14:
 
     # "Around noon, the phone at the front door rang.{p} Well, since here is not technically my home,{p}I was a bit confused whether it was okay to take it."
-    # [旧版翻译] 来源: 3日目 (KS 22-27)
+    # [旧版翻译] 来源: 3日目.ks (KS 22-27)
      "差不多到中午的时候，放在玄关的电话响了起来。这里，真要说的话并不是[漏れ]的家，所以有一瞬间不知道[漏れ]该不该去接，一直都是奶奶帮[漏れ]去接电话。"
 
 # game/day 3.rpy:102
 translate chinese_simplified torahiko03_621d6d60:
 
     # "But it seems my grandma rushed me to take it instead.{w} I'm not sure if Grandma knew whose call is it anyway."
-    # [旧版翻译] 来源: 3日目 (KS 29)
+    # [旧版翻译] 来源: 3日目.ks (KS 29)
      "不过，看来电话是来找[漏れ]的。"
 
 # game/day 3.rpy:103
 translate chinese_simplified torahiko03_9ef35c17:
 
     # fn "「Who is that, Grandma?」"
-    # [旧版翻译] 来源: 3日目 (KS 32)
+    # [旧版翻译] 来源: 3日目.ks (KS 32)
     fn "「是谁啊？」"
 
 # game/day 3.rpy:104
 translate chinese_simplified torahiko03_e18e3058:
 
     # "Is that my mom calling to ask how I'm doing?"
-    # [旧版翻译] 来源: 3日目 (KS 34-35)
+    # [旧版翻译] 来源: 3日目.ks (KS 34-35)
      "是爸妈打来，询问状况的吗。"
 
 # game/day 3.rpy:105
 translate chinese_simplified torahiko03_82c5f985:
 
     # gm "「It's Aotsuki-san.」"
-    # [旧版翻译] 来源: 3日目 (KS 38)
+    # [旧版翻译] 来源: 3日目.ks (KS 38)
     gm "「是苍月哦」"
 
 # game/day 3.rpy:106
 translate chinese_simplified torahiko03_8842fe06:
 
     # "Aotsuki-san?{w} Who is Aotsuki-san...?{w} Aotsuki...{p}Oh!"
-    # [旧版翻译] 来源: 3日目 (KS 40)
+    # [旧版翻译] 来源: 3日目.ks (KS 40)
      "苍月……？苍月……是谁……啊。"
 
 # game/day 3.rpy:110
 translate chinese_simplified torahiko03_f6565789:
 
     # "I immediately rush to the phone and take the call from Grandma."
-    # [旧版翻译] 来源: 3日目 (KS 44-45)
+    # [旧版翻译] 来源: 3日目.ks (KS 44-45)
      "立刻跑到玄关，从奶奶手中接过电话。"
 
 # game/day 3.rpy:111
 translate chinese_simplified torahiko03_21da9fa9:
 
     # fn "「Hello, Kouya?」"
-    # [旧版翻译] 来源: 3日目 (KS 48)
+    # [旧版翻译] 来源: 3日目.ks (KS 48)
     fn "「喂，是洸哉吗！？」"
 
 # game/day 3.rpy:112
 translate chinese_simplified torahiko03_71866d3a:
 
     # ka "「Yo, [fn]-chan.」"
-    # [旧版翻译] 来源: 3日目 (KS 51)
+    # [旧版翻译] 来源: 3日目.ks (KS 51)
     ka "「呦，小[博行]」"
 
 # game/day 3.rpy:113
 translate chinese_simplified torahiko03_c23c5424:
 
     # fn "「Kouya! Cut the \"chan\"!」"
-    # [旧版翻译] 来源: 3日目 (KS 54)
+    # [旧版翻译] 来源: 3日目.ks (KS 54)
     fn "「喂！对[漏れ]称呼别加『小』啦」"
 
 # game/day 3.rpy:114
 translate chinese_simplified torahiko03_b76bdc03:
 
     # ka "「Well, I just heard it over the phone, heh.」"
-    # [旧版翻译] 来源: 3日目 (KS 57)
+    # [旧版翻译] 来源: 3日目.ks (KS 57)
     ka "「抱歉抱歉，从电话里就听到了」"
 
 # game/day 3.rpy:115
 translate chinese_simplified torahiko03_bc8e344e:
 
     # "I know for sure that he's laughing coolly on the otherside.{w} I just can't confirm it because it's a phone call."
-    # [旧版翻译] 来源: 3日目 (KS 59-61)
+    # [旧版翻译] 来源: 3日目.ks (KS 59-61)
      "洸哉他「嘿嘿」地笑着。在他的脸上肯定是跟平时一样酷酷的笑容吧。虽然隔着电话看不到就是了。"
 
 # game/day 3.rpy:116
 translate chinese_simplified torahiko03_1d8200fb:
 
     # fn "「I've always been calling you Kouya.{p} So when I heard the call is from Aotsuki-san,{p} I thought I didn't know anyone for a moment.」"
-    # [旧版翻译] 来源: 3日目 (KS 63-65)
+    # [旧版翻译] 来源: 3日目.ks (KS 63-65)
     fn "「在叫洸哉的时候一直都是叫名字，突然出现叫苍月的，一瞬间还真不知道是谁呢」"
 
 # game/day 3.rpy:117
 translate chinese_simplified torahiko03_f0c696b8:
 
     # ka "「Yeah,{w} I'm sure the person that called me{p} Aotsuki-san earlier doesn't really know who I am.」"
-    # [旧版翻译] 来源: 3日目 (KS 67-69)
+    # [旧版翻译] 来源: 3日目.ks (KS 67-69)
     ka "「啊，因为在叫我的时候，几乎没有人会叫我的姓氏啊」"
 
 # game/day 3.rpy:118
 translate chinese_simplified torahiko03_4ecba954:
 
     # ka "「More than that,{w} are you free today?」"
-    # [旧版翻译] 来源: 3日目 (KS 71-72)
+    # [旧版翻译] 来源: 3日目.ks (KS 71-72)
     ka "「比起这个[博行]，今天有空吗？」"
 
 # game/day 3.rpy:119
 translate chinese_simplified torahiko03_24b8eda5:
 
     # fn "「Yeah, I am.」"
-    # [旧版翻译] 来源: 3日目 (KS 75)
+    # [旧版翻译] 来源: 3日目.ks (KS 75)
     fn "「嗯，有空啊」"
 
 # game/day 3.rpy:120
 translate chinese_simplified torahiko03_bf290fab:
 
     # ka "「Then that's convenient.{p} Meet me at the park at 1 o'clock, okay?」"
-    # [旧版翻译] 来源: 3日目 (KS 78)
+    # [旧版翻译] 来源: 3日目.ks (KS 78)
     ka "「那太好了。下午一点在公园集合」"
 
 # game/day 3.rpy:126
 translate chinese_simplified torahiko03_4ac1c104:
 
     # "1:00 PM."
-    # [旧版翻译] 来源: 3日目 (KS 84)
+    # [旧版翻译] 来源: 3日目.ks (KS 84)
      "下午一点。[漏れ]来到在村子中心的那个公园。"
 
 # game/day 3.rpy:127
 translate chinese_simplified torahiko03_3ee721b6:
 
     # "I walk into the park located in the center of the village.{w} Even though it is a park, there isn't any playground actually."
-    # [旧版翻译] 来源: 3日目 (KS 86-88)
+    # [旧版翻译] 来源: 3日目.ks (KS 86-88)
      "虽说是公园，不过并没有游乐设施。只有一些花草树木，还有摆在那边的长椅。仅仅是个广场而已。"
 
 # game/day 3.rpy:128
 translate chinese_simplified torahiko03_10891e4a:
 
     # "It's just a plaza with a some benches and a lot of trees.{w} I asked Kouya what we are doing in such a placeover the phone."
-    # [旧版翻译] 来源: 3日目 (KS 90-91)
+    # [旧版翻译] 来源: 3日目.ks (KS 90-91)
      "去那里是要干嘛啊，通过电话询问洸哉时，"
 
 # game/day 3.rpy:129
 translate chinese_simplified torahiko03_d1b38058:
 
     # "But he only told me to look forward to it."
-    # [旧版翻译] 来源: 3日目 (KS 93)
+    # [旧版翻译] 来源: 3日目.ks (KS 93)
      "「你就好好期待吧」他只是这么回答。"
 
 # game/day 3.rpy:130
 translate chinese_simplified torahiko03_fe70f1ba:
 
     # "So now I'm standing here without any clues,{p}while the sun's heat is setting my head on fire."
-    # [旧版翻译] 来源: 3日目 (KS 95-96)
+    # [旧版翻译] 来源: 3日目.ks (KS 95-96)
      "对于这点实在是摸不着头脑，反倒是被太阳照得有点头晕。"
 
 # game/day 3.rpy:131
 translate chinese_simplified torahiko03_43b299ab:
 
     # ka "「Have you been waiting for long?」"
-    # [旧版翻译] 来源: 3日目 (KS 99)
+    # [旧版翻译] 来源: 3日目.ks (KS 99)
     ka "「[博行]，等很久了吗？」"
 
 # game/day 3.rpy:136
 translate chinese_simplified torahiko03_aaa86d24:
 
     # fn "「Kouya!{w} Oh, I just got here.」"
-    # [旧版翻译] 来源: 3日目 (KS 106)
+    # [旧版翻译] 来源: 3日目.ks (KS 106)
     fn "「啊，洸哉！没有啦，[漏れ]刚到而已！」"
 
 # game/day 3.rpy:137
 translate chinese_simplified torahiko03_745c3184:
 
     # "I see Kouya and Kyouji-senpai come into the park."
-    # [旧版翻译] 来源: 3日目 (KS 108)
+    # [旧版翻译] 来源: 3日目.ks (KS 108)
      "洸哉跟着京慈前辈一起来到了公园。"
 
 # game/day 3.rpy:138
 translate chinese_simplified torahiko03_5f7d0b52:
 
     # fn "「Kyouji-senpai! You're here, too!」"
-    # [旧版翻译] 来源: 3日目 (KS 111)
+    # [旧版翻译] 来源: 3日目.ks (KS 111)
     fn "「京慈前辈也一起来了啊！」"
 
 # game/day 3.rpy:139
 translate chinese_simplified torahiko03_35b4353b:
 
     # ky "「Ah.{w} Well, thank you for coming today, [fn].」"
-    # [旧版翻译] 来源: 3日目 (KS 114)
+    # [旧版翻译] 来源: 3日目.ks (KS 114)
     ky "「是啊。谢谢你今天愿意来」"
 
 # game/day 3.rpy:140
 translate chinese_simplified torahiko03_9157a831:
 
     # "Kyoji-senpai replies while giving me a smile."
-    # [旧版翻译] 来源: 3日目 (KS 116)
+    # [旧版翻译] 来源: 3日目.ks (KS 116)
      "京慈前辈露出笑容。"
 
 # game/day 3.rpy:141
 translate chinese_simplified torahiko03_1eb2e9e8:
 
     # ka "「As you see, [fn].{p} Today's sponsor is Kyouji here.」"
-    # [旧版翻译] 来源: 3日目 (KS 119)
+    # [旧版翻译] 来源: 3日目.ks (KS 119)
     ka "「今天的这个活动可是京慈要办的哦」"
 
 # game/day 3.rpy:142
 translate chinese_simplified torahiko03_f55e05f4:
 
     # fn "「Sponsor?{w} Really?」"
-    # [旧版翻译] 来源: 3日目 (KS 122)
+    # [旧版翻译] 来源: 3日目.ks (KS 122)
     fn "「咦，是这样吗？」"
 
 # game/day 3.rpy:143
 translate chinese_simplified torahiko03_31347e21:
 
     # ky "「Actually, my club suddenly took a day off today.{p} Since I was free, I was thinking about guiding you\n around the village.」"
-    # [旧版翻译] 来源: 3日目 (KS 124-127)
+    # [旧版翻译] 来源: 3日目.ks (KS 124-127)
     ky "「其实啊，今天的社团活动因为一些事突然中止。而且，[博行]也才刚回到这里，难得有这个机会，就想说带你到村子里走走」"
 
 # game/day 3.rpy:144
 translate chinese_simplified torahiko03_99ec0bca:
 
     # ky "「But I also invited Kouya because it'll be boring just\n to have only one guide.」"
-    # [旧版翻译] 来源: 3日目 (KS 130)
+    # [旧版翻译] 来源: 3日目.ks (KS 130)
     ky "「不过向导要是只有一个人的话有点无聊，所以就邀请了洸哉」"
 
 # game/day 3.rpy:145
 translate chinese_simplified torahiko03_9283d3f4:
 
     # fn "「I see!{w} I'm so excited about it!」"
-    # [旧版翻译] 来源: 3日目 (KS 133)
+    # [旧版翻译] 来源: 3日目.ks (KS 133)
     fn "「原来如此！那还真是让人高兴呢！」"
 
 # game/day 3.rpy:146
 translate chinese_simplified torahiko03_f20bf62b:
 
     # "After I arrived here,{w} I've had a chance to walk around the village.{w} But honestly, I didn't know where to look around, so this is really helpful."
-    # [旧版翻译] 来源: 3日目 (KS 135-137)
+    # [旧版翻译] 来源: 3日目.ks (KS 135-137)
      "虽然回到这之后也有些机会在村里走走，不过自己也不知道到底该怎么逛比较好，真是帮了大忙。"
 
 # game/day 3.rpy:147
 translate chinese_simplified torahiko03_24560348:
 
     # "I could remember the place we used to play when we were in elementary school,{w} and lots of beautiful scenery, but all were just in fragments."
-    # [旧版翻译] 来源: 3日目 (KS 139-141)
+    # [旧版翻译] 来源: 3日目.ks (KS 139-141)
      "小学时那些曾经玩耍的地方，司空见惯的景色，因为脑中的记忆有些模糊不清，实在想不出来确切位置到底在哪。"
 
 # game/day 3.rpy:148
@@ -276,49 +276,49 @@ translate chinese_simplified torahiko03_a80bcfca:
 translate chinese_simplified torahiko03_9f51053e:
 
     # ka "「Well then,{w} let's head to some of your nostalgic places,\n shall we?」"
-    # [旧版翻译] 来源: 3日目 (KS 144)
+    # [旧版翻译] 来源: 3日目.ks (KS 144)
     ka "「那么，我们就去逛逛那些让人怀念的地方吧」"
 
 # game/day 3.rpy:155
 translate chinese_simplified torahiko03_e52e5618:
 
     # "We left the park right after."
-    # [旧版翻译] 来源: 3日目 (KS 148)
+    # [旧版翻译] 来源: 3日目.ks (KS 148)
      "从公园出发的[漏れ]们，"
 
 # game/day 3.rpy:156
 translate chinese_simplified torahiko03_acffe6b9:
 
     # "As Kyouji-senpai suggested, we decided to take a large clockwise walk from the center of the village."
-    # [旧版翻译] 来源: 3日目 (KS 149)
+    # [旧版翻译] 来源: 3日目.ks (KS 149)
      "从村子的中心，以顺时针方向开始散步。"
 
 # game/day 3.rpy:167
 translate chinese_simplified torahiko03_9c83a5d2:
 
     # "A field that for the village's children to run around and play.{w} The river where everyone catches fish."
-    # [旧版翻译] 来源: 3日目 (KS 159)
+    # [旧版翻译] 来源: 3日目.ks (KS 159)
      "曾经奔跑游玩过的草原。大家一起去钓小龙虾的河川。"
 
 # game/day 3.rpy:168
 translate chinese_simplified torahiko03_27089318:
 
     # "A forest that might be suitable for us to go on an expedition sometimes."
-    # [旧版翻译] 来源: 3日目 (KS 160)
+    # [旧版翻译] 来源: 3日目.ks (KS 160)
      "背上背包前去探险的森林。"
 
 # game/day 3.rpy:169
 translate chinese_simplified torahiko03_9f758760:
 
     # "And there the elementary school we all used to attend every day..."
-    # [旧版翻译] 来源: 3日目 (KS 161)
+    # [旧版翻译] 来源: 3日目.ks (KS 161)
      "还有大家每天都会去的小学……"
 
 # game/day 3.rpy:170
 translate chinese_simplified torahiko03_c99448a2:
 
     # "Every time I hung around a familiar place,{w} one by one,{w} I felt the memories which had sunk so deeply in my mind started to emerge more and more."
-    # [旧版翻译] 来源: 3日目 (KS 163-165)
+    # [旧版翻译] 来源: 3日目.ks (KS 163-165)
      "在经过这一个又一个熟悉的场景时，[漏れ]能感觉到那深深沉淀的记忆，随着跟大家一起制造的回忆缓缓浮起。"
 
 # game/day 3.rpy:171
@@ -332,273 +332,273 @@ translate chinese_simplified torahiko03_f592672d:
 translate chinese_simplified torahiko03_c75dfa20:
 
     # "Then, I finally finished the trip around the village. We ended up drinking cold juice while resting at a candy store downtown."
-    # [旧版翻译] 来源: 3日目 (KS 169-170)
+    # [旧版翻译] 来源: 3日目.ks (KS 169-170)
      "接着，逛过村子一圈的[漏れ]们，在糖果店买了冷饮并排坐着休息。"
 
 # game/day 3.rpy:181
 translate chinese_simplified torahiko03_2cbfd641:
 
     # ka "「It's kinda late now.{w} I guess I'll just head back home\n after finishing the juice.{w} We've gone around almost\n every remarkable places.」"
-    # [旧版翻译] 来源: 3日目 (KS 176-179)
+    # [旧版翻译] 来源: 3日目.ks (KS 176-179)
     ka "「时间也差不多了，喝完饮料后就解散吧。主要的地方也几乎都逛到了」"
 
 # game/day 3.rpy:182
 translate chinese_simplified torahiko03_4d0ff23a:
 
     # ky "「So, how was it?{w} Have you recalled anything more\n about Minasato?」"
-    # [旧版翻译] 来源: 3日目 (KS 181-182)
+    # [旧版翻译] 来源: 3日目.ks (KS 181-182)
     ky "「[博行]，怎么样？一些有关村子的事情，有回忆起来吗？」"
 
 # game/day 3.rpy:183
 translate chinese_simplified torahiko03_6eda5fd5:
 
     # fn "「Yes! I remembered a lot.{p} I was full of nostalgic feelings during the trip.」"
-    # [旧版翻译] 来源: 3日目 (KS 184-186)
+    # [旧版翻译] 来源: 3日目.ks (KS 184-186)
     fn "「有啊！回想起很多事呢。[漏れ]真的好怀念啊……」"
 
 # game/day 3.rpy:184
 translate chinese_simplified torahiko03_d87e6982:
 
     # ky "「Then I guess the guide was worth it after all.」"
-    # [旧版翻译] 来源: 3日目 (KS 189)
+    # [旧版翻译] 来源: 3日目.ks (KS 189)
     ky "「是吗，看来这场导览很有价值」"
 
 # game/day 3.rpy:185
 translate chinese_simplified torahiko03_32429f93:
 
     # fn "「Somehow...{w} It seems like I've lost so many\n precious memories about this village.{w} It's like\n amnesia, or something like that.」"
-    # [旧版翻译] 来源: 3日目 (KS 191-193)
+    # [旧版翻译] 来源: 3日目.ks (KS 191-193)
     fn "「总觉得[漏れ]……真的忘掉了不少很重要的回忆。就像是失忆了一样」"
 
 # game/day 3.rpy:189
 translate chinese_simplified torahiko03_4dc1697c:
 
     # ka "「Wow, the city did change people that much.」"
-    # [旧版翻译] 来源: 3日目 (KS 198)
+    # [旧版翻译] 来源: 3日目.ks (KS 198)
     ka "「城市居然可以让人改变到这种程度吗……」"
 
 # game/day 3.rpy:190
 translate chinese_simplified torahiko03_1b99919c:
 
     # "Well now that's a little exaggerated,{w} as Kouya jokingly added to my expression.{p}On the other hand, he got all three of us giggling."
-    # [旧版翻译] 来源: 3日目 (KS 200-202)
+    # [旧版翻译] 来源: 3日目.ks (KS 200-202)
      "对于[漏れ]这有些夸张的表现，洸哉也半开玩笑的回答。而[漏れ]们三个人，都笑了起来。"
 
 # game/day 3.rpy:194
 translate chinese_simplified torahiko03_f93b9119:
 
     # ka "「So, what made you come back to Minasato all of a\n sudden?」"
-    # [旧版翻译] 来源: 3日目 (KS 208-210)
+    # [旧版翻译] 来源: 3日目.ks (KS 208-210)
     ka "「不过，为什么会突然回到水乡村来啊？」"
 
 # game/day 3.rpy:195
 translate chinese_simplified torahiko03_f561a174:
 
     # fn "「Actually, I got a letter from Torahiko earlier.{p} He invited me to come back here once in a while.」"
-    # [旧版翻译] 来源: 3日目 (KS 212-214)
+    # [旧版翻译] 来源: 3日目.ks (KS 212-214)
     fn "「其实，是因为收到虎彦写来的信。说偶尔也回来一趟」"
 
 # game/day 3.rpy:199
 translate chinese_simplified torahiko03_d2022081:
 
     # ka "「Hmmm...{w} Torahiko, huh...」"
-    # [旧版翻译] 来源: 3日目 (KS 218-219)
+    # [旧版翻译] 来源: 3日目.ks (KS 218-219)
     ka "「嘿……虎彦吗……」"
 
 # game/day 3.rpy:200
 translate chinese_simplified torahiko03_6f139c7b:
 
     # "As Kouya mumbling, I can see his face turns a little cloudy."
-    # [旧版翻译] 来源: 3日目 (KS 221)
+    # [旧版翻译] 来源: 3日目.ks (KS 221)
      "这时[漏れ]察觉洸哉的表情有些阴郁。"
 
 # game/day 3.rpy:204
 translate chinese_simplified torahiko03_8dd20be4:
 
     # ka "「Well, if only he's THAT useful once in a while.」"
-    # [旧版翻译] 来源: 3日目 (KS 226)
+    # [旧版翻译] 来源: 3日目.ks (KS 226)
     ka "「那家伙偶尔也能派上用场嘛」"
 
 # game/day 3.rpy:205
 translate chinese_simplified torahiko03_21f16d1c:
 
     # "Kouya jokes with a big smile."
-    # [旧版翻译] 来源: 3日目 (KS 228)
+    # [旧版翻译] 来源: 3日目.ks (KS 228)
      "在这句玩笑话后，洸哉又恢复原本的笑容。"
 
 # game/day 3.rpy:209
 translate chinese_simplified torahiko03_dc5e5210:
 
     # ky "「Eh?{w} Aren't you the one who had Ooshima make some\n porridge when you got a cold the other day?」"
-    # [旧版翻译] 来源: 3日目 (KS 232-234)
+    # [旧版翻译] 来源: 3日目.ks (KS 232-234)
     ky "「哎呀？之前感冒的时候，吃了大岛做的粥的不知道是谁呢？」"
 
 # game/day 3.rpy:213
 translate chinese_simplified torahiko03_fc26b3ce:
 
     # ka "「What!{w} That's because Torahiko suddenly rushed in\n my room when I was asleep!」"
-    # [旧版翻译] 来源: 3日目 (KS 237-239)
+    # [旧版翻译] 来源: 3日目.ks (KS 237-239)
     ka "「才不是那样！那个是，我在休息的时候，虎彦那家伙突然冲进来硬要我吃的啦！」"
 
 # game/day 3.rpy:214
 translate chinese_simplified torahiko03_c2f0166d:
 
     # fn "「Ha! Your face is turning red, ya know?」"
-    # [旧版翻译] 来源: 3日目 (KS 242)
+    # [旧版翻译] 来源: 3日目.ks (KS 242)
     fn "「感情真好呢」"
 
 # game/day 3.rpy:218
 translate chinese_simplified torahiko03_54f27650:
 
     # ka "「Hey! Don't make fun of me.」"
-    # [旧版翻译] 来源: 3日目 (KS 246)
+    # [旧版翻译] 来源: 3日目.ks (KS 246)
     ka "「喂。别闹了啦」"
 
 # game/day 3.rpy:228
 translate chinese_simplified torahiko03_77e49f6f:
 
     # ky "「Minasato hasn't changed much after a long time,\n has it?{w} The scenerey hasn't change,{w} but so too the\n people.{w} I'm not sure whether that's good or bad.」"
-    # [旧版翻译] 来源: 3日目 (KS 255-258)
+    # [旧版翻译] 来源: 3日目.ks (KS 255-258)
     ky "「久违的水乡村其实没什么变化吧？不但景色没变，我觉得连人也没什么变化。虽然不太懂这到底是好还是不好……」"
 
 # game/day 3.rpy:229
 translate chinese_simplified torahiko03_802f9043:
 
     # "Indeed.{w} And these two, just like old times, have always been the two that're good at taking care of themselves..."
-    # [旧版翻译] 来源: 3日目 (KS 260-261)
+    # [旧版翻译] 来源: 3日目.ks (KS 260-261)
      "的确如此。而且，这两个人也是，从以前就很会照顾人的性格完全没变呢……"
 
 # game/day 3.rpy:230
 translate chinese_simplified torahiko03_977d6490:
 
     # "When I was busy thinking about such things..."
-    # [旧版翻译] 来源: 3日目 (KS 263)
+    # [旧版翻译] 来源: 3日目.ks (KS 263)
      "正当[漏れ]这么想时"
 
 # game/day 3.rpy:231
 translate chinese_simplified torahiko03_19fca102:
 
     # who "「Eh?{w} [fn]!」"
-    # [旧版翻译] 来源: 3日目 (KS 266)
+    # [旧版翻译] 来源: 3日目.ks (KS 266)
     who "「哎呀？这不是[博行]吗！」"
 
 # game/day 3.rpy:232
 translate chinese_simplified torahiko03_b4737eb1:
 
     # fn "「Torahiko!」"
-    # [旧版翻译] 来源: 3日目 (KS 269)
+    # [旧版翻译] 来源: 3日目.ks (KS 269)
     fn "「虎彦！」"
 
 # game/day 3.rpy:240
 translate chinese_simplified torahiko03_d2c4e61c:
 
     # to "「What are you guys doing here?」"
-    # [旧版翻译] 来源: 3日目 (KS 278)
+    # [旧版翻译] 来源: 3日目.ks (KS 278)
     to "「你们三个在这干嘛啊？」"
 
 # game/day 3.rpy:241
 translate chinese_simplified torahiko03_56d4d553:
 
     # "It turns out that Torahiko was also coming here by chance.{w} He noticed us while he was parking the bicycle in front of the store."
-    # [旧版翻译] 来源: 3日目 (KS 280)
+    # [旧版翻译] 来源: 3日目.ks (KS 280)
      "虎彦偶然骑着自行车从糖果店前经过，并注意到[漏れ]们在店门口的长椅上休息。"
 
 # game/day 3.rpy:242
 translate chinese_simplified torahiko03_5dcda138:
 
     # fn "「Good evening, Tora.{w} Kyouji-senpai and Kouya were\n showing me this candy store as one of the nostalgic\n spots in the village.」"
-    # [旧版翻译] 来源: 3日目 (KS 282-284)
+    # [旧版翻译] 来源: 3日目.ks (KS 282-284)
     fn "「京慈前辈还有洸哉，特地带着[漏れ]绕了村子一圈，重温那些让人怀念的地方」"
 
 # game/day 3.rpy:246
 translate chinese_simplified torahiko03_2f1979d0:
 
     # to "「Hmmm...{w} What's that?{w} Should I join you guys?」"
-    # [旧版翻译] 来源: 3日目 (KS 287-288)
+    # [旧版翻译] 来源: 3日目.ks (KS 287-288)
     to "「什么嘛……这样的话也叫上我啊」"
 
 # game/day 3.rpy:247
 translate chinese_simplified torahiko03_fd853082:
 
     # "Torahiko sits next to Kouya with such a confused face."
-    # [旧版翻译] 来源: 3日目 (KS 290)
+    # [旧版翻译] 来源: 3日目.ks (KS 290)
      "虎彦带着吃惊的表情加入[漏れ]们。"
 
 # game/day 3.rpy:248
 translate chinese_simplified torahiko03_e6470b30:
 
     # ky "「I wonder if Ooshima was busy doing club activities\n or helping his dad.」"
-    # [旧版翻译] 来源: 3日目 (KS 293)
+    # [旧版翻译] 来源: 3日目.ks (KS 293)
     ky "「想说大岛除了忙社团还要忙旅馆的事，肯定很忙的」"
 
 # game/day 3.rpy:249
 translate chinese_simplified torahiko03_0ab12af4:
 
     # to "「No, no! I'll just skip them, though.」"
-    # [旧版翻译] 来源: 3日目 (KS 296)
+    # [旧版翻译] 来源: 3日目.ks (KS 296)
     to "「不会不会，而且为了[博行]就算都翘掉也无所谓」"
 
 # game/day 3.rpy:250
 translate chinese_simplified torahiko03_e8b72baa:
 
     # fn "「Torahiko, the tournament is coming soon.{p} Isn't it better for you to prioritize the club\n activities over something like this?」"
-    # [旧版翻译] 来源: 3日目 (KS 298-300)
+    # [旧版翻译] 来源: 3日目.ks (KS 298-300)
     fn "「虎彦你不是快要参加大会了吗，比起[漏れ]的事更应该以社团活动为优先吧？」"
 
 # game/day 3.rpy:254
 translate chinese_simplified torahiko03_7accda27:
 
     # to "「What're you talking about?{p} Until then, please don't say anything like that.」"
-    # [旧版翻译] 来源: 3日目 (KS 304)
+    # [旧版翻译] 来源: 3日目.ks (KS 304)
     to "「怎么连[博行]都说这种话」"
 
 # game/day 3.rpy:255
 translate chinese_simplified torahiko03_54fb0932:
 
     # "Torahiko shows his dissatisfaction while sadly hanging his ears behind his head."
-    # [旧版翻译] 来源: 3日目 (KS 306-307)
+    # [旧版翻译] 来源: 3日目.ks (KS 306-307)
      "虎彦的耳朵悲伤地垂了下来，同时露出不满的神情。"
 
 # game/day 3.rpy:259
 translate chinese_simplified torahiko03_50140a70:
 
     # ka "「Torahiko would also not be a good guide in the\n firstplace, though.」"
-    # [旧版翻译] 来源: 3日目 (KS 310-312)
+    # [旧版翻译] 来源: 3日目.ks (KS 310-312)
     ka "「……而且，虎彦你是不可能给[博行]当好导游的吧？」"
 
 # game/day 3.rpy:263
 translate chinese_simplified torahiko03_896f3c80:
 
     # to "「What did you say!?」"
-    # [旧版翻译] 来源: 3日目 (KS 316)
+    # [旧版翻译] 来源: 3日目.ks (KS 316)
     to "「你说什么！」"
 
 # game/day 3.rpy:264
 translate chinese_simplified torahiko03_439a7ab9:
 
     # "Torahiko, who was crouching the whole time, suddenly looks at Kouya."
-    # [旧版翻译] 来源: 3日目 (KS 318)
+    # [旧版翻译] 来源: 3日目.ks (KS 318)
      "虎彦一边低鸣一边瞪向洸哉。"
 
 # game/day 3.rpy:268
 translate chinese_simplified torahiko03_18ed2019:
 
     # ka "「Am I wrong?」"
-    # [旧版翻译] 来源: 3日目 (KS 322)
+    # [旧版翻译] 来源: 3日目.ks (KS 322)
     ka "「生气啦？」"
 
 # game/day 3.rpy:269
 translate chinese_simplified torahiko03_a6dd4849:
 
     # fn "「Guys, don't fight for such a thing like that.」"
-    # [旧版翻译] 来源: 3日目 (KS 325)
+    # [旧版翻译] 来源: 3日目.ks (KS 325)
     fn "「好了好了，你们两个。别因为这种事吵架」"
 
 # game/day 3.rpy:270
 translate chinese_simplified torahiko03_688fe4a1:
 
     # "Hopefully, Kyouji-senpai's calmness will somehow ease the bad relationship between those two."
-    # [旧版翻译] 来源: 3日目 (KS 327-328)
+    # [旧版翻译] 来源: 3日目.ks (KS 327-328)
      "[漏れ]跟京慈前辈一起安抚着两人，这两人的关系要是能有所改善就好了。"
 
 # game/day 3.rpy:289
@@ -2181,7 +2181,7 @@ translate chinese_simplified shun03_6042a224:
 
     # "So {w=.5}that means it shouldn't be a problem even{p}if I take home a half-dried one."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 443)
-    "这[wait time=500]意味着，把半干的胖次放在里面带回家也没问题吧。"
+    "这[wait time=\"500\"]意味着，把半干的胖次放在里面带回家也没问题吧。"
 
 # game/day 3.rpy:818
 translate chinese_simplified shun03_951a4c65:
