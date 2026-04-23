@@ -176,7 +176,8 @@ translate chinese_simplified begin_d77d76d3:
 translate chinese_simplified begin_2646a63c:
 
     # fn "「It's an hour-long bus ride to town...{p} just a little bit more.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 88)
+    fn "「乘坐巴士到风鸣町要1小时……{p}然后再走走就到了么。」"
 
 # game/Welcome Party.rpy:80
 
@@ -190,7 +191,8 @@ translate chinese_simplified begin_aca15634:
 translate chinese_simplified begin_eda758a3:
 
     # fn "「Ugh, it's so cold.{p} Why doesn't this bus have AC?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 94-96)
+    fn "「唔……还真是冷啊{p}这乡下的交通工具里，为什么不装一个像样的冷气呀」"
 
 # game/Welcome Party.rpy:82
 
@@ -232,7 +234,8 @@ translate chinese_simplified begin_722c360d:
 translate chinese_simplified begin_666fcbe5:
 
     # driver "「Next stop, Minasato.{p} Please press the stop button if you are departing.」"
-    driver ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 113-115)
+    driver "「下一站，水乡{p}想下车的乘客，请按手边的按钮」"
 
 # game/Welcome Party.rpy:92
 
@@ -378,7 +381,8 @@ translate chinese_simplified begin_d5f4a0f4:
 translate chinese_simplified begin_b3e198cd:
 
     # to "You were taking so long.{p} I decided to surprise you.」"
-    to ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 191-192)
+    to "「听说你今天过来，我可是特意在这儿等你的哦{p}想再顺便猫在转角的地方吓你一跳」"
 
 # game/Welcome Party.rpy:159
 
@@ -400,7 +404,8 @@ translate chinese_simplified begin_99776663:
 translate chinese_simplified begin_ad5aa548:
 
     # to "Morning, noon, and night,\nthey're the only 3 times it comes here.{p} I'm glad your bus came on time today.」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 199-201)
+    to "「才不是咧。从城市到这里，也就只可能坐巴士了\n早中晚，一天只有三趟车而已{p}今天的巴士也是准时到呢，太好了」"
 
 # game/Welcome Party.rpy:167
 
@@ -519,7 +524,8 @@ translate chinese_simplified begin_7a1065d3:
 translate chinese_simplified begin_a1bbbb6d:
 
     # to "「You came back faster than I thought...{p} but I'm glad.{p}Well then, coming to the welcoming party?」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 257-258)
+    to "「我是说你回来得比预想还要突然嘛……虽然我是挺高兴的{p}嘛，反正你肯定会来欢迎会吧」"
 
 # game/Welcome Party.rpy:203
 
@@ -1159,7 +1165,8 @@ translate chinese_simplified begin_5bc396b1:
 translate chinese_simplified begin_7c500a7d:
 
     # to "Making you pay would be rude.\nBesides, you shouldn't worry about money.{p} Right pops?」"
-    to ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 598-600)
+    to "「不用担心，今天是专门为[fn]而开的聚会，所以才不会让主角付钱的{p}店的事情也根本无须在意，是吧大叔」"
 
 # game/Welcome Party.rpy:399
 
@@ -1712,7 +1719,8 @@ translate chinese_simplified begin_99088621:
 translate chinese_simplified begin_93ca4a57:
 
     # ta "「Fill up on meat today.{p}I actually prefer veggies and fish.{p} {nw}"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 898-899)
+    ta "「今天尽量多多地吃肉吧{p}不过比起肉，我倒是更喜欢吃鱼和蔬菜{p}{nw}」"
 
 # game/Welcome Party.rpy:582
 
@@ -2361,7 +2369,8 @@ translate chinese_simplified sit_with_tatsuki_0c7f1283:
 translate chinese_simplified sit_with_tatsuki_677916f0:
 
     # "He's clearly happy.{p}It's written all over his face."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 1296-1300)
+    "不过这也是因为辰兄非常希望我可以坐在他旁边吧{p}脸上写满了高兴"
 
 # game/Welcome Party.rpy:885
 
@@ -2480,7 +2489,7 @@ translate chinese_simplified sit_with_tatsuki_48b16976:
 
     # ta "「Gahaha! There's no need to hold back!{p} ...*urp* gimme more, Pops!」"
     # [旧版翻译] 来源: オープニング.ks
-    ta "「[博行]也尽量多吃点啊！」"
+    ta "「[fn]也尽量多吃点啊！」"
 
 # game/Welcome Party.rpy:938
 
@@ -3068,7 +3077,8 @@ translate chinese_simplified sit_with_tatsuki_254f15b1:
 translate chinese_simplified sit_with_tatsuki_d83c860b:
 
     # ta "「Whaaaaat...?」"
-    ta ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 910)
+    ta "「什……{w=.3}才不是那么回事啊」"
 
 # game/Welcome Party.rpy:1138
 
@@ -3167,7 +3177,8 @@ translate chinese_simplified sit_with_tatsuki_5072a868:
 translate chinese_simplified sit_with_tatsuki_5390dc87:
 
     # fn "「Err... will he be okay?」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 1717-1718)
+    fn "「没问题吧……」"
 
 # game/Welcome Party.rpy:1177
 
@@ -3243,7 +3254,8 @@ translate chinese_simplified sit_with_tatsuki_7b2db7e7:
 translate chinese_simplified sit_with_tatsuki_919bee09:
 
     # to "「Hey, [fn]. You gonna eat that?{p} Or can I have it?」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 1757-1759)
+    to "「[fn]，这块肉不吃吗{p}不吃我就吃了哦」"
 
 # game/Welcome Party.rpy:1204
 
@@ -3310,7 +3322,8 @@ translate chinese_simplified sit_with_kouya_1b0e1842:
 translate chinese_simplified sit_with_kouya_5ccbba43:
 
     # to "「[fn], what are you doing?{p} Next to Kouya?」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 1804-1805)
+    to "「什么啊，[fn]——{p}居然坐在洸哉旁边——」"
 
 # game/Welcome Party.rpy:1236
 
@@ -3655,7 +3668,8 @@ translate chinese_simplified sit_with_kouya_479bd9ef:
 translate chinese_simplified sit_with_kouya_dd69e957:
 
     # to "「A greeting from our honored guest,\n [fn]!」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 1980-1982)
+    to "「咳哄——也就是说啊，想先请今天的主角——[fn]先跟大家打个招呼来的」"
 
 # game/Welcome Party.rpy:1351
 
@@ -3670,7 +3684,8 @@ translate chinese_simplified sit_with_kouya_4d764f6a:
 translate chinese_simplified sit_with_kouya_c0ab5eb5:
 
     # fn "「Whaaaa?!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 1991)
+    fn "「呜诶诶诶！？」"
 
 # game/Welcome Party.rpy:1353
 
@@ -4019,7 +4034,8 @@ translate chinese_simplified sit_with_kouya_7da370fa:
 translate chinese_simplified sit_with_kouya_25a9bd96:
 
     # fn "「A-anyway, what have you been up to?{p} Like club activities, or something?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 2158-2160)
+    fn "「说、{w=.3}说起来，洸哉现在都做些什么呢{p}难道参加了俱乐部活动什么的」"
 
 # game/Welcome Party.rpy:1438
 
@@ -4702,7 +4718,8 @@ translate chinese_simplified sit_with_kyoutarou_aafba1cf:
 translate chinese_simplified sit_with_kyoutarou_d4c26604:
 
     # fn "「Oh, where do you guys practice?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 2509-2510)
+    fn "「啊，说起来，{w=.3}现在你们是在什么地方练习」"
 
 # game/Welcome Party.rpy:1616
 
@@ -4877,7 +4894,8 @@ translate chinese_simplified sit_with_kyoutarou_4a1a458f:
 translate chinese_simplified sit_with_kyoutarou_74040e71:
 
     # fn "「A what?」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 2517)
+    fn "「诶，{w=.3}明、{w=.3}明天」"
 
 # game/Welcome Party.rpy:1656
 
@@ -4997,7 +5015,8 @@ translate chinese_simplified sit_with_kyoutarou_d9e3a4ba:
 translate chinese_simplified sit_with_kyoutarou_e32cb0c0:
 
     # fn "「W-wait, Tatsu-nii,\n why don't you do someone else's,\n \"marriage interview\"...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 2642-2644)
+    fn "「等、{w=.3}等一下啊，辰兄\n都说了不是在相亲了……」"
 
 # game/Welcome Party.rpy:1693
 
@@ -5119,7 +5138,8 @@ translate chinese_simplified sit_with_kyoutarou_e8795d9a:
 translate chinese_simplified sit_with_kyoutarou_adfbfbcc:
 
     # ky "「At last, my time has come, Tarou.{p} We must be separated!」"
-    ky ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 2696-2698)
+    ky "「终于呢，宗也是时候该从我的身边离开了……{p}虽然心情很复杂，但是前辈仍然很高兴」"
 
 # game/Welcome Party.rpy:1721
 
@@ -5338,7 +5358,8 @@ translate chinese_simplified sit_with_juuichi_5f18d5b8:
 translate chinese_simplified sit_with_juuichi_ca4b78c9:
 
     # to "「Heh, did \"big Kouya-sensei\",\n save a spot for that special someone?」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 2805-2807)
+    to "「嘿，倒是某摆架子的洸哉大音乐家\n想把心爱的人叫到身边来坐都做不到咧」"
 
 # game/Welcome Party.rpy:1786
 
@@ -5934,7 +5955,8 @@ translate chinese_simplified sit_with_juuichi_8f1b89a2:
 translate chinese_simplified sit_with_juuichi_a65edbbf:
 
     # extend "A little \"sproing\" sound plays in my head."
-    extend ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 3159)
+    extend "脑海中浮现出一个像是「嘣」的拟声词。"
 
 # game/Welcome Party.rpy:2008
 
@@ -5985,7 +6007,8 @@ translate chinese_simplified sit_with_juuichi_20e4343a:
 translate chinese_simplified sit_with_juuichi_b93bf79e:
 
     # "He makes a loud \"GUH!\" sound.{p}He lets out a small moan."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 3187-3189)
+    "「咚当！」华丽的音效夹杂着微弱的呻吟{p}被柔一君打飞的辰兄趴在地板上不能动弹"
 
 # game/Welcome Party.rpy:2029
 
@@ -6029,7 +6052,8 @@ translate chinese_simplified sit_with_juuichi_21d47872:
 translate chinese_simplified sit_with_juuichi_07db27ed:
 
     # "With a thump, Juuichi-san sits back down.{p}It's not a very comfortable seat,\nso he moves around a bit, then sits again."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 3202)
+    "说着，柔一君猛地坐到了自己的座位上{p}这个位置似乎不太舒服，他又挪了挪身子重新坐下"
 
 # game/Welcome Party.rpy:2038
 
@@ -6186,7 +6210,8 @@ translate chinese_simplified sit_with_juuichi_4a837150:
 translate chinese_simplified sit_with_juuichi_581aad9b:
 
     # "Until now he's been but a \"grumpy bear,\"{p}literally."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 2890-2892)
+    "至今为止他只不过是个「暴躁熊」{p}字面意义上的"
 
 # game/Welcome Party.rpy:2069
 
@@ -6224,7 +6249,8 @@ translate chinese_simplified sit_with_juuichi_89227fda:
 translate chinese_simplified sit_with_juuichi_67bb9dfc:
 
     # "Even though Juuichi-san is my friend,\nI can't just ask him, \"Are you in a bad mood?\"{p}Hmm, I'll have to break the ice."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 2918-2932)
+    "即使是朋友，也不能直接问「你是不是心情不好」{p}嗯，得想个办法打破僵局才行"
 
 # game/Welcome Party.rpy:2074
 
@@ -6478,7 +6504,8 @@ translate chinese_simplified sit_with_juuichi_2101a4dc:
 translate chinese_simplified sit_with_juuichi_edaeb176:
 
     # ju "「If you ask me,\n Takahara is the one who's,\n \"hard to understand.\"」"
-    ju ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 3345-3357)
+    ju "「要是问我的话\n高原才是那个让人「难以理解」的家伙」"
 
 # game/Welcome Party.rpy:2126
 
@@ -6794,7 +6821,8 @@ translate chinese_simplified sit_with_shun_a2f50b00:
 translate chinese_simplified sit_with_shun_6f02cf81:
 
     # "I felt a little humiliated.{p}\"Oh, it's not a big deal.\" he says.{p}Well, if he says so."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 3583-3584)
+    "多少有一点儿失望呢{p}还以为会是那种常见的桥段{p}不过，如果峻君都这么说了的话"
 
 # game/Welcome Party.rpy:2222
 
@@ -7094,7 +7122,7 @@ translate chinese_simplified sit_with_shin_d5c96c35:
 
     # ta "「So then, this time we're celebrating our reunion!{p} Cheers!」"
     # [旧版翻译] 来源: オープニング.ks
-    ta "「诶，既然差不多齐了，为庆祝与[博行]的再会，{p} \\ 干杯！」"
+    ta "「诶，既然差不多齐了，为庆祝与[fn]的再会，{p} \\ 干杯！」"
 
 # game/Welcome Party.rpy:2317
 
@@ -7139,7 +7167,7 @@ translate chinese_simplified sit_with_shin_288f8ca6:
 
     # ta "「[fn], hurry up and eat!{p} There's no need to hold back!」"
     # [旧版翻译] 来源: オープニング.ks
-    ta "「[博行]也快吃啊！{p} \\ 不要客气。」"
+    ta "「[fn]也快吃啊！{p} \\ 不要客气。」"
 
 # game/Welcome Party.rpy:2334
 
@@ -7715,7 +7743,7 @@ translate chinese_simplified sit_with_kounosuke_254db603:
 
     # ko "「By the way, [fn]...」"
     # [旧版翻译] 来源: オープニング.ks
-    ko "「话说哦，[博行]」"
+    ko "「话说哦，[fn]」"
 
 # game/Welcome Party.rpy:2467
 
@@ -8588,7 +8616,8 @@ translate chinese_simplified sit_with_torahiko_3784388b:
 translate chinese_simplified sit_with_torahiko_cb966d49:
 
     # extend "Ah, old man! Let's get some more rice」!"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 4535)
+    extend "「啊，大叔！再来一碗米饭」！"
 
 # game/Welcome Party.rpy:2757
 
@@ -8801,7 +8830,8 @@ translate chinese_simplified sit_with_torahiko_ed7285f1:
 translate chinese_simplified sit_with_torahiko_ae667c8f:
 
     # su "「So it's the...{p} grub grab grub grill game?」"
-    su ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 4623-4625)
+    su "「所以说是……{p}夺肉夺肉夺肉烤肉游戏？」"
 
 # game/Welcome Party.rpy:2831
 
@@ -9360,7 +9390,8 @@ translate chinese_simplified sit_with_torahiko_3e2a484f_1:
 translate chinese_simplified sit_with_torahiko_3cd8fde6:
 
     # extend "kiss!」{w=.1}"
-    extend ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 4664-4665)
+    extend "亲！{w=.1}"
 
 # game/Welcome Party.rpy:3034
 
@@ -9595,7 +9626,8 @@ translate chinese_simplified sit_with_torahiko_b6e71830:
 translate chinese_simplified sit_with_torahiko_4b329df9:
 
     # su "「Hiyaaaaaa!!{p} Stop it, Tatsuki-san!!{p}I pee from there!!」"
-    su ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 4918-4920)
+    su "「咿呀呀呀！！{p}住手啊，辰树君！！{p}那里会尿出来的！！」"
 
 # game/Welcome Party.rpy:3142
 
@@ -9700,67 +9732,77 @@ translate chinese_simplified sit_with_torahiko_445a3712:
 translate chinese_simplified sit_with_torahiko_70ee490a:
 
     # "After Juuichi-san's physical abuse,\nand Tatsu-nii's drunken fiasco,\neverybody returns to normal."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5011-5012)
+    "柔一君的物理攻击，加上辰兄的醉酒闹剧\n之后，大家都恢复了平静"
 translate chinese_simplified sit_with_torahiko_451ee878:
 
     # "I've been living in the city for so long,\nthis gave me a new feeling of nostalgia."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5117-5121)
+    "在城市里生活了太久\n重新回到这里，给了我一种崭新的怀念感"
 
 # game/Welcome Party.rpy:3174
 
 translate chinese_simplified sit_with_torahiko_6ef8ad06:
 
     # "I'd say it's the calm,\ncarefree way of life,\nbut Minasato is definitely different from the city."
-    ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5115-5118)
+    "应该说是悠闲自在的生活方式\n才对吧，不过水乡村和城市的确很不一样"
 
 # game/Welcome Party.rpy:3175
 
 translate chinese_simplified sit_with_torahiko_f8ade644:
 
     # fn "「Anyway...{p} You're going to be in a national swim meet...」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5123-5125)
+    fn "「说起来……{p}你要参加全国游泳大赛吧」"
 
 # game/Welcome Party.rpy:3176
 
 translate chinese_simplified sit_with_torahiko_13d5842a:
 
     # fn "「Torahiko, you're helping at the inn,\n and you still have to study, too!{p} Not only that, but you still have to work out.」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5127-5129)
+    fn "「虎彦在旅店帮忙和读书这些方面也要做得很好呢\n而且还能够兼顾游泳那一边{p}这可真是不容易啊」"
 
 # game/Welcome Party.rpy:3177
 
 translate chinese_simplified sit_with_torahiko_2a31cf39:
 
     # fn "「That's a lot to deal with, isn't it?」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5129)
+    fn "「这么多事情，也真够辛苦的吧」"
 
 # game/Welcome Party.rpy:3181
 
 translate chinese_simplified sit_with_torahiko_732a816b:
 
     # to "「No, ahahaha!{p} I don't think it's that much!」"
-    to ""
+    # [原版缩写] 来源: extract/orig/オープニング.ks (KS 5132-5134)
+    to "「没有啦，啊哈哈哈{p}我觉得没有那么辛苦啦」"
 
 # game/Welcome Party.rpy:3185
 
 translate chinese_simplified sit_with_torahiko_7b279bd0:
 
     # ju "「Have you been studying?」"
-    ju ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 5138)
+    ju "「你有在好好学习吗」"
 
 # game/Welcome Party.rpy:3189
 
 translate chinese_simplified sit_with_torahiko_6a36a117:
 
     # to "「Guh... don't bring that up, senpai.」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 5141-5142)
+    to "「呜……别突然打击我啊，前辈」"
 
 # game/Welcome Party.rpy:3190
 
 translate chinese_simplified sit_with_torahiko_88be632c:
 
     # ju "「The 2nd year's Summer vacation,\n involves a lot of homework.{p} Don't cry about it and run away when it's over.」"
-    ju ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 5144-5146)
+    ju "「二年级的暑假作业可是相当多的{p}不要在暑假快结束的时候才露出一副苦逼的样子哦」"
 
 # game/Welcome Party.rpy:3194
 
@@ -9768,7 +9810,7 @@ translate chinese_simplified sit_with_torahiko_1eed0db9:
 
     # to "「I-it's okay!{p} I've got everything perfectly planned out!」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「没、没问题！[l]　今年有好好地制订计划去做的。」"
+    to "「没、没问题！{p}　今年有好好地制订计划去做的。」"
 
 # game/Welcome Party.rpy:3195
 
@@ -9800,7 +9842,7 @@ translate chinese_simplified sit_with_torahiko_5096b8e5:
 
     # to "「Ha, hahaha! Summer vacation has just begun.{p} If you only think about the future,\n you won't get started with anything! Hahahaha...」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「哈……哈哈哈，暑假不是才刚刚开始而已嘛。[l]总是把事情想得太远的话，眼前的事情可是做不好的呐！[l]哈哈哈哈……」"
+    to "「哈……哈哈哈，暑假不是才刚刚开始而已嘛。{p}总是把事情想得太远的话，眼前的事情可是做不好的呐！{p}哈哈哈哈……」"
 
 # game/Welcome Party.rpy:3205
 
@@ -9831,14 +9873,15 @@ translate chinese_simplified sit_with_torahiko_ab4a2ed9:
 
     # to "「Hahahahahaha! Hahaha...{p} {nw}"
     # [旧版翻译] 来源: オープニング.ks
-    to "「哈哈哈哈哈哈……哈哈哈哈……[l][虎彦 呆れ normal][wt]哈啊……」"
+    to "「哈哈哈哈哈哈……哈哈哈哈……{p}哈啊……」"
 
 # game/Welcome Party.rpy:3213
 
 translate chinese_simplified sit_with_torahiko_c3014b4a:
 
     # extend "Haaa...」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 5183-5184)
+    extend "哈……"
 
 # game/Welcome Party.rpy:3215
 
@@ -9867,7 +9910,7 @@ translate chinese_simplified sit_with_torahiko_d63d445e:
 
     # fn "「You've slowed down eating.{p} Here, eat some meat.」"
     # [旧版翻译] 来源: オープニング.ks
-    fn "「吃东西的速度下降了哦。[l]来，吃肉吧，[wdt]肉哦」"
+    fn "「吃东西的速度下降了哦。{p}来，吃肉吧，{w=.3}肉哦」"
 
 # game/Welcome Party.rpy:3219
 
@@ -9875,7 +9918,7 @@ translate chinese_simplified sit_with_torahiko_2d5e9c29:
 
     # to "「[fn]...」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「[wdss][博行]……」[rd]"
+    to "「[wdss][fn]……」[rd]"
 
 # game/Welcome Party.rpy:3220
 
@@ -9891,7 +9934,7 @@ translate chinese_simplified sit_with_torahiko_912b8f11:
 
     # to "「O-oh yeah!{p} All right then, I'm gonna eat and eat and eat!{p} So that I'll definitely win!」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「啊，[wdt]哦，说的对！[l]好，那就开吃啦，使劲吃！绝对要取得优胜给你们看！」"
+    to "「啊，{w=.3}哦，说的对！{p}好，那就开吃啦，使劲吃！绝对要取得优胜给你们看！」"
 
 # game/Welcome Party.rpy:3228
 
@@ -9914,7 +9957,7 @@ translate chinese_simplified sit_with_torahiko_a6c0a19e:
 
     # ju "「It's because he's a simple guy.{p} He's the type of person who can...{p} change their mood very quickly.」"
     # [旧版翻译] 来源: オープニング.ks
-    ju "「因为本性非常单纯吧。[l]嘛，感情的快速变化能够表现出来，也是那家伙的特殊之处。」"
+    ju "「因为本性非常单纯吧。{p}嘛，感情的快速变化能够表现出来，也是那家伙的特殊之处。」"
 
 # game/Welcome Party.rpy:3234
 
@@ -9951,7 +9994,7 @@ translate chinese_simplified sit_with_torahiko_623b6d86:
 
     # to "「I'll be fine with just swimming and cooking!!{p} Just get rid of the homework!!」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「俺只要精通游泳和料理就足够了！！[l]作业什么的——消失吧！！！」"
+    to "「俺只要精通游泳和料理就足够了！！{p}作业什么的——消失吧！！！」"
 
 # game/Welcome Party.rpy:3245
 
@@ -9982,7 +10025,7 @@ translate chinese_simplified party_end_64fbbe0d:
 
     # fn "「Whew, my stomach's full.{p} I can't eat another bite...」"
     # [旧版翻译] 来源: オープニング.ks
-    fn "「呼——好饱。[l]已经吃不下了～」"
+    fn "「呼——好饱。{p}已经吃不下了～」"
 
 # game/Welcome Party.rpy:3268
 
@@ -9990,7 +10033,7 @@ translate chinese_simplified party_end_63d39f07:
 
     # to "「I ate and ate...{p} It was just meat but there sure was a lot,\n and then there was also dessert.」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「吃饱了吃饱了。[l]明明只是肉，就已经这么多了，还有附送上来的甜品呢。」"
+    to "「吃饱了吃饱了。{p}明明只是肉，就已经这么多了，还有附送上来的甜品呢。」"
 
 # game/Welcome Party.rpy:3272
 
@@ -10030,7 +10073,7 @@ translate chinese_simplified party_end_7116f0a3:
 
     # to "「Today isn't the only day you're having fun!{p} You're here all Summer vacation,\n let's meet every single day!」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「喂喂，开心的应该不止是今天吧。[l]整个暑假都会待在这里吧，应该每天都能见面啦。」"
+    to "「喂喂，开心的应该不止是今天吧。{p}整个暑假都会待在这里吧，应该每天都能见面啦。」"
 
 # game/Welcome Party.rpy:3289
 
@@ -10046,7 +10089,7 @@ translate chinese_simplified party_end_862493b7:
 
     # to "「It's a figure of speech.{p} A. Figure. Of. Speech.」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「是说应该啦，应[wdt]·该[wdt]·吧[wdt]」"
+    to "「是说应该啦，应{w=.3}·该{w=.3}·吧{w=.3}」"
 
 # game/Welcome Party.rpy:3299
 
@@ -10054,7 +10097,7 @@ translate chinese_simplified party_end_3418802d:
 
     # ta "「Well, we played every day back then.{p} We liked to play baseball or go fishing,\n or do things like have a game of tag.」"
     # [旧版翻译] 来源: オープニング.ks
-    ta "「嘛，以前不也是每天都在一起玩嘛。[l]棒球、捉鱼……还有像捉迷藏之类的。」"
+    ta "「嘛，以前不也是每天都在一起玩嘛。{p}棒球、捉鱼……还有像捉迷藏之类的。」"
 
 # game/Welcome Party.rpy:3303
 
@@ -10062,13 +10105,14 @@ translate chinese_simplified party_end_60c8e149:
 
     # to "「That's right! Why don't we have...{p} a game of tag sometime?{p} Even better, we could do it all day long!」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「对啦——确实是一直当鬼，怎样，有趣吧。[l]当大家都被鬼捉到的话，游戏就结束了」"
+    to "「对啦——确实是一直当鬼，怎样，有趣吧。{p}当大家都被鬼捉到的话，游戏就结束了」"
 # game/Welcome Party.rpy:3304
 
 translate chinese_simplified party_end_38d0067a:
 
     # to "「We could call it \"24-Hour Tag Endurance\"!」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/オープニング.ks (KS 5314-5316)
+    to "「我们不如就叫它「24小时持久捉迷藏」吧！」"
 
 # game/Welcome Party.rpy:3305
 
@@ -10084,7 +10128,7 @@ translate chinese_simplified party_end_85af4165:
 
     # to "「Yep, I think it's worth a try.{p} It won't be over until everybody's caught!」"
     # [旧版翻译] 来源: オープニング.ks
-    to "「对啦——确实是一直当鬼，怎样，有趣吧。[l]当大家都被鬼捉到的话，游戏就结束了」"
+    to "「对啦——确实是一直当鬼，怎样，有趣吧。{p}当大家都被鬼捉到的话，游戏就结束了」"
 
 # game/Welcome Party.rpy:3316
 
@@ -10132,7 +10176,7 @@ translate chinese_simplified party_end_a88d6039:
 
     # si "「Then it would be good to hide in my house.{p} However, that would make things too simple and easy.」"
     # [旧版翻译] 来源: オープニング.ks
-    si "「那我就躲在自己的家里好了。[l]其实，是在家待着休息而已。」"
+    si "「那我就躲在自己的家里好了。{p}其实，是在家待着休息而已。」"
 
 # game/Welcome Party.rpy:3331
 
@@ -10171,7 +10215,7 @@ translate chinese_simplified party_end_81482b10:
 
     # su "「Before [fn]-san moved,\n we would go bug-catching or fishing!」"
     # [旧版翻译] 来源: オープニング.ks
-    su "「[博行]君搬家之前，有一起去捕昆虫、钓小龙虾诶～」"
+    su "「[fn]君搬家之前，有一起去捕昆虫、钓小龙虾诶～」"
 
 # game/Welcome Party.rpy:3349
 
@@ -10186,7 +10230,7 @@ translate chinese_simplified party_end_d3e8ecf9:
 
     # "That would be suitable for him.{p}But, that's not really something\na high school student would do..."
     # [旧版翻译] 来源: オープニング.ks
-    "那副样子实在是太适合他了。[l]不过，这也不像是高中生聚在一起去做的事情啊。"
+    "那副样子实在是太适合他了。{p}不过，这也不像是高中生聚在一起去做的事情啊。"
 # game/Welcome Party.rpy:3351
 
 translate chinese_simplified party_end_67eb5043:
@@ -10225,7 +10269,7 @@ translate chinese_simplified party_end_16d70797:
 
     # ko "「What? I'm always normal...{p} {nw}"
     # [旧版翻译] 来源: オープニング.ks
-    ko "「什么啊，我一直都正常得很。[l]从来都没说过24小时捉迷藏之类的傻事。」"
+    ko "「什么啊，我一直都正常得很。{p}从来都没说过24小时捉迷藏之类的傻事。」"
 
 # game/Welcome Party.rpy:3367
 
@@ -10257,7 +10301,7 @@ translate chinese_simplified party_end_b5fdd3df:
 
     # ta "「Hm, Juuichi? Did you say something?」"
     # [旧版翻译] 来源: オープニング.ks
-    ta "「啊？[l]　柔一，你说什么？」"
+    ta "「啊？{p}　柔一，你说什么？」"
 
 # game/Welcome Party.rpy:3383
 
@@ -10281,7 +10325,7 @@ translate chinese_simplified party_end_3133bea5:
 
     # ta "「I have work, and you guys are busy,\n so it would be convenient\n to go on everybody's next day off.」"
     # [旧版翻译] 来源: オープニング.ks
-    ta "「因为俺还要工作，其他家伙也有为了自己的事情而忙活的，所以就等到大家都能够休息的日子，再一起去吧。[l]详细的，就以后再讨论吧。」"
+    ta "「因为俺还要工作，其他家伙也有为了自己的事情而忙活的，所以就等到大家都能够休息的日子，再一起去吧。{p}详细的，就以后再讨论吧。」"
 
 # game/Welcome Party.rpy:3389
 
@@ -10321,7 +10365,7 @@ translate chinese_simplified party_end_a10bf957:
 
     # su "「Woof! I'm excited!」"
     # [旧版翻译] 来源: オープニング.ks
-    su "「哇唔！[l]　好激动。」"
+    su "「哇唔！{p}　好激动。」"
 
 # game/Welcome Party.rpy:3411
 
@@ -10329,7 +10373,7 @@ translate chinese_simplified party_end_2344e3c7:
 
     # ky "「So it's decided.{p} Then we have just one\n last thing to do before we end today.」"
     # [旧版翻译] 来源: オープニング.ks
-    ky "「那就这么定下来了。[l]最后，大家再为了那个干一杯吧。」"
+    ky "「那就这么定下来了。{p}最后，大家再为了那个干一杯吧。」"
 
 # game/Welcome Party.rpy:3412
 
@@ -10353,7 +10397,7 @@ translate chinese_simplified party_end_681c7ef3:
 
     # "{size=+15}「WELCOME HOME, [fn]!」"
     # [旧版翻译] 来源: オープニング.ks
-    "{size=+15}「欢迎回来，[wdss][博行]！」[rd]"
+    "{size=+15}「欢迎回来，[wdss][fn]！」[rd]"
 
 # game/Welcome Party.rpy:3426
 
@@ -10361,7 +10405,7 @@ translate chinese_simplified party_end_9b0d6e23:
 
     # "Aah, I've really come back to Minasato Village...{p}To my friends who are so warm."
     # [旧版翻译] 来源: オープニング.ks
-    "啊啊，看样子，[咱]真的回归水乡村了呢……。[l]朋友们的感觉，是那样的温暖。"
+    "啊啊，看样子，[咱]真的回归水乡村了呢……。{p}朋友们的感觉，是那样的温暖。"
 # game/Welcome Party.rpy:3427
 
 translate chinese_simplified party_end_c2f71145:
@@ -10459,7 +10503,7 @@ translate chinese_simplified party_end_fa143c40:
 
     # "There I can make a new page.{p}This year's Summer only happens once.{p}So, I'll enjoy it as much as I can."
     # [旧版翻译] 来源: オープニング.ks
-    "并且，在此之后，会开启更新的一页。[l]今年的夏天仅此一次。[l]来吧，[wdt]尽情地去享受吧。"
+    "并且，在此之后，会开启更新的一页。{p}今年的夏天仅此一次。{p}来吧，{w=.3}尽情地去享受吧。"
 translate chinese_simplified strings:
 
     # game/Welcome Party.rpy:840

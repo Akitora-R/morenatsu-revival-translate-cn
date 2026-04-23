@@ -29,18 +29,24 @@ Field descriptions:
   speaker            — speaker prefix (fn/gm/ka etc.) or "" for narration
   source             — English source text from # comment
   translation        — Chinese translation text, "" if not translated
-  translation_type   — "旧版翻译" | "机翻" | "人工" | ""
+  translation_type   — "旧版翻译" | "原版缩写" | "原版扩写" | "机翻" | "人工" | ""
   translation_source — origin file/model (e.g. "3日目.ks", "gpt-4o")
   ks_lines           — KS source line range (e.g. "18-19")
   embedding          — vector embedding of source text, null until computed
 
 translation_type values:
-  "旧版翻译"  — matched from original KS Chinese translation (RPY content matches KS)
-  "原版缩写"  — matched from KS, but RPY text was compressed/summarized from original
-  "原版扩写"  — matched from KS, but RPY text was expanded/paraphrased from original
-  "机翻"      — LLM machine translation
-  "人工"      — human translation
-  ""          — not yet translated
+  "旧版翻译"  — RPY英文与KS中文内容一致，行号匹配正确
+  "原版缩写"  — RPY英文是KS原文的压缩/摘要版本，两者语义相关但不完全匹配（如多段对话被合并为一句）
+  "原版扩写"  — RPY英文是KS原文的扩写版本，中文比KS更详细（暂未发现）
+  "机翻"      — LLM机器翻译，无KS来源
+  "人工"      — 人工翻译
+  ""          — 未翻译
+
+  重要提示：
+  - KS文件是原始中文翻译，RPY英文是经过压缩的二手文本
+  - 不应尝试在压缩英文和详细中文之间建立精确的行号对应
+  - 当RPY英文明显是KS内容的摘要/压缩版本时，标记为"原版缩写"
+  - translation_source应填写KS文件名（如"3日目.ks"或"extract/orig/深_m_03.ks"）
 
 Usage:
   # Initialize / re-extract from RPY files
@@ -346,7 +352,7 @@ def _build_translated_block(block_content: str, entry: dict) -> str:
         if not stripped:
             continue
 
-        if "[旧版翻译]" in line or "[机翻]" in line:
+        if any(tag in line for tag in ("[旧版翻译]", "[原版缩写]", "[原版扩写]", "[机翻]", "[semantic-match]")):
             continue
 
         m = SOURCE_COMMENT_RE.match(line)

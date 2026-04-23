@@ -12,7 +12,7 @@ translate chinese_simplified day08_56ee5002:
 
     # "Morning.{w} I wake up late today just like usual."
     # [旧版翻译] 来源: torahiko/8日目.ks (KS 16)
-    "早上。[l]一如既往地，很晚才睁开眼。[l]"
+    "早上。{p}一如既往地，很晚才睁开眼。{p}"
 
 # game/day 8.rpy:90
 translate chinese_simplified day08_048fdc60:
@@ -26,7 +26,7 @@ translate chinese_simplified day08_3e091030:
 
     # "However,{w} I noticed something unusual as I feel something like dull pain all over my body."
     # [旧版翻译] 来源: torahiko/8日目.ks (KS 19-20)
-    "不过，总觉得身体好像有些怪怪的。[l]全身都在隐隐作痛。"
+    "不过，总觉得身体好像有些怪怪的。{p}全身都在隐隐作痛。"
 
 # game/day 8.rpy:92
 translate chinese_simplified day08_f18b6a7e:
@@ -54,7 +54,7 @@ translate chinese_simplified day08_372d1f71:
 
     # fn "「Yesterday...{w} It was so much fun.」"
     # [旧版翻译] 来源: torahiko/8日目.ks (KS 32)
-    fn "「……昨天……玩得好开心啊……[l]哈哈」"
+    fn "「……昨天……玩得好开心啊……{p}哈哈」"
 
 # game/day 8.rpy:96
 translate chinese_simplified day08_0b25bda4:
@@ -75,14 +75,14 @@ translate chinese_simplified day08_c40a62ea:
 
     # "Of course I was able to play a lot,{w} but I also talked about things I don't usually talk about."
     # [旧版翻译] 来源: torahiko/8日目.ks (KS 42-43)
-    "当然玩了很多，[l]讨论些平时不常说的话题[l]"
+    "当然玩了很多，{p}讨论些平时不常说的话题{p}"
 
 # game/day 8.rpy:99
 translate chinese_simplified day08_e2f7fc95:
 
     # "I saw sides of someone that others know nothing about.{w}Thanks to that, I could get along with them better."
     # [旧版翻译] 来源: torahiko/8日目.ks (KS 43-44)
-    "也看见了大家一些不为人知的一面，[l]觉得跟大家的关系变得更好了。"
+    "也看见了大家一些不为人知的一面，{p}觉得跟大家的关系变得更好了。"
 
 # game/day 8.rpy:100
 translate chinese_simplified day08_af7ab61d:
@@ -243,7 +243,7 @@ translate chinese_simplified tatsuki08_join_de0278e9:
 
     # "{size=+15}AAAAAAAAAAUGH!!!"
     # [旧版翻译] 来源: 辰樹_s_07.ks (KS 135-136)
-    "[fbig]惨了惨了，啊啊啊啊，[fdef]这下完了！！！"
+    "惨了惨了，啊啊啊啊，这下完了！！！"
 
 # game/day 8.rpy:194
 translate chinese_simplified tatsuki08_join_8c8c19ac:
@@ -383,7 +383,7 @@ translate chinese_simplified tatsuki08_join_1b27a4b9:
 
     # "*Roll roll roll* {w=.3}{nw}"
     # [旧版翻译] 来源: 辰樹_s_07.ks (KS 216)
-    "*Roll roll roll* "
+    "*Roll roll roll*"
 
 # game/day 8.rpy:239
 translate chinese_simplified tatsuki08_join_d8d3f49b:
@@ -397,7 +397,7 @@ translate chinese_simplified tatsuki08_join_3464044a:
 
     # extend "{w=.3} *Crunch☆*{w=.1} Gyah!"
     # [旧版翻译] 来源: 辰樹_s_07.ks (KS 216)
-    extend "{w=.3} *Crunch☆* "
+    extend "{w=.3} *Crunch☆*"
 
 # game/day 8.rpy:244
 translate chinese_simplified tatsuki08_join_c9741339:
@@ -635,7 +635,7 @@ translate chinese_simplified tatsuki08_stop_b88eb9ed:
 
     # ta "「{cps=10}[fn],{w=.5}{cps=40} you're a life saver.{p} Torahiko's bullying me.」"
     # [旧版翻译] 来源: 辰樹_s_07.ks (KS 374-375)
-    ta "「[wdt][wds][fn]～你要帮帮我啊。虎彦他又在欺负我了」"
+    ta "「{w=.3}[wds][fn]～你要帮帮我啊。虎彦他又在欺负我了」"
 
 # game/day 8.rpy:347
 translate chinese_simplified tatsuki08_stop_ac2e9d65:
@@ -866,14 +866,14 @@ translate chinese_simplified kouya08_f51acf9d:
 
     # "Magnificently large trees,\nsilently blooming flowers.{p}Yep, it's nature, all right."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 36-37)
-    "今天的目的地是森林啊、[wdt]森林。[l]现在也正向着这个目标前进。"
+    "今天的目的地是森林啊、{w=.3}森林。{p}现在也正向着这个目标前进。"
 
 # game/day 8.rpy:446
 translate chinese_simplified kouya08_9501f6b3:
 
     # "No one's allowed to go in there,{p}because of the abundance of insects.{p}You'd swear that they spawn out of the air."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 39-41)
-    "说到森林就是那个呢。[l]郁郁葱葱的茂盛树木。[l]悄然开放的花朵。[l]嗯，这就是大自然啊。[l]真是经典。"
+    "说到森林就是那个呢。{p}郁郁葱葱的茂盛树木。{p}悄然开放的花朵。{p}嗯，这就是大自然啊。{p}真是经典。"
 
 # game/day 8.rpy:447
 translate chinese_simplified kouya08_010db335:
@@ -901,14 +901,14 @@ translate chinese_simplified kouya08_f119abea:
 
     # "So I'm going in. Yeah, I'm going in all right.{p}So what if entry is prohibited!?{p}Screw the establishment!"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 47-50)
-    "……因为，[l]也没什么其他事好做了啊。嘛，没什么事发生。[l]虽然我也认为这是水乡村最大的优点，"
+    "……因为，{p}也没什么其他事好做了啊。嘛，没什么事发生。{p}虽然我也认为这是水乡村最大的优点，"
 
 # game/day 8.rpy:451
 translate chinese_simplified kouya08_7a4ddb73:
 
     # "If I don't take this chance now,{p}I'd regret wasting another day,{p}and I'd rather be eaten by mosquitos than face that!"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 51-54)
-    "但这也改变不了我很闲的事实。所以我出发了，[l]现在就出发。[l]禁止进入什么的谁管啊！"
+    "但这也改变不了我很闲的事实。所以我出发了，{p}现在就出发。{p}禁止进入什么的谁管啊！"
 
 # game/day 8.rpy:452
 translate chinese_simplified kouya08_a62bc116:
@@ -922,35 +922,35 @@ translate chinese_simplified kouya08_83e7a36f:
 
     # "Again with the one-man comedy act...{p}I've got too much time on my hands,{p}and it's starting to become habit."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 58-61)
-    "还是被蚊子在脸上多咬几个包比较有趣！「……不，[wdt]这么说还是有点过分了。」"
+    "还是被蚊子在脸上多咬几个包比较有趣！「……不，{w=.3}这么说还是有点过分了。」"
 
 # game/day 8.rpy:454
 translate chinese_simplified kouya08_fb3ea055:
 
     # "It's a little scary, even to myself."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 63)
-    "又是自己寂寞地吐槽。[l]"
+    "又是自己寂寞地吐槽。{p}"
 
 # game/day 8.rpy:458
 translate chinese_simplified kouya08_1573f71a:
 
     # "As I continue on, houses faded away from view,{p}and even the faintest of civilization vanished.{p}When I finally stopped, I was on some forest trail."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 64-71)
-    "因为最近太闲了，这已经成为了一种习惯。[l]有点可怕呢，[l]即使对我自己来说。在想着这种事的时候，田舍渐渐从视野中消失，"
+    "因为最近太闲了，这已经成为了一种习惯。{p}有点可怕呢，{p}即使对我自己来说。在想着这种事的时候，田舍渐渐从视野中消失，"
 
 # game/day 8.rpy:459
 translate chinese_simplified kouya08_20e9bb74:
 
     # "Rays of sunlight penetrate through the forest canopy.{p}It really is nice, to come to a place like this..."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 72-73)
-    "连路人的气息也渐渐不见了。[l]终于已经走上了林间的小道。"
+    "连路人的气息也渐渐不见了。{p}终于已经走上了林间的小道。"
 
 # game/day 8.rpy:460
 translate chinese_simplified kouya08_2775b338:
 
     # "But, looking at the stunning forest scenery,{p}it's almost a little... eerie.{p}It's quiet, but, it feels a little too quiet."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 75-78)
-    "阳光温柔地从树木的缝隙中洒过，那是带着一点点幻想的风景。[l]啊，果然很棒呢，[l]这样的景色。刚才说的禁止进入什么的去死好了，"
+    "阳光温柔地从树木的缝隙中洒过，那是带着一点点幻想的风景。{p}啊，果然很棒呢，{p}这样的景色。刚才说的禁止进入什么的去死好了，"
 
 # game/day 8.rpy:461
 translate chinese_simplified kouya08_28ec1341:
@@ -964,7 +964,7 @@ translate chinese_simplified kouya08_403fe107:
 
     # "But... it feels like there's...{p}something in the shadows.{p}It makes my heart race."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 81-84)
-    "选择树木比较薄的方向，十足的宁静却让人无法享受，[l]现在赶快通过好了。不过，就算是这样幻想般的风景，"
+    "选择树木比较薄的方向，十足的宁静却让人无法享受，{p}现在赶快通过好了。不过，就算是这样幻想般的风景，"
 
 # game/day 8.rpy:463
 translate chinese_simplified kouya08_1cd1bfe1:
@@ -978,14 +978,14 @@ translate chinese_simplified kouya08_840b126b:
 
     # "I mean, it'd be fine if it were Juuichi-san,{p}but an actual bear? Nope."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 86-88)
-    "那种深邃的感觉还是令人感到有点可怕。因为视线逐渐被遮蔽的缘故，[l]"
+    "那种深邃的感觉还是令人感到有点可怕。因为视线逐渐被遮蔽的缘故，{p}"
 
 # game/day 8.rpy:465
 translate chinese_simplified kouya08_80d2bd81:
 
     # "Nah, the forest isn't too deep.{p}There's no way there are any here, right?"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 89-91)
-    "只是看到了什么的影子，就让我心跳加速。……不会是，[wdt]熊吧？"
+    "只是看到了什么的影子，就让我心跳加速。……不会是，{w=.3}熊吧？"
 
 # game/day 8.rpy:466
 translate chinese_simplified kouya08_00b00233:
@@ -1027,7 +1027,7 @@ translate chinese_simplified kouya08_9d2affa4:
 
     # "...I stumbled backwards,{p}accidentally falling over."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 110-113)
-    "「！？」[wait time=\"3500\"]――刚准备踏出一只脚，"
+    "「！？」{w=.3}――刚准备踏出一只脚，"
 
 # game/day 8.rpy:476
 translate chinese_simplified kouya08_03498873:
@@ -1041,14 +1041,14 @@ translate chinese_simplified kouya08_bd35936b:
 
     # "What is it,{w=.3} this...{w=.3} that sound...{p}It's like something I've heard from an instrument.{p}Some kind of chord,{w=.3} I guess."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 117-120)
-    "而是有什么声音传了过来。怎么说呢，[wdt]就像，[wdt]在学校的音乐室会听到的，那种感觉的声音。[l]"
+    "而是有什么声音传了过来。怎么说呢，{w=.3}就像，{w=.3}在学校的音乐室会听到的，那种感觉的声音。{p}"
 
 # game/day 8.rpy:478
 translate chinese_simplified kouya08_d647fef2:
 
     # "It was unexpected,{p}but I definitely hear something like a chord."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 121-123)
-    "大概，[wdt]是什么的和音。虽然不知道为什么突然有声音传来，"
+    "大概，{w=.3}是什么的和音。虽然不知道为什么突然有声音传来，"
 
 # game/day 8.rpy:479
 translate chinese_simplified kouya08_35276de7:
@@ -1069,14 +1069,14 @@ translate chinese_simplified kouya08_6103a4de:
 
     # fn "「...A piano?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 128-130)
-    fn "到底，[wdt]是什么东西啊。"
+    fn "到底，{w=.3}是什么东西啊。"
 
 # game/day 8.rpy:482
 translate chinese_simplified kouya08_45e5b9f7:
 
     # "That's ridiculous, there can't be a piano out here.{p}I'm probably mistaken about what kind of sound it is."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 131-133)
-    "「……钢琴？」这怎么可能，在这样的森林中是肯定没有钢琴的。[l]"
+    "「……钢琴？」这怎么可能，在这样的森林中是肯定没有钢琴的。{p}"
 
 # game/day 8.rpy:483
 translate chinese_simplified kouya08_4bf65a75:
@@ -1090,7 +1090,7 @@ translate chinese_simplified kouya08_7c97172e:
 
     # "It can't be, what's coming out isn't a bear,{p}but some kind of demon...{p}No, not that, but some creature...!?"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 136-139)
-    "在视野看不到的地方，森林变得更加阴森恐怖。难道说，出现的不是熊，那种是，夏天附体的……[l]"
+    "在视野看不到的地方，森林变得更加阴森恐怖。难道说，出现的不是熊，那种是，夏天附体的……{p}"
 
 # game/day 8.rpy:488
 translate chinese_simplified kouya08_b5ad05af:
@@ -1111,14 +1111,14 @@ translate chinese_simplified kouya08_b05c4b7a:
 
     # "There's no mistake, I didn't just hear something.{p}There's someone playing nearby."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 149-150)
-    "毫无疑问，这不是我听错了，[l]在树林深处，有谁在演奏着音乐。"
+    "毫无疑问，这不是我听错了，{p}在树林深处，有谁在演奏着音乐。"
 
 # game/day 8.rpy:491
 translate chinese_simplified kouya08_239db456:
 
     # "Eh, but who could it be?{p}It's not like one of the seven wonders\nof the school made its way all the way over here..."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 152-153)
-    "诶，[wdt]但会是谁呢？[l]不会是真正的学校七大不可思议"
+    "诶，{w=.3}但会是谁呢？{p}不会是真正的学校七大不可思议"
 
 # game/day 8.rpy:492
 translate chinese_simplified kouya08_ab33ba3e:
@@ -1146,7 +1146,7 @@ translate chinese_simplified kouya08_ce2c8f56:
 
     # "The question was answered in an instant.{p}What comes to mind would be,\namong people, one person."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 162-164)
-    "「吉他……吗？」问题一瞬间解决了。[l]"
+    "「吉他……吗？」问题一瞬间解决了。{p}"
 
 # game/day 8.rpy:496
 translate chinese_simplified kouya08_1ca0e7ee:
@@ -1160,7 +1160,7 @@ translate chinese_simplified kouya08_e8a75359:
 
     # "Little by little, the sound got louder.{p}And then, I saw the person making it."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 168-170)
-    "向森林中前进着。一点一点地接近的那个音色。[l]"
+    "向森林中前进着。一点一点地接近的那个音色。{p}"
 
 # game/day 8.rpy:501
 translate chinese_simplified kouya08_6f6ce8e7:
@@ -1174,7 +1174,7 @@ translate chinese_simplified kouya08_e14548a7:
 
     # "Sure enough, it was Kouya.{p}He was casually leaning down,{p}and sitting on a rock as he looked at me."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 176-179)
-    "「……啊，什么嘛，[fn]吗」[bgm play=\"daily02\"][bgmopt volume=\"60\"]当然了，那是洸哉。[l]他随意地弯着腰坐在岩石上，"
+    "「……啊，什么嘛，[fn]吗」[bgmopt volume=\"60\"]当然了，那是洸哉。{p}他随意地弯着腰坐在岩石上，"
 
 # game/day 8.rpy:506
 translate chinese_simplified kouya08_e764f75c:
@@ -1195,14 +1195,14 @@ translate chinese_simplified kouya08_53171a6b:
 
     # "So it wasn't some unknown being."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 185)
-    "「啊……果然是洸哉啊。[l]"
+    "「啊……果然是洸哉啊。{p}"
 
 # game/day 8.rpy:512
 translate chinese_simplified kouya08_012334e3:
 
     # ka "「What'd you say?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 186-188)
-    ka "真的是[wdt]太好了。」不是那些不为人知的东西啦。"
+    ka "真的是{w=.3}太好了。」不是那些不为人知的东西啦。"
 
 # game/day 8.rpy:513
 translate chinese_simplified kouya08_b8590c19:
@@ -1216,28 +1216,28 @@ translate chinese_simplified kouya08_a87b96d7:
 
     # ka "「Hmm. Well, whatever.{p} ...So, what brings you out here?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 195-198)
-    ka "「不，没什么啦。[l]是我自说自话。」"
+    ka "「不，没什么啦。{p}是我自说自话。」"
 
 # game/day 8.rpy:518
 translate chinese_simplified kouya08_87ea8e0b:
 
     # fn "「What, you mean... taking a walk?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 199-200)
-    fn "「嗯，那就好。[l]……那你来这种地方是要做什么呢？」"
+    fn "「嗯，那就好。{p}……那你来这种地方是要做什么呢？」"
 
 # game/day 8.rpy:522
 translate chinese_simplified kouya08_81afd8a3:
 
     # ka "「A walk, huh... it's fine with me,{p} but with all of Minasato's forests and mountains,{p} there's a lot of places you shouldn't go.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 202-206)
-    ka "「要说做什么的话……[l]散步？」"
+    ka "「要说做什么的话……{p}散步？」"
 
 # game/day 8.rpy:523
 translate chinese_simplified kouya08_275b2e6d:
 
     # ka "「You know that, right?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 207-208)
-    ka "「散步[wdt]啊……[l]虽然怎么样都好啦，但是水乡的森林啊、山里啊"
+    ka "「散步{w=.3}啊……{p}虽然怎么样都好啦，但是水乡的森林啊、山里啊"
 
 # game/day 8.rpy:524
 translate chinese_simplified kouya08_8fdc75cd:
@@ -1251,14 +1251,14 @@ translate chinese_simplified kouya08_bd71373e:
 
     # ka "「It's okay since there's nothing here,{p} but it's unsafe to be messing around.{p} What if you were hurt?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 212-215)
-    ka "「唔、[wdt]嗯……」"
+    ka "「唔、{w=.3}嗯……」"
 
 # game/day 8.rpy:529
 translate chinese_simplified kouya08_50491676:
 
     # fn "「T-that's true. Sorry...」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 216-217)
-    fn "「这附近什么都没有所以没有关系，不过在森林里乱逛还是很危险的。[l]"
+    fn "「这附近什么都没有所以没有关系，不过在森林里乱逛还是很危险的。{p}"
 
 # game/day 8.rpy:530
 translate chinese_simplified kouya08_01e35f6e:
@@ -1272,7 +1272,7 @@ translate chinese_simplified kouya08_59b1de67:
 
     # "He's saying that to me,{p}but Kouya's also come in all this way too.\nThat's a bit unfair."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 220-223)
-    "「说、[wdt]说得是呢。[l]对不起……」虽然不是很明白，但当然地被生气了。[l]"
+    "「说、{w=.3}说得是呢。{p}对不起……」虽然不是很明白，但当然地被生气了。{p}"
 
 # game/day 8.rpy:532
 translate chinese_simplified kouya08_b80d9998:
@@ -1300,7 +1300,7 @@ translate chinese_simplified kouya08_98c9ae92:
 
     # fn "「Hehehe...{p} So anyway, what are you doing here, Kouya?{p} You've brought your guitar, I see.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 233-237)
-    fn "「还有，[wdt]谢谢你。[l]让你担心了。」"
+    fn "「还有，{w=.3}谢谢你。{p}让你担心了。」"
 
 # game/day 8.rpy:542
 translate chinese_simplified kouya08_9d86ee0a:
@@ -1314,7 +1314,7 @@ translate chinese_simplified kouya08_c49b013f:
 
     # ka "「I have a guitar because, gasp,{p} I'm practicing! See?{p} P-R-A-C-T-I-C-I-N-G.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 241-242)
-    ka "「嘿嘿嘿……[l]说起来，洸哉在这种地方干什么呢？[l]"
+    ka "「嘿嘿嘿……{p}说起来，洸哉在这种地方干什么呢？{p}"
 
 # game/day 8.rpy:544
 translate chinese_simplified kouya08_76ef7380:
@@ -1328,7 +1328,7 @@ translate chinese_simplified kouya08_d676e30a:
 
     # ka "「It puts me in a good mood.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 248-249)
-    ka "「嗯？[l]　拿着吉他还能做什么别的事吗。当然是在练习啊、练习！」"
+    ka "「嗯？{p}　拿着吉他还能做什么别的事吗。当然是在练习啊、练习！」"
 
 # game/day 8.rpy:546
 translate chinese_simplified kouya08_7240f447:
@@ -1356,28 +1356,28 @@ translate chinese_simplified kouya08_2905fea7:
 
     # fn "「Eh, is that okay?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 261-263)
-    fn "「诶，这样啊。[l]啊，[wdt]那我在这里是不是打扰到你了？」"
+    fn "「诶，这样啊。{p}啊，{w=.3}那我在这里是不是打扰到你了？」"
 
 # game/day 8.rpy:556
 translate chinese_simplified kouya08_9c5c10a5:
 
     # ka "「Sure, it's been so long.{p} Just sit wherever.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 266-268)
-    ka "「不，没有那样的事。[l]刚刚好想要在练习的间隔稍微休息一下。[l]"
+    ka "「不，没有那样的事。{p}刚刚好想要在练习的间隔稍微休息一下。{p}"
 
 # game/day 8.rpy:561
 translate chinese_simplified kouya08_9d7e4138:
 
     # "At his suggestion,{p}I sat down on the ground where I stood,{p}resting my back against a handy little rock."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 269-272)
-    "……既然这么闲，你要稍微听一下吗？」「诶，[wdt]可以吗？」"
+    "……既然这么闲，你要稍微听一下吗？」「诶，{w=.3}可以吗？」"
 
 # game/day 8.rpy:562
 translate chinese_simplified kouya08_e0d94e1a:
 
     # "Once Kouya was satisfied,{p}he slowly began to play his strings."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 275-277)
-    "「难得有机会嘛。[l]在那边，有可以坐的地方。」"
+    "「难得有机会嘛。{p}在那边，有可以坐的地方。」"
 
 # game/day 8.rpy:566
 translate chinese_simplified kouya08_a84e23a9:
@@ -1398,7 +1398,7 @@ translate chinese_simplified kouya08_33898669:
 
     # "With a guitar-only performance,{p}it has a fresh feel to it."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 290-292)
-    "用吉他演奏出来的话，给人一种耳目一新的感觉。就在洸哉拨动的琴弦声中曲子渐渐接近结束。[l]"
+    "用吉他演奏出来的话，给人一种耳目一新的感觉。就在洸哉拨动的琴弦声中曲子渐渐接近结束。{p}"
 
 # game/day 8.rpy:569
 translate chinese_simplified kouya08_20d9f98c:
@@ -1426,35 +1426,35 @@ translate chinese_simplified kouya08_fa0f4855:
 
     # "As soon as I told him what I thought,{p}Kouya laughed a little in response, blunt as ever.{p}I can see that attitude looking good and being cool."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 307-310)
-    "洸哉稍微笑了一下作为回应，一如既往地直爽。[l]不知道为什么那个态度有点像大人一样，看上去很帅。"
+    "洸哉稍微笑了一下作为回应，一如既往地直爽。{p}不知道为什么那个态度有点像大人一样，看上去很帅。"
 
 # game/day 8.rpy:580
 translate chinese_simplified kouya08_da4279cb:
 
     # fn "「No, you really are.{p} I can't play an instrument at all,{p} so I'm a little jealous that you can play so well.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 311-313)
-    fn "「呀，真的是很厉害呢。[l]所以说真的是很羡慕你啊。」"
+    fn "「呀，真的是很厉害呢。{p}所以说真的是很羡慕你啊。」"
 
 # game/day 8.rpy:584
 translate chinese_simplified kouya08_6d26b122:
 
     # ka "「Well, that's because I practice.{p} ...If that's all it is,{p} how about I teach you a little guitar?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 316-318)
-    ka "「嘛，因为经常练习的缘故啦。[l]……对了，[wdt]这样怎么样，[wdt]"
+    ka "「嘛，因为经常练习的缘故啦。{p}……对了，{w=.3}这样怎么样，{w=.3}"
 
 # game/day 8.rpy:585
 translate chinese_simplified kouya08_83935ff1:
 
     # fn "「Huh, really?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 319-321)
-    fn "现在可以稍微教你一下啦，[wdt]吉他。」"
+    fn "现在可以稍微教你一下啦，{w=.3}吉他。」"
 
 # game/day 8.rpy:589
 translate chinese_simplified kouya08_2a53a15e:
 
     # ka "「I was thinking of taking a break at first,{p} but that seems more fun than spacing out by myself.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 322-325)
-    ka "「诶，[wdt]可以吗？」"
+    ka "「诶，{w=.3}可以吗？」"
 
 # game/day 8.rpy:593
 translate chinese_simplified kouya08_caeb1545:
@@ -1482,14 +1482,14 @@ translate chinese_simplified kouya08_792c11fb:
 
     # ka "「So how about it, [fn]?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 338-342)
-    ka "「嗯。[l]所以说，我觉得现在是个好机会……」"
+    ka "「嗯。{p}所以说，我觉得现在是个好机会……」"
 
 # game/day 8.rpy:600
 translate chinese_simplified kouya08_294a5859:
 
     # "Kouya's proposal to me was sounding pretty good.{p}I have the time, and I feel like trying it out."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 343-345)
-    "「怎么样，[fn]？」洸哉的提议对我是再好不过的事情了。[l]"
+    "「怎么样，[fn]？」洸哉的提议对我是再好不过的事情了。{p}"
 
 # game/day 8.rpy:601
 translate chinese_simplified kouya08_6c28e4b0:
@@ -1545,14 +1545,14 @@ translate chinese_simplified kouya08_teachme_4da7e614:
 
     # "It felt like my cheeks had slackened a little.{p}For a minute, I got the feeling that I could do it."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 389-390)
-    "都是他在弹奏的吉他交到我手上。[l]伸出手接过吉他，试着用看到的样子将其架起。"
+    "都是他在弹奏的吉他交到我手上。{p}伸出手接过吉他，试着用看到的样子将其架起。"
 
 # game/day 8.rpy:630
 translate chinese_simplified kouya08_teachme_4abe623d:
 
     # ka "「Hey hey, you look kind of good like that.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 392-393)
-    ka "只是这样做，就让我感觉脸颊有些放松。[l]过了一会，好像有自己能行的感觉。"
+    ka "只是这样做，就让我感觉脸颊有些放松。{p}过了一会，好像有自己能行的感觉。"
 
 # game/day 8.rpy:631
 translate chinese_simplified kouya08_teachme_65f4deb6:
@@ -1573,7 +1573,7 @@ translate chinese_simplified kouya08_teachme_b3ccefb2:
 
     # "Kouya gestured by waving his wrist to the side,{p}as if to say 'like this.'"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 403-404)
-    "「嗯，相当有架势了。[l]总之先用右手的拇指，把所有的弦都弹一遍试试看。[l]"
+    "「嗯，相当有架势了。{p}总之先用右手的拇指，把所有的弦都弹一遍试试看。{p}"
 
 # game/day 8.rpy:637
 translate chinese_simplified kouya08_teachme_f5f33147:
@@ -1608,7 +1608,7 @@ translate chinese_simplified kouya08_teachme_374d1c5f:
 
     # ka "「Uh-huh.{w=.3} Playing the string like that\n is called stroking, but it can't be done well,\n and the sounds come off weird.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 422-424)
-    ka "「对对，就是那样的感觉。[l]总而言之，第一阶段这样就完成了。」"
+    ka "「对对，就是那样的感觉。{p}总而言之，第一阶段这样就完成了。」"
 
 # game/day 8.rpy:654
 translate chinese_simplified kouya08_teachme_6b74523f:
@@ -1622,7 +1622,7 @@ translate chinese_simplified kouya08_teachme_4513a89c:
 
     # ka "「On the other hand,{p} I also think it's wrong to shrug it off.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 430-431)
-    ka "「是的。[l]像这样弹弦的话虽然是很简单的事，但是如果不能做得很好的话，"
+    ka "「是的。{p}像这样弹弦的话虽然是很简单的事，但是如果不能做得很好的话，"
 
 # game/day 8.rpy:659
 translate chinese_simplified kouya08_teachme_577cc8bd:
@@ -1664,14 +1664,14 @@ translate chinese_simplified kouya08_teachme_1993bb99:
 
     # ka "「Guitars have been used to make chords\n in music for who knows how long.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 449-450)
-    ka "「啊，也许是这样吧。[l]我到现在也不是很明白呢。」"
+    ka "「啊，也许是这样吧。{p}我到现在也不是很明白呢。」"
 
 # game/day 8.rpy:671
 translate chinese_simplified kouya08_teachme_2d846d8e:
 
     # ka "「Of course you can just play with only one note,{p} but as you can guess, that's not very useful.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 454-456)
-    ka "「嘛，不管怎样下一个啦、[wdt]下一个。[l]接下来是教你弹奏简单的和弦。」"
+    ka "「嘛，不管怎样下一个啦、{w=.3}下一个。{p}接下来是教你弹奏简单的和弦。」"
 
 # game/day 8.rpy:672
 translate chinese_simplified kouya08_teachme_98008db1:
@@ -1734,14 +1734,14 @@ translate chinese_simplified kouya08_teachme_7ef7c421:
 
     # ka "「And, this should be good to start with.\n Now, [fn]...{p} {nw}"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 485-486)
-    ka "就想让你尝试弹奏，但是，[l]对了……[l]左手借给我吧。」"
+    ka "就想让你尝试弹奏，但是，{p}对了……{p}左手借给我吧。」"
 
 # game/day 8.rpy:691
 translate chinese_simplified kouya08_teachme_f04ec3f3:
 
     # extend "Wait.{w=.3} What's wrong, not feeling well?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 488-493)
-    extend "「啊、[wdt]唔。」洸哉接过我的手，仔细地引导着"
+    extend "「啊、{w=.3}唔。」洸哉接过我的手，仔细地引导着"
 
 # game/day 8.rpy:692
 translate chinese_simplified kouya08_teachme_98c0eea5:
@@ -1769,21 +1769,21 @@ translate chinese_simplified kouya08_teachme_9dcc10df:
 
     # ka "「...Huh. If you say so, then all right.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 505-507)
-    ka "「那么，首先这样就好了。[l][fn]，现在――[l][洸哉 呆れ normal][wt]喂，[wdt]怎么了吗，没问题吧？」"
+    ka "「那么，首先这样就好了。{p}[fn]，现在――{p}喂，{w=.3}怎么了吗，没问题吧？」"
 
 # game/day 8.rpy:702
 translate chinese_simplified kouya08_teachme_c7ea5896:
 
     # fn "「Yeah,{w=.3} I'm totally okay.{p} Anyway, how do I play this?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 509-511)
-    fn "「诶！？[l]　……啊，[wdt]抱歉没问题啦。[l]只是发了一下呆而已。」"
+    fn "「诶！？{p}　……啊，{w=.3}抱歉没问题啦。{p}只是发了一下呆而已。」"
 
 # game/day 8.rpy:703
 translate chinese_simplified kouya08_teachme_7ea757a3:
 
     # "I changed the subject back to the guitar.\nWhatever's on Kouya's mind is a mystery,{p}but he seems not to be giving it too much thought."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 514-516)
-    "「但是脸变得很红啊？[l]是感冒了吗」"
+    "「但是脸变得很红啊？{p}是感冒了吗」"
 
 # game/day 8.rpy:704
 translate chinese_simplified kouya08_teachme_7f8b328c:
@@ -1797,14 +1797,14 @@ translate chinese_simplified kouya08_teachme_ee113ecf:
 
     # ka "「For now, push down firmly with these fingers\n then play like you did before.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 525-527)
-    ka "「唔唔，[wdt]没关系没关系。[l]说起来这个要怎么弹才好呢？」"
+    ka "「唔唔，{w=.3}没关系没关系。{p}说起来这个要怎么弹才好呢？」"
 
 # game/day 8.rpy:711
 translate chinese_simplified kouya08_teachme_18138a05:
 
     # "I did as he asked, then tried it out."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 529)
-    "把这个话题切断，想要返回原来的话题。[l]"
+    "把这个话题切断，想要返回原来的话题。{p}"
 
 # game/day 8.rpy:712
 translate chinese_simplified kouya08_teachme_ab01c5da:
@@ -1818,7 +1818,7 @@ translate chinese_simplified kouya08_teachme_1e2d6a3e:
 
     # "But this time, the note cut off awkwardly."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 533)
-    "呀，真危险啊。[l]"
+    "呀，真危险啊。{p}"
 
 # game/day 8.rpy:714
 translate chinese_simplified kouya08_teachme_f65d4ee8:
@@ -1839,7 +1839,7 @@ translate chinese_simplified kouya08_teachme_7a293f25:
 
     # ka "「Yep. You did well in holding down the strings,{p} but holding the neighboring strings by accident\n could mess everything up.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 539-540)
-    ka "「那么，用拇指以外的三根手指按在现在摸着的地方，[l]"
+    ka "「那么，用拇指以外的三根手指按在现在摸着的地方，{p}"
 
 # game/day 8.rpy:723
 translate chinese_simplified kouya08_teachme_a53fd950:
@@ -1853,7 +1853,7 @@ translate chinese_simplified kouya08_teachme_966db0cf:
 
     # ka "「Getting to being able to play that well\n is just a matter of practice.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 545-546)
-    ka "因为振动数的变化音高也随之变化了。[l]不同于没有压住琴弦时声音的广阔与自由，"
+    ka "因为振动数的变化音高也随之变化了。{p}不同于没有压住琴弦时声音的广阔与自由，"
 
 # game/day 8.rpy:728
 translate chinese_simplified kouya08_teachme_5b52a8a6:
@@ -1867,7 +1867,7 @@ translate chinese_simplified kouya08_teachme_6ea750ef:
 
     # ka "「If you keep it up, it gets better.{p} It's always like that when you start.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 551-555)
-    ka "「……失败了[l]吗？」"
+    ka "「……失败了{p}吗？」"
 
 # game/day 8.rpy:733
 translate chinese_simplified kouya08_teachme_a6a26947:
@@ -1888,7 +1888,7 @@ translate chinese_simplified kouya08_teachme_8b751519:
 
     # fn "「So, can I keep trying for a little longer?{p} Stopping just like that feels a little irritating.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 563-564)
-    fn "「没关系啦，一开始大家都是这样的。[l]我也一样，也不能一下子就完美的弹奏整个曲子。」"
+    fn "「没关系啦，一开始大家都是这样的。{p}我也一样，也不能一下子就完美的弹奏整个曲子。」"
 
 # game/day 8.rpy:739
 translate chinese_simplified kouya08_teachme_2e5032a0:
@@ -1902,7 +1902,7 @@ translate chinese_simplified kouya08_teachme_b9160613:
 
     # fn "「Thanks, Kouya. Let's see...{p} So I'm not supposed to touch the other strings?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 571-573)
-    fn "「唔，乐器什么的果然还是很难啊。[l]而且总觉得，要是继续的话指尖就快要痛起来了。[l]"
+    fn "「唔，乐器什么的果然还是很难啊。{p}而且总觉得，要是继续的话指尖就快要痛起来了。{p}"
 
 # game/day 8.rpy:744
 translate chinese_simplified kouya08_teachme_b998abb1:
@@ -1916,7 +1916,7 @@ translate chinese_simplified kouya08_teachme_400bffc1:
 
     # "The sound rang out, loud and clear,{p}then slowly faded into the surrounding area."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 578-579)
-    "「如果持续练习的话，那个也会变得不要紧的。[l]一开始的时候都是那样的。」"
+    "「如果持续练习的话，那个也会变得不要紧的。{p}一开始的时候都是那样的。」"
 
 # game/day 8.rpy:753
 translate chinese_simplified kouya08_teachme_09080cd1:
@@ -1937,7 +1937,7 @@ translate chinese_simplified kouya08_teachme_ce7f09b9:
 
     # fn "「All because of your help.{p} Really, thanks.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 588-589)
-    fn "「唔唔。[l]这么说的话，可以再让我弹一会儿吗？[l]"
+    fn "「唔唔。{p}这么说的话，可以再让我弹一会儿吗？{p}"
 
 # game/day 8.rpy:762
 translate chinese_simplified kouya08_teachme_3bfaceb1:
@@ -1958,7 +1958,7 @@ translate chinese_simplified kouya08_teachme_63ff0a72:
 
     # fn "「Hahaha. Then I'll keep that in mind.{p} Anyway, all this holding down makes my fingers hurt.{p} My left hand is dead.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 598-599)
-    fn "「谢谢，洸哉。[l]那个，不碰到旁边的弦就可以了吧。」"
+    fn "「谢谢，洸哉。{p}那个，不碰到旁边的弦就可以了吧。」"
 
 # game/day 8.rpy:768
 translate chinese_simplified kouya08_teachme_4907c80f:
@@ -1993,14 +1993,14 @@ translate chinese_simplified kouya08_teachme_a2c7425d:
 
     # ka "「No need to thank me.{p} If you had fun, that's all that matters.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 625-626)
-    ka "「嗯，多亏了洸哉认真仔细地教我的缘故。[l]真是[wdt]谢谢了。」"
+    ka "「嗯，多亏了洸哉认真仔细地教我的缘故。{p}真是{w=.3}谢谢了。」"
 
 # game/day 8.rpy:779
 translate chinese_simplified kouya08_teachme_583203d2:
 
     # fn "「Are you going back to practice after this?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 629-631)
-    fn "「不，没有那样的事。[l]是因为你一直到最后都很努力。」"
+    fn "「不，没有那样的事。{p}是因为你一直到最后都很努力。」"
 
 # game/day 8.rpy:783
 translate chinese_simplified kouya08_teachme_c48c1300:
@@ -2014,7 +2014,7 @@ translate chinese_simplified kouya08_teachme_cbad0601:
 
     # fn "「Nah, I've already gotten in the way,{p} so I'm about to head back.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 638-639)
-    fn "「啊哈哈，[wdt]之前也说过那样的话呢。[l]不过说起来，一直压着弦果然手指很痛啊。[l]"
+    fn "「啊哈哈，{w=.3}之前也说过那样的话呢。{p}不过说起来，一直压着弦果然手指很痛啊。{p}"
 
 # game/day 8.rpy:788
 translate chinese_simplified kouya08_teachme_c22300dc:
@@ -2042,21 +2042,21 @@ translate chinese_simplified kouya08_teachme_efcb1c7d:
 
     # ka "「Somewhere around the second half of the month.{p} I have a spare ticket, so if it's really okay,\n please come.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 650-651)
-    ka "「哦，[wdt]辛苦了。[l]好玩吗？」"
+    ka "「哦，{w=.3}辛苦了。{p}好玩吗？」"
 
 # game/day 8.rpy:795
 translate chinese_simplified kouya08_teachme_201495e8:
 
     # fn "「Right, I'll be there for sure.{p} I'm looking forward to it, okay?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 653-655)
-    fn "「嗯，很好玩呦。[l]真的很感谢你，[wdt]洸哉。」"
+    fn "「嗯，很好玩呦。{p}真的很感谢你，{w=.3}洸哉。」"
 
 # game/day 8.rpy:799
 translate chinese_simplified kouya08_teachme_3f0c99c2:
 
     # ka "「Yeah, just watch me.{p} I'll give you the best performance ever.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 658-660)
-    ka "「别那么拘礼啦。[l]如果能够开心，那再好不过了。」"
+    ka "「别那么拘礼啦。{p}如果能够开心，那再好不过了。」"
 
 # game/day 8.rpy:800
 translate chinese_simplified kouya08_teachme_6945dee5:
@@ -2084,7 +2084,7 @@ translate chinese_simplified kouya08_teachme_85c3857d:
 
     # "A live concert, huh?{p}I've never been to anything like that,{p}so it sounds really fun."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 674-678)
-    "「这样啊。[l]我接下来有一个现场演奏会，如果你能来的话就好了。」"
+    "「这样啊。{p}我接下来有一个现场演奏会，如果你能来的话就好了。」"
 
 # game/day 8.rpy:810
 translate chinese_simplified kouya08_teachme_b126a8ec:
@@ -2098,42 +2098,42 @@ translate chinese_simplified kouya08_teachme_9a92fddd:
 
     # "As I decided that, I walked back along the path,{p}moving with a lighter gait this time."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 682-684)
-    "「啊，[wdt]真的吗？[l]那还挺有趣的。[l]什么时候呢？」"
+    "「啊，{w=.3}真的吗？{p}那还挺有趣的。{p}什么时候呢？」"
 
 # game/day 8.rpy:815
 translate chinese_simplified kouya08_teachme_a5d4be09:
 
     # "I didn't think that I'd like it all that much,{p}but walking through the forests is quite nice."
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 687-689)
-    "「中旬结束左右的时候。[l]这次刚好有多的票，如果能来的话就太好了。」"
+    "「中旬结束左右的时候。{p}这次刚好有多的票，如果能来的话就太好了。」"
 
 # game/day 8.rpy:824
 translate chinese_simplified kouya08_pass_79c49943:
 
     # fn "「Hmm, I came all this way but I think I'll pass.{p} If I'm here, you can't take a break can you?」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 691-696)
-    fn "「嗯，一定会去的。[l]真是十分期待啊。」"
+    fn "「嗯，一定会去的。{p}真是十分期待啊。」"
 
 # game/day 8.rpy:828
 translate chinese_simplified kouya08_pass_38a61f35:
 
     # ka "「No, it's not like that...{p} But I guess I should thank you\n for your consideration.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 697-698)
-    ka "「啊，交给我吧。[l]一定会让你听到最棒的演奏会的。」"
+    ka "「啊，交给我吧。{p}一定会让你听到最棒的演奏会的。」"
 
 # game/day 8.rpy:829
 translate chinese_simplified kouya08_pass_2c98a3e6:
 
     # fn "「Sorry, Kouya.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 700-702)
-    fn "「那么就拜托你啦。[l]那么，下次见啦，[l]洸哉。[l]"
+    fn "「那么就拜托你啦。{p}那么，下次见啦，{p}洸哉。{p}"
 
 # game/day 8.rpy:833
 translate chinese_simplified kouya08_pass_07b025d8:
 
     # ka "「Nah, nothing you need to apologize for.{p} But if you ever do have time, get in touch with me,{p} and I'll teach you.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 703-706)
-    ka "练习，[wdt]要加油啊！」"
+    ka "练习，{w=.3}要加油啊！」"
 
 # game/day 8.rpy:834
 translate chinese_simplified kouya08_pass_14ef26e3:
@@ -2147,7 +2147,7 @@ translate chinese_simplified kouya08_pass_e80895eb:
 
     # ka "「Take care on your way back.」"
     # [旧版翻译] 来源: 洸哉_s_03.ks (KS 713-714)
-    ka "现场演奏啊。[l]因为完全没有去过，真的是很期待啊。[l]"
+    ka "现场演奏啊。{p}因为完全没有去过，真的是很期待啊。{p}"
 
 # game/day 8.rpy:839
 translate chinese_simplified kouya08_pass_ae0cec1f:
@@ -2210,7 +2210,7 @@ translate chinese_simplified kounosuke08_17fedaf6:
 
     # ko "「Torahiko, are you scared?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 29-30)
-    ko "「虎彦，[wdt]你害怕吗？」"
+    ko "「虎彦，{w=.3}你害怕吗？」"
 
 # game/day 8.rpy:881
 translate chinese_simplified kounosuke08_25b36294:
@@ -2238,7 +2238,7 @@ translate chinese_simplified kounosuke08_11a0d1c8:
 
     # "Kounosuke takes photographs out of his bag,{p}and scatters them on the table.{p}Then, we each take a photo."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 43-45)
-    "孝之助从包里拿出装照片的袋子，把里面的东西散在桌子上[l]之后拿出了几张照片开始检查起来。"
+    "孝之助从包里拿出装照片的袋子，把里面的东西散在桌子上{p}之后拿出了几张照片开始检查起来。"
 
 # game/day 8.rpy:891
 translate chinese_simplified kounosuke08_d118d1d8:
@@ -2259,7 +2259,7 @@ translate chinese_simplified day08_pictures_kouno_e2ab6ece:
 
     # to "「W-what is it?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 83)
-    to "「有，[wdt]有什么吗？」"
+    to "「有，{w=.3}有什么吗？」"
 
 # game/day 8.rpy:917
 translate chinese_simplified day08_pictures_kouno_b96462a6:
@@ -2287,7 +2287,7 @@ translate chinese_simplified day08_pictures_kouno_c8a03767:
 
     # ko "「I'm talking about the fur on his tail.{p} It's totally standing on end!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 98)
-    ko "「不是说那个啦，看尾巴的毛，[l]"
+    ko "「不是说那个啦，看尾巴的毛，{p}"
 
 # game/day 8.rpy:930
 translate chinese_simplified day08_pictures_kouno_f6bd7ffd:
@@ -2308,7 +2308,7 @@ translate chinese_simplified day08_pictures_kouno_447fea4d:
 
     # ko "「We hadn't even gotten inside yet.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 107)
-    ko "「啊、[wdt]真的耶」"
+    ko "「啊、{w=.3}真的耶」"
 
 # game/day 8.rpy:939
 translate chinese_simplified day08_pictures_kouno_901cc3dc:
@@ -2322,14 +2322,14 @@ translate chinese_simplified day08_pictures_kouno_95c139f4:
 
     # ko "「Yeah right.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 115)
-    ko "「不、[wdt]不是的！[l]"
+    ko "「不、{w=.3}不是的！{p}"
 
 # game/day 8.rpy:947
 translate chinese_simplified day08_pictures_kouno_78688828:
 
     # to "「Really!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 116)
-    to "那...那只是因为[l]冷，[wdt]冷而已啦」"
+    to "那...那只是因为{p}冷，{w=.3}冷而已啦」"
 
 # game/day 8.rpy:951
 translate chinese_simplified day08_pictures_kouno_45e414a2:
@@ -2420,7 +2420,7 @@ translate chinese_simplified day08_pictures_kouno_81e00392:
 
     # ko "「Wait a minute...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 167)
-    ko "突然，孝之助把照片集中起来。[l]"
+    ko "突然，孝之助把照片集中起来。{p}"
 
 # game/day 8.rpy:982
 translate chinese_simplified day08_pictures_kouno_375e9537:
@@ -2448,7 +2448,7 @@ translate chinese_simplified day08_pictures_kouno_519c2839:
 
     # su "「Is something wrong...?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 179)
-    su "到底发现了什么？[l]"
+    su "到底发现了什么？{p}"
 
 # game/day 8.rpy:992
 translate chinese_simplified day08_pictures_kouno_c66abd17:
@@ -2609,7 +2609,7 @@ translate chinese_simplified day08_pictures_kouno_e05678bc:
 
     # "But only by the shoe cuboard,{p}in the darkness of the school at night is there,{p}there's nobody."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 236)
-    "「那个，孝之助？[l]"
+    "「那个，孝之助？{p}"
 
 # game/day 8.rpy:1032
 translate chinese_simplified day08_pictures_kouno_1a38fc06:
@@ -2658,7 +2658,7 @@ translate chinese_simplified day08_pictures_kouno_1335605f:
 
     # "A notepad falls out of Kounosuke's pocket,{p}making an abrupt sound."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 253)
-    "大概是大家都想起来了吧。[l]"
+    "大概是大家都想起来了吧。{p}"
 
 # game/day 8.rpy:1055
 translate chinese_simplified day08_pictures_kouno_aecbc0fd:
@@ -2679,7 +2679,7 @@ translate chinese_simplified day08_pictures_kouno_7015aa09:
 
     # to "「Wh-what's wrong? Kounosuke?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 261)
-    to "没有。[l]一张照片也没有。[l]"
+    to "没有。{p}一张照片也没有。{p}"
 
 # game/day 8.rpy:1061
 translate chinese_simplified day08_pictures_kouno_a36e3b23:
@@ -2735,14 +2735,14 @@ translate chinese_simplified day08_pictures_kouno_9ba7a5ca:
 
     # "But if you try to check who it is later,{p}then you will find that it was absolutely...{p}impossible for that person to be there."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 292)
-    "「啊[wdt]抱歉」"
+    "「啊{w=.3}抱歉」"
 
 # game/day 8.rpy:1085
 translate chinese_simplified day08_pictures_kouno_58f322a8:
 
     # fn "「Th-this can't be right!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 297)
-    fn "「不，[wdt]不要吓人哦...」"
+    fn "「不，{w=.3}不要吓人哦...」"
 
 # game/day 8.rpy:1089
 translate chinese_simplified day08_pictures_kouno_09617021:
@@ -2777,7 +2777,7 @@ translate chinese_simplified day08_pictures_kouno_6c4e5a2a:
 
     # "Everbody is at a loss for words,{p}and we're all getting the chills."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 312)
-    "「怎、[wdt]怎么了？[l]孝之助？」"
+    "「怎、{w=.3}怎么了？{p}孝之助？」"
 
 # game/day 8.rpy:1100
 translate chinese_simplified day08_pictures_kouno_60218a4e:
@@ -2798,7 +2798,7 @@ translate chinese_simplified day08_pictures_kouno_9d11ec55:
 
     # ko "「Wh...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 322)
-    ko "「不，[wdt]不对哦？[l]"
+    ko "「不，{w=.3}不对哦？{p}"
 
 # game/day 8.rpy:1110
 translate chinese_simplified day08_pictures_kouno_c497ba8c:
@@ -2833,7 +2833,7 @@ translate chinese_simplified day08_pictures_kouno_e7ae48a2:
 
     # to "「Th-there's no problem with that!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 336)
-    to "但是，后来本人去确认的时候[l]"
+    to "但是，后来本人去确认的时候{p}"
 
 # game/day 8.rpy:1129
 translate chinese_simplified day08_pictures_kouno_119c802e:
@@ -2861,14 +2861,14 @@ translate chinese_simplified day08_pictures_kouno_d99f3690:
 
     # fn "「No, well...\n But that fist really did hurt.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 356)
-    fn "「妖...[wdt]妖怪...?」"
+    fn "「妖...{w=.3}妖怪...?」"
 
 # game/day 8.rpy:1139
 translate chinese_simplified day08_pictures_kouno_e18ba381:
 
     # ko "「It did, right!?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 359)
-    ko "「也...[wdt]也就是说是没出现的那个[l]"
+    ko "「也...{w=.3}也就是说是没出现的那个{p}"
 
 # game/day 8.rpy:1145
 translate chinese_simplified day08_pictures_kouno_721b8915:
@@ -2903,7 +2903,7 @@ translate chinese_simplified day08_pictures_kouno_f140f61f:
 
     # su "「Wh-when you put it like that,{p} you're right.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 366)
-    su "只有风铃在那里响着。[l]"
+    su "只有风铃在那里响着。{p}"
 
 # game/day 8.rpy:1153
 translate chinese_simplified day08_pictures_kouno_e395b558:
@@ -2987,7 +2987,7 @@ translate chinese_simplified day08_pictures_tora_26853737:
 
     # fn "「Oh, sorry.{p} Orange juice, please.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 506)
-    fn "「啊[wdt]麻烦你了，[l]"
+    fn "「啊{w=.3}麻烦你了，{p}"
 
 # game/day 8.rpy:1210
 translate chinese_simplified day08_pictures_tora_61c9d43f:
@@ -3001,7 +3001,7 @@ translate chinese_simplified day08_pictures_tora_89e4436e:
 
     # to "「You're...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 513)
-    to "「啊[wdt]峻，[l]帮我买可乐~」"
+    to "「啊{w=.3}峻，{p}帮我买可乐~」"
 
 # game/day 8.rpy:1215
 translate chinese_simplified day08_pictures_tora_80e10939:
@@ -3029,7 +3029,7 @@ translate chinese_simplified day08_pictures_tora_1142c0cb:
 
     # ko "「Aren't you going to take my order?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 529)
-    ko "「好，[l]我知道了。」"
+    ko "「好，{p}我知道了。」"
 
 # game/day 8.rpy:1228
 translate chinese_simplified day08_pictures_tora_dec28f60:
@@ -3120,7 +3120,7 @@ translate chinese_simplified day08_pictures_tora_ef8d5cbc:
 
     # to "「That was your fault!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 576)
-    to "「嗯？[l]没有音乐教室？」"
+    to "「嗯？{p}没有音乐教室？」"
 
 # game/day 8.rpy:1272
 translate chinese_simplified day08_pictures_tora_1171b731:
@@ -3134,7 +3134,7 @@ translate chinese_simplified day08_pictures_tora_74c6cd7b:
 
     # su "「Kounosuke-san,{p} you shouldn't play tricks like that.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 582)
-    su "这么说来......[l]"
+    su "这么说来......{p}"
 
 # game/day 8.rpy:1280
 translate chinese_simplified day08_pictures_tora_451d3521:
@@ -3190,14 +3190,14 @@ translate chinese_simplified day08_pictures_tora_c7708cb1:
 
     # fn "「You reap what you sow.{p} Didn't you say that at that time?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 610)
-    fn "「疼疼疼！对不起，对不起。[l]"
+    fn "「疼疼疼！对不起，对不起。{p}"
 
 # game/day 8.rpy:1300
 translate chinese_simplified day08_pictures_tora_8a6f8dfc:
 
     # ko "「......?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 611)
-    ko "是我动的节拍器...[l]"
+    ko "是我动的节拍器...{p}"
 
 # game/day 8.rpy:1304
 translate chinese_simplified day08_pictures_tora_34a6e3af:
@@ -3211,14 +3211,14 @@ translate chinese_simplified day08_pictures_tora_24392513:
 
     # fn "「I can't find them.{p} Kounosuke, are they over there?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 617)
-    fn "「怎么办？[wdt]　[fn]」"
+    fn "「怎么办？{w=.3}　[fn]」"
 
 # game/day 8.rpy:1306
 translate chinese_simplified day08_pictures_tora_125d371c:
 
     # ko "「Which time are you talking about?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 620)
-    ko "「嗯，[wdt]暂且原谅他吧。」"
+    ko "「嗯，{w=.3}暂且原谅他吧。」"
 
 # game/day 8.rpy:1307
 translate chinese_simplified day08_pictures_tora_36618069:
@@ -3253,7 +3253,7 @@ translate chinese_simplified day08_pictures_tora_46a117fd:
 
     # fn "「It was when you deserted Shun-kun,{p} you're playing dumb again.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 636)
-    fn "「自作自受~[l]"
+    fn "「自作自受~{p}"
 
 # game/day 8.rpy:1324
 translate chinese_simplified day08_pictures_tora_9a12e5ef:
@@ -3281,7 +3281,7 @@ translate chinese_simplified day08_pictures_tora_fc9d9a84:
 
     # su "「Um...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 649)
-    su "「这么一说 没看到呢.[l]"
+    su "「这么一说 没看到呢.{p}"
 
 # game/day 8.rpy:1342
 translate chinese_simplified day08_pictures_tora_cc417f60:
@@ -3309,7 +3309,7 @@ translate chinese_simplified day08_pictures_tora_5e3776bf:
 
     # su "「But Kounosuke-san was with me...{p} the whole time...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 661)
-    su "「在音乐室拍照......[l]谁？」"
+    su "「在音乐室拍照......{p}谁？」"
 
 # game/day 8.rpy:1355
 translate chinese_simplified day08_pictures_tora_d3f449d9:
@@ -3344,7 +3344,7 @@ translate chinese_simplified day08_pictures_tora_1e7c18c9:
 
     # su "「He did go on ahead to the music room,{p} to mess with the metronome,{p} but he came right back out."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 679)
-    su "「好疼，[fn]！[l]"
+    su "「好疼，[fn]！{p}"
 
 # game/day 8.rpy:1370
 translate chinese_simplified day08_pictures_tora_1405def8:
@@ -3358,14 +3358,14 @@ translate chinese_simplified day08_pictures_tora_9cb2c27c:
 
     # ko "「That's right.{p} My plan was to suddenly pop out,{p} after you two rushed back down from the music room."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 691)
-    ko "「呀哈...[wdt]啊哈哈...[wdt]别动侧腹！[l]"
+    ko "「呀哈...{w=.3}啊哈哈...{w=.3}别动侧腹！{p}"
 
 # game/day 8.rpy:1375
 translate chinese_simplified day08_pictures_tora_2963d1fc:
 
     # fn "「W-wait a minute!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 692)
-    fn "好疼![l]好痒！[l]要死了！」"
+    fn "好疼!{p}好痒！{p}要死了！」"
 
 # game/day 8.rpy:1376
 translate chinese_simplified day08_pictures_tora_f51e6814:
@@ -3379,7 +3379,7 @@ translate chinese_simplified day08_pictures_tora_0e5f4a06:
 
     # fn "「At that time,{p} didn't we meet you...{p} when you came out of the music room!?"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 701)
-    fn "「嗯？[l]怎么了？[wdt]峻？」"
+    fn "「嗯？{p}怎么了？{w=.3}峻？」"
 
 # game/day 8.rpy:1381
 translate chinese_simplified day08_pictures_tora_d02bc305:
@@ -3470,7 +3470,7 @@ translate chinese_simplified day08_pictures_tora_654dc6ae:
 
     # ko "「Maybe you saw two people?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 742)
-    ko "「没错，没错！[l]"
+    ko "「没错，没错！{p}"
 
 # game/day 8.rpy:1406
 translate chinese_simplified day08_pictures_tora_8de2a3b1:
@@ -3491,14 +3491,14 @@ translate chinese_simplified day08_pictures_tora_478f8e35:
 
     # "Torahiko's awkward reply,{p}makes it sound as if his soul is coming out."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 747)
-    "「等...[wdt]等下！」"
+    "「等...{w=.3}等下！」"
 
 # game/day 8.rpy:1415
 translate chinese_simplified day08_pictures_tora_23526398:
 
     # "In that humid midsummer air,{p}we're left speechless."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 749)
-    "不可能。[l]"
+    "不可能。{p}"
 
 # game/day 8.rpy:1416
 translate chinese_simplified day08_pictures_tora_60218a4e:
@@ -3519,7 +3519,7 @@ translate chinese_simplified day08_pictures_tora_30105824:
 
     # ko "「Why didn't you take a picture,{p} of such a juicy experience!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 754)
-    ko "碰到孝之助了，[l]"
+    ko "碰到孝之助了，{p}"
 
 # game/day 8.rpy:1429
 translate chinese_simplified day08_pictures_tora_751c7667:
@@ -3533,7 +3533,7 @@ translate chinese_simplified day08_pictures_tora_91ca7305:
 
     # fn "「D-don't be ridiculous.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 759)
-    fn "「是，[wdt]是啊！」"
+    fn "「是，{w=.3}是啊！」"
 
 # game/day 8.rpy:1431
 translate chinese_simplified day08_pictures_tora_9538a95d:
@@ -3554,7 +3554,7 @@ translate chinese_simplified day08_pictures_tora_185a3cb1:
 
     # ko "「That was awfully sly of you two,{p} to have a paranormal experience without me!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 771)
-    ko "什么，[wdt]什么？[l]"
+    ko "什么，{w=.3}什么？{p}"
 
 # game/day 8.rpy:1437
 translate chinese_simplified day08_pictures_tora_c87d9ee6:
@@ -3568,7 +3568,7 @@ translate chinese_simplified day08_pictures_tora_e4ab8937:
 
     # ko "「Sly, really sly!{p} I've never seen a ghost before!"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 774)
-    ko "孝之助和峻一直都在一楼……。[l]"
+    ko "孝之助和峻一直都在一楼……。{p}"
 
 # game/day 8.rpy:1442
 translate chinese_simplified day08_pictures_tora_3a914100:
@@ -3624,14 +3624,14 @@ translate chinese_simplified day08_pictures_tora_f7d5b378:
 
     # to "{size=+15}「NOPE.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 794)
-    to "「莫非你们两人[l]看见了？」"
+    to "「莫非你们两人{p}看见了？」"
 
 # game/day 8.rpy:1462
 translate chinese_simplified day08_pictures_tora_38ca0018:
 
     # fn "「Same for me!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 797)
-    fn "「可能[l]看到了...」"
+    fn "「可能{p}看到了...」"
 
 # game/day 8.rpy:1463
 translate chinese_simplified day08_pictures_tora_e53dc0d9:
@@ -3666,7 +3666,7 @@ translate chinese_simplified day08_pictures_tora_2d80d58f:
 
     # su "「He's gone...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 807)
-    su "只有风铃的声音在那里响，[l]"
+    su "只有风铃的声音在那里响，{p}"
 
 # game/day 8.rpy:1482
 translate chinese_simplified day08_pictures_tora_700b340c:
@@ -3701,7 +3701,7 @@ translate chinese_simplified day08_pictures_tora_b1151090:
 
     # "We had been completely abandoned.{p}For a while we were stunned,{p}and not sure what to do."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 824)
-    "「别...[wdt]别乱说哦！」"
+    "「别...{w=.3}别乱说哦！」"
 
 # game/day 8.rpy:1493
 translate chinese_simplified day08_pictures_tora_198a2490:
@@ -3750,14 +3750,14 @@ translate chinese_simplified day08_pictures_shun_56db35a6:
 
     # to "「It's not just hot, it's too hot.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 950)
-    to "「不要说热，[l]会更热的！」"
+    to "「不要说热，{p}会更热的！」"
 
 # game/day 8.rpy:1527
 translate chinese_simplified day08_pictures_shun_bbd4d657:
 
     # ko "「Yeah, why don't we eat some ice cream?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 955)
-    ko "「那，[wdt]不吃冰激凌吗？」"
+    ko "「那，{w=.3}不吃冰激凌吗？」"
 
 # game/day 8.rpy:1528
 translate chinese_simplified day08_pictures_shun_a8058a09:
@@ -3771,7 +3771,7 @@ translate chinese_simplified day08_pictures_shun_2a221614:
 
     # ko "「Yes. So, what kind do you want?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 965)
-    ko "「那，[l]要哪种？」"
+    ko "「那，{p}要哪种？」"
 
 # game/day 8.rpy:1535
 translate chinese_simplified day08_pictures_shun_34a37f08:
@@ -3806,14 +3806,14 @@ translate chinese_simplified day08_pictures_shun_ecc3b135:
 
     # su "「Huh? I, I'm fine.{p} I'll buy some for myself.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 983)
-    su "「哎？[l]不用了。[l]我自己买吧...」"
+    su "「哎？{p}不用了。{p}我自己买吧...」"
 
 # game/day 8.rpy:1549
 translate chinese_simplified day08_pictures_shun_f54b1a7c:
 
     # ko "「Don't be so modest.{p} Be honest when I'm treating you like this!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 988)
-    ko "「不用客气了。[l]"
+    ko "「不用客气了。{p}"
 
 # game/day 8.rpy:1550
 translate chinese_simplified day08_pictures_shun_ab08e43a:
@@ -3848,7 +3848,7 @@ translate chinese_simplified day08_pictures_shun_97be1857:
 
     # "This meeting is more like an excuse to hang out."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1007)
-    "「好好地~~[l]请客哦~~」"
+    "「好好地~~{p}请客哦~~」"
 
 # game/day 8.rpy:1568
 translate chinese_simplified day08_pictures_shun_dbd936b1:
@@ -3904,7 +3904,7 @@ translate chinese_simplified day08_pictures_shun_fafcbe79:
 
     # "During the pause in the middle of our work,{p}Nana-kun suddenly shouts."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1033)
-    "要是真的拍到该怎么办呀[l]"
+    "要是真的拍到该怎么办呀{p}"
 
 # game/day 8.rpy:1594
 translate chinese_simplified day08_pictures_shun_dd87c4ce:
@@ -3932,7 +3932,7 @@ translate chinese_simplified day08_pictures_shun_63ce1274:
 
     # "He presents a photo of Nana-kun,{p}hugging around Torahiko's waist."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1048)
-    "「怎...[wdt]怎么了小[fn]？」"
+    "「怎...{w=.3}怎么了小[fn]？」"
 
 # game/day 8.rpy:1617
 translate chinese_simplified day08_pictures_shun_03d018b1:
@@ -3946,7 +3946,7 @@ translate chinese_simplified day08_pictures_shun_531b8974:
 
     # ko "「What?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1059)
-    ko "「不是不是。[l]看这个！」"
+    ko "「不是不是。{p}看这个！」"
 
 # game/day 8.rpy:1626
 translate chinese_simplified day08_pictures_shun_886e0092:
@@ -3974,7 +3974,7 @@ translate chinese_simplified day08_pictures_shun_7bffbc6d:
 
     # fn "「Really?{p} But I don't think there's...{p} anything particular about that."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1074)
-    fn "「可恶，[l]"
+    fn "「可恶，{p}"
 
 # game/day 8.rpy:1633
 translate chinese_simplified day08_pictures_shun_54458b45:
@@ -4002,7 +4002,7 @@ translate chinese_simplified day08_pictures_shun_ab078883:
 
     # "Torahiko forces a smile,{p}when he sees the photo of those two."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1087)
-    "「只是那样而已，[l]不至于那样大惊小怪吧。」"
+    "「只是那样而已，{p}不至于那样大惊小怪吧。」"
 
 # game/day 8.rpy:1640
 translate chinese_simplified day08_pictures_shun_62f181ae:
@@ -4023,7 +4023,7 @@ translate chinese_simplified day08_pictures_shun_a2222930:
 
     # "But he's much smaller,{p}like he's really in elementary school.{p}He should be the same age as Shun-kun, yet..."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1095)
-    "「恩。[l]"
+    "「恩。{p}"
 
 # game/day 8.rpy:1662
 translate chinese_simplified day08_pictures_shun_40ad72a2:
@@ -4037,7 +4037,7 @@ translate chinese_simplified day08_pictures_shun_0e5c7392:
 
     # "What's this strange feeling just now?{p}Something's wrong.{p}Nana-kun... Wait, who's Nana-kun?"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1099)
-    "「是吗？[l]"
+    "「是吗？{p}"
 
 # game/day 8.rpy:1672
 translate chinese_simplified day08_pictures_shun_1ae65cc8:
@@ -4058,14 +4058,14 @@ translate chinese_simplified day08_pictures_shun_fb94bdd5:
 
     # "At that moment,{p}all sound disappears from the world."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1109)
-    "「啊[wdt]对不起……」"
+    "「啊{w=.3}对不起……」"
 
 # game/day 8.rpy:1681
 translate chinese_simplified day08_pictures_shun_8b422beb:
 
     # "As if time had stopped,{p}I can't hear a thing."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1111)
-    "虎彦露出和蔼的笑容，看着两个人拍摄的照片。。[l]"
+    "虎彦露出和蔼的笑容，看着两个人拍摄的照片。。{p}"
 
 # game/day 8.rpy:1682
 translate chinese_simplified day08_pictures_shun_cc1c9580:
@@ -4086,42 +4086,42 @@ translate chinese_simplified day08_pictures_shun_e33d2964:
 
     # "In the middle of this,{p}I can only hear the the voice,{p}of the child named Nanafuse."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1115)
-    "比峻还要小，看起来真像是小学生。[l]"
+    "比峻还要小，看起来真像是小学生。{p}"
 
 # game/day 8.rpy:1688
 translate chinese_simplified day08_pictures_shun_02607e88:
 
     # na "「If it was night,{p} it would be a little easier...{p} to apply the suggestion.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1116)
-    na "明明和峻同年，[l]但……。"
+    na "明明和峻同年，{p}但……。"
 
 # game/day 8.rpy:1692
 translate chinese_simplified day08_pictures_shun_36c19dbb:
 
     # na "「It seems everybody else can't hear anymore.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1126)
-    na "！？[wt][se buf=\"1\" fade=\"50\" time=250][begintrans][駄菓子屋][七伏 opacity=255][endtrans normal][wt]"
+    na "！？[begintrans][駄菓子屋][七伏 opacity=255][endtrans normal]"
 
 # game/day 8.rpy:1693
 translate chinese_simplified day08_pictures_shun_35c320e8:
 
     # fn "(What is this? Y-you are...?)"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1134)
-    fn "怎么了，这种奇怪的感觉？[l]"
+    fn "怎么了，这种奇怪的感觉？{p}"
 
 # game/day 8.rpy:1694
 translate chinese_simplified day08_pictures_shun_f29159b7:
 
     # na "「Do you remember? [fn]?\n [fn], you gave that name to me.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1135)
-    na "有什么不对劲。[l]"
+    na "有什么不对劲。{p}"
 
 # game/day 8.rpy:1695
 translate chinese_simplified day08_pictures_shun_29782014:
 
     # fn "(What...?)"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1136)
-    fn "七君……[l]七君...[wdt]是谁？"
+    fn "七君……{p}七君...{w=.3}是谁？"
 
 # game/day 8.rpy:1696
 translate chinese_simplified day08_pictures_shun_58f41efc:
@@ -4135,7 +4135,7 @@ translate chinese_simplified day08_pictures_shun_ca0c3578:
 
     # na "Back then, I used to play with you guys.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1145)
-    na "「你是[wdt]谁……？」"
+    na "「你是{w=.3}谁……？」"
 
 # game/day 8.rpy:1698
 translate chinese_simplified day08_pictures_shun_8a5aec01:
@@ -4149,14 +4149,14 @@ translate chinese_simplified day08_pictures_shun_791f2d0f:
 
     # "Nanafuse, Nanafuse [fn],{p}seven, nana...{p}Nana-kun."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1153)
-    "时间就像凝固了一样，什么都听不到。[l]"
+    "时间就像凝固了一样，什么都听不到。{p}"
 
 # game/day 8.rpy:1700
 translate chinese_simplified day08_pictures_shun_e0025b51:
 
     # fn "(...Oh)"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1154)
-    fn "谁都不能动，[l]"
+    fn "谁都不能动，{p}"
 
 # game/day 8.rpy:1708
 translate chinese_simplified day08_pictures_shun_a282c51d:
@@ -4198,14 +4198,14 @@ translate chinese_simplified day08_pictures_shun_0ab872f4:
 
     # "And when you gave me a name,{p}I gained consciousness.{p}I have valued those two things.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1174)
-    "（什...[l]什么？　[wdt]你到底是……？）"
+    "（什...{p}什么？　{w=.3}你到底是……？）"
 
 # game/day 8.rpy:1722
 translate chinese_simplified day08_pictures_shun_358ab2d8:
 
     # "Oh yeah. That's right.{p}Now I understand the true nature,{p}of that kid we used to play with."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1179)
-    "「不记得了吗？　[fn]？[l]"
+    "「不记得了吗？　[fn]？{p}"
 
 # game/day 8.rpy:1723
 translate chinese_simplified day08_pictures_shun_a10d324c:
@@ -4226,14 +4226,14 @@ translate chinese_simplified day08_pictures_shun_1abcd193:
 
     # "But we played a lot when I was a kid,{p}why did I forget?{p}I even forgot that I had forgotten."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1188)
-    "「我是七个不可思议之一。[l]"
+    "「我是七个不可思议之一。{p}"
 
 # game/day 8.rpy:1729
 translate chinese_simplified day08_pictures_shun_131fbecb:
 
     # na "「That just happens.{p} Everybody forgets me when they leave me.{p} That's why I \"don't exist.\"」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1189)
-    na "“大家认识，又不认识的人”。[l]"
+    na "“大家认识，又不认识的人”。{p}"
 
 # game/day 8.rpy:1733
 translate chinese_simplified day08_pictures_shun_40ad72a2_1:
@@ -4247,21 +4247,21 @@ translate chinese_simplified day08_pictures_shun_054276b5:
 
     # "Little by little, Nana-kun's form gets pale,{p}I finally realize what's going on."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1192)
-    "七个不可思议？[l]"
+    "七个不可思议？{p}"
 
 # game/day 8.rpy:1738
 translate chinese_simplified day08_pictures_shun_cb99275c:
 
     # fn "(N-Nana-kun!?)"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1193)
-    fn "七个不可思议...七伏、七伏[fn]七……[l]"
+    fn "七个不可思议...七伏、七伏[fn]七……{p}"
 
 # game/day 8.rpy:1739
 translate chinese_simplified day08_pictures_shun_31e38b11:
 
     # na "「Soon, we'll be out of time...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1207)
-    na "那是什么时候呢 像今天这样热天的傍晚。[l]"
+    na "那是什么时候呢 像今天这样热天的傍晚。{p}"
 
 # game/day 8.rpy:1740
 translate chinese_simplified day08_pictures_shun_1abd2421:
@@ -4282,7 +4282,7 @@ translate chinese_simplified day08_pictures_shun_59bbb2e1:
 
     # na "Someday, I'll find somebody to mimic,{p} and appear in front of everybody.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1214)
-    na "那个时候，我是这么说的...[l]"
+    na "那个时候，我是这么说的...{p}"
 
 # game/day 8.rpy:1746
 translate chinese_simplified day08_pictures_shun_cb5a31ac:
@@ -4296,14 +4296,14 @@ translate chinese_simplified day08_pictures_shun_13fb39c3:
 
     # na "「Oh, also, I'll give you that picture,{p} that made Torahiko faint.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1225)
-    na "「那个时候，我被峻发现了，我得到了形体。[l]"
+    na "「那个时候，我被峻发现了，我得到了形体。{p}"
 
 # game/day 8.rpy:1754
 translate chinese_simplified day08_pictures_shun_58d745cd:
 
     # "The picture from that time,{p}is in Nana-kun's hand."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1226)
-    "之后[fn]给了我名字，我有了意识。[l]"
+    "之后[fn]给了我名字，我有了意识。{p}"
 
 # game/day 8.rpy:1763
 translate chinese_simplified day08_pictures_shun_ddd6129c:
@@ -4317,7 +4317,7 @@ translate chinese_simplified day08_pictures_shun_ec459e6c:
 
     # "And only a white mist,{p}wrapped around Torahiko can be seen."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1229)
-    "啊啊，是吗[l]这样啊。[l]"
+    "啊啊，是吗{p}这样啊。{p}"
 
 # game/day 8.rpy:1771
 translate chinese_simplified day08_pictures_shun_63bc14f0:
@@ -4338,14 +4338,14 @@ translate chinese_simplified day08_pictures_shun_8b711544:
 
     # fn "「Nana-kun!」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1233)
-    fn "七君，是第七个不可思议。[l]"
+    fn "七君，是第七个不可思议。{p}"
 
 # game/day 8.rpy:1788
 translate chinese_simplified day08_pictures_shun_e633a257:
 
     # to "{size=+30}「WHAAA!」{w=.3}"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1234)
-    to "由孩子的幻想创造的，隐藏在学校的妖怪孩子。[l]"
+    to "由孩子的幻想创造的，隐藏在学校的妖怪孩子。{p}"
 
 # game/day 8.rpy:1798
 translate chinese_simplified day08_pictures_shun_867f4f85:
@@ -4359,7 +4359,7 @@ translate chinese_simplified day08_pictures_shun_0bd5ea6e:
 
     # fn "「Huh...?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1237)
-    fn "但是，小时候总在一起玩，[l]"
+    fn "但是，小时候总在一起玩，{p}"
 
 # game/day 8.rpy:1800
 translate chinese_simplified day08_pictures_shun_849eebd8:
@@ -4373,14 +4373,14 @@ translate chinese_simplified day08_pictures_shun_ff914d2a:
 
     # to "「Oh, yeah.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1243)
-    to "「没办法，[l]"
+    to "「没办法，{p}"
 
 # game/day 8.rpy:1805
 translate chinese_simplified day08_pictures_shun_7d9ec01b:
 
     # fn "「What? Huh? Umm...」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1244)
-    fn "只要离开我，大家就会忘记我的事。[l]"
+    fn "只要离开我，大家就会忘记我的事。{p}"
 
 # game/day 8.rpy:1806
 translate chinese_simplified day08_pictures_shun_33823462:
@@ -4394,7 +4394,7 @@ translate chinese_simplified day08_pictures_shun_4a3c3044:
 
     # "It seems like I lost my...{p}memory for a second somehow..."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1249)
-    "！？[wdt]"
+    "！？{w=.3}"
 
 # game/day 8.rpy:1808
 translate chinese_simplified day08_pictures_shun_0012ff1c:
@@ -4408,7 +4408,7 @@ translate chinese_simplified day08_pictures_shun_b8c6f30b:
 
     # su "「[fn]-san?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1257)
-    su "（七[wdt]、七君！？）"
+    su "（七{w=.3}、七君！？）"
 
 # game/day 8.rpy:1813
 translate chinese_simplified day08_pictures_shun_bab1ca0a:
@@ -4429,14 +4429,14 @@ translate chinese_simplified day08_pictures_shun_34ca4476:
 
     # "All three of them look at me with concern.{p}Err... Oh, that's right.{p}I think we were appraising ghost photos."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1266)
-    "「啊哈哈~不是哦~。[l]"
+    "「啊哈哈~不是哦~。{p}"
 
 # game/day 8.rpy:1819
 translate chinese_simplified day08_pictures_shun_b1335ff8:
 
     # fn "「Sorry, sorry.{p} I just spaced out there for a minute.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1267)
-    fn "现在只是把暗示解开了，所以看不到了而已。[l]"
+    fn "现在只是把暗示解开了，所以看不到了而已。{p}"
 
 # game/day 8.rpy:1823
 translate chinese_simplified day08_pictures_shun_b77cd058:
@@ -4450,21 +4450,21 @@ translate chinese_simplified day08_pictures_shun_cc45d923:
 
     # "Nana-kun?{p}Nana-kun, Nana-kun..."
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1272)
-    "「那时吓到你们了吧~。[l]"
+    "「那时吓到你们了吧~。{p}"
 
 # game/day 8.rpy:1825
 translate chinese_simplified day08_pictures_shun_25e3dd55:
 
     # "What is that?{p}It feels like those are important words,{p}but I just can't remember.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1273)
-    "在理科室的时候[wdt]」"
+    "在理科室的时候{w=.3}」"
 
 # game/day 8.rpy:1826
 translate chinese_simplified day08_pictures_shun_49723832:
 
     # fn "「I was saying that?」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1279)
-    fn "这种照片，虎彦看到的话会晕过去吧。[l]"
+    fn "这种照片，虎彦看到的话会晕过去吧。{p}"
 
 # game/day 8.rpy:1830
 translate chinese_simplified day08_pictures_shun_cb4b5932:
@@ -4485,7 +4485,7 @@ translate chinese_simplified day08_pictures_shun_e028b753:
 
     # fn "「I'm fine, don't worry.」"
     # [旧版翻译] 来源: 孝之助_s_03.ks (KS 1294)
-    fn "照片上七君的样子，[l]已经只剩下轮廓了。"
+    fn "照片上七君的样子，{p}已经只剩下轮廓了。"
 
 # game/day 8.rpy:1836
 translate chinese_simplified day08_pictures_shun_dbb67e4b:

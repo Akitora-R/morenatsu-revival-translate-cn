@@ -502,7 +502,7 @@ translate chinese_simplified beach07_invite_shun_2dfd8a2b:
 
     # who "「Good evening, is this the [ln] residence?」"
     # [旧版翻译] 来源: 7日目.ks (KS 279)
-    who "「喂，这里是[西村]君的家吗？」"
+    who "「喂，这里是[fn]君的家吗？」"
 
 # game/day 7.rpy:200
 translate chinese_simplified beach07_invite_shun_9066b454:
@@ -908,7 +908,7 @@ translate chinese_simplified beach07_invite_juuichi_bfd787ab:
 
     # ju "「...[ln].{p} I'm sorry for calling at a time like this.」"
     # [旧版翻译] 来源: 7日目.ks (KS 481-482)
-    ju "「……[西村]吗。{p}抱歉啦，{w=.3}这种时间还打电话。」"
+    ju "「……[fn]吗。{p}抱歉啦，{w=.3}这种时间还打电话。」"
 
 # game/day 7.rpy:274
 translate chinese_simplified beach07_invite_juuichi_43b1816f:
@@ -1265,7 +1265,7 @@ translate chinese_simplified beach07_invite_soutarou_ae0280f5:
 
     # who "「Good evenin'! Is this [ln]-san?」"
     # [机翻] 来源: 7日目.ks (KS 725)
-    who "「晚上好！是[西村]家吗？」"
+    who "「晚上好！是[fn]家吗？」"
 
 # game/day 7.rpy:344
 translate chinese_simplified beach07_invite_soutarou_c725474b:
@@ -1286,7 +1286,7 @@ translate chinese_simplified beach07_invite_soutarou_64cbc09b:
 
     # so "「Oh, yep! Ehehe, [ln]-san,{p} you knew who it was just from my voice. Amazin'!」"
     # [机翻] 来源: 7日目.ks (KS 733-734)
-    so "「啊，对！嘿嘿，[西村]先生，{p}光听声音就知道了啊。厉害！」"
+    so "「啊，对！嘿嘿，[fn]先生，{p}光听声音就知道了啊。厉害！」"
 
 # game/day 7.rpy:347
 translate chinese_simplified beach07_invite_soutarou_bd8a3378:
@@ -1314,7 +1314,7 @@ translate chinese_simplified beach07_invite_soutarou_d69db07a:
 
     # so "「Ah, yeah! Umm...{p} at your welcoming party the other day..."
     # [机翻] 来源: 7日目.ks (KS 747)
-    so "「啊，对！嗯，之前在[西村]先生的欢迎会上，"
+    so "「啊，对！嗯，之前在[fn]先生的欢迎会上，"
 
 # game/day 7.rpy:351
 translate chinese_simplified beach07_invite_soutarou_47aae873:
@@ -1363,7 +1363,7 @@ translate chinese_simplified beach07_invite_soutarou_408ab204:
 
     # so "「So... is tomorrow okay with you...?」"
     # [机翻] 来源: 7日目.ks (KS 767)
-    so "「那么……[西村]先生，明天可以吗……？」"
+    so "「那么……[fn]先生，明天可以吗……？」"
 
 # game/day 7.rpy:358
 translate chinese_simplified beach07_invite_soutarou_8d5a5c25:
@@ -1699,7 +1699,7 @@ translate chinese_simplified beach07_meetup_bfe45677:
 
     # ju "「...[ln].{p} You're here very early.{p} Isn't there plenty of time?」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 23-25)
-    ju "「……[西村]啊。{p}你到得真早。时间不还早么？」"
+    ju "「……[fn]啊。{p}你到得真早。时间不还早么？」"
 
 # game/day 7.rpy:455
 translate chinese_simplified beach07_meetup_67c0df4a:
@@ -4499,7 +4499,7 @@ translate chinese_simplified beach07_hangloose_1e8197e6:
 
     # ju "「[ln], didn't you notice?{p} Kodori, you didn't put on a supporter did you?」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 1394-1396)
-    ju "「[西村]，你就没有发现么？{p}古酉，你是不是少了个毛巾把它撑起来？」"
+    ju "「[fn]，你就没有发现么？{p}古酉，你是不是少了个毛巾把它撑起来？」"
 
 # game/day 7.rpy:1352
 translate chinese_simplified beach07_hangloose_e397a52a:
@@ -4513,7 +4513,7 @@ translate chinese_simplified beach07_hangloose_9f18d18f:
 
     # ju "「[ln]!」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 1403-1404)
-    ju "「[西村]」"
+    ju "「[fn]」"
 
 # game/day 7.rpy:1357
 translate chinese_simplified beach07_hangloose_bab2a10a:
@@ -5836,7 +5836,7 @@ translate chinese_simplified beach07_kyoutarou_8b6d9b23:
 
     # so "「Woah, you too, [ln]-san!?」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 4248)
-    so "「哇啊，[西村]也过来闹啊？」"
+    so "「哇啊，[fn]也过来闹啊？」"
 
 # game/day 7.rpy:1762
 translate chinese_simplified beach07_kyoutarou_735a3851:
@@ -7068,7 +7068,7 @@ translate chinese_simplified beach07_juuichi_79410ee7:
 
     # ju "「[ln], is something wrong?」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 1955)
-    ju "「[西村]，你没事吧？」"
+    ju "「[fn]，你没事吧？」"
 
 # game/day 7.rpy:2182
 translate chinese_simplified beach07_juuichi_39636460:

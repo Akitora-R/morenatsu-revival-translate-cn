@@ -4,7 +4,8 @@
 translate chinese_simplified day02_2db87860:
 
     # fn "「What should I do today?」"
-    fn ""
+    # [旧版翻译] 来源: 2日目.ks (KS 15)
+    fn "「今天做什么呢？」"
 
 # game/day 2.rpy:128
 translate chinese_simplified torahiko02_3cc5a000:
@@ -81,7 +82,7 @@ translate chinese_simplified torahiko02_e9d1384d:
 
     # fn "「Hmmm...{w} There aren't many people around here.{p} Where is everyone?」"
     # [旧版翻译] 来源: 2日目.ks
-    fn "「「可恶……居然在这感受到人口稀少！」」"
+    fn "「可恶……居然在这感受到人口稀少！」"
 
 # game/day 2.rpy:144
 translate chinese_simplified torahiko02_c9b7aee8:
@@ -150,7 +151,8 @@ translate chinese_simplified torahiko02_8bf8c140:
 translate chinese_simplified torahiko02_3af039af:
 
     # "To my surprise, I just stood there for a while without any correspondence."
-    ""
+    # [原版扩写] 来源: extract/torahiko/2日目.ks (KS 59-60)
+    "太过惊讶，只是一时呆站在原地没能回应。"
 
 # game/day 2.rpy:155
 translate chinese_simplified torahiko02_e662ccf8:
@@ -198,7 +200,8 @@ translate chinese_simplified torahiko02_d481f3a6:
 translate chinese_simplified torahiko02_3d181290:
 
     # to "{nw}"
-    to ""
+    # [旧版翻译] 来源: extract/torahiko/2日目.ks
+    to "{nw}"
 
 # game/day 2.rpy:165
 translate chinese_simplified torahiko02_b12bd9bf:
@@ -212,7 +215,7 @@ translate chinese_simplified torahiko02_60a788a3:
 
     # "Torahiko says that with a laugh.{w} Honestly, if he had jumped on me,{w} he would have broken my hips."
     # [旧版翻译] 来源: 2日目.ks
-    "虎彦边笑边说着。[l]如果被飞扑的话，也许腰会撑不住也说不定。"
+    "虎彦边笑边说着。{p}如果被飞扑的话，也许腰会撑不住也说不定。"
 
 # game/day 2.rpy:170
 translate chinese_simplified torahiko02_f2ac3dd8:
@@ -240,7 +243,7 @@ translate chinese_simplified torahiko02_d00a5d93:
 
     # to "「I don't care about it anyways.{p} So where are you going?」"
     # [旧版翻译] 来源: 2日目.ks
-    to "「别在意那些小事啦。[l]那么，你半路上在干嘛啊？」"
+    to "「别在意那些小事啦。{p}那么，你半路上在干嘛啊？」"
 
 # game/day 2.rpy:174
 translate chinese_simplified torahiko02_033509b3:
@@ -254,7 +257,7 @@ translate chinese_simplified torahiko02_f075a8ae:
 
     # fn "「I was taking a walk.{p} It's summer vacation after all.{p}No use for me to stay home all the time.」"
     # [旧版翻译] 来源: 2日目.ks
-    fn "「只是散个步而已啦。[l]难得的暑假，一直待在家里也没什么事可以做」"
+    fn "「只是散个步而已啦。{p}难得的暑假，一直待在家里也没什么事可以做」"
 
 # game/day 2.rpy:179
 translate chinese_simplified torahiko02_f8cfce8b:
@@ -310,7 +313,7 @@ translate chinese_simplified torahiko02_eb1d5b94:
 
     # to "「Ah...{w} I was just wondering if a letter,{p} could convey my feelings better than a phonecall.」"
     # [旧版翻译] 来源: 2日目.ks
-    to "「啊……[l]怎么说呢，写信比起电话更能传递感情，不是吗？」"
+    to "「啊……{p}怎么说呢，写信比起电话更能传递感情，不是吗？」"
 
 # game/day 2.rpy:190
 translate chinese_simplified torahiko02_2ccb26f4:
@@ -527,14 +530,14 @@ translate chinese_simplified shin02_90505c46:
 
     # fn "「Hello.{p} I'm a friend of Shin-kun's,{p} my name is [fn] [ln].」"
     # [旧版翻译] 来源: 深_m_01.ks
-    fn "「午安。[fn]是深君的朋友[西村][fn]。」"
+    fn "「午安。[fn]是深君的朋友[fn][fn]。」"
 
 # game/day 2.rpy:268
 translate chinese_simplified shin02_6befac40:
 
     # who "「[ln]?{p} Oh! Please wait a moment...」"
     # [旧版翻译] 来源: 深_m_01.ks
-    who "「[西村]？啊啊！请稍等一下。」"
+    who "「[fn]？啊啊！请稍等一下。」"
 
 # game/day 2.rpy:269
 translate chinese_simplified shin02_0fd4d656:
@@ -975,7 +978,7 @@ translate chinese_simplified shin02_325cc4cb:
 
     # "Already I've done:{p}Impudent Childhood Friend{w} →Had Terrible Manners{p}→Been Narrow-minded Until I Saw His Face"
     # [旧版翻译] 来源: 深_m_01.ks
-    "该不会，厚脸皮的幼驯染[l]→超级不懂礼貌[l]→心胸狭隘从脸就看得出来"
+    "该不会，厚脸皮的幼驯染{p}→超级不懂礼貌{p}→心胸狭隘从脸就看得出来"
 
 # game/day 2.rpy:396
 translate chinese_simplified shin02_d5858db6:
@@ -996,7 +999,7 @@ translate chinese_simplified shin02_5d2c74d7:
 
     # si "「Really?{p} {nw}"
     # [旧版翻译] 来源: 深_m_01.ks
-    si "「是吗？[bgm stop=1500] "
+    si "「是吗？"
 
 # game/day 2.rpy:403
 translate chinese_simplified shin02_abd2b1d2:
@@ -2262,8 +2265,8 @@ translate chinese_simplified kounosuke02_88fbcca9:
 translate chinese_simplified kounosuke02_f5dd4c90:
 
     # extend "{w=2.5}{nw}"
-    # [旧版翻译]
-    extend ""
+    # [旧版翻译] 来源: 孝之助_s_02.ks
+    extend "{w=2.5}{nw}"
 
 # game/day 2.rpy:800
 translate chinese_simplified kounosuke02_8f011a99:
@@ -2402,8 +2405,8 @@ translate chinese_simplified kounosuke02_318c9e21:
 translate chinese_simplified kounosuke02_f5dd4c90_1:
 
     # extend "{w=2.5}{nw}"
-    # [旧版翻译]
-    extend ""
+    # [旧版翻译] 来源: 孝之助_s_02.ks
+    extend "{w=2.5}{nw}"
 
 # game/day 2.rpy:836
 translate chinese_simplified kounosuke02_8f011a99_1:
@@ -3019,7 +3022,7 @@ translate chinese_simplified river02_dfccaf2d:
 
     # su "「Th-that's true!{w} I do remember something but...\n the reason why we're so close{cps=10}...\n {nw}"
     # [旧版翻译] 来源: 2日目.ks
-    su "「是啊ー。虽然是很常聊天没错啦，但要说到特别要好的话[wdt][wdm]――[rd]"
+    su "「是啊ー。虽然是很常聊天没错啦，但要说到特别要好的话{w=.3}[wdm]――[rd]"
 
 # game/day 2.rpy:1026
 translate chinese_simplified river02_ed28882b:
@@ -3277,139 +3280,162 @@ translate chinese_simplified river02_582b59e3:
 translate chinese_simplified river02_can_remember_3671bc73:
 
     # fn "「Oh, I remember!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 455)
+    fn "「啊，[fn]想起来了！」"
 
 # game/day 2.rpy:1103
 translate chinese_simplified river02_can_remember_4b503c48:
 
     # "My voice came out of me with great force.{p}and Kouya and Shun both sat up to look at me."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 467-468)
+    "在这么说的同时，[fn]用力挺起上半身。{p}洸哉和峻看到后，也紧跟着坐起身来。"
 
 # game/day 2.rpy:1104
 translate chinese_simplified river02_can_remember_f976edb7:
 
     # ka "「And by 'Oh, I remember,' you mean 'Oh, I forgot.'」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 471)
+    ka "「你说『想起来了』，{p}也就是说果然还是忘了吧？」"
 
 # game/day 2.rpy:1105
 translate chinese_simplified river02_can_remember_2c62b003:
 
     # "Kouya emulates the tone of my voice mockingly."
-    ""
+    # [原版扩写] 来源: extract/orig/洸哉_s_01.ks (KS 470-471)
+    "洸哉模仿着[fn]的口吻嘲弄道。"
 
 # game/day 2.rpy:1109
 translate chinese_simplified river02_can_remember_b66b1c70:
 
     # su "「Uuu, it's sad that you forgot...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 477)
+    su "「唔，忘掉了的话还真的有点让人失望……」"
 
 # game/day 2.rpy:1110
 translate chinese_simplified river02_can_remember_65c4ba07:
 
     # fn "「Err, I remember it! Don't be so harsh, guys...」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 480)
+    fn "「……只是要想一下而已，不要把[fn]想得这么糟嘛。」"
 
 # game/day 2.rpy:1111
 translate chinese_simplified river02_can_remember_4b9be378:
 
     # "Didn't those two only just remember it?{p}They forgot about it too!"
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 482-484)
+    "要这么说的话，直到刚刚那两人自己也忘了不是吗？{p}明明他们也忘了不是吗！"
 
 # game/day 2.rpy:1112
 translate chinese_simplified river02_can_remember_31135255:
 
     # "I thought about it, but I didn't say anything.\nAt least I'm a bit mature about it..."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 483-484)
+    "虽然是这么想的，但是[fn]却没有说出来。\n[fn]还真是个大人呢……"
 
 # game/day 2.rpy:1116
 translate chinese_simplified river02_can_remember_682efef6:
 
     # ka "「Yeah, yeah, whatever. You still hurt my feelings.{p} It was a really important moment for me,{p} but for you, it was probably just Tuesday.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 488-490)
+    ka "「就算你这么说，还是会觉得挺受伤的啊。{p}这对我们来说可是个非常重要的回忆，{p}对[fn]来说却只是个忘了也没关系的事吗。」"
 
 # game/day 2.rpy:1117
 translate chinese_simplified river02_can_remember_ffb51bf1:
 
     # su "「What a shock...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 493)
+    su "「有点震惊说……」"
 
 # game/day 2.rpy:1118
 translate chinese_simplified river02_can_remember_ba72064d:
 
     # "Urrgh, it feels like I'm being bullied..."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 495)
+    "咦，[fn]现在是不是正在被欺负啊？"
 
 # game/day 2.rpy:1122
 translate chinese_simplified river02_can_remember_e194d7d4:
 
     # ka "「Well, like [fn] said,{p} we should give him some slack for just remembering.{p} Although I'd be pissed if he actually forgot.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 498-501)
+    ka "「不过啊，就跟[fn]说的一样，{p}能想起来就算是很好了啦。{p}要是真的忘了的话那就真的很伤人了。」"
 
 # game/day 2.rpy:1126
 translate chinese_simplified river02_can_remember_70154876:
 
     # su "「That's true. I think so too!」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 507)
+    su "「确实是那样呢。可以那样说没错。」"
 
 # game/day 2.rpy:1127
 translate chinese_simplified river02_can_remember_0cb80467:
 
     # fn "「{cps=10}. . .」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 510)
+    fn "「{cps=10}……」"
 
 # game/day 2.rpy:1128
 translate chinese_simplified river02_can_remember_c4c09d1b:
 
     # "I guess it's okay...{w} It seems like\nthe two of them are just teasing me."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 512-515)
+    "[fn]知道他们只是在开玩笑，所以就算了。{w}那两人一定没有说真心话，绝对没错。"
 
 # game/day 2.rpy:1129
 translate chinese_simplified river02_can_remember_b52e3dbe:
 
     # "They're not taking it seriously,{p}that much I can understand."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 514-515)
+    "那两人一定没有说真心话，绝对没错。{p}这绝对不是[fn]的妄想，肯定的。"
 
 # game/day 2.rpy:1130
 translate chinese_simplified river02_can_remember_3f81f708:
 
     # "But damn, if they're so happy I remembered,{p}they could just say so.{p}Damn you guys, shrinking violets..."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 517-519)
+    "真是的，因为[fn]想起来而觉得高兴的话，{p}那么直接说不就好了嘛。{p}这两个害羞的家伙！"
 
 # game/day 2.rpy:1134
 translate chinese_simplified river02_can_remember_aebbd08f:
 
     # ka "「What's up, bro? Thinking about something?」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 523)
+    ka "「你现在是不是在想什么奇怪的事啊？」"
 
 # game/day 2.rpy:1135
 translate chinese_simplified river02_can_remember_3e3ca77b:
 
     # fn "「Eh!? N-no! That's not true at all!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 526)
+    fn "「欸！？{w}才、{w=.3}才没有，{w=.3}没有这回事喔。」"
 
 # game/day 2.rpy:1139
 translate chinese_simplified river02_can_remember_1cac4b59:
 
     # ka "「...Whatever floats your boat, man.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 530)
+    ka "「……是吗，那样最好。」"
 
 # game/day 2.rpy:1140
 translate chinese_simplified river02_can_remember_a36d5f37:
 
     # "For some reason, Kouya's annoyingly sharp today.{p}If I think about things too carelessly,{p}I might accidentally let it slip out."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 532-534)
+    "总觉得今天的洸哉好像特别敏锐，{p}有种不小心跑去想些奇奇怪怪的事的话，{p}就会马上被发现的预感……"
 
 # game/day 2.rpy:1141
 translate chinese_simplified river02_can_remember_e65fd4ad:
 
     # "Kouya... you're mean."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 536)
+    "洸哉……真是可怕的家伙！"
 
 # game/day 2.rpy:1145
 translate chinese_simplified river02_can_remember_640af7fa:
 
     # su "「Even so, that time was really surprising!」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 540)
+    su "「虽说如此，那时候真的很吓人呢ー」"
 
 # game/day 2.rpy:1146
 translate chinese_simplified river02_can_remember_2ce52e3d:
@@ -3429,575 +3455,575 @@ translate chinese_simplified river02_can_remember_b9bceeb0:
 translate chinese_simplified river02_can_remember_2df25cfd:
 
     # "All right, it's time to focus,{p}and to see if I can really recall it!"
-    # [旧版翻译]
-    "想什么『那个时候？』嘛。[fn]是怎么了啊？该不会已经被天气给弄到热昏头了吧？振作一点啊，[fn]！呼，还是认真点开始回想吧。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 542-546)
+    "那时候？{p}——啊啊，是在说峻被河水冲走的事吧。{p}对喔，现在在讨论的这个话题。"
 
 # game/day 2.rpy:1149
 translate chinese_simplified river02_can_remember_e82214ca:
 
     # "Now, {cps=10}that was..."
-    # [旧版翻译]
-    "没错，[wds]那个时候确实是――[rd]"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 554)
+    "没错，{cps=10}那个时候确实是——"
 
 # game/day 2.rpy:1167
 translate chinese_simplified river02_cannot_remember_15d4679f:
 
     # fn "「Sorry, I can't remember...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 576)
     fn "「抱歉，有点想不起来了……」"
 
 # game/day 2.rpy:1171
 translate chinese_simplified river02_cannot_remember_d097b411:
 
     # su "「But, nooo...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 582)
     su "「唔，怎么这样……」"
 
 # game/day 2.rpy:1172
 translate chinese_simplified river02_cannot_remember_4630d90b:
 
     # "Shun-kun was disappointed, and I could see."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 584)
     "峻散发着失望的气场。"
 
 # game/day 2.rpy:1173
 translate chinese_simplified river02_cannot_remember_525146df:
 
     # "Pangs of heartbreak assail me\n as I see that expression of his."
-    # [旧版翻译]
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 586)
     "唔，这个表情看得[fn]胸口一阵一阵抽痛。"
 
 # game/day 2.rpy:1174
 translate chinese_simplified river02_cannot_remember_1cfccfb5:
 
     # fn "「Eh, ah...」"
-    # [旧版翻译]
-    fn "「唔ー嗯－」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 589)
+    fn "「唔——嗯——」"
 
 # game/day 2.rpy:1175
 translate chinese_simplified river02_cannot_remember_9d435786:
 
     # "I'll try to remember that time again..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 591)
     "脑中再一次全速搜寻着关于那时候的记忆。"
 
 # game/day 2.rpy:1176
 translate chinese_simplified river02_cannot_remember_f78331a6:
 
     # fn "「Uh, um...」"
-    # [旧版翻译]
-    fn "「唔ー啊ー」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 594)
+    fn "「唔——啊——」"
 
 # game/day 2.rpy:1177
 translate chinese_simplified river02_cannot_remember_b2120439:
 
     # "I don't think I've ever tried so hard...{p}tor remember something before..."
-    # [旧版翻译]
-    "至今为止有这么努力地去回想某件事情过吗？"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 596-598)
+    "至今为止有这么努力地去回想某件事情过吗？{p}不，没有。多半以后也不会有。"
 
 # game/day 2.rpy:1178
 translate chinese_simplified river02_cannot_remember_e60df791:
 
     # "Wait, no. And maybe not even after this.{p}But still, I can't really recall the situation."
-    # [旧版翻译]
-    "不，没有。多半以后也不会有。即使如此还是想不太起来。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 599-600)
+    "不，没有。{p}多半以后也不会有。{p}即使如此还是想不太起来。"
 
 # game/day 2.rpy:1179
 translate chinese_simplified river02_cannot_remember_44536e43:
 
     # fn "「Ooohhh...!」"
-    # [旧版翻译]
-    fn "「喔喔喔喔――」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 603)
+    fn "「喔喔喔喔——」"
 
 # game/day 2.rpy:1180
 translate chinese_simplified river02_cannot_remember_67be3a44:
 
     # "I've come to the conclusion\nthat I really can't remember."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 605)
     "结论，[fn]还是想不起来。"
 
 # game/day 2.rpy:1181
 translate chinese_simplified river02_cannot_remember_166b0248:
 
     # fn "「...Sorry, I can't remember it after all.」"
-    # [旧版翻译]
-    fn "「――抱歉，果然还是想不起来。」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 608)
+    fn "「——抱歉，果然还是想不起来。」"
 
 # game/day 2.rpy:1182
 translate chinese_simplified river02_cannot_remember_ab822f72:
 
     # "I try to speak with an innocent smile in my face."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 612)
     "我试着用爽朗的笑容这么说道。"
 
 # game/day 2.rpy:1186
 translate chinese_simplified river02_cannot_remember_587d5458:
 
     # ka "「...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 619)
     ka "「……」"
 
 # game/day 2.rpy:1187
 translate chinese_simplified river02_cannot_remember_8bd97340:
 
     # su "「...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 622)
     su "「……」"
 
 # game/day 2.rpy:1188
 translate chinese_simplified river02_cannot_remember_8a3eb412:
 
     # "Oh, I can't get this past them, can I?"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 624)
     "啊，似乎没办法这样糊弄过去？"
 
 # game/day 2.rpy:1189
 translate chinese_simplified river02_cannot_remember_678ffee1:
 
     # fn "「Well, hahahaha... cut me some slack, guys...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 627)
     fn "「那、那个啊，哈哈哈……真的很抱歉。」"
 
 # game/day 2.rpy:1193
 translate chinese_simplified river02_cannot_remember_82ec1a8f:
 
     # ka "「Welp, can't be helped I guess...{p} Sucks that you can't remember, though.{p} You haven't been around for a while, anyway.」"
-    # [旧版翻译]
-    ka "「哎，这也是没办法的吧。确实忘掉了实在很可惜，不过[fn]，你也有很长的时间不在这里了啊。」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 633-634)
+    ka "「哎，这也是没办法的吧。确实忘掉了实在很可惜，{p}不过[fn]，你也有很长的时间不在这里了啊。」"
 
 # game/day 2.rpy:1197
 translate chinese_simplified river02_cannot_remember_2f0aca6d:
 
     # fn "「Thanks for understanding{p} Maybe I could remember, if I had a more...{p} Specific hint to go off...」"
-    # [旧版翻译]
-    fn "「嗯，你能这么说真的是太好了。可是，给[fn]稍微详细一点的提示的话，说不定就可以想起来了……」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 639-641)
+    fn "「嗯，你能这么说真的是太好了。{p}可是，给[fn]稍微详细一点的提示的话，{p}说不定就可以想起来了……」"
 
 # game/day 2.rpy:1198
 translate chinese_simplified river02_cannot_remember_2b5ad545:
 
     # "I mean, Shun-kun got pulled away right?{p}I mean, come on. It's not that easy to forget\nsomething like that, is it? He almost drowned.」"
-    # [旧版翻译]
-    "那可是峻被河水冲走的事情耶？怎么可以这么简单就忘掉了。哎，虽然实际上我真的忘了……。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 643-645)
+    "那可是峻被河水冲走的事情耶？{p}怎么可以这么简单就忘掉了。{p}哎，虽然实际上我真的忘了……"
 
 # game/day 2.rpy:1200
 translate chinese_simplified river02_cannot_remember_0fcfb13a:
 
     # "But...{w=.3} no...{w=.3} I still forgot about it...{p}I should be able to remember."
-    # [旧版翻译]
-    "……总之！如果[fn]知道些那时候发生了什么事的话，一定可以想起来的。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 647-648)
+    "……总之！{w=.3}如果[fn]知道些那时候发生了什么事的话，{p}一定可以想起来的。"
 
 # game/day 2.rpy:1204
 translate chinese_simplified river02_cannot_remember_49e83682:
 
     # su "「That's true, I said it earlier, but...{p} I was about four or five. Everyone else was...」"
-    # [旧版翻译]
-    su "「说的也是ー。刚刚也说过了，那是我四五岁时候的事。其他的ー……」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 652-653)
+    su "「说的也是——。刚刚也说过了，{p}那是我四五岁时候的事。其他的——……」"
 
 # game/day 2.rpy:1205
 translate chinese_simplified river02_cannot_remember_41573162:
 
     # "Shun-kun let's out a puzzled 'hmm'\nas he tried to recall it as well."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 655)
     "嗯，峻正在拼命地回忆当时的状况。"
 
 # game/day 2.rpy:1206
 translate chinese_simplified river02_cannot_remember_01b3e3b3:
 
     # "But he was really young when it happened.{p}I'd be surprised if he could remember it clearly.{p}Or at all, for that matter."
-    # [旧版翻译]
-    "可那是４～５岁时的记忆了。已经有点久远的事情，[fn]不认为可以这么轻易的就回想起来。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 657-659)
+    "可那是4——5岁时的记忆了。{p}已经有点久远的事情，{p}[fn]不认为可以这么轻易的就回想起来。"
 
 # game/day 2.rpy:1207
 translate chinese_simplified river02_cannot_remember_053cbaa2:
 
     # su "「It was... around there!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 662)
     su "「到底是什么呢……」"
 
 # game/day 2.rpy:1211
 translate chinese_simplified river02_cannot_remember_8d1a714b:
 
     # ka "「It was on a day that was hot like this.{p} Then, that's right... During last year's festival.{p} Torahiko was panicking about a ghost or something...」"
-    # [旧版翻译]
-    ka "「那个时候也是有着跟今天差不多热度。之后－，哦，对了。确实是在那年的夏祭，虎彦说看到幽灵，引起了很大的骚动的样子。」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 666-668)
+    ka "「那个时候也是有着跟今天差不多热度。{p}之后——，哦，对了。确实是在那年的夏祭，{p}虎彦说看到幽灵，引起了很大的骚动的样子。」"
 
 # game/day 2.rpy:1212
 translate chinese_simplified river02_cannot_remember_3a22483e:
 
     # fn "「Torahiko?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 671)
     fn "「虎彦吗？」"
 
 # game/day 2.rpy:1213
 translate chinese_simplified river02_cannot_remember_0f606c14:
 
     # "Torahiko. Ghost."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 673)
     "『虎彦』、『幽灵』。"
 
 # game/day 2.rpy:1214
 translate chinese_simplified river02_cannot_remember_3b683999:
 
     # "Hmm. Maybe, that could be a keyword..."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 675)
     "唔嗯，总觉得，这关键字好像有点耳熟……。"
 
 # game/day 2.rpy:1215
 translate chinese_simplified river02_cannot_remember_03312393:
 
     # "No... It would be of no use.{p}Who knows how many situations could involve\nTorahiko and ghosts.{w} It could just..."
-    # [旧版翻译]
-    "啊不，这关键字太过耳熟了，虽然不知道是何时的发生的――"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 677-679)
+    "不，{p}这关键字太过耳熟了，{p}虽然不知道是何时发生的——"
 
 # game/day 2.rpy:1216
 translate chinese_simplified river02_cannot_remember_24c3cdd0:
 
     # fn "「...Oh.」"
-    # [旧版翻译]
-    fn "「――啊」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 682)
+    fn "「——啊」"
 
 # game/day 2.rpy:1220
 translate chinese_simplified river02_cannot_remember_cd3da4d4:
 
     # ka "「Did you remember?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 686)
     ka "「想起来了吗？」"
 
 # game/day 2.rpy:1221
 translate chinese_simplified river02_cannot_remember_8d7b63fb:
 
     # fn "「...Yeah...{w=.3} Sorta.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 689)
     fn "「……嗯，一点点。」"
 
 # game/day 2.rpy:1222
 translate chinese_simplified river02_cannot_remember_da6af113:
 
     # "You never know what can stir up a memory,{p}especially in these times. Right?"
-    # [旧版翻译]
-    "在这世上你永远不会知道，什么事情会成为让回忆涌现的契机。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 691-692)
+    "在这世上你永远不会知道，{p}什么事情会成为让回忆涌现的契机。"
 
 # game/day 2.rpy:1223
 translate chinese_simplified river02_cannot_remember_28462724:
 
     # "Yeah... it was..."
-    # [旧版翻译]
-    "是的、[wds]那个时候确实是――[rd]"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 694)
+    "是的，{w=.3}那个时候确实是——"
 
 # game/day 2.rpy:1232
 translate chinese_simplified river02_story_time_31755c59:
 
     # fn "「Oh, is it time for a rescue story?{p} Like, you know, the one with the river god.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 704)
     fn "「啊，是那个最后被河神帮助的事情对吧？」"
 
 # game/day 2.rpy:1243
 translate chinese_simplified river02_story_time_b7bb57df:
 
     # "Right, I'm sure it's that story.{p}I'm definitely sure about it."
-    # [旧版翻译]
-    "对对，确实是这样。那个时候真的是吓了[fn]一跳呢。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 714-715)
+    "对对，确实是这样。{p}那个时候真的吓了[fn]一跳呢。"
 
 # game/day 2.rpy:1247
 translate chinese_simplified river02_story_time_d9b1d33d:
 
     # ka "「...?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 719)
     ka "「……？」"
 
 # game/day 2.rpy:1251
 translate chinese_simplified river02_story_time_05011310:
 
     # su "「...?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 723)
     su "「……？」"
 
 # game/day 2.rpy:1255
 translate chinese_simplified river02_story_time_a87f6003:
 
     # "Hey, I can see a question mark over their heads.{p}Huh, did I really say something that weird?"
-    # [旧版翻译]
-    "咦，两人头上浮现出了问号？咦咦，是[fn]说了什么奇怪的话吗？"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 728-729)
+    "咦，两人头上浮现出了问号？{p}咦咦，是[fn]说了什么奇怪的话吗？"
 
 # game/day 2.rpy:1259
 translate chinese_simplified river02_story_time_eb499f6f:
 
     # ka "「[fn]... not to sound rude...{p} but what the hell are you talking about?」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 733)
     ka "「[fn]……那个，你在说什么？」"
 
 # game/day 2.rpy:1260
 translate chinese_simplified river02_story_time_3c2f77c9:
 
     # "What the hell did I blurt out!?{p}No, wait, calm down, there's no way that could be it!{p}Chill out, [fn] [ln]!"
-    # [旧版翻译]
-    "难道[fn]不小心讲出口了吗ー！？不行不行冷静点啊，这种事情应该是不可能的啊！要冷静下来啊，[西村][fn]！"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 735-737)
+    "难道[fn]不小心讲出口了吗！？{p}不行不行冷静点啊，这种事情应该是不可能的啊！{p}要冷静下来啊，[fn][ln]！"
 
 # game/day 2.rpy:1261
 translate chinese_simplified river02_story_time_4889e359:
 
     # fn "「What? No, I mean, isn't it the story,{p} where Shun-kun almost got swept away by the river...」"
-    # [旧版翻译]
-    fn "「欸？啊不，就是说，现在是在讲峻跌入河里溺水的时候，龙形的河神大人把峻给救上来的事对吧？」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 740-742)
+    fn "「欸？{w}啊不，{w=.3}就是说，{w=.3}现在是在讲{p}峻跌入河里溺水的时候，龙形的河神大人{p}把峻给救上来的事对吧？」"
 
 # game/day 2.rpy:1262
 translate chinese_simplified river02_story_time_cf6a3093:
 
     # fn "「And then we saw a dragon-like river god\n save him when he went under the water...」"
-    # [旧版翻译]
-    fn "「欸？啊不，就是说，现在是在讲峻跌入河里溺水的时候，龙形的河神大人把峻给救上来的事对吧？」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 744-746)
+    fn "然后接下来峻呢，就和父母一起到了奇怪的世界，{p}陷入了重大的危机，{p}最后在周遭的人的帮助下终于回来了不是吗。"
 
 # game/day 2.rpy:1263
 translate chinese_simplified river02_story_time_ceab4f87:
 
     # "And then after that, he got lost\nwith his parents in a strange world."
-    # [旧版翻译]
-    "然后接下来峻呢，就和父母一起到了奇怪的世界，陷入了重大的危机，"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 748-749)
+    "对了对了，在那个世界里，还和河神大人{p}在最后来了个感动的再会呢。"
 
 # game/day 2.rpy:1264
 translate chinese_simplified river02_story_time_9f468420:
 
     # "But then, he fell into some trap,{p}and got caught in this huge crisis."
-    # [旧版翻译]
-    "然后在周遭的人的帮助下终于回来了不是吗。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 751-752)
+    "没错，在[fn]的记忆中确实是这样的。{p}可是，洸哉和峻却用一脸讶异的表情看着[fn]。"
 
 # game/day 2.rpy:1265
 translate chinese_simplified river02_story_time_6b0952a8:
 
     # "Eventually, though, he got out,{p}because everyone came together to help pull him out."
-    # [旧版翻译]
-    "对了对了，在那个世界里，还和河神大人在最后来了个感动的再会呢。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 751-752)
+    "没错，在[fn]的记忆中确实是这样的。{p}但洸哉和峻却用一脸不可思议的表情看着[fn]。"
 
 # game/day 2.rpy:1266
 translate chinese_simplified river02_story_time_7f8afc70:
 
     # "Yes, I'm sure that happened!{p}But Kouya and Shun-kun...{p}are making really puzzled faces at me."
-    # [旧版翻译]
-    "没错，在[fn]的记忆中确实是这样的。可是，洸哉和峻却用一脸讶异的表情看着[fn]。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 751-752)
+    "没错，在[fn]的记忆中确实是这样的。{p}可是洸哉和峻却用一脸讶异的表情看着[fn]。"
 
 # game/day 2.rpy:1267
 translate chinese_simplified river02_story_time_a39f6b75:
 
     # fn "「Huh, did I say something weird again?{p} Uh... was I wrong...?」"
-    # [旧版翻译]
-    fn "「咦、[fn]说了什么奇怪的话吗？呃，不对吗……？」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 755-756)
+    fn "「咦，[fn]说了什么奇怪的话吗？{p}呃，{w=.3}不对吗……？」"
 
 # game/day 2.rpy:1271
 translate chinese_simplified river02_story_time_4e3f9e89:
 
     # ka "「[fn]...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 760)
     ka "「[fn]……」"
 
 # game/day 2.rpy:1275
 translate chinese_simplified river02_story_time_8f5ac8a2:
 
     # su "「[fn]-san...」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 764)
     su "「[fn]……」"
 
 # game/day 2.rpy:1276
 translate chinese_simplified river02_story_time_1c1f25f3:
 
     # "They look at me like I'm something pitiful."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 766)
     "啊啊，那种充满了怜悯的眼神！"
 
 # game/day 2.rpy:1277
 translate chinese_simplified river02_story_time_c268f881:
 
     # fn "「W-what?{w} What's up with you guys, seriously...{p} S-stop looking at me like that!{p} {nw}"
-    # [旧版翻译]
-    fn "「怎、怎么了？你们两个人怎么……。别、别这样啦。[qxv][se freeze04]别用那种眼神看[fn]啦！」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 771-772)
+    fn "「怎、{w=.3}怎么了？{w}你们两个人怎么……。{p}别、{w=.3}别这样啦。{p}别用那种眼神看[fn]啦！」{nw}"
 
 # game/day 2.rpy:1280
 translate chinese_simplified river02_story_time_a29088b3:
 
     # extend "Seriously, cut it out, guys!」"
-    # [旧版翻译]
-    extend "别用那种眼神看[fn]啦！」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 772)
+    extend "真的，别这样啦！"
 
 # game/day 2.rpy:1285
 translate chinese_simplified river02_story_time_cdcef35a:
 
     # ka "「...That time was a big surprise, Shun.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 780)
     ka "「……不过，那时候真的很惊险呢，峻。」"
 
 # game/day 2.rpy:1289
 translate chinese_simplified river02_story_time_660ca966:
 
     # su "「...It really was.{p} I was wondering what was going to happen to me,{p} and I got really scared, and I felt hopeless.」"
-    # [旧版翻译]
-    su "「……就是说啊――不知道自己会变成怎样，太害怕了结果什么都做不了的说――」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 784-786)
+    su "「……就是说啊——{p}不知道自己会变成怎样，{p}太害怕了结果什么都做不了的说——」"
 
 # game/day 2.rpy:1290
 translate chinese_simplified river02_story_time_5d62c2e4:
 
     # "What? Are they talking about something\nthat happened when I wasn't even around?"
-    # [旧版翻译]
-    "呃？彷彿从一开始[fn]就不存在一样地自己开始聊起来了？这样不会很奇怪吗？BGM也是什么时候变回来的？"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 788-790)
+    "呃？仿佛从一开始[fn]就不存在一样地{p}自己开始聊起来了？{p}这样不会很奇怪吗？BGM也是什么时候变回来的？"
 
 # game/day 2.rpy:1291
 translate chinese_simplified river02_story_time_46d16d4e:
 
     # "Isn't that funny?{p}And the BGM came back before I realized too."
-    # [旧版翻译]
-    "这算什么，唔，等等啊……。好可怕……好可怕的疏离感！这就是被欺负的小孩的感觉！？"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 792-794)
+    "这算什么，{w=.3}唔，{w=.3}等等啊……。{p}好可怕……{w=.3}好可怕的疏离感！{p}这就是被欺负的小孩的感觉吗！？"
 
 # game/day 2.rpy:1293
 translate chinese_simplified river02_story_time_87a8b682:
 
     # "What is this? Hey, wait...{p}Awful, awful alienation!{p}Is this what it feels like to be bullied!?"
-    # [旧版翻译]
-    "这算什么，唔，等等啊……。好可怕……好可怕的疏离感！这就是被欺负的小孩的感觉！？"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 796-798)
+    "啧，{w=.3}他们要那么做的话，那就算被说是闹别扭，{p}[fn]也要回到对话里给他们看。{p}而且要自然地！"
 
 # game/day 2.rpy:1294
 translate chinese_simplified river02_story_time_aa061b7f:
 
     # "Tch, if that's how it is, then...{p}I'll get back at you with a comeback!{p}And it'll be smooth!"
-    # [旧版翻译]
-    "啧，他们要那么做的话，那就算被说是闹别扭，[fn]也要回到对话里给他们看。而且要自然地！"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 796-798)
+    "啧，{w=.3}他们要那么做的话，那就算被说是闹别扭，{p}[fn]也要回到对话里给他们看。{p}而且要自然地！"
 
 # game/day 2.rpy:1295
 translate chinese_simplified river02_story_time_f6eca6f8:
 
     # "I'll search for that memory with all my body and soul.{p}I'll definitely be able to find it. That one memory!"
-    # [旧版翻译]
-    "[fn]全心全意地将搜索之手伸向大脑内部的抽屉。不管如何，[fn]一定要找出来。那份记忆啊！"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 800-801)
+    "[fn]全心全意地将搜索之手伸向大脑内部的抽屉。{p}不管如何，[fn]一定要找出来。那份记忆！"
 
 # game/day 2.rpy:1301
 translate chinese_simplified river02_story_time_7fe09321:
 
     # fn "「{size=+15}{cps=5}Oooooooaaaaaagh」!{nw}"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 809)
     fn "{size=+15}{cps=5}「呜喔喔喔喔喔！」{nw}"
 
 # game/day 2.rpy:1304
 translate chinese_simplified river02_story_time_8e82cba1:
 
     # "The signals run through my brain.{p}Like a computer,{w} I make a frantic search\nthrough the database of my mind."
-    # [旧版翻译]
-    "来回奔驰的电子信号。迸发而出的脑内啡。不断鼓动的太阳穴。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 811-813)
+    "来回奔驰的电子信号。{p}迸发而出的脑内啡。{p}不断鼓动的太阳穴。"
 
 # game/day 2.rpy:1305
 translate chinese_simplified river02_story_time_ac2b5e0e:
 
     # "Now, with all my power... {cps=10}raaagh!"
-    # [旧版翻译]
-    "现在，用[fn]的全力将那份记忆[wdm]喔喔喔喔！[rd]"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 815)
+    "现在，用[fn]的全力将那份记忆{cps=10}喔喔喔喔！"
 
 # game/day 2.rpy:1306
 translate chinese_simplified river02_story_time_2530e6b4:
 
     # fn "「{cps=10}...{nw}"
-    # [旧版翻译]
-    fn "「[wds]――[SE play=freeze07][randomse_stop]！[rd]"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 818)
+    fn "{cps=10}——{nw}"
 
 # game/day 2.rpy:1309
 translate chinese_simplified river02_story_time_a551c693:
 
     # extend "!」"
-    # [旧版翻译]
-    extend "！[rd]"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 818)
+    extend "！"
 
 # game/day 2.rpy:1313
 translate chinese_simplified river02_story_time_cff84561:
 
     # "I see! I see it!{p}It was in the 53rd cycle!"
-    # [旧版翻译]
-    "找到了！[fn]找到了！它就放在第五十三号抽屉里面！"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 821-822)
+    "找到了！[fn]找到了！{p}它就放在第五十三号抽屉里面！"
 
 # game/day 2.rpy:1314
 translate chinese_simplified river02_story_time_4742c9d0:
 
     # fn "「That time really was a huge shock.」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 825)
     fn "「真的，那时候吓了好大一跳呢」"
 
 # game/day 2.rpy:1315
 translate chinese_simplified river02_story_time_aa146bc3:
 
     # "All right, I've got it now, right!?{p}If I get on this current,{p}I can get back into the conversation."
-    # [旧版翻译]
-    "好，这样插话应该没问题吧！？能这样顺势前进的话，就可以回到话题中了。"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 827-828)
+    "好，这样插话应该没问题吧！？{p}能这样顺势前进的话，就可以回到话题中了。"
 
 # game/day 2.rpy:1316
 translate chinese_simplified river02_story_time_daf49a36:
 
     # "Okay, [fn]. Don't screw this up again."
-    # [旧版翻译]
-    "这样[fn]的（虽然[fn]自己也不太确定）失言也就跟没有一样了！"
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 830-831)
+    "这样[fn]的（虽然[fn]自己也不太确定）{p}失言也就跟没有一样了！"
 
 # game/day 2.rpy:1317
 translate chinese_simplified river02_story_time_5de1b0aa:
 
     # "...Still, it really was a shock. That time was..."
-    # [旧版翻译]
-    "――但，那时候真的被吓了好大一跳。[wds]那个时候――[rd]"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 833)
+    "——但，那时候真的被吓了好大一跳。{w=.3}那个时候——"
 
 # game/day 2.rpy:1330
 translate chinese_simplified river02_memory_005cbad5:
 
     # "On that day, it was as hot as it was today."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 856)
     "那天，也是跟今天一样的炎热。"
 
 # game/day 2.rpy:1331
 translate chinese_simplified river02_memory_dfd825c8:
 
     # to "「Let's all go play in the river!」"
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 859)
     to "「我们大家一起去河边玩吧！」"
 
 # game/day 2.rpy:1332
 translate chinese_simplified river02_memory_5e70b02a:
 
     # "Just like that, Torahiko made the suggestion."
-    # [旧版翻译]
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 861)
     "就这样，虎彦提出了去玩水的建议。"
 
 # game/day 2.rpy:1333
 translate chinese_simplified river02_memory_2295df60:
 
     # "It was sudden,{p}but as it was so hot, everyone agreed.{p}That way we could play and cool down a bit."
-    # [旧版翻译]
-    "虽然非常地突然，但是的确太热了，所以大家都同意了这个很棒的建议。[fn]们可以边玩水边消暑。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 863-865)
+    "虽然非常地突然，{p}但是的确太热了，所以大家都同意了这个很棒的建议。{p}[fn]们可以边玩水边消暑。"
 
 # game/day 2.rpy:1334
 translate chinese_simplified river02_memory_d10788e2:
 
     # "Everyone went back to their homes,{p}got their swimsuits, and came back."
-    # [旧版翻译]
-    "每个人都先回家了一趟，准备好泳装，然后再度地回到这里。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 867-868)
+    "每个人都先回家了一趟，{p}准备好泳装，然后再度地回到这里。"
 
 # game/day 2.rpy:1335
 translate chinese_simplified river02_memory_2b6beb88:
 
     # "After that, we faced the river,{p}and we all raced to be the first one to jump in."
-    # [旧版翻译]
-    "之后，彷佛比赛似地冲向河边，抢着跳进水里。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 870-871)
+    "之后，仿佛比赛似地冲向河边，{p}抢着跳进水里。"
 
 # game/day 2.rpy:1342
 translate chinese_simplified river02_memory_254d08f8:
 
     # who "「Oh, this feels great!」"
-    # [旧版翻译]
-    who "「呜哦ー，好舒服啊ー！」"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 877)
+    who "「呜哦——，好舒服啊——！」"
 
 # game/day 2.rpy:1343
 translate chinese_simplified river02_memory_ef996dac:
 
     # "That's what the one who got in first said.{p}All of us behind him, me included, picked up the pace,{p}and hurried into the water."
-    # [旧版翻译]
-    "这是第一个跳进去地家伙说的。[fn]们所有人包括[fn]自己也加快了脚步，争先恐后地纵身跳入水中。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 879-881)
+    "这是第一个跳进去的家伙说的。{p}[fn]们所有人包括[fn]自己也加快了脚步，{p}争先恐后地纵身跳入水中。"
 
 # game/day 2.rpy:1344
 translate chinese_simplified river02_memory_49c50a52:
 
     # "All at once the pleasantly cool feeling,{p}wrapped up around us.{p}It felt amazingly good."
-    # [旧版翻译]
-    "凉意瞬间包覆了整个身体。真的非常地舒服。"
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 883-884)
+    "凉意瞬间包覆了整个身体。{p}真的非常地舒服。"
 
 # game/day 2.rpy:1345
 translate chinese_simplified river02_memory_e5b5d2c5:
@@ -4535,973 +4561,1135 @@ translate chinese_simplified river02_memory_2d7a5e9d:
 translate chinese_simplified river02_can_remember_2df25cfd:
 
     # "All right, it's time to focus,{p}and to see if I can really recall it!"
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 542-546)
+    "那时候？{p}——啊啊，是在说峻被河水冲走的事吧。{p}对喔，现在在讨论的这个话题。"
 
 # game/day 2.rpy:1149
 translate chinese_simplified river02_can_remember_e82214ca:
 
     # "Now, {cps=10}that was..."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 554)
+    "没错，{cps=10}那个时候确实是——"
 
 # game/day 2.rpy:1167
 translate chinese_simplified river02_cannot_remember_15d4679f:
 
     # fn "「Sorry, I can't remember...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 576)
+    fn "「抱歉，有点想不起来了……」"
 
 # game/day 2.rpy:1171
 translate chinese_simplified river02_cannot_remember_d097b411:
 
     # su "「But, nooo...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 582)
+    su "「唔，怎么这样……」"
 
 # game/day 2.rpy:1172
 translate chinese_simplified river02_cannot_remember_4630d90b:
 
     # "Shun-kun was disappointed, and I could see."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 584)
+    "峻散发着失望的气场。"
 
 # game/day 2.rpy:1173
 translate chinese_simplified river02_cannot_remember_525146df:
 
     # "Pangs of heartbreak assail me\n as I see that expression of his."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 586)
+    "唔，这个表情看得[fn]胸口一阵一阵抽痛。"
 
 # game/day 2.rpy:1174
 translate chinese_simplified river02_cannot_remember_1cfccfb5:
 
     # fn "「Eh, ah...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 589)
+    fn "「唔——嗯——」"
 
 # game/day 2.rpy:1175
 translate chinese_simplified river02_cannot_remember_9d435786:
 
     # "I'll try to remember that time again..."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 591)
+    "脑中再一次全速搜寻着关于那时候的记忆。"
 
 # game/day 2.rpy:1176
 translate chinese_simplified river02_cannot_remember_f78331a6:
 
     # fn "「Uh, um...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 594)
+    fn "「唔——啊——」"
 
 # game/day 2.rpy:1177
 translate chinese_simplified river02_cannot_remember_b2120439:
 
     # "I don't think I've ever tried so hard...{p}tor remember something before..."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 596-598)
+    "至今为止有这么努力地去回想某件事情过吗？{p}不，没有。多半以后也不会有。"
 
 # game/day 2.rpy:1178
 translate chinese_simplified river02_cannot_remember_e60df791:
 
     # "Wait, no. And maybe not even after this.{p}But still, I can't really recall the situation."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 599-600)
+    "不，没有。{p}多半以后也不会有。{p}即使如此还是想不太起来。"
 
 # game/day 2.rpy:1179
 translate chinese_simplified river02_cannot_remember_44536e43:
 
     # fn "「Ooohhh...!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 603)
+    fn "「喔喔喔喔——」"
 
 # game/day 2.rpy:1180
 translate chinese_simplified river02_cannot_remember_67be3a44:
 
     # "I've come to the conclusion\nthat I really can't remember."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 605)
+    "结论，[fn]还是想不起来。"
 
 # game/day 2.rpy:1181
 translate chinese_simplified river02_cannot_remember_166b0248:
 
     # fn "「...Sorry, I can't remember it after all.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 608)
+    fn "「——抱歉，果然还是想不起来。」"
 
 # game/day 2.rpy:1182
 translate chinese_simplified river02_cannot_remember_ab822f72:
 
     # "I try to speak with an innocent smile in my face."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 612)
+    "我试着用爽朗的笑容这么说道。"
 
 # game/day 2.rpy:1186
 translate chinese_simplified river02_cannot_remember_587d5458:
 
     # ka "「...」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 619)
+    ka "「……」"
 
 # game/day 2.rpy:1187
 translate chinese_simplified river02_cannot_remember_8bd97340:
 
     # su "「...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 622)
+    su "「……」"
 
 # game/day 2.rpy:1188
 translate chinese_simplified river02_cannot_remember_8a3eb412:
 
     # "Oh, I can't get this past them, can I?"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 624)
+    "啊，似乎没办法这样糊弄过去？"
 
 # game/day 2.rpy:1189
 translate chinese_simplified river02_cannot_remember_678ffee1:
 
     # fn "「Well, hahahaha... cut me some slack, guys...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 627)
+    fn "「那、那个啊，哈哈哈……真的很抱歉。」"
 
 # game/day 2.rpy:1193
 translate chinese_simplified river02_cannot_remember_82ec1a8f:
 
     # ka "「Welp, can't be helped I guess...{p} Sucks that you can't remember, though.{p} You haven't been around for a while, anyway.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 633-634)
+    ka "「哎，这也是没办法的吧。确实忘掉了实在很可惜，{p}不过[fn]，你也有很长的时间不在这里了啊。」"
 
 # game/day 2.rpy:1197
 translate chinese_simplified river02_cannot_remember_2f0aca6d:
 
     # fn "「Thanks for understanding{p} Maybe I could remember, if I had a more...{p} Specific hint to go off...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 639-641)
+    fn "「嗯，你能这么说真的是太好了。{p}可是，给[fn]稍微详细一点的提示的话，{p}说不定就可以想起来了……」"
 
 # game/day 2.rpy:1198
 translate chinese_simplified river02_cannot_remember_2b5ad545:
 
     # "I mean, Shun-kun got pulled away right?{p}I mean, come on. It's not that easy to forget\nsomething like that, is it? He almost drowned.」"
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 643-645)
+    "那可是峻被河水冲走的事情耶？{p}怎么可以这么简单就忘掉了。{p}哎，虽然实际上我真的忘了……"
 
 # game/day 2.rpy:1200
 translate chinese_simplified river02_cannot_remember_0fcfb13a:
 
     # "But...{w=.3} no...{w=.3} I still forgot about it...{p}I should be able to remember."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 647-648)
+    "……总之！{w=.3}如果[fn]知道些那时候发生了什么事的话，{p}一定可以想起来的。"
 
 # game/day 2.rpy:1204
 translate chinese_simplified river02_cannot_remember_49e83682:
 
     # su "「That's true, I said it earlier, but...{p} I was about four or five. Everyone else was...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 652-653)
+    su "「说的也是——。刚刚也说过了，{p}那是我四五岁时候的事。其他的——……」"
 
 # game/day 2.rpy:1205
 translate chinese_simplified river02_cannot_remember_41573162:
 
     # "Shun-kun let's out a puzzled 'hmm'\nas he tried to recall it as well."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 655)
+    "嗯，峻正在拼命地回忆当时的状况。"
 
 # game/day 2.rpy:1206
 translate chinese_simplified river02_cannot_remember_01b3e3b3:
 
     # "But he was really young when it happened.{p}I'd be surprised if he could remember it clearly.{p}Or at all, for that matter."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 657-659)
+    "可那是4——5岁时的记忆了。{p}已经有点久远的事情，{p}[fn]不认为可以这么轻易的就回想起来。"
 
 # game/day 2.rpy:1207
 translate chinese_simplified river02_cannot_remember_053cbaa2:
 
     # su "「It was... around there!」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 662)
+    su "「到底是什么呢……」"
 
 # game/day 2.rpy:1211
 translate chinese_simplified river02_cannot_remember_8d1a714b:
 
     # ka "「It was on a day that was hot like this.{p} Then, that's right... During last year's festival.{p} Torahiko was panicking about a ghost or something...」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 666-668)
+    ka "「那个时候也是有着跟今天差不多热度。{p}之后——，哦，对了。确实是在那年的夏祭，{p}虎彦说看到幽灵，引起了很大的骚动的样子。」"
 
 # game/day 2.rpy:1212
 translate chinese_simplified river02_cannot_remember_3a22483e:
 
     # fn "「Torahiko?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 671)
+    fn "「虎彦吗？」"
 
 # game/day 2.rpy:1213
 translate chinese_simplified river02_cannot_remember_0f606c14:
 
     # "Torahiko. Ghost."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 673)
+    "『虎彦』、『幽灵』。"
 
 # game/day 2.rpy:1214
 translate chinese_simplified river02_cannot_remember_3b683999:
 
     # "Hmm. Maybe, that could be a keyword..."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 675)
+    "唔嗯，总觉得，这关键字好像有点耳熟……。"
 
 # game/day 2.rpy:1215
 translate chinese_simplified river02_cannot_remember_03312393:
 
     # "No... It would be of no use.{p}Who knows how many situations could involve\nTorahiko and ghosts.{w} It could just..."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 677-679)
+    "不，{p}这关键字太过耳熟了，{p}虽然不知道是何时发生的——"
 
 # game/day 2.rpy:1216
 translate chinese_simplified river02_cannot_remember_24c3cdd0:
 
     # fn "「...Oh.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 682)
+    fn "「——啊」"
 
 # game/day 2.rpy:1220
 translate chinese_simplified river02_cannot_remember_cd3da4d4:
 
     # ka "「Did you remember?」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 686)
+    ka "「想起来了吗？」"
 
 # game/day 2.rpy:1221
 translate chinese_simplified river02_cannot_remember_8d7b63fb:
 
     # fn "「...Yeah...{w=.3} Sorta.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 689)
+    fn "「……嗯，一点点。」"
 
 # game/day 2.rpy:1222
 translate chinese_simplified river02_cannot_remember_da6af113:
 
     # "You never know what can stir up a memory,{p}especially in these times. Right?"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 691-692)
+    "在这世上你永远不会知道，{p}什么事情会成为让回忆涌现的契机。"
 
 # game/day 2.rpy:1223
 translate chinese_simplified river02_cannot_remember_28462724:
 
     # "Yeah... it was..."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 694)
+    "是的，{w=.3}那个时候确实是——"
 
 # game/day 2.rpy:1232
 translate chinese_simplified river02_story_time_31755c59:
 
     # fn "「Oh, is it time for a rescue story?{p} Like, you know, the one with the river god.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 704)
+    fn "「啊，是那个最后被河神帮助的事情对吧？」"
 
 # game/day 2.rpy:1243
 translate chinese_simplified river02_story_time_b7bb57df:
 
     # "Right, I'm sure it's that story.{p}I'm definitely sure about it."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 714-715)
+    "对对，确实是这样。{p}那个时候真的吓了[fn]一跳呢。"
 
 # game/day 2.rpy:1247
 translate chinese_simplified river02_story_time_d9b1d33d:
 
     # ka "「...?」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 719)
+    ka "「……？」"
 
 # game/day 2.rpy:1251
 translate chinese_simplified river02_story_time_05011310:
 
     # su "「...?」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 723)
+    su "「……？」"
 
 # game/day 2.rpy:1255
 translate chinese_simplified river02_story_time_a87f6003:
 
     # "Hey, I can see a question mark over their heads.{p}Huh, did I really say something that weird?"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 728-729)
+    "咦，两人头上浮现出了问号？{p}咦咦，是[fn]说了什么奇怪的话吗？"
 
 # game/day 2.rpy:1259
 translate chinese_simplified river02_story_time_eb499f6f:
 
     # ka "「[fn]... not to sound rude...{p} but what the hell are you talking about?」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 733)
+    ka "「[fn]……那个，你在说什么？」"
 
 # game/day 2.rpy:1260
 translate chinese_simplified river02_story_time_3c2f77c9:
 
     # "What the hell did I blurt out!?{p}No, wait, calm down, there's no way that could be it!{p}Chill out, [fn] [ln]!"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 735-737)
+    "难道[fn]不小心讲出口了吗！？{p}不行不行冷静点啊，这种事情应该是不可能的啊！{p}要冷静下来啊，[fn][ln]！"
 
 # game/day 2.rpy:1261
 translate chinese_simplified river02_story_time_4889e359:
 
     # fn "「What? No, I mean, isn't it the story,{p} where Shun-kun almost got swept away by the river...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 740-742)
+    fn "「欸？{w}啊不，{w=.3}就是说，{w=.3}现在是在讲{p}峻跌入河里溺水的时候，龙形的河神大人{p}把峻给救上来的事对吧？」"
 
 # game/day 2.rpy:1262
 translate chinese_simplified river02_story_time_cf6a3093:
 
     # fn "「And then we saw a dragon-like river god\n save him when he went under the water...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 744-746)
+    fn "然后接下来峻呢，就和父母一起到了奇怪的世界，{p}陷入了重大的危机，{p}最后在周遭的人的帮助下终于回来了不是吗。"
 
 # game/day 2.rpy:1263
 translate chinese_simplified river02_story_time_ceab4f87:
 
     # "And then after that, he got lost\nwith his parents in a strange world."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 748-749)
+    "对了对了，在那个世界里，还和河神大人{p}在最后来了个感动的再会呢。"
 
 # game/day 2.rpy:1264
 translate chinese_simplified river02_story_time_9f468420:
 
     # "But then, he fell into some trap,{p}and got caught in this huge crisis."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 751-752)
+    "没错，在[fn]的记忆中确实是这样的。{p}可是，洸哉和峻却用一脸讶异的表情看着[fn]。"
 
 # game/day 2.rpy:1265
 translate chinese_simplified river02_story_time_6b0952a8:
 
     # "Eventually, though, he got out,{p}because everyone came together to help pull him out."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 751-752)
+    "没错，在[fn]的记忆中确实是这样的。{p}但洸哉和峻却用一脸不可思议的表情看着[fn]。"
 
 # game/day 2.rpy:1266
 translate chinese_simplified river02_story_time_7f8afc70:
 
     # "Yes, I'm sure that happened!{p}But Kouya and Shun-kun...{p}are making really puzzled faces at me."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 751-752)
+    "没错，在[fn]的记忆中确实是这样的。{p}可是洸哉和峻却用一脸讶异的表情看着[fn]。"
 
 # game/day 2.rpy:1267
 translate chinese_simplified river02_story_time_a39f6b75:
 
     # fn "「Huh, did I say something weird again?{p} Uh... was I wrong...?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 755-756)
+    fn "「咦，[fn]说了什么奇怪的话吗？{p}呃，{w=.3}不对吗……？」"
 
 # game/day 2.rpy:1271
 translate chinese_simplified river02_story_time_4e3f9e89:
 
     # ka "「[fn]...」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 760)
+    ka "「[fn]……」"
 
 # game/day 2.rpy:1275
 translate chinese_simplified river02_story_time_8f5ac8a2:
 
     # su "「[fn]-san...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 764)
+    su "「[fn]……」"
 
 # game/day 2.rpy:1276
 translate chinese_simplified river02_story_time_1c1f25f3:
 
     # "They look at me like I'm something pitiful."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 766)
+    "啊啊，那种充满了怜悯的眼神！"
 
 # game/day 2.rpy:1277
 translate chinese_simplified river02_story_time_c268f881:
 
     # fn "「W-what?{w} What's up with you guys, seriously...{p} S-stop looking at me like that!{p} {nw}"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 771-772)
+    fn "「怎、{w=.3}怎么了？{w}你们两个人怎么……。{p}别、{w=.3}别这样啦。{p}别用那种眼神看[fn]啦！」{nw}"
 
 # game/day 2.rpy:1280
 translate chinese_simplified river02_story_time_a29088b3:
 
     # extend "Seriously, cut it out, guys!」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 772)
+    extend "真的，别这样啦！"
 
 # game/day 2.rpy:1285
 translate chinese_simplified river02_story_time_cdcef35a:
 
     # ka "「...That time was a big surprise, Shun.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 780)
+    ka "「……不过，那时候真的很惊险呢，峻。」"
 
 # game/day 2.rpy:1289
 translate chinese_simplified river02_story_time_660ca966:
 
     # su "「...It really was.{p} I was wondering what was going to happen to me,{p} and I got really scared, and I felt hopeless.」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 784-786)
+    su "「……就是说啊——{p}不知道自己会变成怎样，{p}太害怕了结果什么都做不了的说——」"
 
 # game/day 2.rpy:1290
 translate chinese_simplified river02_story_time_5d62c2e4:
 
     # "What? Are they talking about something\nthat happened when I wasn't even around?"
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 788-790)
+    "呃？仿佛从一开始[fn]就不存在一样地{p}自己开始聊起来了？{p}这样不会很奇怪吗？BGM也是什么时候变回来的？"
 
 # game/day 2.rpy:1291
 translate chinese_simplified river02_story_time_46d16d4e:
 
     # "Isn't that funny?{p}And the BGM came back before I realized too."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 792-794)
+    "这算什么，{w=.3}唔，{w=.3}等等啊……。{p}好可怕……{w=.3}好可怕的疏离感！{p}这就是被欺负的小孩的感觉吗！？"
 
 # game/day 2.rpy:1293
 translate chinese_simplified river02_story_time_87a8b682:
 
     # "What is this? Hey, wait...{p}Awful, awful alienation!{p}Is this what it feels like to be bullied!?"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 796-798)
+    "啧，{w=.3}他们要那么做的话，那就算被说是闹别扭，{p}[fn]也要回到对话里给他们看。{p}而且要自然地！"
 
 # game/day 2.rpy:1294
 translate chinese_simplified river02_story_time_aa061b7f:
 
     # "Tch, if that's how it is, then...{p}I'll get back at you with a comeback!{p}And it'll be smooth!"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 796-798)
+    "啧，{w=.3}他们要那么做的话，那就算被说是闹别扭，{p}[fn]也要回到对话里给他们看。{p}而且要自然地！"
 
 # game/day 2.rpy:1295
 translate chinese_simplified river02_story_time_f6eca6f8:
 
     # "I'll search for that memory with all my body and soul.{p}I'll definitely be able to find it. That one memory!"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 800-801)
+    "[fn]全心全意地将搜索之手伸向大脑内部的抽屉。{p}不管如何，[fn]一定要找出来。那份记忆！"
 
 # game/day 2.rpy:1301
 translate chinese_simplified river02_story_time_7fe09321:
 
     # fn "「{size=+15}{cps=5}Oooooooaaaaaagh」!{nw}"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 809)
+    fn "{size=+15}{cps=5}「呜喔喔喔喔喔！」{nw}"
 
 # game/day 2.rpy:1304
 translate chinese_simplified river02_story_time_8e82cba1:
 
     # "The signals run through my brain.{p}Like a computer,{w} I make a frantic search\nthrough the database of my mind."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 811-813)
+    "来回奔驰的电子信号。{p}迸发而出的脑内啡。{p}不断鼓动的太阳穴。"
 
 # game/day 2.rpy:1305
 translate chinese_simplified river02_story_time_ac2b5e0e:
 
     # "Now, with all my power... {cps=10}raaagh!"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 815)
+    "现在，用[fn]的全力将那份记忆{cps=10}喔喔喔喔！"
 
 # game/day 2.rpy:1306
 translate chinese_simplified river02_story_time_2530e6b4:
 
     # fn "「{cps=10}...{nw}"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 818)
+    fn "{cps=10}——{nw}"
 
 # game/day 2.rpy:1309
 translate chinese_simplified river02_story_time_a551c693:
 
     # extend "!」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 818)
+    extend "！"
 
 # game/day 2.rpy:1313
 translate chinese_simplified river02_story_time_cff84561:
 
     # "I see! I see it!{p}It was in the 53rd cycle!"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 821-822)
+    "找到了！[fn]找到了！{p}它就放在第五十三号抽屉里面！"
 
 # game/day 2.rpy:1314
 translate chinese_simplified river02_story_time_4742c9d0:
 
     # fn "「That time really was a huge shock.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 825)
+    fn "「真的，那时候吓了好大一跳呢」"
 
 # game/day 2.rpy:1315
 translate chinese_simplified river02_story_time_aa146bc3:
 
     # "All right, I've got it now, right!?{p}If I get on this current,{p}I can get back into the conversation."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 827-828)
+    "好，这样插话应该没问题吧！？{p}能这样顺势前进的话，就可以回到话题中了。"
 
 # game/day 2.rpy:1316
 translate chinese_simplified river02_story_time_daf49a36:
 
     # "Okay, [fn]. Don't screw this up again."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 830-831)
+    "这样[fn]的（虽然[fn]自己也不太确定）{p}失言也就跟没有一样了！"
 
 # game/day 2.rpy:1317
 translate chinese_simplified river02_story_time_5de1b0aa:
 
     # "...Still, it really was a shock. That time was..."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 833)
+    "——但，那时候真的被吓了好大一跳。{w=.3}那个时候——"
 
 # game/day 2.rpy:1330
 translate chinese_simplified river02_memory_005cbad5:
 
     # "On that day, it was as hot as it was today."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 856)
+    "那天，也是跟今天一样的炎热。"
 
 # game/day 2.rpy:1331
 translate chinese_simplified river02_memory_dfd825c8:
 
     # to "「Let's all go play in the river!」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 859)
+    to "「我们大家一起去河边玩吧！」"
 
 # game/day 2.rpy:1332
 translate chinese_simplified river02_memory_5e70b02a:
 
     # "Just like that, Torahiko made the suggestion."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 861)
+    "就这样，虎彦提出了去玩水的建议。"
 
 # game/day 2.rpy:1333
 translate chinese_simplified river02_memory_2295df60:
 
     # "It was sudden,{p}but as it was so hot, everyone agreed.{p}That way we could play and cool down a bit."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 863-865)
+    "虽然非常地突然，{p}但是的确太热了，所以大家都同意了这个很棒的建议。{p}[fn]们可以边玩水边消暑。"
 
 # game/day 2.rpy:1334
 translate chinese_simplified river02_memory_d10788e2:
 
     # "Everyone went back to their homes,{p}got their swimsuits, and came back."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 867-868)
+    "每个人都先回家了一趟，{p}准备好泳装，然后再度地回到这里。"
 
 # game/day 2.rpy:1335
 translate chinese_simplified river02_memory_2b6beb88:
 
     # "After that, we faced the river,{p}and we all raced to be the first one to jump in."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 870-871)
+    "之后，仿佛比赛似地冲向河边，{p}抢着跳进水里。"
 
 # game/day 2.rpy:1342
 translate chinese_simplified river02_memory_254d08f8:
 
     # who "「Oh, this feels great!」"
-    who ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 877)
+    who "「呜哦——，好舒服啊——！」"
 
 # game/day 2.rpy:1343
 translate chinese_simplified river02_memory_ef996dac:
 
     # "That's what the one who got in first said.{p}All of us behind him, me included, picked up the pace,{p}and hurried into the water."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 879-881)
+    "这是第一个跳进去的家伙说的。{p}[fn]们所有人包括[fn]自己也加快了脚步，{p}争先恐后地纵身跳入水中。"
 
 # game/day 2.rpy:1344
 translate chinese_simplified river02_memory_49c50a52:
 
     # "All at once the pleasantly cool feeling,{p}wrapped up around us.{p}It felt amazingly good."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 883-884)
+    "凉意瞬间包覆了整个身体。{p}真的非常地舒服。"
 
 # game/day 2.rpy:1345
 translate chinese_simplified river02_memory_430832c4:
 
     # "After we got into the water,{p}we played and came closer,{p}without ever getting tired of it."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 886)
+    "大家都下水了之后，玩的非常尽兴。"
 
 # game/day 2.rpy:1346
 translate chinese_simplified river02_memory_ba53ee37:
 
     # "We talked while swimming,{p}competed for the weirdest-looking rock,{p}and tried to see who could stay under the longest."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 888-889)
+    "彼此泼着水、拿石头比赛谁打水漂的次数比较多、{p}还有谁能在水里潜比较久等等。"
 
 # game/day 2.rpy:1347
 translate chinese_simplified river02_memory_8ad2cb1b:
 
     # "Time flew by as we had our fun."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 891)
+    "欢乐地时光，总是过得特别地快。"
 
 # game/day 2.rpy:1348
 translate chinese_simplified river02_memory_0f2010b5:
 
     # "But still, sooner or later,\nwe ran out of things to play."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 893)
+    "但是，[fn]们迟早会把全部的东西给玩完。"
 
 # game/day 2.rpy:1349
 translate chinese_simplified river02_memory_01be3ec2:
 
     # "Everyone was thinking, 'so what do we do next?'"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 895)
+    "每个人都在伤脑筋，『那么接下来玩什么好？』。"
 
 # game/day 2.rpy:1350
 translate chinese_simplified river02_memory_8bd20d86:
 
     # ko "「Wanna go out to the middle of the river?」"
-    ko ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 898)
+    ko "「要不要到更深一点的地方？」"
 
 # game/day 2.rpy:1351
 translate chinese_simplified river02_memory_7d1f2134:
 
     # "In the end, Kounosuke spoke up nervously."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 900)
+    "想到最后，孝之助这么说道。"
 
 # game/day 2.rpy:1352
 translate chinese_simplified river02_memory_5ad8fdcd:
 
     # "Even then, everyone was a little hesitant."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 902)
+    "但是大家有点犹豫。"
 
 # game/day 2.rpy:1353
 translate chinese_simplified river02_memory_a3746c18:
 
     # "The middle part of the river is the deepest,{p}where you could get quickly swept away by the current."
-    ""
+    # [原版缩写] 来源: extract/orig/洸哉_s_01.ks (KS 904-906)
+    "往河中央走去，水不只会变深，而且流速也变得很快。{p}大人总是说「河中央很危险不可以过去」，"
 
 # game/day 2.rpy:1354
 translate chinese_simplified river02_memory_b6589b60:
 
     # "The grown-ups would remind us so often\nabout how dangerous that part was."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 905-906)
+    "大人总是说「河中央很危险不可以过去」，{p}每次都讲到嘴巴酸了还不厌其烦地唠叨着。"
 
 # game/day 2.rpy:1355
 translate chinese_simplified river02_memory_ca308350:
 
     # fn "「It's dangerous, so let's not, okay?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 909)
+    fn "「可是很危险耶，不要去会不会比较好？」"
 
 # game/day 2.rpy:1356
 translate chinese_simplified river02_memory_05d754f8:
 
     # "Several others agreed with me."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 911)
+    "[fn]这么说着，有些人也是这么认为。"
 
 # game/day 2.rpy:1357
 translate chinese_simplified river02_memory_6981671b:
 
     # to "「I know, but still. I wanna do it.」"
-    to ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 914)
+    to "「话是没错啦。但是果然，还是会想去嘛」"
 
 # game/day 2.rpy:1358
 translate chinese_simplified river02_memory_ed624231:
 
     # "It's true, even after saying it,{p}I was a still little interested."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 916-917)
+    "确实，在[fn]这么说的同时，{p}其实还是抱有不少兴趣。"
 
 # game/day 2.rpy:1362
 translate chinese_simplified river02_memory_c88276c6:
 
     # "The place where the adults said 「don't go.」"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 920)
+    "大人们口中所谓的「不可以去」的场所。"
 
 # game/day 2.rpy:1363
 translate chinese_simplified river02_memory_9113e7b7:
 
     # "We thought we knew what they meant,\nwhen they said it was dangerous.{p}But our curiousity was growing."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 922-923)
+    "[fn]们以为[fn]们都知道，那是危险的。{p}但也因此让我们的好奇心不断茁壮。"
 
 # game/day 2.rpy:1364
 translate chinese_simplified river02_memory_1a65522c:
 
     # "A place where we might be swept away quickly.{p}A place where we might not be able\nto reach the bottom with our feet."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 925-926)
+    "说不定只有仅仅一处，水流是很快很急的。{p}说不定只有仅仅一处，是我们的脚踩不到底部的。"
 
 # game/day 2.rpy:1365
 translate chinese_simplified river02_memory_76e7a46d:
 
     # "Even after all that,{p}it definitely seemed more\nfun than where we already were."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 928)
+    "即使如此，也一定比这里还要有趣是不会错的。"
 
 # game/day 2.rpy:1366
 translate chinese_simplified river02_memory_e0a7dcee:
 
     # "In the end, our curiosity got the best of us."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 930)
+    "结果，[fn]们就这样被好奇心战胜了。"
 
 # game/day 2.rpy:1367
 translate chinese_simplified river02_memory_1bf095a1:
 
     # "We all quickly headed towards the center.{p}Our bodies sunk into the water, bit by bit."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 932-933)
+    "大家缓缓地向深处前进着。{p}身体一点一点地下沉。"
 
 # game/day 2.rpy:1368
 translate chinese_simplified river02_memory_6833a733:
 
     # "The current grew faster, and then,{p}even though we were just standing,{p}it took some strength to stay in one spot."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 935-936)
+    "水流一点一点地变得越来越快，{p}即使[fn]们只是站着，都需要一点力气来维持。"
 
 # game/day 2.rpy:1369
 translate chinese_simplified river02_memory_544f22f1:
 
     # "But we didn't stop. We pushed forward."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 938)
+    "但我们并没有因此停下，继续走向更深处。"
 
 # game/day 2.rpy:1370
 translate chinese_simplified river02_memory_e23795d5:
 
     # "Cheers of 「Ooh, the stream's fast!」 rose up,{p}and we enjoyed our little adventure."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 940-941)
+    "「呜哦——，水流好快啊！」大家一起欢呼着，{p}[fn]们很喜欢这样的小冒险。"
 
 # game/day 2.rpy:1371
 translate chinese_simplified river02_memory_cff542e9:
 
     # "Pretty soon, the one at the head of our venture said:"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 943)
+    "不一会儿，其中一个在前面带头的高年级组说："
 
 # game/day 2.rpy:1372
 translate chinese_simplified river02_memory_b6cdf4b7:
 
     # "「Ooh, here we can go deeper in one shot!」"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 945)
+    "「呜哦，就这样一口气走到更深的地方吧！」"
 
 # game/day 2.rpy:1373
 translate chinese_simplified river02_memory_012d7881:
 
     # "Yells of surprise and excitement rose up."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 947)
+    "大家兴奋地叫喊混杂着欢乐与惊喜。"
 
 # game/day 2.rpy:1374
 translate chinese_simplified river02_memory_7e0bb1b8:
 
     # "And then it happened."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 949)
+    "就在这时候。"
 
 # game/day 2.rpy:1379
 translate chinese_simplified river02_memory_a30339fd:
 
     # su "{size=+20}「Whah!?」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 957)
+    su "{size=+20}「呜啊！？」"
 
 # game/day 2.rpy:1383
 translate chinese_simplified river02_memory_8112ca02:
 
     # "Shun-kun was caught by the currents."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 960)
+    "峻在河中不小心滑倒了。"
 
 # game/day 2.rpy:1384
 translate chinese_simplified river02_memory_b328a242:
 
     # "As the youngest in age, height, and weight,{p}Shun-kun stepped out too far."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 962-963)
+    "不管是身高还是体重都最幼小的峻一没踩好，{p}就这么整只掉到水里面。"
 
 # game/day 2.rpy:1388
 translate chinese_simplified river02_memory_a38d4a9e:
 
     # "Then, the sounds of splashing."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 965)
+    "水花飞溅的声音在每个人耳边响起。"
 
 # game/day 2.rpy:1389
 translate chinese_simplified river02_memory_f6b9dd59:
 
     # "All of us cried out."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 967)
+    "全员都忍不住大喊了出来。"
 
 # game/day 2.rpy:1390
 translate chinese_simplified river02_memory_01c5ff6f:
 
     # "...This is bad, we gotta do something!"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 969)
+    "——惨了，不快点做些什么的话。"
 
 # game/day 2.rpy:1391
 translate chinese_simplified river02_memory_bd8c701d:
 
     # "I think all of us were thinking the same thing.{p}But inside our heads we all blanked out.{p}In the end, we didn't know what to do."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 971-973)
+    "大家都在思考着同样一件事情。{p}但是脑内完全一片空白。{p}结果，到底该怎么办，没有人知道。"
 
 # game/day 2.rpy:1392
 translate chinese_simplified river02_memory_e8a9568e:
 
     # "So at any rate, we faced Shun-kun and yelled."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 975)
+    "所以总之，[fn]们朝着峻大喊。"
 
 # game/day 2.rpy:1393
 translate chinese_simplified river02_memory_65a38f7b:
 
     # "Even then, Shun-kun was swept further away.{p}Everyone was holding their breath."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 977-978)
+    "但是即使这样峻依然被水越冲越远。{p}大家慌了手脚，不知道该怎么办才好。"
 
 # game/day 2.rpy:1397
 translate chinese_simplified river02_memory_5a70b4e2:
 
     # who "「What the hell are you kids doing!?」"
-    who ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 981)
+    who "「你们这些家伙在搞什么！」"
 
 # game/day 2.rpy:1398
 translate chinese_simplified river02_memory_01229585:
 
     # "We heard adults shouting from the river bed."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 983)
+    "千钧一发之际，{w=.3}从河滩传来了大人的怒斥声——"
 
 # game/day 2.rpy:1411
 translate chinese_simplified river02_memory_ce2bbf53:
 
     # ka "「And then after that, Shun-kun was safely pulled out,{p} and all of us got our asses handed to us.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 994-995)
+    ka "「结果，峻平安无事地被救了出来，{p}而我们全员被痛骂了一顿。」"
 
 # game/day 2.rpy:1412
 translate chinese_simplified river02_memory_697546f4:
 
     # fn "「Yeah, that's right.{p} That did happen, come to think of it.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 998)
+    fn "「嗯，对呀。{p}说起来的确有这么样的一件事呢。」"
 
 # game/day 2.rpy:1413
 translate chinese_simplified river02_memory_b385ded5:
 
     # "Yet how could I have forgotten such an event?"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1000)
+    "话说回来印象这么深刻的事件，为什么[fn]会把它忘了？"
 
 # game/day 2.rpy:1417
 translate chinese_simplified river02_memory_3097253e:
 
     # su "「I really was thinking about,{p} what was going to happen then...」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1004)
+    su "「是啊，那时候还在想我会变成怎么样呢……」"
 
 # game/day 2.rpy:1421
 translate chinese_simplified river02_memory_65a17248:
 
     # ka "「Shun couldn't swim yet then.{p} I still think that when I look at him now.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1008-1009)
+    ka "「峻在那个时候还不会游泳。{p}我看着也很害怕不知道会变怎样。」"
 
 # game/day 2.rpy:1422
 translate chinese_simplified river02_memory_0938ee29:
 
     # fn "「Yeah. And a little after that,{p} no one would suggest going to the river.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1012-1013)
+    fn "「嗯。{p}在那之后的一小段时间里，{p}都没有人敢再提议去河边呢。」"
 
 # game/day 2.rpy:1426
 translate chinese_simplified river02_memory_d5c6a123:
 
     # su "「But this time I know how to swim.{p} So it'll be okay if we go into the center.」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1019-1020)
+    su "「但是，现在已经会游泳了。{p}所以往深的地方去也没有问题喔。」"
 
 # game/day 2.rpy:1427
 translate chinese_simplified river02_memory_ffbd96dd:
 
     # fn "「Nah, even if we did go in,{p} it wouldn't be able to drag us along now.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1023)
+    fn "「啊不，现在的话就算走到河中央也不会被冲走的啦。」"
 
 # game/day 2.rpy:1428
 translate chinese_simplified river02_memory_41ddec5f:
 
     # ka "「For sure.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1026)
+    ka "「是啊。」"
 
 # game/day 2.rpy:1434
 translate chinese_simplified river02_memory_acd92504:
 
     # "At that time, a crow was cawing overhead.{p}Looking closely, it seems the sun's setting."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1029-1030)
+    "这时头上传来了乌鸦的鸣叫。{p}仔细一看的话，太阳也渐渐倾斜着。"
 
 # game/day 2.rpy:1435
 translate chinese_simplified river02_memory_543ccbc4:
 
     # "Before we knew it, it was getting late."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1032)
+    "时间在我们不知不觉中流逝了。"
 
 # game/day 2.rpy:1441
 translate chinese_simplified river02_memory_c73469bc:
 
     # ka "「All right guys, let's pack up.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1041)
+    ka "「那么，差不多该走了呢。」"
 
 # game/day 2.rpy:1442
 translate chinese_simplified river02_memory_2934f2bf:
 
     # su "「I should, too.」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1044)
+    su "「嗯，我也差不多了。」"
 
 # game/day 2.rpy:1443
 translate chinese_simplified river02_memory_0d878f8d:
 
     # fn "「Huh, you two are going back?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1047)
+    fn "「欸，你们两个人都要回去了吗？」"
 
 # game/day 2.rpy:1447
 translate chinese_simplified river02_memory_22b9f2cf:
 
     # ka "「Yeah, it's not like I have\n all the time in the world.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1051-1052)
+    ka "「嗯，也不能一直悠闲的待在这里，{p}差不多该走了。」"
 
 # game/day 2.rpy:1448
 translate chinese_simplified river02_memory_0dc0fca8:
 
     # fn "「In that case, I should go home too.{p} It can't be helped if I'm by myself,{p} and the heat's cooled down a bit.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1055-1057)
+    fn "「这样啊，那么[fn]也回去吧。{p}自己一个人也没什么事可以做，{p}而且也已经凉爽多了。」"
 
 # game/day 2.rpy:1449
 translate chinese_simplified river02_memory_ec5a6acc:
 
     # "The three of us got up from the river together,{p}put on our shoes, and then...{p}I realized I didn't have a towel."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1059)
+    "我们三人一起从河中起身，正要穿鞋子的时候才注意到——，{p}[fn]没有带毛巾。"
 
 # game/day 2.rpy:1450
 translate chinese_simplified river02_memory_b35c2366:
 
     # fn "「Ah...!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1062)
+    fn "「啊——……」"
 
 # game/day 2.rpy:1451
 translate chinese_simplified river02_memory_77f88d40:
 
     # "At this rate, I'll get a lot of things wet.{p}I should have worn sandals."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1064-1065)
+    "如果这样直接穿回去的话，[fn]会把很多东西给弄湿。{p}应该要穿凉鞋来的。"
 
 # game/day 2.rpy:1455
 translate chinese_simplified river02_memory_66a8f737:
 
     # ka "「Hey, [fn].」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1069)
+    ka "「拿去，[fn]。」"
 
 # game/day 2.rpy:1456
 translate chinese_simplified river02_memory_50490313:
 
     # "Once he got my attention, Kouya threw a towel to me."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1071)
+    "洸哉注意到[fn]的状况，把毛巾扔了过来。"
 
 # game/day 2.rpy:1457
 translate chinese_simplified river02_memory_2486cf31:
 
     # fn "「Thanks Kouya. You really are prepared.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1074)
+    fn "「洸哉谢谢啊。{p}准备的真周到呢——」"
 
 # game/day 2.rpy:1461
 translate chinese_simplified river02_memory_9ef07e98:
 
     # ka "「Don't mention it.」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1078)
+    ka "「没什么。」"
 
 # game/day 2.rpy:1462
 translate chinese_simplified river02_memory_8e811076:
 
     # "I wiped off the water with the borrowed towel,{p}then put my shoes back on."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1080)
+    "[fn]用借来的毛巾将脚上的水给擦拭掉，然后重新穿上鞋。"
 
 # game/day 2.rpy:1463
 translate chinese_simplified river02_memory_6b505a37:
 
     # fn "「Really, thanks a lot Kouya.{p} It saved me some trouble.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1083)
+    fn "「洸哉真的很谢谢你。{p}帮了大忙呢。」"
 
 # game/day 2.rpy:1464
 translate chinese_simplified river02_memory_24f6146e:
 
     # "I thanked him one more time as I threw the towel back."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1085)
+    "再次跟洸哉说声谢谢后把毛巾还了回去。"
 
 # game/day 2.rpy:1468
 translate chinese_simplified river02_memory_e0d72da2:
 
     # ka "「I said don't mention it!」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1090)
+    ka "「就说这没什么了！」"
 
 # game/day 2.rpy:1472
 translate chinese_simplified river02_memory_2bb09df6:
 
     # su "「Okay, guess it's time to split up for today.」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1094)
+    su "「那么，今天就到这边吧。」"
 
 # game/day 2.rpy:1473
 translate chinese_simplified river02_memory_0b225f23:
 
     # fn "「Yeah, that's right.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1099)
+    fn "「嗯，是呀。」"
 
 # game/day 2.rpy:1474
 translate chinese_simplified river02_memory_5c1acbd1:
 
     # su "「Okay, [fn]-san, Kouya-san, see you next time!」"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1104)
+    su "「那么[fn]、洸哉哥。再见——！」"
 
 # game/day 2.rpy:1478
 translate chinese_simplified river02_memory_4651f18c:
 
     # "Shun-kun waved as he ran off cheerfully.{p}Kouya and I waved back."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1108-1109)
+    "峻一边朝着两人挥手一边跑开。{p}[fn]和洸哉也挥着手跟峻道别。"
 
 # game/day 2.rpy:1482
 translate chinese_simplified river02_memory_b5171eed:
 
     # ka "「Shun, you'll fall if you aren't careful!」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1113)
+    ka "「峻，不看着前面会摔倒的喔！」"
 
 # game/day 2.rpy:1484
 translate chinese_simplified river02_memory_29114c59:
 
     # su "「I'll be okay...{w} {nw}"
-    su ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1116)
+    su "「不要紧的——{w}{nw}"
 
 # game/day 2.rpy:1486
 translate chinese_simplified river02_memory_c3452189:
 
     # extend " {cps=20}Woah!」{nw}"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1116)
+    extend "{cps=20}呜哇！」{nw}"
 
 # game/day 2.rpy:1490
 translate chinese_simplified river02_memory_59e3aaf3:
 
     # "As soon as he said that,\nShun-kun tripped dramatically."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1118)
+    "话才刚说完，峻就跌了四脚朝天。"
 
 # game/day 2.rpy:1491
 translate chinese_simplified river02_memory_c0cd2b30:
 
     # "It was kind of impressive actually."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1120)
+    "该怎么说，这还真是惊人的跌倒方式啊。"
 
 # game/day 2.rpy:1495
 translate chinese_simplified river02_memory_9b38f790:
 
     # ka "「Oh, what the hell, Shun?」"
-    ka ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1125)
+    ka "「哦，真是的，峻？」"
 
 # game/day 2.rpy:1496
 translate chinese_simplified river02_memory_df0f550e:
 
     # fn "「This time it wasn't swimming,{p} but keeping our eyes in front of us...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1128-1129)
+    fn "「现在不是要学会游泳，{p}而是要学会看着前面走路才行了呢。」"
 
 # game/day 2.rpy:1500
 translate chinese_simplified river02_memory_5f6bf8c3:
 
     # "The two of us smiled wryly as we ran up to Shun-kun."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1136)
+    "[fn]和洸哉两人苦笑了一下，随即往峻那边跑过去。"
 
 # game/day 2.rpy:1502
 translate chinese_simplified river02_memory_fafcaa21:
 
     # "{nw}"
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks
+    "{nw}"
 
 # game/day 2.rpy:1504
 translate chinese_simplified river02_memory_2a1c7d97:
 
     # extend "{w=1.2}{nw}"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks
+    extend "{w=1.2}{nw}"
 
 # game/day 2.rpy:1507
 translate chinese_simplified river02_memory_a63a4ff8:
 
     # "Up in the sky, the crow let out a cry,{p}almost as if it were reciting a soliloquy."
-    ""
+    # [旧版翻译] 来源: extract/orig/洸哉_s_01.ks (KS 1139)
+    "天空中，再次响起了{p}乌鸦的叫声。"
 
 # game/day 2.rpy:1526
 translate chinese_simplified tatsuki02_1341d748:
@@ -6123,13 +6311,15 @@ translate chinese_simplified tatsuki02_e9655f6b:
 translate chinese_simplified tatsuki02_59197af1:
 
     # tp "「At that rate you'll make a decent amount.」"
-    tp ""
+    # [原版扩写] 来源: extract/orig/辰樹_m_01.ks (KS 323)
+    tp "「照这样下去的话，应该能赚到不少呢。」"
 
 # game/day 2.rpy:1714
 translate chinese_simplified tatsuki02_59fa660d:
 
     # "Tappei-san...{p}You aren't the type to go on...{p}Paid days off, are you?"
-    ""
+    # [原版扩写] 来源: extract/orig/辰樹_m_01.ks (KS 339-340)
+    "辰平叔……{p}该不会是那种……{p}连有薪假都不会休的类型吧？"
 
 # game/day 2.rpy:1718
 translate chinese_simplified tatsuki02_477062f7:
@@ -6142,7 +6332,8 @@ translate chinese_simplified tatsuki02_477062f7:
 translate chinese_simplified tatsuki02_bbef1004:
 
     # ta "「[fn], trust me.{p} Don't hang out with this guy.」"
-    ta ""
+    # [原版扩写] 来源: extract/orig/辰樹_m_01.ks (KS 347)
+    ta "「[fn]，别理他！」"
 
 # game/day 2.rpy:1723
 translate chinese_simplified tatsuki02_b0fdfbb3:
@@ -6169,7 +6360,8 @@ translate chinese_simplified tatsuki02_592c8583:
 translate chinese_simplified tatsuki02_55f49ce0:
 
     # tp "「Even after [fn] came back after so long,\n I thought you were the kind of son\n who'd finish work before going to play.」"
-    tp ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 361-362)
+    tp "「难得[fn]他回来了一次，我这可是为了一心工作连玩耍也不顾的儿子着想的。」"
 
 # game/day 2.rpy:1733
 translate chinese_simplified tatsuki02_af19eb27:
@@ -6252,7 +6444,8 @@ translate chinese_simplified tatsuki02_d9f6afdf:
 translate chinese_simplified tatsuki02_c4917987:
 
     # tp "「And after that,\n we can grab a bite to eat.」"
-    tp ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 413)
+    tp "「再说之后，{p}一起去吃点什么吧。」"
 
 # game/day 2.rpy:1766
 translate chinese_simplified tatsuki02_e87acba0:
@@ -6279,7 +6472,8 @@ translate chinese_simplified tatsuki02_4d6b974d:
 translate chinese_simplified tatsuki02_0e87a765:
 
     # "After that, we'll all gather for dinner...{p}Sounds like a plan."
-    tp ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 422-423)
+    tp "之后大家围坐到一起吃饭，那时真的很开心。{p}听起来真是个好计划。"
 
 # game/day 2.rpy:1773
 translate chinese_simplified tatsuki02_1bf3fcb2:
@@ -6292,7 +6486,8 @@ translate chinese_simplified tatsuki02_1bf3fcb2:
 translate chinese_simplified tatsuki02_be7c6ed4:
 
     # ta "「Just a little more to do,\n and then we can leave, all right?」"
-    ta ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 427-428)
+    ta "「只要剩下一点点，{p}马上就能收拾完走人了，好不？」"
 
 # game/day 2.rpy:1775
 translate chinese_simplified tatsuki02_4363b5e7:
@@ -6326,7 +6521,8 @@ translate chinese_simplified tatsuki02_hangout_4935c6fb:
 translate chinese_simplified tatsuki02_hangout_4f953f9f:
 
     # "We're not kids anymore though, so...{p}acting like one is a no-no.{p}Wonder who else I can call..."
-    fn ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 454-455)
+    fn "呃，不过已经不是小孩子了，还那样吵闹的话，太丢脸了，{p}叫个别的人也不错……"
 
 # game/day 2.rpy:1793
 translate chinese_simplified tatsuki02_hangout_473d14ef:
@@ -6339,7 +6535,8 @@ translate chinese_simplified tatsuki02_hangout_473d14ef:
 translate chinese_simplified tatsuki02_hangout_2c6a7fd1:
 
     # fn "「We'll relax and eat together another time.{p} The fun's just getting started...」"
-    tp ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 458-460)
+    tp "「之后在一起吃也可以。{p}现在才正要开始玩呢……」"
 
 # game/day 2.rpy:1798
 translate chinese_simplified tatsuki02_hangout_4e000bd9:
@@ -6352,7 +6549,8 @@ translate chinese_simplified tatsuki02_hangout_4e000bd9:
 translate chinese_simplified tatsuki02_hangout_a8551986:
 
     # tp "「Be sure to come back on time for work.{p} I'm gonna need some help tonight.」"
-    tp ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 464-466)
+    tp "「真的要来干活哦，我很忙，得赶紧走了。」"
 
 # game/day 2.rpy:1805
 translate chinese_simplified tatsuki02_hangout_b4e8c3fe:
@@ -6372,7 +6570,8 @@ translate chinese_simplified tatsuki02_hangout_eba449c5:
 translate chinese_simplified tatsuki02_hangout_40fcb6a3:
 
     # ta "「What the hell is he getting at?」"
-    fn ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 478-480)
+    fn "「老爸真是的，究竟想干什么……」"
 
 # game/day 2.rpy:1811
 translate chinese_simplified tatsuki02_hangout_7355f68a:
@@ -6441,7 +6640,8 @@ translate chinese_simplified tatsuki02_eat_538f3965:
 translate chinese_simplified tatsuki02_eat_886f946d:
 
     # "It's almost like an extended family.{p}Nothing but buff beastmen,\ngathered around the dinner table..."
-    fn ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 525-527)
+    fn "在辰兄家里，在这里工作的人都住在一起，{p}围坐在饭桌前就像一家人一样，让人觉得温暖。{p}而且基本全都是雄性兽人的说。"
 
 # game/day 2.rpy:1836
 translate chinese_simplified tatsuki02_eat_6df4664f:
@@ -6734,7 +6934,8 @@ translate chinese_simplified tatsuki02_coworkers_b12ce4b3:
 translate chinese_simplified tatsuki02_coworkers_9a39303a:
 
     # extend "The Great Detective [fn]!{p}{size=+15}The suspicious one...{nw}"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_01.ks (KS 702-704)
+    extend "名侦探[fn]！{p}{size=+15}可疑的人……{nw}"
 
 # game/day 2.rpy:1945
 translate chinese_simplified tatsuki02_coworkers_974bb3cd:
@@ -6768,7 +6969,8 @@ translate chinese_simplified tatsuki02_coworkers_048197c0:
 translate chinese_simplified tatsuki02_coworkers_ae80d231:
 
     # horse "「Originally, I was working elsewhere,\n so I'm not wearing the clothes here.」"
-    who ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 715-717)
+    who "「我只是个实习工而已。{p}领了工作服，但穿不穿不是都可以吗，{p}而且我本来在别的地方工作，所以没穿。」"
 
 # game/day 2.rpy:1959
 translate chinese_simplified tatsuki02_coworkers_17991f06:
@@ -6844,7 +7046,8 @@ translate chinese_simplified tatsuki02_coworkers_cac9dd1b:
 translate chinese_simplified tatsuki02_coworkers_b4fae3f1:
 
     # cu "「Sweet, it's an honor to think that I'd be able\n to meet the legendary [fn]-san.」"
-    cu ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 757-759)
+    cu "「太棒了，没想到居然能和传说中的[fn]见面，{p}真是荣幸呢。」"
 
 # game/day 2.rpy:1995
 translate chinese_simplified tatsuki02_coworkers_b0324cd2:
@@ -6934,7 +7137,8 @@ translate chinese_simplified tatsuki02_coworkers_90670a8f:
 translate chinese_simplified tatsuki02_coworkers_4cc17a6f:
 
     # fn "「So I look forward to working with you.」"
-    cu ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 806-808)
+    cu "「虽然今天是来玩的，{p}但是下次再来的时候，就也是这里的实习工了。{p}还是请多多指教。」"
 
 # game/day 2.rpy:2023
 translate chinese_simplified tatsuki02_coworkers_52f6f1d5:
@@ -6989,7 +7193,8 @@ translate chinese_simplified tatsuki02_coworkers_c971c737:
 translate chinese_simplified tatsuki02_coworkers_fd4ac23a:
 
     # ta "「And we'll be counting on him.」"
-    cu ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 839)
+    cu "「没错，还请多多指教。」"
 
 # game/day 2.rpy:2040
 translate chinese_simplified tatsuki02_coworkers_789db452:
@@ -7016,7 +7221,8 @@ translate chinese_simplified tatsuki02_coworkers_38131ba6:
 translate chinese_simplified tatsuki02_coworkers_4ddcd530:
 
     # ni "「Like in the old stories.{p} I'm sure you've heard about them.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_01.ks (KS 852-854)
+    ni "「像以前故事里说的那样。{p}你也应该听说过吧。」"
 
 # game/day 2.rpy:2053
 translate chinese_simplified tatsuki02_coworkers_cd73a95b:
@@ -7064,7 +7270,8 @@ translate chinese_simplified tatsuki02_coworkers_8f2296b0:
 translate chinese_simplified tatsuki02_coworkers_110a2139:
 
     # ta "「He doesn't understand relationships,\n but he's a guy who's easy to understand,\n and he's not bad at sociability.」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_01.ks (KS 882-884)
+    cu "「虽然很内向，但也不至于到那个地步。{p}多多交往之后就会明白的，他也是个很好说话的家伙，{p}并没有想象中那么不友好。」"
 
 # game/day 2.rpy:2075
 translate chinese_simplified tatsuki02_coworkers_ea659530:
@@ -7077,7 +7284,8 @@ translate chinese_simplified tatsuki02_coworkers_ea659530:
 translate chinese_simplified tatsuki02_coworkers_153f1f3b:
 
     # cu "「He's also got times\n where he gets snappy and selfish, tho'.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_01.ks (KS 888-889)
+    fn "「虽然也有惹人讨厌的时候，{p}但也算是个很有趣的人吧。」"
 
 # game/day 2.rpy:2077
 translate chinese_simplified tatsuki02_coworkers_5ad22cff:
@@ -7139,7 +7347,8 @@ translate chinese_simplified tatsuki02_coworkers_1226b1fe:
 translate chinese_simplified tatsuki02_coworkers_7670a0e6:
 
     # cu "「Also, my big sis told me to do something for her.{p} In that case, Young Master, Aniki, good work!」"
-    cu ""
+    # [原版缩写] 来源: extract/orig/辰樹_m_01.ks (KS 920-922)
+    cu "「还有，大姐也拜托我了一些事。{p}那么，少爷、大哥，祝你们玩好！」"
 
 # game/day 2.rpy:2107
 translate chinese_simplified tatsuki02_coworkers_4771094c:
@@ -7342,7 +7551,7 @@ translate chinese_simplified juuichi02_1633da91:
 
     # who "「Hey, [ln]. Are you okay?」"
     # [旧版翻译] 来源: 柔一_m_01.ks
-    who "「喂[西村]。你没事吧？」"
+    who "「喂[fn]。你没事吧？」"
 
 # game/day 2.rpy:2190
 translate chinese_simplified juuichi02_c98da414:
@@ -7670,7 +7879,8 @@ translate chinese_simplified juuichi02_ec93a066:
 translate chinese_simplified juuichi02_00b00233:
 
     # fn "「...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/柔一_m_02.ks (KS 669)
+    fn "「……」"
 
 # game/day 2.rpy:2279
 translate chinese_simplified juuichi02_5c4b9dd9:

@@ -4,35 +4,36 @@
 translate chinese_simplified day03_a06babf4:
 
     # fn "「Hmm, what to do today...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/3日目.ks (KS 22)
+    fn "「今天做什么呢……？」"
 
 # game/day 3.rpy:99
 translate chinese_simplified torahiko03_57e52401:
 
     # gm "「Hello. This is [ln] speaking.{w} Oh, yes!{p}Please wait a minute.」"
     # [旧版翻译] 来源: 3日目.ks (KS 18-19)
-    gm "「你好，这里是[西村]家。哎呀，你好啊！……嗯，稍等一下哦……"
+    gm "「你好，这里是[fn]家。哎呀，你好啊！……嗯，稍等一下哦……"
 
 # game/day 3.rpy:100
 translate chinese_simplified torahiko03_9a835bab:
 
     # gm "「[fn]-chan! You got a phone call!」"
     # [旧版翻译] 来源: 3日目.ks (KS 20)
-    gm "小[博行]，有你的电话哦～」"
+    gm "小[fn]，有你的电话哦～」"
 
 # game/day 3.rpy:101
 translate chinese_simplified torahiko03_0cc54b14:
 
     # "Around noon, the phone at the front door rang.{p} Well, since here is not technically my home,{p}I was a bit confused whether it was okay to take it."
     # [旧版翻译] 来源: 3日目.ks (KS 22-27)
-     "差不多到中午的时候，放在玄关的电话响了起来。这里，真要说的话并不是[漏れ]的家，所以有一瞬间不知道[漏れ]该不该去接，一直都是奶奶帮[漏れ]去接电话。"
+     "差不多到中午的时候，放在玄关的电话响了起来。这里，真要说的话并不是[fn]的家，所以有一瞬间不知道[fn]该不该去接，一直都是奶奶帮[fn]去接电话。"
 
 # game/day 3.rpy:102
 translate chinese_simplified torahiko03_621d6d60:
 
     # "But it seems my grandma rushed me to take it instead.{w} I'm not sure if Grandma knew whose call is it anyway."
     # [旧版翻译] 来源: 3日目.ks (KS 29)
-     "不过，看来电话是来找[漏れ]的。"
+     "不过，看来电话是来找[fn]的。"
 
 # game/day 3.rpy:103
 translate chinese_simplified torahiko03_9ef35c17:
@@ -81,14 +82,14 @@ translate chinese_simplified torahiko03_71866d3a:
 
     # ka "「Yo, [fn]-chan.」"
     # [旧版翻译] 来源: 3日目.ks (KS 51)
-    ka "「呦，小[博行]」"
+    ka "「呦，小[fn]」"
 
 # game/day 3.rpy:113
 translate chinese_simplified torahiko03_c23c5424:
 
     # fn "「Kouya! Cut the \"chan\"!」"
     # [旧版翻译] 来源: 3日目.ks (KS 54)
-    fn "「喂！对[漏れ]称呼别加『小』啦」"
+    fn "「喂！对[fn]称呼别加『小』啦」"
 
 # game/day 3.rpy:114
 translate chinese_simplified torahiko03_b76bdc03:
@@ -123,7 +124,7 @@ translate chinese_simplified torahiko03_4ecba954:
 
     # ka "「More than that,{w} are you free today?」"
     # [旧版翻译] 来源: 3日目.ks (KS 71-72)
-    ka "「比起这个[博行]，今天有空吗？」"
+    ka "「比起这个[fn]，今天有空吗？」"
 
 # game/day 3.rpy:119
 translate chinese_simplified torahiko03_24b8eda5:
@@ -144,7 +145,7 @@ translate chinese_simplified torahiko03_4ac1c104:
 
     # "1:00 PM."
     # [旧版翻译] 来源: 3日目.ks (KS 84)
-     "下午一点。[漏れ]来到在村子中心的那个公园。"
+     "下午一点。[fn]来到在村子中心的那个公园。"
 
 # game/day 3.rpy:127
 translate chinese_simplified torahiko03_3ee721b6:
@@ -179,14 +180,14 @@ translate chinese_simplified torahiko03_43b299ab:
 
     # ka "「Have you been waiting for long?」"
     # [旧版翻译] 来源: 3日目.ks (KS 99)
-    ka "「[博行]，等很久了吗？」"
+    ka "「[fn]，等很久了吗？」"
 
 # game/day 3.rpy:136
 translate chinese_simplified torahiko03_aaa86d24:
 
     # fn "「Kouya!{w} Oh, I just got here.」"
     # [旧版翻译] 来源: 3日目.ks (KS 106)
-    fn "「啊，洸哉！没有啦，[漏れ]刚到而已！」"
+    fn "「啊，洸哉！没有啦，[fn]刚到而已！」"
 
 # game/day 3.rpy:137
 translate chinese_simplified torahiko03_745c3184:
@@ -235,7 +236,7 @@ translate chinese_simplified torahiko03_31347e21:
 
     # ky "「Actually, my club suddenly took a day off today.{p} Since I was free, I was thinking about guiding you\n around the village.」"
     # [旧版翻译] 来源: 3日目.ks (KS 124-127)
-    ky "「其实啊，今天的社团活动因为一些事突然中止。而且，[博行]也才刚回到这里，难得有这个机会，就想说带你到村子里走走」"
+    ky "「其实啊，今天的社团活动因为一些事突然中止。而且，[fn]也才刚回到这里，难得有这个机会，就想说带你到村子里走走」"
 
 # game/day 3.rpy:144
 translate chinese_simplified torahiko03_99ec0bca:
@@ -269,8 +270,8 @@ translate chinese_simplified torahiko03_24560348:
 translate chinese_simplified torahiko03_a80bcfca:
 
     # "I couldn't remember exactly where they were, though."
-    # [旧版翻译] 来源: 3日目 (无匹配)
-     ""
+    # [旧版翻译] 来源: extract/torahiko/3日目.ks (KS 141)
+     "实在想不出来确切位置到底在哪。"
 
 # game/day 3.rpy:149
 translate chinese_simplified torahiko03_9f51053e:
@@ -284,7 +285,7 @@ translate chinese_simplified torahiko03_e52e5618:
 
     # "We left the park right after."
     # [旧版翻译] 来源: 3日目.ks (KS 148)
-     "从公园出发的[漏れ]们，"
+     "从公园出发的[fn]们，"
 
 # game/day 3.rpy:156
 translate chinese_simplified torahiko03_acffe6b9:
@@ -319,21 +320,21 @@ translate chinese_simplified torahiko03_c99448a2:
 
     # "Every time I hung around a familiar place,{w} one by one,{w} I felt the memories which had sunk so deeply in my mind started to emerge more and more."
     # [旧版翻译] 来源: 3日目.ks (KS 163-165)
-     "在经过这一个又一个熟悉的场景时，[漏れ]能感觉到那深深沉淀的记忆，随着跟大家一起制造的回忆缓缓浮起。"
+     "在经过这一个又一个熟悉的场景时，[fn]能感觉到那深深沉淀的记忆，随着跟大家一起制造的回忆缓缓浮起。"
 
 # game/day 3.rpy:171
 translate chinese_simplified torahiko03_f592672d:
 
     # "What precious memories I have with everyone there!"
-    # [旧版翻译] 来源: 3日目 (无匹配)
-     ""
+    # [原版缩写] 来源: extract/torahiko/3日目.ks (KS 164-166)
+     "真的好怀念啊……"
 
 # game/day 3.rpy:175
 translate chinese_simplified torahiko03_c75dfa20:
 
     # "Then, I finally finished the trip around the village. We ended up drinking cold juice while resting at a candy store downtown."
     # [旧版翻译] 来源: 3日目.ks (KS 169-170)
-     "接着，逛过村子一圈的[漏れ]们，在糖果店买了冷饮并排坐着休息。"
+     "接着，逛过村子一圈的[fn]们，在糖果店买了冷饮并排坐着休息。"
 
 # game/day 3.rpy:181
 translate chinese_simplified torahiko03_2cbfd641:
@@ -347,14 +348,14 @@ translate chinese_simplified torahiko03_4d0ff23a:
 
     # ky "「So, how was it?{w} Have you recalled anything more\n about Minasato?」"
     # [旧版翻译] 来源: 3日目.ks (KS 181-182)
-    ky "「[博行]，怎么样？一些有关村子的事情，有回忆起来吗？」"
+    ky "「[fn]，怎么样？一些有关村子的事情，有回忆起来吗？」"
 
 # game/day 3.rpy:183
 translate chinese_simplified torahiko03_6eda5fd5:
 
     # fn "「Yes! I remembered a lot.{p} I was full of nostalgic feelings during the trip.」"
     # [旧版翻译] 来源: 3日目.ks (KS 184-186)
-    fn "「有啊！回想起很多事呢。[漏れ]真的好怀念啊……」"
+    fn "「有啊！回想起很多事呢。[fn]真的好怀念啊……」"
 
 # game/day 3.rpy:184
 translate chinese_simplified torahiko03_d87e6982:
@@ -368,7 +369,7 @@ translate chinese_simplified torahiko03_32429f93:
 
     # fn "「Somehow...{w} It seems like I've lost so many\n precious memories about this village.{w} It's like\n amnesia, or something like that.」"
     # [旧版翻译] 来源: 3日目.ks (KS 191-193)
-    fn "「总觉得[漏れ]……真的忘掉了不少很重要的回忆。就像是失忆了一样」"
+    fn "「总觉得[fn]……真的忘掉了不少很重要的回忆。就像是失忆了一样」"
 
 # game/day 3.rpy:189
 translate chinese_simplified torahiko03_4dc1697c:
@@ -382,7 +383,7 @@ translate chinese_simplified torahiko03_1b99919c:
 
     # "Well now that's a little exaggerated,{w} as Kouya jokingly added to my expression.{p}On the other hand, he got all three of us giggling."
     # [旧版翻译] 来源: 3日目.ks (KS 200-202)
-     "对于[漏れ]这有些夸张的表现，洸哉也半开玩笑的回答。而[漏れ]们三个人，都笑了起来。"
+     "对于[fn]这有些夸张的表现，洸哉也半开玩笑的回答。而[fn]们三个人，都笑了起来。"
 
 # game/day 3.rpy:194
 translate chinese_simplified torahiko03_f93b9119:
@@ -410,7 +411,7 @@ translate chinese_simplified torahiko03_6f139c7b:
 
     # "As Kouya mumbling, I can see his face turns a little cloudy."
     # [旧版翻译] 来源: 3日目.ks (KS 221)
-     "这时[漏れ]察觉洸哉的表情有些阴郁。"
+     "这时[fn]察觉洸哉的表情有些阴郁。"
 
 # game/day 3.rpy:204
 translate chinese_simplified torahiko03_8dd20be4:
@@ -473,14 +474,14 @@ translate chinese_simplified torahiko03_977d6490:
 
     # "When I was busy thinking about such things..."
     # [旧版翻译] 来源: 3日目.ks (KS 263)
-     "正当[漏れ]这么想时"
+     "正当[fn]这么想时"
 
 # game/day 3.rpy:231
 translate chinese_simplified torahiko03_19fca102:
 
     # who "「Eh?{w} [fn]!」"
     # [旧版翻译] 来源: 3日目.ks (KS 266)
-    who "「哎呀？这不是[博行]吗！」"
+    who "「哎呀？这不是[fn]吗！」"
 
 # game/day 3.rpy:232
 translate chinese_simplified torahiko03_b4737eb1:
@@ -501,14 +502,14 @@ translate chinese_simplified torahiko03_56d4d553:
 
     # "It turns out that Torahiko was also coming here by chance.{w} He noticed us while he was parking the bicycle in front of the store."
     # [旧版翻译] 来源: 3日目.ks (KS 280)
-     "虎彦偶然骑着自行车从糖果店前经过，并注意到[漏れ]们在店门口的长椅上休息。"
+     "虎彦偶然骑着自行车从糖果店前经过，并注意到[fn]们在店门口的长椅上休息。"
 
 # game/day 3.rpy:242
 translate chinese_simplified torahiko03_5dcda138:
 
     # fn "「Good evening, Tora.{w} Kyouji-senpai and Kouya were\n showing me this candy store as one of the nostalgic\n spots in the village.」"
     # [旧版翻译] 来源: 3日目.ks (KS 282-284)
-    fn "「京慈前辈还有洸哉，特地带着[漏れ]绕了村子一圈，重温那些让人怀念的地方」"
+    fn "「京慈前辈还有洸哉，特地带着[fn]绕了村子一圈，重温那些让人怀念的地方」"
 
 # game/day 3.rpy:246
 translate chinese_simplified torahiko03_2f1979d0:
@@ -522,7 +523,7 @@ translate chinese_simplified torahiko03_fd853082:
 
     # "Torahiko sits next to Kouya with such a confused face."
     # [旧版翻译] 来源: 3日目.ks (KS 290)
-     "虎彦带着吃惊的表情加入[漏れ]们。"
+     "虎彦带着吃惊的表情加入[fn]们。"
 
 # game/day 3.rpy:248
 translate chinese_simplified torahiko03_e6470b30:
@@ -536,21 +537,21 @@ translate chinese_simplified torahiko03_0ab12af4:
 
     # to "「No, no! I'll just skip them, though.」"
     # [旧版翻译] 来源: 3日目.ks (KS 296)
-    to "「不会不会，而且为了[博行]就算都翘掉也无所谓」"
+    to "「不会不会，而且为了[fn]就算都翘掉也无所谓」"
 
 # game/day 3.rpy:250
 translate chinese_simplified torahiko03_e8b72baa:
 
     # fn "「Torahiko, the tournament is coming soon.{p} Isn't it better for you to prioritize the club\n activities over something like this?」"
     # [旧版翻译] 来源: 3日目.ks (KS 298-300)
-    fn "「虎彦你不是快要参加大会了吗，比起[漏れ]的事更应该以社团活动为优先吧？」"
+    fn "「虎彦你不是快要参加大会了吗，比起[fn]的事更应该以社团活动为优先吧？」"
 
 # game/day 3.rpy:254
 translate chinese_simplified torahiko03_7accda27:
 
     # to "「What're you talking about?{p} Until then, please don't say anything like that.」"
     # [旧版翻译] 来源: 3日目.ks (KS 304)
-    to "「怎么连[博行]都说这种话」"
+    to "「怎么连[fn]都说这种话」"
 
 # game/day 3.rpy:255
 translate chinese_simplified torahiko03_54fb0932:
@@ -564,7 +565,7 @@ translate chinese_simplified torahiko03_50140a70:
 
     # ka "「Torahiko would also not be a good guide in the\n firstplace, though.」"
     # [旧版翻译] 来源: 3日目.ks (KS 310-312)
-    ka "「……而且，虎彦你是不可能给[博行]当好导游的吧？」"
+    ka "「……而且，虎彦你是不可能给[fn]当好导游的吧？」"
 
 # game/day 3.rpy:263
 translate chinese_simplified torahiko03_896f3c80:
@@ -599,7 +600,7 @@ translate chinese_simplified torahiko03_688fe4a1:
 
     # "Hopefully, Kyouji-senpai's calmness will somehow ease the bad relationship between those two."
     # [旧版翻译] 来源: 3日目.ks (KS 327-328)
-     "[漏れ]跟京慈前辈一起安抚着两人，这两人的关系要是能有所改善就好了。"
+     "[fn]跟京慈前辈一起安抚着两人，这两人的关系要是能有所改善就好了。"
 
 # game/day 3.rpy:289
 translate chinese_simplified candy03_814c1d3a:
@@ -739,7 +740,7 @@ translate chinese_simplified candy03_9e869748:
 
     # ta "「Oh, well if it isn't [fn].」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 110)
-    ta "「喔喔，这不是[博行]吗。」"
+    ta "「喔喔，这不是[fn]吗。」"
 
 # game/day 3.rpy:343
 translate chinese_simplified candy03_eea8c697:
@@ -872,7 +873,7 @@ translate chinese_simplified candy03_tatsuki_10355d86:
 
     # fn "「Yeah, I get that.\n I sometimes have this weird craving for them.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 210)
-    fn "「啊，[漏れ]懂[漏れ]懂。"
+    fn "「啊，[fn]懂[fn]懂。"
 
 # game/day 3.rpy:400
 translate chinese_simplified candy03_tatsuki_b01f58b5:
@@ -977,7 +978,7 @@ translate chinese_simplified candy03_tatsuki_43b137d8:
 
     # si "「Uh, see you Tatsuki-san, [fn].\n Later.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 286)
-    si "「那个，辰树桑、[博行]，"
+    si "「那个，辰树桑、[fn]，"
 
 # game/day 3.rpy:444
 translate chinese_simplified candy03_tatsuki_0e94e916:
@@ -1005,14 +1006,14 @@ translate chinese_simplified candy03_tatsuki_dcf71d6d:
 
     # "I've never really understood the differences\nsince back then..."
     # [旧版翻译] 来源: 深_s_01.ks (KS 305)
-    "虽然从小时候[漏れ]就看不太出深君和其他人的区别啦……"
+    "虽然从小时候[fn]就看不太出深君和其他人的区别啦……"
 
 # game/day 3.rpy:451
 translate chinese_simplified candy03_tatsuki_c749015b:
 
     # "As I saw off that small retreating back,\nI started talking to Tatsu-nii again."
     # [旧版翻译] 来源: 深_s_01.ks (KS 310)
-    "「……那个辰兄，[漏れ]虽然不太清楚啦，"
+    "「……那个辰兄，[fn]虽然不太清楚啦，"
 
 # game/day 3.rpy:452
 translate chinese_simplified candy03_tatsuki_c7a09cb4:
@@ -1040,7 +1041,7 @@ translate chinese_simplified candy03_tatsuki_3711e384:
 
     # fn "「I see... I can't tell at all.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 322)
-    fn "「是这样啊。……[漏れ]完全看不出来的说。」"
+    fn "「是这样啊。……[fn]完全看不出来的说。」"
 
 # game/day 3.rpy:462
 translate chinese_simplified candy03_tatsuki_502fbd42:
@@ -1117,7 +1118,7 @@ translate chinese_simplified candy03_tatsuki_d2d7363d:
 
     # ta "「But never mind that, [fn].\n Since you're here, wanna buy something?\n I'll treat you.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 372)
-    ta "「别管这个了，[博行]。难得你回来，有想要买什么吗？"
+    ta "「别管这个了，[fn]。难得你回来，有想要买什么吗？"
 
 # game/day 3.rpy:482
 translate chinese_simplified candy03_tatsuki_7ddc8694:
@@ -1222,7 +1223,7 @@ translate chinese_simplified candy03_shin_376082ca:
 
     # fn "「No, I don't think so at all.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 443)
-    fn "「不，[漏れ]想不会啦。」"
+    fn "「不，[fn]想不会啦。」"
 
 # game/day 3.rpy:520
 translate chinese_simplified candy03_shin_bef95801:
@@ -1243,7 +1244,7 @@ translate chinese_simplified candy03_shin_8195be4f:
 
     # ta "「Me? I like this one.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 454)
-    ta "「我吗？[深 普 normal] 我大概这种的吧。」"
+    ta "「我吗？我大概这种的吧。」"
 
 # game/day 3.rpy:529
 translate chinese_simplified candy03_shin_1e4d18a5:
@@ -1257,7 +1258,7 @@ translate chinese_simplified candy03_shin_f4feee49:
 
     # fn "「Oh, I like those too.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 462)
-    fn "「啊，[漏れ]也喜欢这个。」"
+    fn "「啊，[fn]也喜欢这个。」"
 
 # game/day 3.rpy:534
 translate chinese_simplified candy03_shin_bd41b4f2:
@@ -1292,7 +1293,7 @@ translate chinese_simplified candy03_shin_f2ca15fa:
 
     # si "「Well then Tatsuki-san, [fn], later.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 484)
-    si "「那么，辰树桑、[博行]，再见。」"
+    si "「那么，辰树桑、[fn]，再见。」"
 
 # game/day 3.rpy:546
 translate chinese_simplified candy03_shin_80d2cd79:
@@ -1327,7 +1328,7 @@ translate chinese_simplified candy03_shin_c661e5d6:
 
     # ta "「...[fn].」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 508)
-    ta "「……[博行]。」"
+    ta "「……[fn]。」"
 
 # game/day 3.rpy:557
 translate chinese_simplified candy03_shin_b8c652c7:
@@ -1362,7 +1363,7 @@ translate chinese_simplified candy03_shin_fde1bb86:
 
     # fn "「...All right, I got it.\n Sorry Tatsu-nii.」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 527)
-    fn "「……嗯，[漏れ]知道了。"
+    fn "「……嗯，[fn]知道了。"
 
 # game/day 3.rpy:568
 translate chinese_simplified candy03_shin_30dd0560:
@@ -1390,7 +1391,7 @@ translate chinese_simplified candy03_shin_4ad28681:
 
     # si "「[fn]?」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 558)
-    si "「[博行]？」"
+    si "「[fn]？」"
 
 # game/day 3.rpy:584
 translate chinese_simplified candy03_shin_39e03daa:
@@ -1467,7 +1468,7 @@ translate chinese_simplified candy03_shin_a0fb7a26:
 
     # fn "「Some distance?」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 601)
-    fn "「嗯……[深 普 normal]这样讲可能有点像小孩子，不过也因为他年纪比较大吧。"
+    fn "「嗯……这样讲可能有点像小孩子，不过也因为他年纪比较大吧。"
 
 # game/day 3.rpy:605
 translate chinese_simplified candy03_shin_fdebdf18:
@@ -1600,7 +1601,7 @@ translate chinese_simplified candy03_shin_f05ef085:
 
     # fn "「Thanks. Then I'll pick...」"
     # [旧版翻译] 来源: 深_s_01.ks (KS 666)
-    fn "「谢谢。嗯，那[漏れ]要这个[ch text=──]」"
+    fn "「谢谢。嗯，那[fn]要这个[ch text=──]」"
 
 # game/day 3.rpy:640
 translate chinese_simplified candy03_shin_a160a5fd:
@@ -1656,7 +1657,7 @@ translate chinese_simplified candy03_shin_0db0d8ca:
 
     # "As I saw that wide natural smile coming on that face,\nI felt like I glimpsed at the feelings\nof my moody childhood friend."
     # [旧版翻译] 来源: 深_s_01.ks (KS 689)
-    "侧眼看着他放松的表情，[漏れ]总觉得有种"
+    "侧眼看着他放松的表情，[fn]总觉得有种"
 
 # game/day 3.rpy:668
 translate chinese_simplified shun03_1e7fcc8c:
@@ -1698,21 +1699,21 @@ translate chinese_simplified shun03_91edac77:
 
     # "I haven't been to my hometown for so long,\nI didn't take this into consideration\nfrom being so used to living in the city."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 150)
-    "在习惯了城市的生活之后，[漏れ]都没有注意到，"
+    "在习惯了城市的生活之后，[fn]都没有注意到，"
 
 # game/day 3.rpy:683
 translate chinese_simplified shun03_c68e921f:
 
     # "I'm only here for a month.\nUnlike my usual summer vacations,\nI won't waste it lying around!"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 153)
-    "在这里只有1个月的时间，[漏れ]不能像以往的暑假一样，"
+    "在这里只有1个月的时间，[fn]不能像以往的暑假一样，"
 
 # game/day 3.rpy:684
 translate chinese_simplified shun03_52f6d528:
 
     # "So I gathered my strength,{p}and used up my luck to head out just past noon."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 155)
-    "所以[漏れ]拿出了气势和用尽的运气在午后踏出了家门。"
+    "所以[fn]拿出了气势和用尽的运气在午后踏出了家门。"
 
 # game/day 3.rpy:685
 translate chinese_simplified shun03_cef1dbfb:
@@ -1761,7 +1762,7 @@ translate chinese_simplified shun03_31ce83cc:
 
     # su "「[fn]-saaan♪」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 175)
-    su "「[博行]桑～」"
+    su "「[fn]桑～」"
 
 # game/day 3.rpy:695
 translate chinese_simplified shun03_70b5e13b:
@@ -1775,7 +1776,7 @@ translate chinese_simplified shun03_41f87fc9:
 
     # su "「Hehee♪{w=.3} [fn]-san.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 187)
-    su "「嘿嘿，　[博行]桑～」"
+    su "「嘿嘿，　[fn]桑～」"
 
 # game/day 3.rpy:701
 translate chinese_simplified shun03_1c613425:
@@ -1789,7 +1790,7 @@ translate chinese_simplified shun03_785ab368:
 
     # "With an appearance that could be mistaken\nfor a child, my childhood friend,{w} tail wagging\nback and forth,{w} mercilessly clings to me."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 190)
-    "摇着尾巴黏上来的是[漏れ]的幼驯染，"
+    "摇着尾巴黏上来的是[fn]的幼驯染，"
 
 # game/day 3.rpy:706
 translate chinese_simplified shun03_a1fae1cd:
@@ -1803,7 +1804,7 @@ translate chinese_simplified shun03_25d0baa4:
 
     # "Yeah, good afternoon.{w} I can't return his greeting\nas a higher body temperature is being transmitted\nfrom his tiny body, and is gradually heating me up."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 200)
-    "是，下午好。连给[漏れ]这样回答的余地都没有，"
+    "是，下午好。连给[fn]这样回答的余地都没有，"
 
 # game/day 3.rpy:708
 translate chinese_simplified shun03_71c7854b:
@@ -1817,7 +1818,7 @@ translate chinese_simplified shun03_38fcf626:
 
     # "I come to understand that this is limited to\na well air-conditioned environment."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 206)
-    "据[漏れ]所知只有在良好的空调环境下。"
+    "据[fn]所知只有在良好的空调环境下。"
 
 # game/day 3.rpy:710
 translate chinese_simplified shun03_b9ebefe8:
@@ -1831,7 +1832,7 @@ translate chinese_simplified shun03_a0cf9a91:
 
     # su "「?{w=.3} [fn]-san?」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 216)
-    su "「？　[博行]桑？」"
+    su "「？　[fn]桑？」"
 
 # game/day 3.rpy:715
 translate chinese_simplified shun03_9f7b97a0:
@@ -1845,21 +1846,21 @@ translate chinese_simplified shun03_5b454e52:
 
     # "...But he is cute.{p}He anxiously looks up at me with his acorn eyes."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 221)
-    "……峻用橡色的眼睛担心地看着[漏れ]。"
+    "……峻用橡色的眼睛担心地看着[fn]。"
 
 # game/day 3.rpy:717
 translate chinese_simplified shun03_780cd1ba:
 
     # "When my moderately steamed brain\nis about to state its cheap thoughts,{p}Shun-kun releases me."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 224)
-    "正当[漏れ]用如同被蒸过的大脑述说着简单感想的时，"
+    "正当[fn]用如同被蒸过的大脑述说着简单感想的时，"
 
 # game/day 3.rpy:723
 translate chinese_simplified shun03_c202cfca:
 
     # su "「[fn]-san, are you out for a walk?」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 237)
-    su "「[博行]桑是在散步吗？」"
+    su "「[fn]桑是在散步吗？」"
 
 # game/day 3.rpy:724
 translate chinese_simplified shun03_8cd47c3e:
@@ -1880,28 +1881,28 @@ translate chinese_simplified shun03_9982ed45:
 
     # "My arm is being pulled."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 247)
-    "峻把[漏れ]的手臂拉住了。"
+    "峻把[fn]的手臂拉住了。"
 
 # game/day 3.rpy:730
 translate chinese_simplified shun03_896d6ccb:
 
     # "This cute, one-year-below-me wolf\nis getting all fired up,\ndespite the direct rays of the sun."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 248)
-    "这个可爱的、比[漏れ]小一岁的狼人，"
+    "这个可爱的、比[fn]小一岁的狼人，"
 
 # game/day 3.rpy:734
 translate chinese_simplified shun03_152e4e03:
 
     # su "「So, [fn]-san?」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 255)
-    su "「[博行]桑、呐？」"
+    su "「[fn]桑、呐？」"
 
 # game/day 3.rpy:735
 translate chinese_simplified shun03_20d27139:
 
     # "Guh, his whole face dazzles greater than the sun."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 259)
-    "好像因为在这里遇到[漏れ]很高兴。"
+    "好像因为在这里遇到[fn]很高兴。"
 
 # game/day 3.rpy:736
 translate chinese_simplified shun03_c8994386:
@@ -1922,7 +1923,7 @@ translate chinese_simplified shun03_b6535d9f:
 
     # "Is that him expressing his joy\nof picking up my signal?"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 268)
-    "这是在表现见到[漏れ]的喜悦吗？"
+    "这是在表现见到[fn]的喜悦吗？"
 
 # game/day 3.rpy:742
 translate chinese_simplified shun03_5fed7ac5:
@@ -1964,21 +1965,21 @@ translate chinese_simplified shun03_b8c6f30b:
 
     # su "「[fn]-san?」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 285)
-    su "「[博行]桑？」"
+    su "「[fn]桑？」"
 
 # game/day 3.rpy:751
 translate chinese_simplified shun03_26e546c0:
 
     # "Delirious with heat,{w=.3}\nmy thoughts completely change to the trip scene."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 287)
-    "被酷热弄得意乱神迷的[漏れ]完全陷入了不着边际的思考。"
+    "被酷热弄得意乱神迷的[fn]完全陷入了不着边际的思考。"
 
 # game/day 3.rpy:752
 translate chinese_simplified shun03_66aebdcc:
 
     # "Around the time I'm about to check his\neating habits, {w=.3}he calls out my name a second time."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 288)
-    "正当[漏れ]考虑峻的饮食习惯时，"
+    "正当[fn]考虑峻的饮食习惯时，"
 
 # game/day 3.rpy:753
 translate chinese_simplified shun03_fd9d6358:
@@ -2048,7 +2049,7 @@ translate chinese_simplified shun03_7cbafb13:
 
     # fn "「Take me there.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 346)
-    fn "「带[漏れ]去。」"
+    fn "「带[fn]去。」"
 
 # game/day 3.rpy:776
 translate chinese_simplified shun03_0a50e8f4:
@@ -2118,14 +2119,14 @@ translate chinese_simplified shun03_f4fa6b43:
 
     # su "「[fn]-san, you come too please!」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 418)
-    su "「[博行]桑也一起来嘛！」"
+    su "「[fn]桑也一起来嘛！」"
 
 # game/day 3.rpy:803
 translate chinese_simplified shun03_c8864c47:
 
     # "My cooled-down brain begins to operate{p}in full swing."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 420)
-    "已经冷却下来的[漏れ]的大脑开始了全力运动。"
+    "已经冷却下来的[fn]的大脑开始了全力运动。"
 
 # game/day 3.rpy:804
 translate chinese_simplified shun03_e74baaa7:
@@ -2139,7 +2140,7 @@ translate chinese_simplified shun03_0455511f:
 
     # fn "「Umm, I'm cool enough right here.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 425)
-    fn "「呜嗯，[漏れ]在这里就已经足够凉快了。」"
+    fn "「呜嗯，[fn]在这里就已经足够凉快了。」"
 
 # game/day 3.rpy:809
 translate chinese_simplified shun03_945c8500:
@@ -2153,7 +2154,7 @@ translate chinese_simplified shun03_7037ef74:
 
     # "Add in that splashing around\nand I won't be able to endure it."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 432)
-    "水珠四处飞溅着，让[漏れ]快要把持不住了。"
+    "水珠四处飞溅着，让[fn]快要把持不住了。"
 
 # game/day 3.rpy:811
 translate chinese_simplified shun03_6e157b8e:
@@ -2181,35 +2182,35 @@ translate chinese_simplified shun03_6042a224:
 
     # "So {w=.5}that means it shouldn't be a problem even{p}if I take home a half-dried one."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 443)
-    "这[wait time=\"500\"]意味着，把半干的胖次放在里面带回家也没问题吧。"
+    "这{w=.3}意味着，把半干的胖次放在里面带回家也没问题吧。"
 
 # game/day 3.rpy:818
 translate chinese_simplified shun03_951a4c65:
 
     # su "「...[fn]-san? Are you okay?{p} You're spacing out.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 448)
-    su "「……[博行]桑？　你不要紧吧？"
+    su "「……[fn]桑？　你不要紧吧？"
 
 # game/day 3.rpy:822
 translate chinese_simplified shun03_1f851196:
 
     # fn "「!{w} {nw}"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 452)
-    fn "「[se bosu29 buf=0]！　[se bosu32 buf=0]没关系的！　[se bosu35 buf=0]才没有想要你的胖次呢！」"
+    fn "「！　没关系的！　才没有想要你的胖次呢！」"
 
 # game/day 3.rpy:824
 translate chinese_simplified shun03_405a4884:
 
     # extend "I'm fine!\n {w=.3}{nw}"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 452)
-    extend "「[se bosu29 buf=0]！　[se bosu32 buf=0]没关系的！　[se bosu35 buf=0]才没有想要你的胖次呢！」"
+    extend "「！　没关系的！　才没有想要你的胖次呢！」"
 
 # game/day 3.rpy:826
 translate chinese_simplified shun03_cbe0067d:
 
     # extend "I wasn't thinking about wanting underwear!」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 452)
-    extend "「[se bosu29 buf=0]！　[se bosu32 buf=0]没关系的！　[se bosu35 buf=0]才没有想要你的胖次呢！」"
+    extend "「！　没关系的！　才没有想要你的胖次呢！」"
 
 # game/day 3.rpy:828
 translate chinese_simplified shun03_05011310:
@@ -2223,7 +2224,7 @@ translate chinese_simplified shun03_029ff9fd:
 
     # su "「You're going to this year's Bon Festival too,{p} aren't you?♪」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 484)
-    su "「今年的祭典，[博行]桑也一起来吗?」"
+    su "「今年的祭典，[fn]桑也一起来吗?」"
 
 # game/day 3.rpy:842
 translate chinese_simplified shun03_3ae92e21:
@@ -2251,7 +2252,7 @@ translate chinese_simplified shun03_065dbb42:
 
     # "If I can expect to catch intermittent views of his\nbutt at the edge of his happi coat, then I'm not\ngoing to be carrying around the portable shrine."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 496)
-    "如果[漏れ]能期待在间隙时看到他号衣边的大腿之类的，"
+    "如果[fn]能期待在间隙时看到他号衣边的大腿之类的，"
 
 # game/day 3.rpy:852
 translate chinese_simplified shun03_f42c05fb:
@@ -2272,7 +2273,7 @@ translate chinese_simplified shun03_951a4c65_1:
 
     # su "「...[fn]-san? Are you okay?{p} You're spacing out.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 509)
-    su "「……[博行]桑？　你不要紧吧？"
+    su "「……[fn]桑？　你不要紧吧？"
 
 # game/day 3.rpy:858
 translate chinese_simplified shun03_1f851196_1:
@@ -2314,7 +2315,7 @@ translate chinese_simplified shun03_bd826c0b:
 
     # "I suggest to Shun-kun, who's still energetic,{p}that we take a break in the park."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 538)
-    "提议[漏れ]们一起去公园休息一下。"
+    "提议[fn]们一起去公园休息一下。"
 
 # game/day 3.rpy:878
 translate chinese_simplified shun03_63aade69:
@@ -2356,14 +2357,14 @@ translate chinese_simplified shun03_b4db0b1c:
 
     # "「Then I should have written a letter too,\nfunyuun」,{w} he says."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 585)
-    "要是我也给[博行]写信那就好了，唔喵。"
+    "要是我也给[fn]写信那就好了，唔喵。"
 
 # game/day 3.rpy:894
 translate chinese_simplified shun03_1d321af8:
 
     # "Shun-kun thinks that I\nonly came back for Torahiko.{p}...What?"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 586)
-    "峻君以为[漏れ]只是"
+    "峻君以为[fn]只是"
 
 # game/day 3.rpy:895
 translate chinese_simplified shun03_c9aead72:
@@ -2398,7 +2399,7 @@ translate chinese_simplified shun03_54c49a34:
 
     # "And I'll be suspected of abuse{p}or kidnapping or other unspeakable things."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 618)
-    "说不定[漏れ]会被挂上以回老家为借口，"
+    "说不定[fn]会被挂上以回老家为借口，"
 
 # game/day 3.rpy:906
 translate chinese_simplified shun03_fa90ceba:
@@ -2419,7 +2420,7 @@ translate chinese_simplified shun03_69b937a1:
 
     # "Just by doing this in front of me,{p}I'm seized by all these feelings of guilt."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 626)
-    "仅仅是在[漏れ]眼前做这样的事就让[漏れ]被罪恶感驱使"
+    "仅仅是在[fn]眼前做这样的事就让[fn]被罪恶感驱使"
 
 # game/day 3.rpy:909
 translate chinese_simplified shun03_a82beb09:
@@ -2440,7 +2441,7 @@ translate chinese_simplified shun03_b360ce33:
 
     # "There's almost nothing to do but cry myself.{p}A. Stop Shun's crying{p}B. Cry myself"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 632)
-    "还是[漏れ]也一起哭吗？"
+    "还是[fn]也一起哭吗？"
 
 # game/day 3.rpy:912
 translate chinese_simplified shun03_67dbbbed:
@@ -2496,7 +2497,7 @@ translate chinese_simplified shun03_00a01bc6:
 
     # su "「I've been thinking about the reason\n why you didn't come back.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 668)
-    su "「[博行]桑不回来的理由，"
+    su "「[fn]桑不回来的理由，"
 
 # game/day 3.rpy:929
 translate chinese_simplified shun03_0672d1ef:
@@ -2531,7 +2532,7 @@ translate chinese_simplified shun03_f1570c9d:
 
     # su "「So you...{p}didn't come back... *sniffle*」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 687)
-    su "「[博行]桑，所以……"
+    su "「[fn]桑，所以……"
 
 # game/day 3.rpy:937
 translate chinese_simplified shun03_789d1b6a:
@@ -2566,7 +2567,7 @@ translate chinese_simplified shun03_ea4a6502:
 
     # fn "「I-I was spacing out because I wanted to burn\n every one of your actions into my retinas!{p} ...wait, no!」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 706)
-    fn "「发、发呆是因为，[漏れ]想把峻君的一举一动"
+    fn "「发、发呆是因为，[fn]想把峻君的一举一动"
 
 # game/day 3.rpy:952
 translate chinese_simplified shun03_81c914f2:
@@ -2615,21 +2616,21 @@ translate chinese_simplified shun03_c09f57ee:
 
     # "I try to wipe away his tears again\nwith my wrist and he pushes into my chest."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 741)
-    "再次拭去他脸上的泪水，[漏れ]把他抱近胸口。"
+    "再次拭去他脸上的泪水，[fn]把他抱近胸口。"
 
 # game/day 3.rpy:962
 translate chinese_simplified shun03_97eccf6b:
 
     # su "「[fn]{w=.3}-san...」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 744)
-    su "「[博行]、桑……」"
+    su "「[fn]、桑……」"
 
 # game/day 3.rpy:963
 translate chinese_simplified shun03_5d7c22c1:
 
     # "Thump,{w=.3} thump.\nI can definitely hear his heart beating."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 746)
-    "扑通、扑通。[漏れ]确实地听到了他的心跳。"
+    "扑通、扑通。[fn]确实地听到了他的心跳。"
 
 # game/day 3.rpy:964
 translate chinese_simplified shun03_e54437a5:
@@ -2685,7 +2686,7 @@ translate chinese_simplified shun03_3fb6f347:
 
     # fn "「So don't cry. I didn't come back\n to see that kind of face.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 770)
-    fn "「别哭了呦，[漏れ]不是为了看那样一张脸"
+    fn "「别哭了呦，[fn]不是为了看那样一张脸"
 
 # game/day 3.rpy:975
 translate chinese_simplified shun03_8e352b27:
@@ -2706,7 +2707,7 @@ translate chinese_simplified shun03_ac0d08b7:
 
     # fn "「I reeeally wanted to see everybody,{p} isn't that true?」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 779)
-    fn "「[漏れ]真的很想见大家，不是吗？」"
+    fn "「[fn]真的很想见大家，不是吗？」"
 
 # game/day 3.rpy:978
 translate chinese_simplified shun03_571f9495:
@@ -2741,14 +2742,14 @@ translate chinese_simplified shun03_2ac4a686:
 
     # fn "「All of my friends are important to me.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 795)
-    fn "「大家都是[漏れ]重要的朋友！」"
+    fn "「大家都是[fn]重要的朋友！」"
 
 # game/day 3.rpy:986
 translate chinese_simplified shun03_8f5ac8a2:
 
     # su "「[fn]-san...」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 800)
-    su "「[博行]桑……」"
+    su "「[fn]桑……」"
 
 # game/day 3.rpy:987
 translate chinese_simplified shun03_32957985:
@@ -2762,7 +2763,7 @@ translate chinese_simplified shun03_8a97756e:
 
     # "I say with a wink."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 805)
-    "这么说着，[漏れ]对着峻君眨了眨眼。"
+    "这么说着，[fn]对着峻君眨了眨眼。"
 
 # game/day 3.rpy:989
 translate chinese_simplified shun03_2f30140c:
@@ -2790,7 +2791,7 @@ translate chinese_simplified shun03_41f87fc9_1:
 
     # su "「Hehee♪{w=.3} [fn]-san.」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 822)
-    su "「嘿嘿?　[博行]桑」"
+    su "「嘿嘿?　[fn]桑」"
 
 # game/day 3.rpy:1000
 translate chinese_simplified shun03_1c613425_1:
@@ -2804,7 +2805,7 @@ translate chinese_simplified shun03_365c0767:
 
     # "When I see that Shun-kun is in an\nadhesive state again, I'm relieved.{p}\"Love\" seems to have been effective, that's good."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 825)
-    "再次确认贴紧着的峻君的状态，[漏れ]安心下来。"
+    "再次确认贴紧着的峻君的状态，[fn]安心下来。"
 
 # game/day 3.rpy:1002
 translate chinese_simplified shun03_7142bd55:
@@ -2839,28 +2840,28 @@ translate chinese_simplified shun03_9e1fce3e:
 
     # "H-have I still not been able\nto smash that element of anxiety?!"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 840)
-    "难、难道还有什么不安要素是[漏れ]没有清楚的吗！"
+    "难、难道还有什么不安要素是[fn]没有清楚的吗！"
 
 # game/day 3.rpy:1013
 translate chinese_simplified shun03_5d979977:
 
     # su "「[fn]-san,{p} You're going back once your summer vacation\n is over,{w} aren't you...?」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 846)
-    su "「[博行]桑，"
+    su "「[fn]桑，"
 
 # game/day 3.rpy:1014
 translate chinese_simplified shun03_09b4705b:
 
     # "Shun-kun stares up at me with big round eyes.{p}I feel like I've done\nsomething extremely terrible."
     # [旧版翻译] 来源: 峻_m_01.ks (KS 849)
-    "峻君用他的大圆眼睛盯着[漏れ]看。"
+    "峻君用他的大圆眼睛盯着[fn]看。"
 
 # game/day 3.rpy:1015
 translate chinese_simplified shun03_b7d62519:
 
     # "I can't stand those cute and sad eyes any longer,{p}{nw}"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 850)
-    "好像[漏れ]做了什么不得了的坏事一样。"
+    "好像[fn]做了什么不得了的坏事一样。"
 
 # game/day 3.rpy:1017
 translate chinese_simplified shun03_673e3625:
@@ -2881,7 +2882,7 @@ translate chinese_simplified shun03_113d29aa:
 
     # su "「Mmf, mmmf, [fn]-sa- mmmfmmf」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 862)
-    su "「唔、唔唔、[博行]、桑、唔唔唔」"
+    su "「唔、唔唔、[fn]、桑、唔唔唔」"
 
 # game/day 3.rpy:1021
 translate chinese_simplified shun03_5f01be74:
@@ -2923,21 +2924,21 @@ translate chinese_simplified shun03_e6c889b3:
 
     # su "「And then the Bon Festival,{p} {nw}"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 895)
-    su "「接下来是祭典和[峻 普 normal]山的对面，[峻 ふりふり normal]然后，然后是……」"
+    su "「接下来是祭典和山的对面，然后，然后是……」"
 
 # game/day 3.rpy:1036
 translate chinese_simplified shun03_cad487c3:
 
     # extend "and the mountains over there,{nw}"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 895)
-    extend "「接下来是祭典和[峻 普 normal]山的对面，[峻 ふりふり normal]然后，然后是……」"
+    extend "「接下来是祭典和山的对面，然后，然后是……」"
 
 # game/day 3.rpy:1039
 translate chinese_simplified shun03_e28985b9:
 
     # extend "{p} and umm, ummm...」"
     # [旧版翻译] 来源: 峻_m_01.ks (KS 895)
-    extend "「接下来是祭典和[峻 普 normal]山的对面，[峻 ふりふり normal]然后，然后是……」"
+    extend "「接下来是祭典和山的对面，然后，然后是……」"
 
 # game/day 3.rpy:1043
 translate chinese_simplified shun03_f28ec384:

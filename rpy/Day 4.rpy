@@ -1003,7 +1003,7 @@ translate chinese_simplified tatsuki04_01644c6e:
 
     # ta "「Hurry up and come in,\n you gotta start sweeping up... Or something.{p} Gahahahahahahaha!!!」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「快进来吧！再不进来的话我就把你绑进来！！！[l]嘎哈哈哈哈哈哈哈！！！！」"
+    ta "「快进来吧！再不进来的话我就把你绑进来！！！{p}嘎哈哈哈哈哈哈哈！！！！」"
 
 # game/Day 4.rpy:437
 translate chinese_simplified tatsuki04_3e1b4157:
@@ -1036,7 +1036,7 @@ translate chinese_simplified tatsuki04_2d4e0f38:
 
     # ta "「I was made to drink in weather like this.{p} Hey, come in already, or it'll all be finished.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「这么好的天气不喝酒可伤不起啊![l]好啦！快进来！我要吃掉你呦！~」"
+    ta "「这么好的天气不喝酒可伤不起啊!{p}好啦！快进来！我要吃掉你呦！~」"
 
 # game/Day 4.rpy:445
 translate chinese_simplified tatsuki04_ac6bd44e:
@@ -1056,21 +1056,21 @@ translate chinese_simplified tatsuki04_b42d4fe2:
 
     # tp "「Ooh, if it isn't [fn]! You come over here\n and have a drink, too.{p} You're old enough, right?」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    tp "「呦~这不是博行嘛！你也到这边来一起喝吧。[l]这个年龄，也能喝酒了吧？」"
+    tp "「呦~这不是博行嘛！你也到这边来一起喝吧。{p}这个年龄，也能喝酒了吧？」"
 
 # game/Day 4.rpy:455
 translate chinese_simplified tatsuki04_af753df8:
 
     # fn "「Tappei-san, you'll have to excuse me.{p} I'm not old enough to drink yet.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    fn "「啊！辰平叔饶了我吧。[l]我还远远没到能喝酒的年龄啊。」"
+    fn "「啊！辰平叔饶了我吧。{p}我还远远没到能喝酒的年龄啊。」"
 
 # game/Day 4.rpy:461
 translate chinese_simplified tatsuki04_ddf438bc:
 
     # tp "「The hell are you on about, I was even younger\n than you when I had my first.{w} Are you saying you\n don't want my sake? Disrespecting your elders...」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    tp "「诶？你小子在胡说些什么呢，我学会喝酒的时候，年龄可比你还小呢。{w}就是说...你是不想喝我的酒。是吧？[l]换言之，你居然在拒绝长辈的要求......」"
+    tp "「诶？你小子在胡说些什么呢，我学会喝酒的时候，年龄可比你还小呢。{w}就是说...你是不想喝我的酒。是吧？{p}换言之，你居然在拒绝长辈的要求......」"
 
 # game/Day 4.rpy:465
 translate chinese_simplified tatsuki04_5994516d:
@@ -1137,7 +1137,7 @@ translate chinese_simplified tatsuki04_f85277d9:
 translate chinese_simplified tatsuki04_2990949e:
 
     # tp "「[fn], in the time I haven't seen you, you\n became a real good-looking man.{p} C'mon, sit down next to me.」"
-    tp "「我也很长时间没有见到博行了呢。\n变得更有男人味了呢~不是吗？[l]来！坐我旁边。」"
+    tp "「我也很长时间没有见到博行了呢。\n变得更有男人味了呢~不是吗？{p}来！坐我旁边。」"
 
 # game/Day 4.rpy:495
 translate chinese_simplified tatsuki04_e46514e5:
@@ -1151,14 +1151,14 @@ translate chinese_simplified tatsuki04_a8c63955:
 
     # fn "「Ta-Tappei-san, what are you going to teach me?{p} Would you please wait???{p} And not pull me into strange situations!?」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    fn "「欸！？辰、辰平叔，你要教我……教我做什么。。[l]等一下？？？[l]请别拉我奇怪的地方！？」"
+    fn "「欸！？辰、辰平叔，你要教我……教我做什么。。{p}等一下？？？{p}请别拉我奇怪的地方！？」"
 
 # game/Day 4.rpy:504
 translate chinese_simplified tatsuki04_b41283a9:
 
     # ta "「Pa, what are you doing, you bastard?!{p} [fn]'s mine,{w=.3}{nw}"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「喂！老爸，你想干什么。[l]博行可是我的人，{w=.3}{nw}"
+    ta "「喂！老爸，你想干什么。{p}博行可是我的人，{w=.3}{nw}"
 
 # game/Day 4.rpy:506
 translate chinese_simplified tatsuki04_cc4e48f7:
@@ -1172,7 +1172,7 @@ translate chinese_simplified tatsuki04_a60baa2c:
 
     # fn "「Uh, hey...{p} I feel like you two are going to rip me in half.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    fn "「那个，等一下……[l]两个人一起拉的话身体要裂开啦。」"
+    fn "「那个，等一下……{p}两个人一起拉的话身体要裂开啦。」"
 
 # game/Day 4.rpy:509
 translate chinese_simplified tatsuki04_be9ea384:
@@ -1193,14 +1193,14 @@ translate chinese_simplified tatsuki04_911d97ec:
 
     # tp "「Get lost, shorty.{p} This is grown-up time.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    tp "「小孩子滚一边去！！！[l]接下来要到大人的时间了。」"
+    tp "「小孩子滚一边去！！！{p}接下来要到大人的时间了。」"
 
 # game/Day 4.rpy:521
 translate chinese_simplified tatsuki04_fa94a7c4:
 
     # ta "「Shut it, baldy.{p} This is the age of youth.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「秃头！给我闭嘴！[l]现在的世界可是属于我们年轻人的啊！」"
+    ta "「秃头！给我闭嘴！{p}现在的世界可是属于我们年轻人的啊！」"
 
 # game/Day 4.rpy:522
 translate chinese_simplified tatsuki04_3a9b2bbf:
@@ -1247,7 +1247,7 @@ translate chinese_simplified tatsuki04_party_df4d3ba6:
 
     # ta "「So it's like that.{p} Let's do this!」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「就得这样嘛。[l]尽情开喝吧！！！」"
+    ta "「就得这样嘛。{p}尽情开喝吧！！！」"
 
 # game/Day 4.rpy:557
 translate chinese_simplified tatsuki04_party_c8b911f9:
@@ -1261,7 +1261,7 @@ translate chinese_simplified tatsuki04_party_a1d58c15:
 
     # fn "「It hurts...{p} Hurk!{p} I can't...{w=.3} Drink anymore...」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    fn "「好辛苦……[l]唔咕！[l]我已经……{w=.3}喝不下了……」"
+    fn "「好辛苦……{p}唔咕！{p}我已经……{w=.3}喝不下了……」"
 
 # game/Day 4.rpy:565
 translate chinese_simplified tatsuki04_party_0dc06640:
@@ -1282,7 +1282,7 @@ translate chinese_simplified tatsuki04_party_39ee4e37:
 
     # tp "「Oh well... Let's keep drinking at Raimon.{p} My treat, so come along.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    tp "「真～真没办法呢，算啦！到雷门那里去喝吧。[l]那两个臭小子！跟过来。」"
+    tp "「真～真没办法呢，算啦！到雷门那里去喝吧。{p}那两个臭小子！跟过来。」"
 
 # game/Day 4.rpy:571
 translate chinese_simplified tatsuki04_party_cfed0566:
@@ -1337,13 +1337,13 @@ translate chinese_simplified tatsuki04_party_e27ac7a1:
 translate chinese_simplified tatsuki04_party_98c67685:
 
     # ta "「You'd do absolutely anything, wouldn't you,\n old man.{w} [fn]'s mine,\n there's no way I'll hand him over!」"
-    ta "「欸~你绝对想干些什么事吧，臭老爸。[l]博行是可是我的人，\n你再怎么固执，我都不会让给你的！」"
+    ta "「欸~你绝对想干些什么事吧，臭老爸。{p}博行是可是我的人，\n你再怎么固执，我都不会让给你的！」"
 
 # game/Day 4.rpy:600
 translate chinese_simplified tatsuki04_party_73465669:
 
     # tp "「What was that? I'll give you a stern talking to,\n for going against your father.{w} Come outside,\n I'll beat that temper of yours back into line.」"
-    tp "「你说啥，你在用什么口气跟老爸说话。[l]好小子，\n有种就跟我出去单练！」"
+    tp "「你说啥，你在用什么口气跟老爸说话。{p}好小子，\n有种就跟我出去单练！」"
 
 # game/Day 4.rpy:601
 translate chinese_simplified tatsuki04_party_66b38d2b:
@@ -1371,14 +1371,14 @@ translate chinese_simplified tatsuki04_party_b94490d3:
 
     # om "「Kid,{w=.3} kid,{w=.3}wake up.{p} It's closing time.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    om "「小哥、{w=.3}小哥，{w=.3}快起来。[l]今晚店子已经要打烊了哦。」"
+    om "「小哥、{w=.3}小哥，{w=.3}快起来。{p}今晚店子已经要打烊了哦。」"
 
 # game/Day 4.rpy:613
 translate chinese_simplified tatsuki04_party_405db91c:
 
     # fn "「Hm?{w} Huh, where am I...?{p} Urgh,{w=.3} I feel sick...」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    fn "「唔？{w}阿勒？这是哪里？[l]哇，{w=.3}好难受啊..」"
+    fn "「唔？{w}阿勒？这是哪里？{p}哇，{w=.3}好难受啊..」"
 
 # game/Day 4.rpy:614
 translate chinese_simplified tatsuki04_party_8b39b92a:
@@ -1392,7 +1392,7 @@ translate chinese_simplified tatsuki04_party_79c192c0:
 
     # fn "「That's right, I was drinking at Raimon.{p} Huh...? Where'd those two go?」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    fn "「啊！想起来了，是来了雷门喝酒来著。[l]阿勒？他们俩到哪里去了？」"
+    fn "「啊！想起来了，是来了雷门喝酒来著。{p}阿勒？他们俩到哪里去了？」"
 
 # game/Day 4.rpy:616
 translate chinese_simplified tatsuki04_party_bd6b84cc:
@@ -1425,7 +1425,7 @@ translate chinese_simplified tatsuki04_party_43b54e32:
 
     # om "「Don't make that face{w=.3} it's a joke.{p}This should make Mr. Midoriya uneasy.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    om "「小哥，不用摆出这么不安的表情啦。{w=.3}开玩笑的。[l]这笔账会记在翠屋的老板那里的，您就放心吧。」"
+    om "「小哥，不用摆出这么不安的表情啦。{w=.3}开玩笑的。{p}这笔账会记在翠屋的老板那里的，您就放心吧。」"
 
 # game/Day 4.rpy:627
 translate chinese_simplified tatsuki04_party_5d642792:
@@ -1444,7 +1444,7 @@ translate chinese_simplified tatsuki04_scold_d448ed45:
 translate chinese_simplified tatsuki04_scold_95c53d68:
 
     # fn "「What are you two even saying,{p} and drinking at this hour...{p} I'm not anybody's thing!」"
-    fn "「你们俩都在说些什么啊，\n在这种时间里喝酒什么的......[l]\n而且我不是谁的所有物！」"
+    fn "「你们俩都在说些什么啊，\n在这种时间里喝酒什么的......{p}\n而且我不是谁的所有物！」"
 
 # game/Day 4.rpy:642
 translate chinese_simplified tatsuki04_scold_722edf77:
@@ -1471,13 +1471,13 @@ translate chinese_simplified tatsuki04_scold_f397c31f:
 
     # ta "「Good god you're slutty.{p} You're a man, get ahold of yourself!!!」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「真是没出息。[l]要是个男人的话就给我振作起来！！！！」"
+    ta "「真是没出息。{p}要是个男人的话就给我振作起来！！！！」"
 
 # game/Day 4.rpy:655
 translate chinese_simplified tatsuki04_scold_5537f7d3:
 
     # fn "「No, the one who'd be slutty would be...」"
-    fn "「不，相比较而言没出息的是……[l]\n而且难得这么久没见面了……」"
+    fn "「不，相比较而言没出息的是……{p}\n而且难得这么久没见面了……」"
 
 # game/Day 4.rpy:662
 translate chinese_simplified tatsuki04_scold_df550353:
@@ -1497,14 +1497,14 @@ translate chinese_simplified tatsuki04_scold_63dadb59:
 translate chinese_simplified tatsuki04_scold_dfa258ba:
 
     # tp "「Are you self-aware about being angry?{p} I'll say this for your sake.」"
-    tp "「你察觉到现在的你很让人生气了吗？[l]\n我这话可是为了你好才说的。」"
+    tp "「你察觉到现在的你很让人生气了吗？{p}\n我这话可是为了你好才说的。」"
 
 # game/Day 4.rpy:668
 translate chinese_simplified tatsuki04_scold_4baff650:
 
     # ta "「Seriously, that was shameful.{p} What happened to the old you?」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「真是的，真没出息。[l]以前的你到底哪里去了？」"
+    ta "「真是的，真没出息。{p}以前的你到底哪里去了？」"
 
 # game/Day 4.rpy:669
 translate chinese_simplified tatsuki04_scold_89491752:
@@ -1546,7 +1546,7 @@ translate chinese_simplified tatsuki04_help_f5952afe:
 
     # ta "「I was waiting for that.{p} [fn], who do you think is better, me or Pa?{p} Pick the one you like.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「正合我意。[l]博行，我和老爸哪一边更好。[l]就由你来选择吧。」"
+    ta "「正合我意。{p}博行，我和老爸哪一边更好。{p}就由你来选择吧。」"
 
 # game/Day 4.rpy:700
 translate chinese_simplified tatsuki04_help_b1a79d9c:
@@ -1620,7 +1620,7 @@ translate chinese_simplified tatsuki04_help_44b6b4cf:
 translate chinese_simplified tatsuki04_help_2f0c9116:
 
     # yukino "「Oh my, welcome.{p} After coming back all of a sudden,\n I'm sorry for these two bothering you like this.」"
-    yukino "「啊啦，欢迎。[l]这次，你难得回村子里来，\n我家的这两个家伙还来麻烦你，真是抱歉啊。」"
+    yukino "「啊啦，欢迎。{p}这次，你难得回村子里来，\n我家的这两个家伙还来麻烦你，真是抱歉啊。」"
 
 # game/Day 4.rpy:729
 translate chinese_simplified tatsuki04_help_98dfa3f3:
@@ -1654,28 +1654,28 @@ translate chinese_simplified tatsuki04_help_8097b5be:
 
     # tp "「Won't need any, we're going out now.{p} Bring me my clothes!!」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    tp "「不用了，等下我还要出门。[l]帮我把要穿的衣服拿过来！！」"
+    tp "「不用了，等下我还要出门。{p}帮我把要穿的衣服拿过来！！」"
 
 # game/Day 4.rpy:738
 translate chinese_simplified tatsuki04_help_c7f12edb:
 
     # yukino "「You're going out?{p} Even though you're in the\n middle of drinking?」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    yukino "「你要出门吗？[l]喝了这么多酒还要到外面去吗？」"
+    yukino "「你要出门吗？{p}喝了这么多酒还要到外面去吗？」"
 
 # game/Day 4.rpy:739
 translate chinese_simplified tatsuki04_help_64a9cb4e:
 
     # tp "「Just hurry and get them.{p} They'll be in my room!」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    tp "「别啰啰嗦嗦了！总之快点...快点给我拿过来。[l]就放在房间里！」"
+    tp "「别啰啰嗦嗦了！总之快点...快点给我拿过来。{p}就放在房间里！」"
 
 # game/Day 4.rpy:740
 translate chinese_simplified tatsuki04_help_7270d7b9:
 
     # yukino "「Yes, yes, I understand.{p} I'll clean up here.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    yukino "「是是，我知道了啦。[l]这里我就先打扫干净了哦。」"
+    yukino "「是是，我知道了啦。{p}这里我就先打扫干净了哦。」"
 
 # game/Day 4.rpy:744
 translate chinese_simplified tatsuki04_help_fa34ed33:
@@ -1689,21 +1689,21 @@ translate chinese_simplified tatsuki04_help_4b92decd:
 
     # yukino "「Geez... that man can't be helped.{p} As soon as the living room gets messy, he runs.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    yukino "「真是的……那家伙真是叫人没办法呢。[l]只要情况不妙的话就会马上溜走。」"
+    yukino "「真是的……那家伙真是叫人没办法呢。{p}只要情况不妙的话就会马上溜走。」"
 
 # game/Day 4.rpy:746
 translate chinese_simplified tatsuki04_help_620c0ee5:
 
     # yukino "「I'm sorry, [fn]-kun,\n you're always welcome here.{p} Come on, don't stand there idly. See them off.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    yukino "「博行真是抱歉啊博行，欢迎你下次再来。[l]喂，你也别在这发呆了，快去送送他啊。」"
+    yukino "「博行真是抱歉啊博行，欢迎你下次再来。{p}喂，你也别在这发呆了，快去送送他啊。」"
 
 # game/Day 4.rpy:750
 translate chinese_simplified tatsuki04_help_572ad23b:
 
     # ta "「My bad.{w} I got a bit hot under the collar there...{p} I'll treat you to a meal.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「真是抱歉呢。{w}喝多了竟会为鸡毛蒜皮的小事生气……[l]下次请你吃饭吧。」"
+    ta "「真是抱歉呢。{w}喝多了竟会为鸡毛蒜皮的小事生气……{p}下次请你吃饭吧。」"
 
 # game/Day 4.rpy:751
 translate chinese_simplified tatsuki04_help_4318c6ee:
@@ -1717,7 +1717,7 @@ translate chinese_simplified tatsuki04_help_4c706044:
 
     # ta "「Just food, I got it.{p} All right, let's go.」"
     # [旧版翻译] 来源: 辰樹_s_01.ks
-    ta "「只是吃饭而已嘛，知道啦。[l]那我们也出发吧。」"
+    ta "「只是吃饭而已嘛，知道啦。{p}那我们也出发吧。」"
 
 # game/Day 4.rpy:773
 translate chinese_simplified shin04_e4adadbb:
