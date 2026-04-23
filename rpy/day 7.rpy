@@ -54,7 +54,7 @@ translate chinese_simplified beach07_invite_torahiko_3a22483e:
 
     # fn "「Torahiko?」"
     # [旧版翻译] 来源: 7日目.ks (KS 90)
-    fn "「虎雄？」"
+    fn "「虎彦？」"
 
 # game/day 7.rpy:100
 translate chinese_simplified beach07_invite_torahiko_9f87dea6:
@@ -145,7 +145,7 @@ translate chinese_simplified beach07_invite_torahiko_b36b9e53:
 
     # fn "「W-wait a minute, Torahiko!」"
     # [旧版翻译] 来源: 7日目.ks (KS 131)
-    fn "「等、等一下，虎雄！」"
+    fn "「等、等一下，虎彦！」"
 
 # game/day 7.rpy:113
 translate chinese_simplified beach07_invite_torahiko_119a9fff:
@@ -1755,7 +1755,7 @@ translate chinese_simplified beach07_meetup_8cb84ed3:
 
     # "...Although waking up early doesn't suit Torahiko."
     # [旧版翻译] 来源: c_海水浴.ks (KS 43)
-    "但是对于虎雄来说……早起是不太可能的。"
+    "但是对于虎彦来说……早起是不太可能的。"
 
 # game/day 7.rpy:463
 translate chinese_simplified beach07_meetup_8c896239:
@@ -2049,7 +2049,7 @@ translate chinese_simplified beach07_meetup_89e4054c:
 
     # "Come to think of it,\nKounosuke's house is the closest\nto Ooshima Inn..."
     # [旧版翻译] 来源: c_海水浴.ks (KS 233-234)
-    "想起来了，离孝之助家最近的是虎雄家的旅馆……\n……嗯？"
+    "想起来了，离孝之助家最近的是虎彦家的旅馆……\n……嗯？"
 
 # game/day 7.rpy:588
 translate chinese_simplified beach07_meetup_00ea3b67:
@@ -2525,7 +2525,7 @@ translate chinese_simplified beach07_meetup_8dba968a:
 
     # ju "「Tora and I can fly together.」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 535-536)
-    ju "「那好，虎雄可以和我一起飞啊。」"
+    ju "「那好，虎彦可以和我一起飞啊。」"
 
 # game/day 7.rpy:730
 translate chinese_simplified beach07_meetup_0454e6fe:
@@ -2539,7 +2539,7 @@ translate chinese_simplified beach07_meetup_56c192d1:
 
     # su "「Ahaha, that's good, Torahiko-san.{p} You've got a close friend.」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 541-542)
-    su "「啊哈，不错啦，虎雄。{p}你已经有一个死党了。」"
+    su "「啊哈，不错啦，虎彦。{p}你已经有一个死党了。」"
 
 # game/day 7.rpy:732
 translate chinese_simplified beach07_meetup_7460a1d7:
@@ -2567,7 +2567,7 @@ translate chinese_simplified beach07_meetup_07958708:
 
     # ka "「When we get to the beach,\n Torahiko and Juuichi-san should fly...」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 552-554)
-    ka "「等我们到达海边后，\n虎雄可以和柔一一起飞……」"
+    ka "「等我们到达海边后，\n虎彦可以和柔一一起飞……」"
 
 # game/day 7.rpy:740
 translate chinese_simplified beach07_meetup_4df53d99:
@@ -2910,7 +2910,7 @@ translate chinese_simplified beach07_tatsuki_2ee16317:
 
     # extend "I won't lose to Tora.」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 790)
-    extend "「我不会输给虎雄的。」"
+    extend "「我不会输给虎彦的。」"
 
 # game/day 7.rpy:866
 translate chinese_simplified beach07_tatsuki_a98702f1:
@@ -3204,7 +3204,7 @@ translate chinese_simplified beach07_tatsuki_b03638c1:
 
     # fn "「If it's about endurance,\n I have some faith in myself.{p} Torahiko, are you getting ahead of yourself?」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 956)
-    fn "「如果这是考验耐力的话，那我就有些信心了。{p}虎雄，你还会抢跑么？」"
+    fn "「如果这是考验耐力的话，那我就有些信心了。{p}虎彦，你还会抢跑么？」"
 
 # game/day 7.rpy:969
 translate chinese_simplified beach07_tatsuki_46637337:
@@ -3862,7 +3862,7 @@ translate chinese_simplified beach07_kouya_85564632:
 
     # fn "「Hmph.{p} Well, you made a great face.{p} Maybe I'll tell Torahiko how to do it too.」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 1672-1675)
-    fn "「呜——{p}洸哉你刚才的表情很精彩嘛，{p}或许我会跟虎雄分享分享哦。」"
+    fn "「呜——{p}洸哉你刚才的表情很精彩嘛，{p}或许我会跟虎彦分享分享哦。」"
 
 # game/day 7.rpy:1157
 translate chinese_simplified beach07_kouya_e530c02e:
@@ -3890,7 +3890,7 @@ translate chinese_simplified beach07_kouya_d83d4638:
 
     # fn "「Torahiko's right over there.{p} Hey! Torahiko!」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 1686)
-    fn "喂——虎雄——！」"
+    fn "喂——虎彦——！」"
 
 # game/day 7.rpy:1164
 translate chinese_simplified beach07_kouya_430c0b47:
@@ -5311,7 +5311,7 @@ translate chinese_simplified beach07_kyoutarou_724b8429:
 
     # "Feeling the pressure from Torahiko,{p}we finally enter the changing room."
     # [旧版翻译] 来源: c_海水浴.ks (KS 3993-3994)
-    "听到虎雄的催促，{p}最后我们三个还是一起进了更衣室。"
+    "听到虎彦的催促，{p}最后我们三个还是一起进了更衣室。"
 
 # game/day 7.rpy:1623
 translate chinese_simplified beach07_kyoutarou_25a9237c:
@@ -7677,7 +7677,7 @@ translate chinese_simplified beach07_juuichi_1d935b42:
 
     # "Torahiko suddenly calls out from the side.{p}Where the heck did he come from?{p}Where was he up until now?"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2264-2266)
-    "虎雄忽然从旁边大叫了一声。{p}这个混蛋是从哪里冒出来的？{p}难道他一直就在这里？"
+    "虎彦忽然从旁边大叫了一声。{p}这个混蛋是从哪里冒出来的？{p}难道他一直就在这里？"
 
 # game/day 7.rpy:2333
 translate chinese_simplified beach07_juuichi_fcfa28be:
@@ -7712,7 +7712,7 @@ translate chinese_simplified beach07_juuichi_70cb26ff:
 
     # "One by one, more people show up.{p}...This must be the immense power of food."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2284-2290)
-    "更多的人一个接一个的出现了。{p}……这就是食物的巨大吸引力么……{p}我，柔一，虎雄，还有洸哉和峻，"
+    "更多的人一个接一个的出现了。{p}……这就是食物的巨大吸引力么……{p}我，柔一，虎彦，还有洸哉和峻，"
 
 # game/day 7.rpy:2347
 translate chinese_simplified beach07_juuichi_a090f7ad:
@@ -7740,14 +7740,14 @@ translate chinese_simplified beach07_juuichi_fbb053fe:
 
     # "We play rock-paper-scissors,{p}to determine the order we go."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2301)
-    "结果是：峻，洸哉，我，虎雄，最后是柔一。"
+    "结果是：峻，洸哉，我，虎彦，最后是柔一。"
 
 # game/day 7.rpy:2351
 translate chinese_simplified beach07_juuichi_b3013d60:
 
     # "It's Shun-kun, Kouya, me,{p}Torahiko, and then Juuichi-san."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2290-2291)
-    "我，柔一，虎雄，还有洸哉和峻，{p}五个人开始准备切西瓜了。"
+    "我，柔一，虎彦，还有洸哉和峻，{p}五个人开始准备切西瓜了。"
 
 # game/day 7.rpy:2355
 translate chinese_simplified beach07_juuichi_04013124:
@@ -7803,7 +7803,7 @@ translate chinese_simplified beach07_juuichi_e2848963:
 
     # "As soon as he says that,{p}Torahiko forcefully rotates Shun-kun around."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2333)
-    "说时迟那时快，虎雄开始猛烈地旋转着峻。"
+    "说时迟那时快，虎彦开始猛烈地旋转着峻。"
 
 # game/day 7.rpy:2377
 translate chinese_simplified beach07_juuichi_bffe1910:
@@ -7817,7 +7817,7 @@ translate chinese_simplified beach07_juuichi_9888693b:
 
     # fn "「...Torahiko, don't overdo it.」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2342)
-    fn "「……虎雄，别太过火了……」"
+    fn "「……虎彦，别太过火了……」"
 
 # game/day 7.rpy:2382
 translate chinese_simplified beach07_juuichi_fa38d7d8:
@@ -7831,7 +7831,7 @@ translate chinese_simplified beach07_juuichi_244b843e:
 
     # "Unexpectedly, the speed at which he spins,{p}Shun-kun doesn't drop.{p}...I really wonder if he understood."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2348-2349)
-    "没想到，以这么高速度旋转的峻竟还没有倒下。{p}……我真怀疑虎雄有没有听懂……"
+    "没想到，以这么高速度旋转的峻竟还没有倒下。{p}……我真怀疑虎彦有没有听懂……"
 
 # game/day 7.rpy:2389
 translate chinese_simplified beach07_juuichi_9c94e809:
@@ -7845,7 +7845,7 @@ translate chinese_simplified beach07_juuichi_a8063265:
 
     # "After being spun about 20 times,{p}Shun-kun is finally let go."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2357)
-    "峻被转了20圈后，终于被从虎雄的臂膀中放出来了。"
+    "峻被转了20圈后，终于被从虎彦的臂膀中放出来了。"
 
 # game/day 7.rpy:2391
 translate chinese_simplified beach07_juuichi_6dff7a48:
@@ -7880,7 +7880,7 @@ translate chinese_simplified beach07_juuichi_f9418cd7:
 
     # "You're slow to notice that, Torahiko."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2366)
-    "等你发觉时已然迟了，虎雄。"
+    "等你发觉时已然迟了，虎彦。"
 
 # game/day 7.rpy:2402
 translate chinese_simplified beach07_juuichi_bb9f4e68:
@@ -7971,7 +7971,7 @@ translate chinese_simplified beach07_juuichi_4dd85c58:
 
     # "Torahiko can't look,{p}and places his palm on his forehead."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2415)
-    "虎雄的手托着脑门，都不忍直视这一幕。"
+    "虎彦的手托着脑门，都不忍直视这一幕。"
 
 # game/day 7.rpy:2436
 translate chinese_simplified beach07_juuichi_73f31138:
@@ -8090,7 +8090,7 @@ translate chinese_simplified beach07_juuichi_e656ddba:
 
     # "Just as he did with Shun-kun,{p}Torahiko vigorously spins Kouya."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2491)
-    "于是虎雄开始用力地旋转着洸哉，"
+    "于是虎彦开始用力地旋转着洸哉，"
 
 # game/day 7.rpy:2481
 translate chinese_simplified beach07_juuichi_365034c3:
@@ -8132,7 +8132,7 @@ translate chinese_simplified beach07_juuichi_a03d9dcf:
 
     # "Torahiko completely ignores him.{p}Kouya squeezes out those faint words."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2510-2511)
-    "洸哉艰难地吐着他的槽，{p}而虎雄却彻底无视了他。"
+    "洸哉艰难地吐着他的槽，{p}而虎彦却彻底无视了他。"
 
 # game/day 7.rpy:2490
 translate chinese_simplified beach07_juuichi_6d32710b:
@@ -8153,7 +8153,7 @@ translate chinese_simplified beach07_juuichi_ffc52a19:
 
     # "Torahiko finally gives his hands a rest,{p}and Kouya timidly states his words."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2523-2524)
-    "虎雄终于松了手，{p}洸哉艰难地放出了这句话。"
+    "虎彦终于松了手，{p}洸哉艰难地放出了这句话。"
 
 # game/day 7.rpy:2499
 translate chinese_simplified beach07_juuichi_d009f8eb:
@@ -8223,7 +8223,7 @@ translate chinese_simplified beach07_juuichi_8e7a302b:
 
     # "Torahiko shrugs his shoulders.{p}Kouya gives Torahiko a glare,{p}then hands the blindfold and sword."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2553-2555)
-    "虎雄耸了耸肩。{p}洸哉瞪了他一眼，{p}然后把蒙眼布和木刀交给了我。"
+    "虎彦耸了耸肩。{p}洸哉瞪了他一眼，{p}然后把蒙眼布和木刀交给了我。"
 
 # game/day 7.rpy:2512
 translate chinese_simplified beach07_juuichi_4374691b:
@@ -8251,7 +8251,7 @@ translate chinese_simplified beach07_juuichi_2ca689ac:
 
     # "At Torahiko's words,{p}I hide my eyes with the towel."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2574)
-    "虎雄正说着，我就蒙上了眼睛。"
+    "虎彦正说着，我就蒙上了眼睛。"
 
 # game/day 7.rpy:2526
 translate chinese_simplified beach07_juuichi_25add1d6:
@@ -8265,7 +8265,7 @@ translate chinese_simplified beach07_juuichi_0f11912f:
 
     # "Torahiko places his hands,{p}on my shoulders."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2581)
-    "虎雄把他的手搭在我的肩上说道。"
+    "虎彦把他的手搭在我的肩上说道。"
 
 # game/day 7.rpy:2531
 translate chinese_simplified beach07_juuichi_20bb7a10:
@@ -8293,7 +8293,7 @@ translate chinese_simplified beach07_juuichi_63d1564a:
 
     # "As expected, my head feels dizzy.{p}I ask Torahiko to stop."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2594)
-    "我请求虎雄能停下来。"
+    "我请求虎彦能停下来。"
 
 # game/day 7.rpy:2538
 translate chinese_simplified beach07_juuichi_05088cbb:
@@ -8314,7 +8314,7 @@ translate chinese_simplified beach07_juuichi_a9e79f85:
 
     # "With my body moving unsteadily,{p}I think I muttered that,{p}in Torahiko's direction."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2603-2604)
-    "我一边无助地旋转着，{p}冲着我认为貌似是虎雄方向的方向抗议到。"
+    "我一边无助地旋转着，{p}冲着我认为貌似是虎彦方向的方向抗议到。"
 
 # game/day 7.rpy:2545
 translate chinese_simplified beach07_juuichi_75ac6aac:
@@ -8412,7 +8412,7 @@ translate chinese_simplified beach07_juuichi_a714bb30:
 
     # fn "「...Torahiko, I just now heard,{p} you clicked your tongue.」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2642)
-    fn "「……虎雄，我可是听到了你咋舌头的声音。」"
+    fn "「……虎彦，我可是听到了你咋舌头的声音。」"
 
 # game/day 7.rpy:2559
 translate chinese_simplified beach07_juuichi_1709ed2f:
@@ -8426,7 +8426,7 @@ translate chinese_simplified beach07_juuichi_accf6c01:
 
     # "Torahiko tries to whistle,{p}to cover up his cheating."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2647)
-    "虎雄试着用吹口哨来掩盖他刚才的谎言。"
+    "虎彦试着用吹口哨来掩盖他刚才的谎言。"
 
 # game/day 7.rpy:2561
 translate chinese_simplified beach07_juuichi_ac7ffbc5:
@@ -8440,7 +8440,7 @@ translate chinese_simplified beach07_juuichi_b433c2ed:
 
     # "Okay, from now on,{p}I'll ignore Torahiko's navigation."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2649)
-    "好吧，从现在开始，我不理会虎雄的误导了。"
+    "好吧，从现在开始，我不理会虎彦的误导了。"
 
 # game/day 7.rpy:2563
 translate chinese_simplified beach07_juuichi_365034c3_1:
@@ -8503,7 +8503,7 @@ translate chinese_simplified beach07_juuichi_213751d5:
 
     # "I hand over the blindfold and sword,{p}to a very enthusiastic Torahiko."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2677-2680)
-    "我一定会把西瓜切开的！」{p}我把蒙眼布和木刀{p}递给满腔热血的虎雄。"
+    "我一定会把西瓜切开的！」{p}我把蒙眼布和木刀{p}递给满腔热血的虎彦。"
 
 # game/day 7.rpy:2601
 translate chinese_simplified beach07_juuichi_46703e50:
@@ -8538,14 +8538,14 @@ translate chinese_simplified beach07_juuichi_3daf9f52:
 
     # "Torahiko has a very timid tone.{p}...Where did all that power he had,{p}up till now go?"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2705-2711)
-    "虎雄胆怯地说。{p}……他刚才的激情都跑哪里去了？{p}当虎雄蒙上眼睛时，"
+    "虎彦胆怯地说。{p}……他刚才的激情都跑哪里去了？{p}当虎彦蒙上眼睛时，"
 
 # game/day 7.rpy:2613
 translate chinese_simplified beach07_juuichi_756077f3:
 
     # "When Torahiko puts on the blindfold,{p}Shun-kun borrows the support of Juuichi-san,{p}to carry out the spinning."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2712-2714)
-    "在柔一的支撑下，峻开始旋转虎雄。{p}……从外人眼中看去，"
+    "在柔一的支撑下，峻开始旋转虎彦。{p}……从外人眼中看去，"
 
 # game/day 7.rpy:2614
 translate chinese_simplified beach07_juuichi_20968051:
@@ -8559,7 +8559,7 @@ translate chinese_simplified beach07_juuichi_5d97c964:
 
     # "But if I were to say that,{p}Juuichi-san would throw me."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2718)
-    "正看着他们两个转虎雄时，"
+    "正看着他们两个转虎彦时，"
 
 # game/day 7.rpy:2616
 translate chinese_simplified beach07_juuichi_1f270052:
@@ -8587,7 +8587,7 @@ translate chinese_simplified beach07_juuichi_525c1ecc:
 
     # ka "「Didn't Torahiko break the rules?」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2736)
-    ka "「虎雄那小子不也是吗？」"
+    ka "「虎彦那小子不也是吗？」"
 
 # game/day 7.rpy:2628
 translate chinese_simplified beach07_juuichi_7a00e393:
@@ -8622,14 +8622,14 @@ translate chinese_simplified beach07_juuichi_957eaf2e:
 
     # "Good timing too,{p}Torahiko has just begun to walk."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2752)
-    "正好，虎雄也开始移动了。"
+    "正好，虎彦也开始移动了。"
 
 # game/day 7.rpy:2639
 translate chinese_simplified beach07_juuichi_ea8b5ba2:
 
     # "Although he seems confident in his strength,{p}when it comes to his feet,{p}he's meandering from side to side."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2753-2754)
-    "虽然虎雄对自己非常自信，{p}但是当他落步时，走起来还是歪歪扭扭的。"
+    "虽然虎彦对自己非常自信，{p}但是当他落步时，走起来还是歪歪扭扭的。"
 
 # game/day 7.rpy:2646
 translate chinese_simplified beach07_juuichi_706cadee:
@@ -8643,7 +8643,7 @@ translate chinese_simplified beach07_juuichi_66170a79:
 
     # fn "「Torahiko, go the other way,{p} the other way!」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2767)
-    fn "「虎雄，另一边！」"
+    fn "「虎彦，另一边！」"
 
 # game/day 7.rpy:2651
 translate chinese_simplified beach07_juuichi_c8c395c1:
@@ -8678,7 +8678,7 @@ translate chinese_simplified beach07_juuichi_66fbfd50:
 
     # "Torahiko quickly turns around,{p}and goes in the opposite direction,{p}of the watermelon."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2781)
-    "虎雄立即转身，"
+    "虎彦立即转身，"
 
 # game/day 7.rpy:2659
 translate chinese_simplified beach07_juuichi_a7813412:
@@ -8706,7 +8706,7 @@ translate chinese_simplified beach07_juuichi_b0181627:
 
     # fn "「Torahiko, now!」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2794)
-    fn "「虎雄，就是现在！」"
+    fn "「虎彦，就是现在！」"
 
 # game/day 7.rpy:2663
 translate chinese_simplified beach07_juuichi_ae13e214:
@@ -8720,7 +8720,7 @@ translate chinese_simplified beach07_juuichi_bb74f3bd:
 
     # "Torahiko swings down the sword,{p}with all the strength he can muster."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2800)
-    "虎雄用尽全身力气，奋力一劈。"
+    "虎彦用尽全身力气，奋力一劈。"
 
 # game/day 7.rpy:2665
 translate chinese_simplified beach07_juuichi_35fa6893:
@@ -8748,7 +8748,7 @@ translate chinese_simplified beach07_juuichi_3fb9da7d:
 
     # "Torahiko drops the sword,{p}and shakes his hands around,{p}while jumping up and down."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2811)
-    "虎雄扔下木刀，"
+    "虎彦扔下木刀，"
 
 # game/day 7.rpy:2676
 translate chinese_simplified beach07_juuichi_15264cb5:
@@ -8818,7 +8818,7 @@ translate chinese_simplified beach07_juuichi_6c709e18:
 
     # "Torahiko humphs and turns away.{p}He's in a completely bad mood now.{p}...D-did we go a little too far?"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2850-2852)
-    "虎雄哼了一声转了过去。{p}他现在的心情可是坏透了。{p}……我们是不是有些过火了？"
+    "虎彦哼了一声转了过去。{p}他现在的心情可是坏透了。{p}……我们是不是有些过火了？"
 
 # game/day 7.rpy:2694
 translate chinese_simplified beach07_juuichi_bbcdf476:
@@ -8839,21 +8839,21 @@ translate chinese_simplified beach07_juuichi_b17df63e:
 
     # "Juuichi-san gets the watermelon splitting set,{p}from Torahiko and puts the blindfold on."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2860-2861)
-    "柔一从虎雄手里接过工具，{p}蒙上了眼睛。"
+    "柔一从虎彦手里接过工具，{p}蒙上了眼睛。"
 
 # game/day 7.rpy:2703
 translate chinese_simplified beach07_juuichi_2769a6bc:
 
     # "With a discouraged look on his face,{p}Torahiko starts spinning Juuichi-san's body."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2868)
-    "虎雄一脸沮丧地开始旋转柔一了。"
+    "虎彦一脸沮丧地开始旋转柔一了。"
 
 # game/day 7.rpy:2704
 translate chinese_simplified beach07_juuichi_ba72d522:
 
     # fn "「Torahiko, don't overdo it,{p} if you don't want to receive,{p} one of Juuichi-san's techniques...」"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2871-2872)
-    fn "「虎雄，可别再乱来了，{p}除非……你想尝尝柔一的技术。」"
+    fn "「虎彦，可别再乱来了，{p}除非……你想尝尝柔一的技术。」"
 
 # game/day 7.rpy:2709
 translate chinese_simplified beach07_juuichi_36b7e708:
@@ -8888,7 +8888,7 @@ translate chinese_simplified beach07_juuichi_b3e2cb7e:
 
     # "Torahiko, how long,{p}have you had that daredevil personality?"
     # [旧版翻译] 来源: c_海水浴.ks (KS 2889)
-    "虎雄的性格什么时候变得这么勇于冒险了？"
+    "虎彦的性格什么时候变得这么勇于冒险了？"
 
 # game/day 7.rpy:2724
 translate chinese_simplified beach07_juuichi_9a9cf065:
@@ -8902,7 +8902,7 @@ translate chinese_simplified beach07_juuichi_b91dd8e1:
 
     # "Reluctantly holding his tail,{p}Torahiko finishes up by giving a push,{p}to Juuichi-san's back."
     # [旧版翻译] 来源: c_海水浴.ks (KS 2897-2898)
-    "虎雄极不情愿地拉住柔一的尾巴，{p}然后朝着他的背推了一把。"
+    "虎彦极不情愿地拉住柔一的尾巴，{p}然后朝着他的背推了一把。"
 
 # game/day 7.rpy:2729
 translate chinese_simplified beach07_juuichi_fdc3a188:
@@ -9287,21 +9287,21 @@ translate chinese_simplified beach07_juuichi_40396eb0:
 
     # "Shin-kun gives the knife,{p}to Torahiko as he's told."
     # [旧版翻译] 来源: c_海水浴.ks (KS 3104)
-    "深如他所说，把刀给了虎雄。"
+    "深如他所说，把刀给了虎彦。"
 
 # game/day 7.rpy:2860
 translate chinese_simplified beach07_juuichi_acac8bec:
 
     # "That sulleness Juuichi-san had up until now,{p}doesn't concern him at all."
     # [旧版翻译] 来源: c_海水浴.ks (KS 3105)
-    "直到现在，柔一才终于收起愠怒的眼，唤了一下虎雄。"
+    "直到现在，柔一才终于收起愠怒的眼，唤了一下虎彦。"
 
 # game/day 7.rpy:2861
 translate chinese_simplified beach07_juuichi_12efed97:
 
     # "Torahiko gives a high-spirited shout."
     # [旧版翻译] 来源: c_海水浴.ks (KS 3106)
-    "虎雄听了之后兴高采烈地呼喊着。"
+    "虎彦听了之后兴高采烈地呼喊着。"
 
 # game/day 7.rpy:2865
 translate chinese_simplified beach07_juuichi_69aba358:
@@ -9329,7 +9329,7 @@ translate chinese_simplified beach07_juuichi_d589f4d1:
 
     # "Torahiko evenly carves the watermelon,{p}and we eat happily together.{p}Even incluiding Shin-kun."
     # [旧版翻译] 来源: c_海水浴.ks (KS 3124-3125)
-    "最后，虎雄把西瓜切开了，我们一起快乐地享用着，{p}也包括深君在内。"
+    "最后，虎彦把西瓜切开了，我们一起快乐地享用着，{p}也包括深君在内。"
 
 # game/day 7.rpy:2875
 translate chinese_simplified beach07_juuichi_b754e3ec:
@@ -9357,7 +9357,7 @@ translate chinese_simplified beach07_torahiko_7094dce8:
 
     # "I wonder what Torahiko's doing..."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 708-708)
-    "虎雄会怎么选呢？"
+    "虎彦会怎么选呢？"
 
 # game/day 7.rpy:2893
 translate chinese_simplified beach07_torahiko_1ca34c4c:
@@ -9406,7 +9406,7 @@ translate chinese_simplified beach07_torahiko_1a740015:
 
     # fn "「You're already done changing?{p} You're awfully hasty, Torahiko...」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 727-728)
-    fn "「你换好了？你好快啊，虎雄……」"
+    fn "「你换好了？你好快啊，虎彦……」"
 
 # game/day 7.rpy:2903
 translate chinese_simplified beach07_torahiko_bb3dbeaf:
@@ -9602,7 +9602,7 @@ translate chinese_simplified beach07_torahiko_1d795e84:
 
     # "For his rude behavior,{p}I punish him in the form,{p}of a light body blow to the stomach."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 822-823)
-    "对于虎雄的行为， 我朝了他肚子打了一拳以示惩罚。"
+    "对于虎彦的行为， 我朝了他肚子打了一拳以示惩罚。"
 
 # game/day 7.rpy:2946
 translate chinese_simplified beach07_torahiko_48801329:
@@ -9658,7 +9658,7 @@ translate chinese_simplified beach07_torahiko_0b69bc7a:
 
     # "Torahiko's waving a huge surfboard in his hands."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 850-850)
-    "虎雄手里拿着一块巨大的冲浪板向我摇摆着。"
+    "虎彦手里拿着一块巨大的冲浪板向我摇摆着。"
 
 # game/day 7.rpy:2966
 translate chinese_simplified beach07_torahiko_99e6e2ba:
@@ -9742,7 +9742,7 @@ translate chinese_simplified beach07_torahiko_e6f4199b:
 
     # "As if seeing straight through my feelings,{p}Torahiko pats both of my shoulders,{p}and laughs loudly."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 892-893)
-    "简直就像看透了我的心思一样。 虎雄拍着我的肩膀大笑道。"
+    "简直就像看透了我的心思一样。 虎彦拍着我的肩膀大笑道。"
 
 # game/day 7.rpy:2984
 translate chinese_simplified beach07_torahiko_d0d23910:
@@ -9756,7 +9756,7 @@ translate chinese_simplified beach07_torahiko_d9f9d921:
 
     # "But when I hear Torahiko's reassurances,{p}worrying about it seems absurd."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 897-899)
-    "听了虎雄的话之后， 突然觉得这种担心有点荒谬。"
+    "听了虎彦的话之后， 突然觉得这种担心有点荒谬。"
 
 # game/day 7.rpy:2986
 translate chinese_simplified beach07_torahiko_ba6d9438:
@@ -9798,7 +9798,7 @@ translate chinese_simplified beach07_torahiko_42a72115:
 
     # "He says as he plunges into the sea,{p}splashing about as he swims."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 920-922)
-    "话还没说完，虎雄就跳入海中， 向着浪潮滑动着双手。"
+    "话还没说完，虎彦就跳入海中， 向着浪潮滑动着双手。"
 
 # game/day 7.rpy:3001
 translate chinese_simplified beach07_torahiko_dd700373:
@@ -9826,7 +9826,7 @@ translate chinese_simplified beach07_torahiko_c0b52290:
 
     # "A decent-sized wave,{p}begins a steady approach.{p}Nimbly, Torahiko stands up on his board."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 931-932)
-    "一波合适的浪平稳地打了过来， 虎雄灵敏地爬起站在了冲浪板上。"
+    "一波合适的浪平稳地打了过来， 虎彦灵敏地爬起站在了冲浪板上。"
 
 # game/day 7.rpy:3005
 translate chinese_simplified beach07_torahiko_1377bdcd:
@@ -9840,14 +9840,14 @@ translate chinese_simplified beach07_torahiko_733eaf76:
 
     # "While drawing an S-shaped curve as he moves,{p}a sharp spray of water flies up into the air.{p}This is really cool."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 938-940)
-    "虎雄操纵着冲浪板前进着，划出一道S形的路线， 一大股海浪被急剧地溅起来，在空中飞扬， 这真的好酷啊。"
+    "虎彦操纵着冲浪板前进着，划出一道S形的路线， 一大股海浪被急剧地溅起来，在空中飞扬， 这真的好酷啊。"
 
 # game/day 7.rpy:3007
 translate chinese_simplified beach07_torahiko_37b4270c:
 
     # "On his way back to the beach,{p}Torahiko lowers his foot into the water,{p}and returns with a splash."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 942-943)
-    "当靠近岸边的时候，虎雄把脚踏入水中， 又溅起一波浪花。"
+    "当靠近岸边的时候，虎彦把脚踏入水中， 又溅起一波浪花。"
 
 # game/day 7.rpy:3011
 translate chinese_simplified beach07_torahiko_b9a694b7:
@@ -9896,14 +9896,14 @@ translate chinese_simplified beach07_torahiko_a9e5ffae:
 
     # "Now it's my turn.{p}Despite that awesome preformance,{p}I'm still nervous."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 969-971)
-    "当轮到我的时候，尽管冲浪看上去很威风，但是我还是很紧张。 离上次去海边玩隔了好久了……{p} 而且，刚才虎雄也游得很远……"
+    "当轮到我的时候，尽管冲浪看上去很威风，但是我还是很紧张。 离上次去海边玩隔了好久了……{p} 而且，刚才虎彦也游得很远……"
 
 # game/day 7.rpy:3018
 translate chinese_simplified beach07_torahiko_c57af1e0:
 
     # "It's been a long time since,{p}I've been to the beach itself...{p}And Torahiko swam pretty far out there..."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 970-971)
-    "离上次去海边玩隔了好久了……{p} 而且，刚才虎雄也游得很远……"
+    "离上次去海边玩隔了好久了……{p} 而且，刚才虎彦也游得很远……"
 
 # game/day 7.rpy:3019
 translate chinese_simplified beach07_torahiko_bf5863af:
@@ -10001,7 +10001,7 @@ translate chinese_simplified beach07_torahiko_afb2f9e6:
 
     # "I should only rely on Torahiko's lecture.{p}I'll try to do what I'm told."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1014-1015)
-    "总之先好好听着虎雄的讲解，{p} 按照吩咐的去做吧。"
+    "总之先好好听着虎彦的讲解，{p} 按照吩咐的去做吧。"
 
 # game/day 7.rpy:3042
 translate chinese_simplified beach07_torahiko_30edf1e0:
@@ -10050,14 +10050,14 @@ translate chinese_simplified beach07_torahiko_61435e85:
 
     # fn "「W-wait, hey Torahiko!」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1035-1036)
-    fn "「等，{w=.3}等等，喂，虎雄！」"
+    fn "「等，{w=.3}等等，喂，虎彦！」"
 
 # game/day 7.rpy:3055
 translate chinese_simplified beach07_torahiko_881c25f6:
 
     # "As he says that,{p}Torahiko gallantly rides a wave."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1038-1039)
-    "说完，虎雄英姿飒爽地骑上了一波浪。"
+    "说完，虎彦英姿飒爽地骑上了一波浪。"
 
 # game/day 7.rpy:3059
 translate chinese_simplified beach07_torahiko_bf218a1e:
@@ -10085,14 +10085,14 @@ translate chinese_simplified beach07_torahiko_b29e5e6d:
 
     # "Feeling my fear building up,{p}I ask Torahiko for help,{p}by wildly waving my hand around."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1049-1050)
-    "一股恐惧从我心底涌出， 我用力的挥动双手向虎雄求助。"
+    "一股恐惧从我心底涌出， 我用力的挥动双手向虎彦求助。"
 
 # game/day 7.rpy:3063
 translate chinese_simplified beach07_torahiko_247c1970:
 
     # "On the shore,{p}Torahiko doesn't gets what I mean,{p}and waves back obliviously."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1052-1053)
-    "在岸边，虎雄却不明白我的意思， 也朝着我挥着双手。"
+    "在岸边，虎彦却不明白我的意思， 也朝着我挥着双手。"
 
 # game/day 7.rpy:3064
 translate chinese_simplified beach07_torahiko_7d62d6bf:
@@ -10106,14 +10106,14 @@ translate chinese_simplified beach07_torahiko_a5e750cd:
 
     # "Damn, this is bad isn't it?{p}I guess it doesn't matter,{p}I'll try it!"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1058-1060)
-    "可恶！这下糟了！{p} 总之不管怎么样，还是去试试吧！{p} 我照着自己从虎雄示范时所看到的来做……"
+    "可恶！这下糟了！{p} 总之不管怎么样，还是去试试吧！{p} 我照着自己从虎彦示范时所看到的来做……"
 
 # game/day 7.rpy:3066
 translate chinese_simplified beach07_torahiko_34a9d571:
 
     # "I'll just do what I saw Torahiko do..."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1060-1060)
-    "我照着虎雄示范时所看到的来做……"
+    "我照着虎彦示范时所看到的来做……"
 
 # game/day 7.rpy:3067
 translate chinese_simplified beach07_torahiko_94188ecc:
@@ -10127,14 +10127,14 @@ translate chinese_simplified beach07_torahiko_6e10091f:
 
     # "I hope I can get up quick enough,{p}when I meet the wave."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1065-1067)
-    "当乘上浪时，希望我能快速地站起来。{p} 嗯，刚刚虎雄好像是两只脚一瞬间就站起来了。{p} 然后，气势……"
+    "当乘上浪时，希望我能快速地站起来。{p} 嗯，刚刚虎彦好像是两只脚一瞬间就站起来了。{p} 然后，气势……"
 
 # game/day 7.rpy:3069
 translate chinese_simplified beach07_torahiko_ea33e56c:
 
     # "I mean, Torahiko got up,{p}on his feet so suddenly.{p}And then after that, he yelled out..."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1066-1067)
-    "嗯，刚刚虎雄好像是两只脚一瞬间就站起来了。{p}然后，气势……"
+    "嗯，刚刚虎彦好像是两只脚一瞬间就站起来了。{p}然后，气势……"
 
 # game/day 7.rpy:3070
 translate chinese_simplified beach07_torahiko_a6a6addb:
@@ -10155,14 +10155,14 @@ translate chinese_simplified beach07_torahiko_76c810c4:
 
     # "It's already gotten here!{p}I desperately try to recall,{p}the visual image of Torahiko standing."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1074-1077)
-    "不管这么多了! {p} 我开始回忆虎雄站起来的时候的景象， 想想应该是用双脚把身体支撑起来。"
+    "不管这么多了! {p} 我开始回忆虎彦站起来的时候的景象， 想想应该是用双脚把身体支撑起来。"
 
 # game/day 7.rpy:3073
 translate chinese_simplified beach07_torahiko_80de1b40:
 
     # "I draw my feet in towards my body,{p}in order to get myself standing."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1075-1077)
-    "我开始回忆虎雄站起来的时候的景象， 想想应该是用双脚把身体支撑起来。"
+    "我开始回忆虎彦站起来的时候的景象， 想想应该是用双脚把身体支撑起来。"
 
 # game/day 7.rpy:3074
 translate chinese_simplified beach07_torahiko_aa842f7d:
@@ -10232,7 +10232,7 @@ translate chinese_simplified beach07_torahiko_f46c133a:
 
     # fn "「Torahiko...」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1099-1100)
-    fn "「虎雄——」"
+    fn "「虎彦——」"
 
 # game/day 7.rpy:3097
 translate chinese_simplified beach07_torahiko_ba693a7a:
@@ -10288,21 +10288,21 @@ translate chinese_simplified beach07_torahiko_94198983:
 
     # "When Torahiko looks at my face,{p}he looks pretty dissapointed,{p}so I decided to keep that in mind."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1126-1128)
-    "但是虎雄看着我的 那表情透露着一丝落寞， 所以我就把这话咽了回去。"
+    "但是虎彦看着我的 那表情透露着一丝落寞， 所以我就把这话咽了回去。"
 
 # game/day 7.rpy:3108
 translate chinese_simplified beach07_torahiko_61f4d657:
 
     # "I see an untarnished boyishness,{p}in his eyes that clears away,{p}any anger or resentment."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1130-1131)
-    "看着虎雄那天真无邪的孩子般的眼睛， 不满和愤怒都随风散去了。"
+    "看着虎彦那天真无邪的孩子般的眼睛， 不满和愤怒都随风散去了。"
 
 # game/day 7.rpy:3109
 translate chinese_simplified beach07_torahiko_24dfd39d:
 
     # "I think Torahiko was planning on teaching me.{p}He's a guy who goes with what he feels,{p}literally, instead of logic..."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1133-1134)
-    "虎雄刚才教的那些其实也有好好教的， 只不过他不是凭道理而是凭感觉去做的。"
+    "虎彦刚才教的那些其实也有好好教的， 只不过他不是凭道理而是凭感觉去做的。"
 
 # game/day 7.rpy:3110
 translate chinese_simplified beach07_torahiko_e9dc5c13:
@@ -10344,7 +10344,7 @@ translate chinese_simplified beach07_torahiko_8de0e90b:
 
     # "As Kouya approaches the shore,{p}he draws a big U-shaped curve with his board,{p}making a huge spray of water splash at Torahiko."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1148-1149)
-    "当靠近岸边的时候，画了一个大大U字形， 弄得一大泼水花冲向了虎雄。"
+    "当靠近岸边的时候，画了一个大大U字形， 弄得一大泼水花冲向了虎彦。"
 
 # game/day 7.rpy:3123
 translate chinese_simplified beach07_torahiko_0e2945ae:
@@ -10358,7 +10358,7 @@ translate chinese_simplified beach07_torahiko_991b47db:
 
     # "The spray forcefully hits Torahiko in the face,{p}causing him to spit out salty water."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1155-1156)
-    "水花直接打在了虎雄的脸上， 弄得虎雄一脸狼狈，使劲地吐着海水。"
+    "水花直接打在了虎彦的脸上， 弄得虎彦一脸狼狈，使劲地吐着海水。"
 
 # game/day 7.rpy:3131
 translate chinese_simplified beach07_torahiko_58ef8dba:
@@ -10386,7 +10386,7 @@ translate chinese_simplified beach07_torahiko_08ff00d4:
 
     # "As he says that, Kouya makes sure,{p}to cast a glare right at Torahiko."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1174-1174)
-    "与此同时，洸哉看了看虎雄。"
+    "与此同时，洸哉看了看虎彦。"
 
 # game/day 7.rpy:3138
 translate chinese_simplified beach07_torahiko_44b26588:
@@ -10533,7 +10533,7 @@ translate chinese_simplified beach07_torahiko_264c3ce0:
 
     # "With that said, Torahiko falls silent."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1242-1242)
-    "被洸哉那么一说，虎雄沉默了。"
+    "被洸哉那么一说，虎彦沉默了。"
 
 # game/day 7.rpy:3177
 translate chinese_simplified beach07_torahiko_fa926053:
@@ -10554,7 +10554,7 @@ translate chinese_simplified beach07_torahiko_3f0fbc0c:
 
     # "However, I feel that Torahiko is at a...{p}disadvantage this time."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1248-1248)
-    "不过这次，我觉得虎雄处于下风。"
+    "不过这次，我觉得虎彦处于下风。"
 
 # game/day 7.rpy:3180
 translate chinese_simplified beach07_torahiko_bc2b9bad:
@@ -10575,7 +10575,7 @@ translate chinese_simplified beach07_torahiko_80304b5d:
 
     # "But I don't mind.{p}I don't think I even want him to apologize."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1252-1253)
-    "但是我不介意， 我甚至没有想过要虎雄给我道歉。"
+    "但是我不介意， 我甚至没有想过要虎彦给我道歉。"
 
 # game/day 7.rpy:3183
 translate chinese_simplified beach07_torahiko_cac962fc:
@@ -10624,7 +10624,7 @@ translate chinese_simplified beach07_torahiko_96e988a5:
 
     # "Because of that argument,{p}Torahiko can't come up with a retort."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1273-1274)
-    "因为被说的那些话是对的，虎雄想不出什么话来反驳， 显然，他也不愿照着洸哉的命令去做，"
+    "因为被说的那些话是对的，虎彦想不出什么话来反驳， 显然，他也不愿照着洸哉的命令去做，"
 
 # game/day 7.rpy:3193
 translate chinese_simplified beach07_torahiko_a0a2057d:
@@ -10659,7 +10659,7 @@ translate chinese_simplified beach07_torahiko_79e2c40b:
 
     # "Laughing through his nose,{p}and leaning his head forward,{p}he provokes Torahiko."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1282-1284)
-    "洸哉也真是的。 哼哼地笑了几下，并把头倾向一侧，向虎雄挑衅。"
+    "洸哉也真是的。 哼哼地笑了几下，并把头倾向一侧，向虎彦挑衅。"
 
 # game/day 7.rpy:3201
 translate chinese_simplified beach07_torahiko_2831da3d:
@@ -10785,7 +10785,7 @@ translate chinese_simplified beach07_torahiko_1b5a1fe6:
 
     # fn "「And Torahiko too...」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1336-1337)
-    fn "「虎雄你也……」"
+    fn "「虎彦你也……」"
 
 # game/day 7.rpy:3225
 translate chinese_simplified beach07_torahiko_f9794541:
@@ -10855,7 +10855,7 @@ translate chinese_simplified beach07_torahiko_f09a0de6:
 
     # "From then on I get lectured,{p}by both Torahiko and Kouya."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1367-1368)
-    "于是，我就跟着虎雄和洸哉学习， 进步虽然不是很快。"
+    "于是，我就跟着虎彦和洸哉学习， 进步虽然不是很快。"
 
 # game/day 7.rpy:3235
 translate chinese_simplified beach07_torahiko_4bbef68d:
@@ -10939,7 +10939,7 @@ translate chinese_simplified beach07_torahiko_5665037d:
 
     # "Torahiko bangs on my shoulders,{p}laughing loudly."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1403-1404)
-    "虎雄啪啪地拍着我的肩膀，大笑道。"
+    "虎彦啪啪地拍着我的肩膀，大笑道。"
 
 # game/day 7.rpy:3261
 translate chinese_simplified beach07_torahiko_5b79d2bf:
@@ -11016,7 +11016,7 @@ translate chinese_simplified beach07_torahiko_c9e0836d:
 
     # fn "「Kouya and Torahiko,{p} I can't tell if your relationship,{p} is good or bad.」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1446-1447)
-    fn "「洸哉和虎雄的关系，真是不知道是好是坏?」"
+    fn "「洸哉和虎彦的关系，真是不知道是好是坏?」"
 
 # game/day 7.rpy:3288
 translate chinese_simplified beach07_torahiko_05dae08f:
@@ -11086,7 +11086,7 @@ translate chinese_simplified beach07_torahiko_4dc928c8:
 
     # "Breaking the atmosphere,{p}Torahiko timidly speaks up."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1481-1483)
-    "虎雄小心翼翼地搭起了话， 打破了这种气氛。"
+    "虎彦小心翼翼地搭起了话， 打破了这种气氛。"
 
 # game/day 7.rpy:3304
 translate chinese_simplified beach07_torahiko_4e43adf0:
@@ -11128,7 +11128,7 @@ translate chinese_simplified beach07_torahiko_c26badf6:
 
     # "Torahiko glances over at Kouya and mutters."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1502-1502)
-    "虎雄眼角扫了下洸哉，嘟囔着。"
+    "虎彦眼角扫了下洸哉，嘟囔着。"
 
 # game/day 7.rpy:3313
 translate chinese_simplified beach07_torahiko_16f410f1:
@@ -11275,7 +11275,7 @@ translate chinese_simplified beach07_torahiko_4f871064:
 
     # to "「Definitely! In fact...{p} The Torahiko Association of Surfing,{p} officially recognizes you as..."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1567-1570)
-    to "「千真万确！{p} 怎么说………… 经过虎雄冲浪协会官方正式认证， 你已经达到了5级的水平！」"
+    to "「千真万确！{p} 怎么说………… 经过虎彦冲浪协会官方正式认证， 你已经达到了5级的水平！」"
 
 # game/day 7.rpy:3348
 translate chinese_simplified beach07_torahiko_ec89f71e:
@@ -11324,7 +11324,7 @@ translate chinese_simplified beach07_torahiko_f19d3746:
 
     # ka "「Stop talking nonsense, Torahiko.{p} There's nobody here who's eager,{p} to take a ride with you.」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1586-1589)
-    ka "「别说蠢话了，虎雄。{p} 这儿没人希望和你一起冲浪」"
+    ka "「别说蠢话了，虎彦。{p} 这儿没人希望和你一起冲浪」"
 
 # game/day 7.rpy:3361
 translate chinese_simplified beach07_torahiko_60f1e9d4:
@@ -11394,7 +11394,7 @@ translate chinese_simplified beach07_torahiko_ae56c3bd:
 
     # "Did we decide to go tandem together?{p}I don't really know what tandem means,{p}but I hope I can have fun with Torahiko again."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1621-1623)
-    "一起双人冲浪吗？{p} 我真的不是很清楚双人冲浪都需要干些什么， 不过，又可以和虎雄他们一起玩了。"
+    "一起双人冲浪吗？{p} 我真的不是很清楚双人冲浪都需要干些什么， 不过，又可以和虎彦他们一起玩了。"
 
 # game/day 7.rpy:3380
 translate chinese_simplified beach07_torahiko_5e789264:
@@ -11422,7 +11422,7 @@ translate chinese_simplified beach07_torahiko_60c054c6:
 
     # to "「Oh! Up next is Great Teacher Torahiko's,{p} swimming club training."
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1637-1640)
-    to "「喔！{p} 那么下次的话就是我虎雄大师的 斯巴达式游泳训练哟，做好觉悟吧！」"
+    to "「喔！{p} 那么下次的话就是我虎彦大师的 斯巴达式游泳训练哟，做好觉悟吧！」"
 
 # game/day 7.rpy:3387
 translate chinese_simplified beach07_torahiko_3fd08ae0:
@@ -11471,7 +11471,7 @@ translate chinese_simplified beach07_torahiko_7d1ff936:
 
     # ka "「Torahiko, What is your standard for...{p} dividing grades, anyway...?」"
     # [旧版翻译] 来源: torahiko/7日目.ks (KS 1660-1662)
-    ka "「虎雄，你的级别到底以什么为基准的啊？……」"
+    ka "「虎彦，你的级别到底以什么为基准的啊？……」"
 
 # game/day 7.rpy:3416
 translate chinese_simplified beach07_ridehome_35c040cd:

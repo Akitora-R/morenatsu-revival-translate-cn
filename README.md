@@ -202,6 +202,33 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | `who` | — | 未确认身份的发言者 |
 | `brothers` | — | 兄弟齐声 |
 
+## Day 7 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `day07` | `extract/orig/7日目.ks` | 夜间电话序幕 |
+| `beach07_invite_torahiko` | `extract/orig/7日目.ks` | 虎彦电话邀请（共用孝之助模板） |
+| `beach07_invite_tatsuki` | `extract/orig/7日目.ks` | 辰兄电话邀请 |
+| `beach07_invite_kounosuke` | `extract/orig/7日目.ks` | 孝之助电话邀请 |
+| `beach07_invite_shun` | `extract/orig/7日目.ks` | 峻电话邀请 |
+| `beach07_invite_kouya` | `extract/orig/7日目.ks` | 洸哉电话邀请 |
+| `beach07_invite_juuichi` | `extract/orig/7日目.ks` | 柔一电话邀请 |
+| `beach07_invite_shin` | `extract/orig/7日目.ks` | 深电话邀请 |
+| `beach07_invite_soutarou` | `extract/orig/7日目.ks`（日文原文） | 宗太郎电话邀请（KS为日文，机翻） |
+| `beach07_packing` | `extract/orig/7日目.ks` | 收拾行李+次日早起 |
+| `beach07_meetup` | `extract/orig/c_海水浴.ks` | 巴士站集合+巴士车程+抵达海滩 |
+| `beach07_hangloose` | `extract/orig/c_海水浴.ks` | 峻换衣场景A（提醒穿运动内衣） |
+| `beach07_buckleup` | `extract/orig/c_海水浴.ks` | 峻换衣场景B（未提醒） |
+| `beach07_kounosuke` | `extract/orig/c_海水浴.ks` | 孝之助海滩路线 |
+| `beach07_kyoutarou` | `extract/orig/c_海水浴.ks` | 京慈海滩路线（与辰樹搭档） |
+| `beach07_juuichi` | `extract/orig/c_海水浴.ks` | 柔一海滩路线（劈西瓜+游泳+情感对话） |
+| `beach07_torahiko` | `extract/torahiko/7日目.ks` | 虎彦海滩路线（冲浪教学） |
+| `beach07_kouya` | `extract/orig/c_海水浴.ks` | 洸哉海滩路线 |
+| `beach07_shin` | `extract/orig/c_海水浴.ks` | 深海滩路线 |
+| `beach07_tatsuki` | `extract/orig/c_海水浴.ks` | 辰樹海滩路线 |
+| `beach07_shun` | `extract/orig/c_海水浴.ks` | 峻海滩路线 |
+| `beach07_ridehome` | `extract/orig/c_海水浴.ks` | 巴士归途（共通结尾，梦话场景） |
+
 ## Day 4 路线对应
 
 | RPY 前缀 | KS 源文件 | 场景概要 |
@@ -239,9 +266,10 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | Day 4.rpy | 748 | 748 | **100%** |
 | day 5.rpy | 454 | 454 | **100%** |
 | day 6.rpy | 1002 | 1002 | **100%** |
+| day 7.rpy | 1671 | 1671 | **100%** |
 | Welcome Party.rpy | 1336 | 1380 | 96.8% |
 | day 3.rpy | 419 | 422 | 99.3% |
 | day 2.rpy | 864 | 1076 | 80.3% |
 | Day 16.rpy | 6 | 2148 | 0.3% |
 | 其他 25 个文件 | 0 | ~28500 | 待处理 |
-| **合计** | **4829** | **34191** | **14.1%** |
+| **合计** | **6500** | **34191** | **19.0%** |
