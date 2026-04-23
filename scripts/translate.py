@@ -35,7 +35,9 @@ Field descriptions:
   embedding          — vector embedding of source text, null until computed
 
 translation_type values:
-  "旧版翻译"  — matched from original KS Chinese translation
+  "旧版翻译"  — matched from original KS Chinese translation (RPY content matches KS)
+  "原版缩写"  — matched from KS, but RPY text was compressed/summarized from original
+  "原版扩写"  — matched from KS, but RPY text was expanded/paraphrased from original
   "机翻"      — LLM machine translation
   "人工"      — human translation
   ""          — not yet translated
@@ -388,7 +390,7 @@ def cmd_status(args):
     for entry in table.values():
         f = entry.get("rpy_file", "?")
         if f not in by_file:
-            by_file[f] = {"total": 0, "translated": 0, "旧版翻译": 0, "机翻": 0, "人工": 0}
+            by_file[f] = {"total": 0, "translated": 0, "旧版翻译": 0, "原版缩写": 0, "原版扩写": 0, "机翻": 0, "人工": 0}
         by_file[f]["total"] += 1
         ttype = entry.get("translation_type", "")
         if entry.get("translation"):
@@ -401,7 +403,7 @@ def cmd_status(args):
     for fname in sorted(by_file):
         s = by_file[fname]
         pct = s["translated"] / s["total"] * 100 if s["total"] else 0
-        print(f"  {fname:25s}  {s['translated']:4d}/{s['total']:4d} ({pct:5.1f}%)  旧版:{s['旧版翻译']} 机翻:{s['机翻']} 人工:{s['人工']}")
+        print(f"  {fname:25s}  {s['translated']:4d}/{s['total']:4d} ({pct:5.1f}%)  旧版:{s['旧版翻译']} 缩:{s['原版缩写']} 扩:{s['原版扩写']} 机翻:{s['机翻']} 人工:{s['人工']}")
         total_all += s["total"]
         translated_all += s["translated"]
 
