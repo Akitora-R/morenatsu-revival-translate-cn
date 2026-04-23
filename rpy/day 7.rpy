@@ -9335,8 +9335,8 @@ translate chinese_simplified beach07_juuichi_d589f4d1:
 translate chinese_simplified beach07_juuichi_b754e3ec:
 
     # "I was nervous for a moment,{p}but things settled peacefully in the end."
-    # [旧版翻译] 来源: c_海水浴.ks (KS 3127)
-    "开始我还对结果有些不安，"
+    # [旧版翻译] 来源: c_海水浴.ks (KS 3127-3128)
+    "开始我还对结果有些不安，{p}但最后还是皆大欢喜。"
 
 # game/day 7.rpy:2876
 translate chinese_simplified beach07_juuichi_150afc62:

@@ -202,6 +202,19 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | `who` | — | 未确认身份的发言者 |
 | `brothers` | — | 兄弟齐声 |
 
+## Day 8 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `day08` | `extract/torahiko/8日目.ks` | 次日晨醒 + 旅馆送泳镜 + 虎彦家父母登场 + 大浴场帮忙 |
+| `day08_pictures_kouno` | `extract/orig/孝之助_s_03.ks` | 心灵照片事后谈·孝之助路线（照片调查） |
+| `day08_pictures_tora` | `extract/orig/孝之助_s_03.ks` | 心灵照片事后谈·虎彦路线 |
+| `day08_pictures_shun` | `extract/orig/孝之助_s_03.ks` | 心灵照片事后谈·峻路线（七伏的故事） |
+| `kouya08` (teachme/pass等) | `extract/orig/洸哉_s_03.ks` | 秘密的演奏会（森林探险+吉他练习） |
+| `tatsuki08_join/couple/stop` | `extract/orig/辰樹_s_07.ks` | 水乡神社整蛊陷阱 + 内裤事件 |
+| `tatsuki08` (individual) | `extract/orig/辰樹_s_07.ks` | 神社开场 |
+| `kounosuke08` | `extract/orig/孝之助_s_03.ks` | 心灵照片事后谈（零食店开场） |
+
 ## Day 7 路线对应
 
 | RPY 前缀 | KS 源文件 | 场景概要 |
@@ -267,9 +280,9 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | day 5.rpy | 454 | 454 | **100%** |
 | day 6.rpy | 1002 | 1002 | **100%** |
 | day 7.rpy | 1671 | 1671 | **100%** |
+| day 8.rpy | 645 | 645 | **100%** |
 | Welcome Party.rpy | 1336 | 1380 | 96.8% |
 | day 3.rpy | 419 | 422 | 99.3% |
 | day 2.rpy | 864 | 1076 | 80.3% |
 | Day 16.rpy | 6 | 2148 | 0.3% |
-| 其他 25 个文件 | 0 | ~28500 | 待处理 |
-| **合计** | **6500** | **34191** | **19.0%** |
+| **合计** | **7145** | **34191** | **20.9%** |
