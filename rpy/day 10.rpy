@@ -11,105 +11,105 @@ translate chinese_simplified day10_f339f4e7:
 translate chinese_simplified torahiko10_36fa94a0:
 
     # "I get dressed and then have a late breakfast."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 56)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 56)
     "打理好后，吃完稍晚的早餐。"
 
 # game/day 10.rpy:213
 translate chinese_simplified torahiko10_6f8928bd:
 
     # "After that, I come back to my room.{w} In the corner I notice the backpack I brought to the beach,{w} I've been so busy that I forgot to unpack it."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 57,59-60)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 57,59-60)
     "之后，又回到了自己的房间。{w}在角落发现了去海边时带的背包，{w}因为太累了所以一直没整理。"
 
 # game/day 10.rpy:214
 translate chinese_simplified torahiko10_26c094e0:
 
     # "I need to put my swimsuit and towels in the washing machine.{w} While thinking about it, I throw all of the contents inside the backpack onto the tatami mat."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 62,64)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 62,64)
     "得先把泳裤啊，毛巾啊什么的放进洗衣机里。{w}一边想着的同时，把背包里的东西都拿出来放到了榻榻米上。"
 
 # game/day 10.rpy:215
 translate chinese_simplified torahiko10_d9ba1df8:
 
     # fn "「Huh?{w} This is...」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 67)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 67)
     fn "「咦？{p}这是……」"
 
 # game/day 10.rpy:219
 translate chinese_simplified torahiko10_0484c67f:
 
     # fn "「Hello?」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 73)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 73)
     fn "「不好意思，打扰了～」"
 
 # game/day 10.rpy:220
 translate chinese_simplified torahiko10_ae843e0d:
 
     # "That afternoon,{w} I come to the only inn in the center of the village."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 75-76)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 75-76)
     "那一天的下午，{w}[fn]来到了村子中心唯一的旅馆。"
 
 # game/day 10.rpy:224
 translate chinese_simplified torahiko10_788b483d:
 
     # to "「Oh, [fn]!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 81)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 81)
     to "「哟！[fn]！」"
 
 # game/day 10.rpy:225
 translate chinese_simplified torahiko10_b3949757:
 
     # "Torahiko rushes out from the behind the front door."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 83)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 83)
     "虎彦从特别大的正门里面冲了出来。"
 
 # game/day 10.rpy:226
 translate chinese_simplified torahiko10_b3c4e08c:
 
     # to "「Sorry, [fn]. I made you come all the way here\n just to bring them to me.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 86)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 86)
     to "「抱歉啊，[fn]。{p}还麻烦你特地送过来」"
 
 # game/day 10.rpy:227
 translate chinese_simplified torahiko10_af88a3a8:
 
     # fn "「It's okay.{w} It was my backpack that messed our\n stuff up anyway.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 89-91)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 89-91)
     fn "「不会啦，没事。{p}反而是要向你道歉啊，没想到[fn]的包里会有虎彦的泳镜」"
 
 # game/day 10.rpy:231
 translate chinese_simplified torahiko10_e27917c5:
 
     # "「Tch! No, it's because I didn't even pay attention\n at all.{w} I thought I had gathered everything that day.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 95-96)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 95-96)
     "「切，我也完全没有注意到。{w}我以为那天已经把所有的东西都收好了。」"
 
 # game/day 10.rpy:232
 translate chinese_simplified torahiko10_16441bcf:
 
     # fn "「I saw you using them that day.{w} And they are\n also pretty expensive, aren't they?{w} Here.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 99-100)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 99-100)
     fn "「那是因为在海边的时候有看到你戴过啊。{p}而且这一看就知道是个质量不错的泳镜，不是吗？」"
 
 # game/day 10.rpy:236
 translate chinese_simplified torahiko10_7ae71078:
 
     # to "「Oh, these are the ones I use for swimming practice.\n Glad I got these back before my next session.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 104)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 104)
     to "「对啊。{p}毕竟这是我训练时用的」"
 
 # game/day 10.rpy:237
 translate chinese_simplified torahiko10_a53f37f9:
 
     # "When I hand over the goggles, he hangs them around his neck.{w} Torahiko looks kind of good with goggles on after all."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 106-107)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 106-107)
     "虎彦接过泳镜后，并把它挂在脖子上。{w}果然还是挂着泳镜的虎彦帅气啊。"
 
 # game/day 10.rpy:239
 translate chinese_simplified torahiko10_31098fbc:
 
     # who "「[fn]-chan!」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 110)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 110)
     who "「哎呀？{p}这该不会是小[fn]？」"
 
 # game/day 10.rpy:240
@@ -128,664 +128,670 @@ translate chinese_simplified torahiko10_78594d1c:
     # [新增] 来源: torahiko/8日目.ks (KS 110)
     # [新增] 来源: torahiko/8日目.ks (KS 110)
     # [新增] 来源: torahiko/8日目.ks (KS 110)
+    # [新增] 来源: torahiko/8日目.ks (KS 110)
+    # [新增] 来源: torahiko/8日目.ks (KS 110)
+    # [新增] 来源: torahiko/10日目.ks (KS 110)
+    # [新增] 来源: torahiko/10日目.ks (KS 110)
+    # [新增] 来源: torahiko/10日目.ks (KS 110)
+    # [新增] 来源: torahiko/10日目.ks (KS 110)
     "小[fn]？"
 
 # game/day 10.rpy:241
 translate chinese_simplified torahiko10_56de9396:
 
     # fn "「Ah! Takemi-san!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 113)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 113)
     fn "「啊！{p}阿姨好！」"
 
 # game/day 10.rpy:242
 translate chinese_simplified torahiko10_ace744ee:
 
     # "It was Takemi-san, Torahiko's mother that came out from the front door."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 115-116)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 115-116)
     "从正门走出来的是，虎彦的母亲，竹美。"
 
 # game/day 10.rpy:243
 translate chinese_simplified torahiko10_4326c705:
 
     # "She is beautiful. Her eyes are still deep blue and they look a lot like Torahiko's."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 117-120)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 117-120)
     "她还是很漂亮。{w}那圆圆的大眼睛，跟虎彦非常像。"
 
 # game/day 10.rpy:248
 translate chinese_simplified torahiko10_f5f41209:
 
     # takemi "「I heard from Torahiko that you came back a few\n days ago, but it's a surprise that you come to\n visit us today!{w} You definitely have grown a lot!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 126-128)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 126-128)
     takemi "「从虎彦那里听说小[fn]已经回来了，没想到今天就过来了。{p}都长得这么大了啊」"
 
 # game/day 10.rpy:249
 translate chinese_simplified torahiko10_a523aee4:
 
     # fn "「Ehe, it's been a long time, Takemi-san.{w} It's been\n 5 years since I moved so my height has grown\n considerably.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 131-132)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 131-132)
     fn "「嘿嘿，{p}真的好久不见了。自从搬家后过了五年，身高也长高了一些。」"
 
 # game/day 10.rpy:250
 translate chinese_simplified torahiko10_8706888a:
 
     # to "「It's not, though.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 135)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 135)
     to "「但是我们家的孩子啊，里面还是跟小孩一样，一点都不成熟」"
 
 # game/day 10.rpy:251
 translate chinese_simplified torahiko10_10182af9:
 
     # takemi "「My child, you see, he hasn't grown a bit.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 135)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 135)
     takemi "「但是我们家的孩子啊，里面还是跟小孩一样，一点都不成熟」"
 
 # game/day 10.rpy:255
 translate chinese_simplified torahiko10_797a2034:
 
     # to "「I'm definitely growing!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 139)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 139)
     to "「谁是小孩子啊，心理也很成熟好不好！」"
 
 # game/day 10.rpy:256
 translate chinese_simplified torahiko10_71ecc577:
 
     # fn "「Ahahaha.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 142)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 142)
     fn "「哈哈……」"
 
 # game/day 10.rpy:260
 translate chinese_simplified torahiko10_3d8fd124:
 
     # takemi "「Oh, right. Show your face to my husband.{w} He's\n preparing dinner in the kitchen right now.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 146-147)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 146-147)
     takemi "「啊！对了，{p}顺便进来让我丈夫看看吧。{p}他现在应该在厨房里准备晚饭」"
 
 # game/day 10.rpy:261
 translate chinese_simplified torahiko10_04bedcfd:
 
     # fn "「Sure, Takemi-san.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 150)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 150)
     fn "「啊，好的！」"
 
 # game/day 10.rpy:262
 translate chinese_simplified torahiko10_edb099cc:
 
     # takemi "「Then, Torahiko. I'm going to pick up\n customers.{w} In the meantime, I ask you to clean the\n public bath.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 153-154)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 153-154)
     takemi "「那么虎彦，你老妈现在要去跟客人打招呼。{p}这段时间就拜托你帮忙打扫下大浴场了哦，别忘了」"
 
 # game/day 10.rpy:266
 translate chinese_simplified torahiko10_1965c6ef:
 
     # to "「Ugh.{w} See you later, mom.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 158)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 158)
     to "「不会吧，还要打扫啊……」"
 
 # game/day 10.rpy:267
 translate chinese_simplified torahiko10_12f8c6d7:
 
     # "Torahiko, who is asked for help, shows a blatantly disgusted face."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 160)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 160)
     "被要求帮忙的虎彦露出了一脸不情愿的表情。"
 
 # game/day 10.rpy:268
 translate chinese_simplified torahiko10_8a4d329a:
 
     # "After assigning the tasks to Torahiko using the ultimate phrase “I ask you to...\",{w} Takemi-san gets in a white car and drives away."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 161-162)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 161-162)
     "竹美姨说着「拜托你了」后，{w}开着停在外面的白色单厢车离开了。"
 
 # game/day 10.rpy:269
 translate chinese_simplified torahiko10_2320ddbf:
 
     # to "「Hey, do you want to go to my father's place\n for the time being?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 165)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 165)
     to "「哎，算了，总之先去老爸那里吧」"
 
 # game/day 10.rpy:270
 translate chinese_simplified torahiko10_b71ba00b:
 
     # fn "「Right, sure.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 168)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 168)
     fn "「嗯」"
 
 # game/day 10.rpy:275
 translate chinese_simplified torahiko10_c1f3bf41:
 
     # "We go up the wide entrance and walk down the long corridor that extends to the front."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 173)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 173)
     "走进了那宽大的正门，两人沿着那长长地向里延伸的走廊走了进去。"
 
 # game/day 10.rpy:276
 translate chinese_simplified torahiko10_7deee85d:
 
     # "Along the way, I could see a demon mask used in Noh theaters was hanging on the wall."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 174)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 174)
     "在途中还能看到演戏还是演剧时会用到的鬼面具挂在墙上。"
 
 # game/day 10.rpy:277
 translate chinese_simplified torahiko10_72369b44:
 
     # "I've missed that.{w} When I was little, I was always scared of that mask and was a bit traumatized."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 176-177)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 176-177)
     "好怀念啊。{w}[fn]小时候，一直害怕这些面具，甚至有点童年阴影。"
 
 # game/day 10.rpy:278
 translate chinese_simplified torahiko10_1ee2b548:
 
     # "...Or rather, I'm scared until now since it is still so powerful."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 178)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 178)
     "……但是，现在看还是会被那魄力所震慑。"
 
 # game/day 10.rpy:279
 translate chinese_simplified torahiko10_a8fc217f:
 
     # "At the end of the corridor, we turn left and see the kitchen."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 180)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 180)
     "走到走廊的尽头再往左转就是厨房了。"
 
 # game/day 10.rpy:283
 translate chinese_simplified torahiko10_fe9c9012:
 
     # "When I look inside,{w} there's a big tiger tasting the simmering food.{w} The scent of soy sauce, which is very appetizing, wafting from the pot."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 184-186)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 184-186)
     "往里面一看，一位很大个的虎兽人正在试吃着煮食。{w}从锅里传来的令人食欲大增的酱油的香味轻飘飘地充满着整个房间。"
 
 # game/day 10.rpy:287
 translate chinese_simplified torahiko10_a7d701b2:
 
     # to "「Dad, [fn] has come to see us for the first\n time in a while.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 190)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 190)
     to "「老爸，[fn]回来了哦」"
 
 # game/day 10.rpy:291
 translate chinese_simplified torahiko10_1c12032c:
 
     # who "「Hmmm...?{w} Oh, it's [fn]!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 194)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 194)
     who "「嗯…？{p}喔喔！这不是[fn]吗！」"
 
 # game/day 10.rpy:292
 translate chinese_simplified torahiko10_0422154d:
 
     # fn "「Satoru-san!{w} It's been a long time.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 197)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 197)
     fn "「叔叔，好久不见」"
 
 # game/day 10.rpy:293
 translate chinese_simplified torahiko10_b2c606bf:
 
     # "This person is Torahiko's father, Satoru-san."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 199)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 199)
     "这位就是虎彦的父亲，严虎。"
 
 # game/day 10.rpy:294
 translate chinese_simplified torahiko10_d3fb301d:
 
     # "He has a pretty cool name,{w} and although he's a big man with sharp eyes,{w} he's not very scary but actually a friendly and cheerful person."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 201-203)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 201-203)
     "虽然是个名字特别霸气，眼神犀利的大男人，{w}外表看起来感觉特别凶，{w}但其实，对人特别温柔爽朗。"
 
 # game/day 10.rpy:295
 translate chinese_simplified torahiko10_cd151bea:
 
     # "I'm sure that Torahiko's good physique and personality are inherited from his father."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 205-206)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 205-206)
     "虎彦的好身材和性格肯定是遗传自叔叔的。"
 
 # game/day 10.rpy:296
 translate chinese_simplified torahiko10_67b94250:
 
     # sa "「You look quite good.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 209)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 209)
     sa "「这么久没见都长这么大啦！」"
 
 # game/day 10.rpy:297
 translate chinese_simplified torahiko10_7d2478ab:
 
     # fn "「You and Takemi seem to be fine as well!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 212)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 212)
     fn "「叔叔和阿姨也很有精神啊」"
 
 # game/day 10.rpy:298
 translate chinese_simplified torahiko10_910a7277:
 
     # sa "「Well! It's already been 4 years...{w} 5 years since\n you moved?{w} I still miss the time when I was bad\n with you and my child, Torahiko.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 215-217)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 215-217)
     sa "「那是当然！{p}等下，搬家后也过4年……{w}5年了吧？{p}好怀念跟我们家虎彦一起恶作剧的时候啊」"
 
 # game/day 10.rpy:299
 translate chinese_simplified torahiko10_6030b202:
 
     # fn "「Ah...{w} It's because we used to cause you troubles\n very regularly.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 220)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 220)
     fn "「啊……{p}那时候经常给叔叔添麻烦了，对不起……」"
 
 # game/day 10.rpy:300
 translate chinese_simplified torahiko10_013947d1:
 
     # "Satoru-san is usually really kind.{w} But when he gets angry, he is insanely scary.{w} I guess that's when the horror of his appearance is fully demonstrated."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 222-224)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 222-224)
     "叔叔平常都很温柔的，{w}但是生气的时候还是很恐怖的。{w}脸本来就挺凶的……"
 
 # game/day 10.rpy:301
 translate chinese_simplified torahiko10_db6834f0:
 
     # "Every time when Torahiko, Kounosuke and I attempted to do something dangerous,{w} Satoru-san was always there to scold us."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 226-227)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 226-227)
     "[fn]和虎彦还有孝之助被称为恶作剧三人组。{w}一旦做危险的事时，[fn]们都会被叔叔抓出来说教。"
 
 # game/day 10.rpy:302
 translate chinese_simplified torahiko10_80a5b272:
 
     # "But after that,{w} he always just stroked our heads and let us eat delicious food."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 229-230)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 229-230)
     "但是在那之后都会摸摸[fn]的头，{w}还会给[fn]们吃好吃的东西。"
 
 # game/day 10.rpy:306
 translate chinese_simplified torahiko10_21fc78ea:
 
     # sa "「It's okay.{w} You guys were just so naughty back\n then.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 234-235)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 234-235)
     sa "「没事没事。{p}小孩子嘛，调皮也是难免的嘛」"
 
 # game/day 10.rpy:307
 translate chinese_simplified torahiko10_6d851420:
 
     # sa "「When I was a kid, I was also really annoying to the\n Midoriya's leading carpenter - Tappei's dad.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 238-239)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 238-239)
     sa "「而且啊，我和翠屋那里的师傅小时候也一起干过很多恶作剧呢」"
 
 # game/day 10.rpy:308
 translate chinese_simplified torahiko10_5e82afd0:
 
     # fn "「With Tatsuki's grandfather?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 242)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 242)
     fn "「跟辰兄的父亲一起？」"
 
 # game/day 10.rpy:309
 translate chinese_simplified torahiko10_040b0e9b:
 
     # sa "「Oh, Tappei and I were close to each other,{w} I\n played with him all the time.{w} We were so naughty\n that the village had to call us The Evil Combination.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 245-247)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 245-247)
     sa "「对啊。{p}我和那家伙没差多少岁，一直在一起玩。{p}以前还被称作为恶童龙虎组呢」"
 
 # game/day 10.rpy:310
 translate chinese_simplified torahiko10_c361823e:
 
     # "I don't know anything about that.{w} But it's true that Satoru-san and Tatsuki's father are about the same age, the atmosphere now is also kind of similar."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 249-251)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 249-251)
     "真的意想不到。{w}不过，叔叔和辰兄的父亲的确好像是同岁，连给人的感觉都很相似。"
 
 # game/day 10.rpy:314
 translate chinese_simplified torahiko10_0ec410d9:
 
     # sa "「More than that...」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 255)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 255)
     sa "「比起这些事，[fn]啊……」"
 
 # game/day 10.rpy:318
 translate chinese_simplified torahiko10_8faa847a:
 
     # fn "「Yes?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 258)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 258)
     fn "「……嗯？」"
 
 # game/day 10.rpy:319
 translate chinese_simplified torahiko10_06a8017d:
 
     # "Suddenly Satoru-san asks me again."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 260)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 260)
     "突然叔叔问到。"
 
 # game/day 10.rpy:320
 translate chinese_simplified torahiko10_610d79a8:
 
     # sa "「Did you make out with her?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 263)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 263)
     sa "「……你啊，有没有女朋友啊？」"
 
 # game/day 10.rpy:321
 translate chinese_simplified torahiko10_b5ad05af:
 
     # fn "「Huh?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 266)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 266)
     fn "「诶？」"
 
 # game/day 10.rpy:322
 translate chinese_simplified torahiko10_d988c795:
 
     # to "「Huh?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 269)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 269)
     to "「诶！？」"
 
 # game/day 10.rpy:330
 translate chinese_simplified torahiko10_23f6e69a:
 
     # sa "「The city is such a colorful place and there are also\n many women, right?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 275)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 275)
     sa "「像城市那种繁华的地方，应该有各种各样的女生吧？」"
 
 # game/day 10.rpy:331
 translate chinese_simplified torahiko10_3e26017c:
 
     # sa "「And you're already a high school student,{w} so you\n must have made out with one or two,{p} no, three of them?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 276-277)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 276-277)
     sa "「而且都高中生了，女朋友的一个两个……不对，大概交过三个了吧？」"
 
 # game/day 10.rpy:332
 translate chinese_simplified torahiko10_2a29538a:
 
     # fn "「Eh!?{w} No! That's not it!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 280)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 280)
     fn "「诶，{p}不是，那个，还没交过！」"
 
 # game/day 10.rpy:333
 translate chinese_simplified torahiko10_5b8fff68:
 
     # sa "「Don't hide, don't hide.{w} When I was in high school,\n I used to do it everyday.{w} You know you're also a\n Minasato man, right?」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 283-285)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 283-285)
     sa "「别藏了，别藏了。{p}我高中的时候可是每天换来换去都干过的哟{p}你那里也发育得很不错了吧？{p}不用的话可就亏了啊！」"
 
 # game/day 10.rpy:337
 translate chinese_simplified torahiko10_544a0356:
 
     # sa "「So it's a loss if you don't use this!」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 285)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 285)
     sa "「所以不用的话可就亏了啊！」"
 
 # game/day 10.rpy:338
 translate chinese_simplified torahiko10_b4d0b864:
 
     # "As he said, Satoru-san suddenly grab my crotch."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 287)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 287)
     "话还没说完，叔叔一大把抓住了[fn]的裆下。"
 
 # game/day 10.rpy:339
 translate chinese_simplified torahiko10_40585199:
 
     # fn "「WOAH!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 290)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 290)
     fn "「呜哇！」"
 
 # game/day 10.rpy:343
 translate chinese_simplified torahiko10_9e32fd6a:
 
     # to "「This erotic father!{w} What are you doing!?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 294)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 294)
     to "「这个色老头！在干什么啊！」"
 
 # game/day 10.rpy:344
 translate chinese_simplified torahiko10_c4889d80:
 
     # "Torahiko immediately enters the arbitration."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 296)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 296)
     "虎彦介入阻止。"
 
 # game/day 10.rpy:345
 translate chinese_simplified torahiko10_d416c036:
 
     # "That was just in time..."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 296)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 296)
     "太好了……"
 
 # game/day 10.rpy:346
 translate chinese_simplified torahiko10_71754797:
 
     # "If mine had been rubbed as Satoru-san was about to, I would have been dead instantly from the embarrassment caused by the erection..."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 297)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 297)
     "如果再被那样揉下去的话，那里就会完全进入备战状态了……"
 
 # game/day 10.rpy:347
 translate chinese_simplified torahiko10_7db8aa0a:
 
     # "But being rubbed by the big hand of a big tiger beast man...{w} Gulp."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 299)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 299)
     "被成年虎兽人的大手摸……{w}嗯，也不错（吞口水）。"
 
 # game/day 10.rpy:348
 translate chinese_simplified torahiko10_d0cf8d2b:
 
     # sa "「Just a high school student is old enough to\n understand the whole story, isn't it?」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 302-303)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 302-303)
     sa "「哇哈哈！{p}[fn]都高中生了，都应该知道些黄段子了吧？」"
 
 # game/day 10.rpy:352
 translate chinese_simplified torahiko10_75e38934:
 
     # sa "「Well, joking aside,{w} since you've come all the way\n here,{w} why don't you stay and have dinner with us?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 307-308)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 307-308)
     sa "「嘛，玩笑话先放一边，既然来都来了，{w}吃完晚饭再走吧」"
 
 # game/day 10.rpy:353
 translate chinese_simplified torahiko10_beab9e76:
 
     # fn "「Well, is that okay?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 311)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 311)
     fn "「诶，可以吗？」"
 
 # game/day 10.rpy:357
 translate chinese_simplified torahiko10_15cdcbd5:
 
     # sa "「I'm making Nikujaga.{w} There are also fresh\n vegetables harvested around here today.{p} Do you like it?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 315-317)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 315-317)
     sa "「今天刚好做了土豆炖肉。{w}[fn]喜欢吃吧？{p}还有，这附近采集的山菜也放在里面了哟」"
 
 # game/day 10.rpy:358
 translate chinese_simplified torahiko10_54f2ded4:
 
     # fn "「Is that true!?{w} Then I guess I'll tell my grandma.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 320)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 320)
     fn "「真的吗！？{p}那就，恭敬不如从命了！」"
 
 # game/day 10.rpy:359
 translate chinese_simplified torahiko10_e0a24c16:
 
     # "The tension went up dramatically.{w} I had a chance to eat Satoru-san's Nikujaga a long time ago."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 322-323)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 322-323)
     "[fn]一下子就兴奋了起来。{w}以前，因为吃了叔叔做的土豆炖肉，"
 
 # game/day 10.rpy:360
 translate chinese_simplified torahiko10_db9cdcc4:
 
     # "I can't deny that my favorite food since then is Nikujaga."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 325)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 325)
     "土豆炖肉就变成了[fn]最喜欢吃的菜了。"
 
 # game/day 10.rpy:361
 translate chinese_simplified torahiko10_02db71c7:
 
     # "Everything he cooks is delicious and sophisticated to the point where set meals and restaurants around are no longer be able to compete."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 327-329)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 327-329)
     "叔叔做的料理都特别好吃，{w}那些路边的快餐店和饭店，都无法与之抗衡。"
 
 # game/day 10.rpy:362
 translate chinese_simplified torahiko10_dc17e98a:
 
     # "Even though there is no complex decoration, his dishes are still unbelievable tasty."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 331)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 331)
     "没有特别的制作手法，但是却相当好吃。"
 
 # game/day 10.rpy:366
 translate chinese_simplified torahiko10_3956918f:
 
     # sa "「Later, I'll call my house to have dinner at home.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 335-336)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 335-336)
     sa "「等下，会打电话去[fn]家，说你会在这里吃晚餐的」"
 
 # game/day 10.rpy:367
 translate chinese_simplified torahiko10_3d9a6fba:
 
     # to "「Dad, I still have a huge public bath to clean.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 341)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 341)
     to "「老爸，我差不多要去打扫大浴场了」"
 
 # game/day 10.rpy:368
 translate chinese_simplified torahiko10_b981ddb1:
 
     # fn "「Oh, then I'll help you too.{w} It's a dinner treat so\n at least I have to work a little.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 344-345)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 344-345)
     fn "「啊，那样的话[fn]也来帮忙。{p}既然被请吃晚饭，那当然要回报一下」"
 
 # game/day 10.rpy:372
 translate chinese_simplified torahiko10_d9f27e23:
 
     # sa "「The one who doesn't work is the one who shouldn't\n eat.{w} You have a good heart, [fn].{w} Then both of\n you now should go.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 349-350)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 349-350)
     sa "「不劳动者不得食。{w}好志向。{w}那么，就拜托你们俩啦」"
 
 # game/day 10.rpy:373
 translate chinese_simplified torahiko10_be8903b4:
 
     # fn "「Yes, sir!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 353)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 353)
     fn "「是！」"
 
 # game/day 10.rpy:377
 translate chinese_simplified torahiko10_2121236c:
 
     # to "「See you later, dad.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 357)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 357)
     to "「是是是」"
 
 # game/day 10.rpy:382
 translate chinese_simplified torahiko10_1f1f8706:
 
     # "We come out of the kitchen and then head to the public bath."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 362)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 362)
     "从厨房出来的[fn]们，前往了大浴场。"
 
 # game/day 10.rpy:386
 translate chinese_simplified torahiko10_f6fdc48b:
 
     # to "「...Tch,{w} I can't believe that he actually grabbed\n your dick in the middle of the kitchen.{w} That's not\n even normal.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 366-367)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 366-367)
     to "「……真是的，{p}那个时候谁会去摸别人的下面啊？{p}真的是」"
 
 # game/day 10.rpy:387
 translate chinese_simplified torahiko10_9a7225d8:
 
     # fn "「Well, I was surprised.{w} But I don't mind if I can\n eat his food.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 374-375)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 374-375)
     fn "「没什么啦。{p}确实是被吓到了，但能吃到叔叔做的料理，[fn]完全不介意的啦。」"
 
 # game/day 10.rpy:391
 translate chinese_simplified torahiko10_d40ce38c:
 
     # to "「Sure...{w} The rice you eat by letting that old man\n touch your body is definitely delicious.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 379-380)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 379-380)
     to "「……吃到摸了自己身体的大叔做的饭，想必会很好吃吧」"
 
 # game/day 10.rpy:392
 translate chinese_simplified torahiko10_7bc2a051:
 
     # "Torahiko says that with a nasty look."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 382)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 382)
     "虎彦一脸作呕地说到。"
 
 # game/day 10.rpy:393
 translate chinese_simplified torahiko10_ce858163:
 
     # fn "「Hey, don't say such things!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 385)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 385)
     fn "「别说这么难听的话啊！」"
 
 # game/day 10.rpy:397
 translate chinese_simplified torahiko10_607be2c5:
 
     # to "「Well then,{w} let's finish cleaning before dinner.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 389)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 389)
     to "「嘛，没关系啦。{p}比起这些，我们赶快把大浴场打扫干净吧」"
 
 # game/day 10.rpy:398
 translate chinese_simplified torahiko10_0b225f23:
 
     # fn "「Yeah, that's right.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 392)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 392)
     fn "「嗯，走吧」"
 
 # game/day 10.rpy:402
 translate chinese_simplified torahiko10_4600ec8b:
 
     # "After that, we finally finished cleaning the huge public bath by whipping it with some cleaning rags quite a few times."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 396-398)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 396-398)
     "之后，拖着在海滩时被鞭打过似的疲惫不堪的身体终于把大浴场打扫完的[fn]们，在叔叔准备的晚餐里享受了一番。"
 
 # game/day 10.rpy:403
 translate chinese_simplified torahiko10_13788504:
 
     # "Later we have a delicious meal prepared by Satoru-san."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 398)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 398)
     "之后，在叔叔准备的晚餐里享受了一番。"
 
 # game/day 10.rpy:404
 translate chinese_simplified torahiko10_e2accc9e:
 
     # "As I expected,{w} his food is still as good as it used to be.{w} And I was so impressed that I managed to eat three cups of rice."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 400-401)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 400-401)
     "跟期待的一样，叔叔的料理还是一如既往的美味，{w}感动得连吃了三碗饭。"
 
 # game/day 10.rpy:412
 translate chinese_simplified torahiko10_aa3da0e4:
 
     # "When the sun goes down,{w} Torahiko say that the night road on the way back is dangerous.{w} Therefore, he'll go with me."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 407-408)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 407-408)
     "太阳已经下山时，因为说晚上回去的路会很危险，{w}所以虎彦决定送[fn]回家。"
 
 # game/day 10.rpy:413
 translate chinese_simplified torahiko10_502ea0cf:
 
     # "We left the inn on Torahiko's bicycle."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 410)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 410)
     "[fn]坐在虎彦的自行车的后座上。"
 
 # game/day 10.rpy:414
 translate chinese_simplified torahiko10_70667295:
 
     # to "「Thank you for everything you've done today.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 413)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 413)
     to "「今天真的谢谢啦」"
 
 # game/day 10.rpy:415
 translate chinese_simplified torahiko10_0f3cc300:
 
     # fn "「Same here, I was treated to the dinner, though.{p} After all, Satoru-san's Nikujaga were still as good as\n before.」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 416-417)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 416-417)
     fn "「没什么啦，而且还请[fn]吃了晚饭。{p}果然叔叔的土豆炖肉和以前一样好吃」"
 
 # game/day 10.rpy:416
 translate chinese_simplified torahiko10_c3535b9c:
 
     # to "「That's because my father's cooking is top-notch.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 420)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 420)
     to "「老爸的料理可是一流的」"
 
 # game/day 10.rpy:417
 translate chinese_simplified torahiko10_eefa7b25:
 
     # "Torahiko says as he rides the bicycle forward."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 422)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 422)
     "虎彦踏着自行车说到。"
 
 # game/day 10.rpy:418
 translate chinese_simplified torahiko10_618bce59:
 
     # fn "「That's right.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 425)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 425)
     fn "「是啊」"
 
 # game/day 10.rpy:419
 translate chinese_simplified torahiko10_06d6f50a:
 
     # to "「But, I've also been practicing cooking more and more\n lately.{w} You know I'm getting better everyday, right?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 428-429)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 428-429)
     to "「但是，我最近也一直在练习料理，{w}我的料理技术也越来越好了哟」"
 
 # game/day 10.rpy:420
 translate chinese_simplified torahiko10_4d3784dd:
 
     # "Torahiko's face is illuminated by the moonlight.{p}He's so beautiful when I look at him."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 431-432)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 431-432)
     "在月光照耀下的虎彦的侧脸，看起来有点得意洋洋的。"
 
 # game/day 10.rpy:423
@@ -804,13 +810,19 @@ translate chinese_simplified torahiko10_b4489b25:
     # [新增] 来源: torahiko/8日目.ks (KS 435)
     # [新增] 来源: torahiko/8日目.ks (KS 435)
     # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
     fn "「的确，上次做的意大利面和角煮真是美味」"
 
 # game/day 10.rpy:425
 translate chinese_simplified torahiko10_09456527:
 
     # fn "「Sure, the spaghetti you made last time was beyond excellent.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 435)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 435)
     fn "「的确，上次做的意大利面真是美味」"
 
 # game/day 10.rpy:427
@@ -829,6 +841,12 @@ translate chinese_simplified torahiko10_50b7a4ac:
     # [新增] 来源: torahiko/8日目.ks (KS 435)
     # [新增] 来源: torahiko/8日目.ks (KS 435)
     # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
     fn "「的确，上次做的角煮真是美味」"
 
 # game/day 10.rpy:429
@@ -838,174 +856,180 @@ translate chinese_simplified torahiko10_e396a262:
     # [新增] 来源: torahiko/8日目.ks (KS 435)
     # [新增] 来源: torahiko/8日目.ks (KS 435)
     # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/8日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
+    # [新增] 来源: torahiko/10日目.ks (KS 435)
     fn "「嗯，下次想尝尝你做的料理」"
 
 # game/day 10.rpy:431
 translate chinese_simplified torahiko10_e163445b:
 
     # to "「Hehehe!{w} Next time, I'll make a delicious dish\n and I'll feed you.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 438-439)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 438-439)
     to "「嘿嘿！{p}那样的话，我下次再做给你吃！{p}下次一定让你吃到我的绝世佳肴！」"
 
 # game/day 10.rpy:432
 translate chinese_simplified torahiko10_e41691d6:
 
     # "I can see his ears moving with joy."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 441)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 441)
     "从后面看到虎彦的耳朵，兴奋地跳动着。"
 
 # game/day 10.rpy:433
 translate chinese_simplified torahiko10_cd5b95c2:
 
     # fn "「Heh, I'm looking forward to it.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 444)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 444)
     fn "「很期待哦」"
 
 # game/day 10.rpy:434
 translate chinese_simplified torahiko10_a63ac83f:
 
     # to "「Sure!」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 447)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 447)
     to "「那就说好了！」"
 
 # game/day 10.rpy:435
 translate chinese_simplified torahiko10_9ba55231:
 
     # "What is he cooking next time?...{w} I can't wait to see it. Thousands of delicious dishes have appears in my head already."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 449-451)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 449-451)
     "下次会做什么呢……{w}好期待呀。脑袋里盘旋着各种好吃的料理。"
 
 # game/day 10.rpy:436
 translate chinese_simplified torahiko10_56bf166e:
 
     # "The bicycle continue going on a pitch-black ridge.{w} Even at night, the warm air is still stroking my cheeks."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 452-454)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 452-454)
     "[fn]的妄想随着自行车，骑进了那黑黑的街道。{w}即使在晚上也依旧有着温暖的空气，抚摸着[fn]的脸颊。"
 
 # game/day 10.rpy:437
 translate chinese_simplified torahiko10_07ccb539:
 
     # fn "「By the way...{w} Did your father influence you to\n learn cooking?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 457-458)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 457-458)
     fn "「……说起来，虎彦会开始做料理，{w}是受了叔叔的影响的吧？」"
 
 # game/day 10.rpy:438
 translate chinese_simplified torahiko10_04945194:
 
     # to "「Hmmm?{w} Well... That's right...{w} But that's just a\n part of it.{w} The number one reason is...」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 461-462)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 461-462)
     to "「嗯？{p}……是啊……{w}但那只是一个理由。{w}还有一个很重要的理由……」"
 
 # game/day 10.rpy:439
 translate chinese_simplified torahiko10_46b964ab:
 
     # fn "「What is the number one reason?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 465)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 465)
     fn "「很重要的理由？」"
 
 # game/day 10.rpy:440
 translate chinese_simplified torahiko10_3d2d5580:
 
     # to "「It is...」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 468)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 468)
     to "「是……」"
 
 # game/day 10.rpy:444
 translate chinese_simplified torahiko10_c2f82c17:
 
     # "When Torahiko is mumbling, he suddenly look up and turn around."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 470)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 470)
     "虎彦好像在嘴里含糊着些什么……"
 
 # game/day 10.rpy:445
 translate chinese_simplified torahiko10_45d64c96:
 
     # to "「Oh, hey, we have arrived.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 475)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 475)
     to "「啊，快看，已经到了」"
 
 # game/day 10.rpy:446
 translate chinese_simplified torahiko10_c01778b1:
 
     # fn "「Eh?{w} Oh, we're already here?」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 478)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 478)
     fn "「诶？{p}这么快就到了」"
 
 # game/day 10.rpy:450
 translate chinese_simplified torahiko10_f548f935:
 
     # fn "「Thank you for accompanying me, Torahiko.{w} Heh, I\n wasn't accompanied by a wolf, but a tiger.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 482-483)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 482-483)
     fn "「虎彦谢谢你送[fn]回来。{w}哈哈，不是尾行狼，而是随行虎啊」"
 
 # game/day 10.rpy:451
 translate chinese_simplified torahiko10_1579a03d:
 
     # "I try to sound like I'm joking."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 485)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 485)
     "[fn]开着玩笑地说到。"
 
 # game/day 10.rpy:455
 translate chinese_simplified torahiko10_4d6fe9dd:
 
     # to "「If you say something stupid,{w} you'll really be\n attacked.{w} I've already seen a lot of gaps, [fn].」"
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 489-490)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 489-490)
     to "「别说这些蠢话了，会真的趁机袭击你的哟。{p}而且[fn]的破绽也很多，很容易下手的」"
 
 # game/day 10.rpy:456
 translate chinese_simplified torahiko10_8a3eb85d:
 
     # to "「Especially be careful with my dad.{w} You don't want\n to be sexually harassed by him.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 493)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 493)
     to "「还有！特别是要注意像我老爸那样的。{w}会被性骚扰的」"
 
 # game/day 10.rpy:457
 translate chinese_simplified torahiko10_f25cf88c:
 
     # "I suddenly think about whether it's good or bad to be attacked by some parents and their kids.{w} What a random thought."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 495)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 495)
     "假如能被父子俩一起袭击的话，{w}想想也不错的嘛。"
 
 # game/day 10.rpy:461
 translate chinese_simplified torahiko10_8a562a34:
 
     # to "「Alright, see you again.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 499)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 499)
     to "「那，拜拜」"
 
 # game/day 10.rpy:462
 translate chinese_simplified torahiko10_24fb954c:
 
     # fn "「See you again, Torahiko.{w} Good night.」"
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 502)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 502)
     fn "「嗯，再见，虎彦。{p}晚安」"
 
 # game/day 10.rpy:466
 translate chinese_simplified torahiko10_a577bce5:
 
     # "With that being said, Torahiko rides back to the direction where he came."
-    # [原版缩写] 来源: torahiko/8日目.ks (KS 506-507)
+    # [原版缩写] 来源: torahiko/10日目.ks (KS 506-507)
     "说完，虎彦沿着来的路回去了。{w}而[fn]默默地目送着他的背影。"
 
 # game/day 10.rpy:467
 translate chinese_simplified torahiko10_2179ecac:
 
     # "His back becomes smaller and smaller.{w} The stripes of his arms extending from the tank top emerged in the moonlight."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 509-510)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 509-510)
     "从背心伸出来的手臂上的条纹斑，{w}在月光的照耀下浮现出来。"
 
 # game/day 10.rpy:468
 translate chinese_simplified torahiko10_27735585:
 
     # "There's something beautiful and dreamy to it."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 512)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 512)
     "宛如幻想一般，那么美丽动人。"
 
 # game/day 10.rpy:469
 translate chinese_simplified torahiko10_bfd3346e:
 
     # "Still,{w} I wonder what motivated Torahiko to start cooking..."
-    # [旧版翻译] 来源: torahiko/8日目.ks (KS 514-515)
+    # [旧版翻译] 来源: torahiko/10日目.ks (KS 514-515)
     "……不过，虎彦开始想做料理的理由，{w}究竟是什么呢……"
 
 # game/day 10.rpy:487
@@ -2286,15 +2310,15 @@ translate chinese_simplified shun10_goodgame_d0917afc:
 translate chinese_simplified shun10_goodgame_70b342e6:
 
     # su "「But I was going to play it when I got home today...」"
-    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 614)
-    su "「还以为今天回家时就能玩到的……」"
+    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 614-616)
+    su "「还以为今天回家时就能玩到的……{p}在这里买到再回去的话，{p}就得等到明天了，唔……」"
 
 # game/day 10.rpy:957
 translate chinese_simplified shun10_goodgame_93feb48f:
 
     # su "「And since I was going to buy it here,\n it'll be late when I get back and\n I'd have to do it tomorrow... *sniffle*」"
-    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 615-616)
-    su "「在这里买到再回去的话，就得等到明天了……唔……」"
+    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 614-616)
+    su "「还以为今天回家时就能玩到的……{p}在这里买到再回去的话，就还得等到明天了……唔……」"
 
 # game/day 10.rpy:958
 translate chinese_simplified shun10_goodgame_00cd9201:
@@ -2462,7 +2486,7 @@ translate chinese_simplified shun10_goodgame_dcd82b45:
 
     # "Aah, his tail's contact width has gotten really good."
     # [原版缩写] 来源: extract/orig/峻_m_02.ks (KS 709)
-    "尾巴的接触面积变得很好。"
+    "峻君摇着尾巴的接触面变得相当好了。"
 
 # game/day 10.rpy:1000
 translate chinese_simplified shun10_goodgame_03b4353e:
@@ -2853,29 +2877,29 @@ translate chinese_simplified shun10_sleepy_15baa512:
 translate chinese_simplified shun10_sleepy_f2b9712f:
 
     # "On one hand, I'm not sure how I should\ntake those words from earlier."
-    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 1047)
-    "我的脑中还都是刚才岳所说的那句话。"
+    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 1047-1048)
+    "我的脑中还都是刚才岳所说的那句话。{p}虽然也觉得有可能只是开开玩笑而已……但是眼睛是认真的啊。"
 
 # game/day 10.rpy:1171
 translate chinese_simplified shun10_sleepy_670c208a:
 
     # "I think he was just making fun of me,\nbut...{w} he had serious eyes."
-    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 1048)
-    "虽然也觉得有可能只是开开玩笑而已……但是眼睛是认真的啊。"
+    # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 1050-1052)
+    "岳看来是在警戒着我的样子。{p}不过，让自己跟峻君一起回去就表示OK吧。{p}是担心型性格？{w=.3}过度保护？{w=.3}还是是妄想？"
 
 # game/day 10.rpy:1172
 translate chinese_simplified shun10_sleepy_e0ebc420:
 
     # "It seems Gaku-san is cautious of me\nfor some reason,{w} but it looks like he was\nokay with me going home with Shun-kun."
     # [原版缩写] 来源: extract/orig/峻_m_02.ks (KS 1050-1051)
-    "岳看来是在警戒着我的样子，不过看来还是可以跟我一起回去的。"
+    "岳看来是在警戒着我的样子，{w}不过看来还是OK的。"
 
 # game/day 10.rpy:1173
 translate chinese_simplified shun10_sleepy_c959b545:
 
     # "Is he a worrier?{w=.2} Overprotective?{p}Was it electro-magnetic waves?"
     # [旧版翻译] 来源: extract/orig/峻_m_02.ks (KS 1052)
-    "是担心型性格？{w=.2}过度保护？还是是妄想？"
+    "是担心型性格？{w=.2}过度保护？{p}还是是妄想？"
 
 # game/day 10.rpy:1174
 translate chinese_simplified shun10_sleepy_02fcd008:
@@ -2901,298 +2925,298 @@ translate chinese_simplified shun10_sleepy_8e928edf:
 # game/day 10.rpy:1194
 translate chinese_simplified juuichi10_1fde6703:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 13)
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 13)
     "绿色的稻穗在和风下摇摆。"
 
 # game/day 10.rpy:1195
 translate chinese_simplified juuichi10_3990b52b:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 13)
-    "绿色的稻穗在和风下摇摆。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 15-17)
+    "刚回到这里的时候，水田中都还只有笔直的稻叶在随风摇摆着而已，{w=.3}然而现在不过在八月中旬，就已经都结出漂亮的稻穗来了。"
 
 # game/day 10.rpy:1196
 translate chinese_simplified juuichi10_2f5f0e5a:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 13)
-    "绿色的稻穗在和风下摇摆。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 19-21)
+    "稻穗前端被自身的重量压成一道道弧线。{p}印象中稻穗这种东西都是金黄色的，{w=.3}看到成长中的稻穗发现是绿色而会觉得感动的应该也只有我吧。"
 
 # game/day 10.rpy:1197
 translate chinese_simplified juuichi10_43c4c3bd:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 13)
-    "绿色的稻穗在和风下摇摆。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 23-25)
+    "以前我就不太会去在意这些枝微末节的小事啦……{p}觉得太过理所当然而完全不会去注意，{w=.3}大部分事情都是这样吧。"
 
 # game/day 10.rpy:1198
 translate chinese_simplified juuichi10_8b662b75:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 13)
-    "绿色的稻穗在和风下摇摆。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 27-29)
+    "哦哦，{w=.3}看来现在不是沉浸在感伤里的时候了。{p}公车差不多要到了。"
 
 # game/day 10.rpy:1199
 translate chinese_simplified juuichi10_9b660204:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 27-28)
-    "喔喔，{w=.3}看来不是沉浸在感伤里的时候了。{p}\n公车差不多要到了。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 30-33)
+    "今天的计划是要去风鸣镇看看。{p}因为在水乡村散步已经开始觉得无聊了……"
 
 # game/day 10.rpy:1200
 translate chinese_simplified juuichi10_944de136:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 30-32)
-    "今天的计划是要去风鸣镇看看。{p}\n因为在水乡村散步已经开始觉得无聊了……\n并不是因为这种理由，{w=.3}而是有很明确的目的的。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 34-37)
+    "我瞄了一下自己的右手。{p}在收拾好的包裹里面的，{w=.3}是洗干净且叠得整整齐齐的蓝色运动外套。"
 
 # game/day 10.rpy:1201
 translate chinese_simplified juuichi10_912e0242:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 35-36)
-    "在收拾好的包裹里面的，{w=.3}\n是洗干净且叠得整整齐齐的蓝色运动外套。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 39)
+    "当然这不是我的东西。要穿的话可是整整大了一圈……应该说，大了三个尺寸吧。"
 
 # game/day 10.rpy:1202
 translate chinese_simplified juuichi10_b9da558c:
 
     # "It's not mine, of course.{p}For one thing, it's way too big."
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 35-36)
-    "在收拾好的包裹里面的，{w=.3}\n是洗干净且叠得整整齐齐的蓝色运动外套。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 42-45)
+    "在前几天因为突然下雨，那时一起躲雨的柔一好心借给我的东西。{p}所以，现在正是要把它送还回去。"
 
 # game/day 10.rpy:1203
 translate chinese_simplified juuichi10_26c418b7:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 35-36)
-    "在收拾好的包裹里面的，{w=.3}\n是洗干净且叠得整整齐齐的蓝色运动外套。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 46-49)
+    "送回柔一的家的话确实是最保险的做法。{p}不过在把借的东西还回去时，要是不至少跟本人道个谢的话，{w=.3}多少觉得有点不礼貌。"
 
 # game/day 10.rpy:1204
 translate chinese_simplified juuichi10_579f74c4:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 35-36)
-    "在收拾好的包裹里面的，{w=.3}\n是洗干净且叠得整整齐齐的蓝色运动外套。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 50-52)
+    "不过，在那边向柔一道谢这点是最优先事项。"
 
 # game/day 10.rpy:1205
 translate chinese_simplified juuichi10_db7234b5:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 35-36)
-    "在收拾好的包裹里面的，{w=.3}\n是洗干净且叠得整整齐齐的蓝色运动外套。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 54-56)
+    "在风鸣镇到底是个怎样的地方，{w=.3}会不会想去看看什么的，要是被人这么问的话{p}也没办法说完全没有就是了。"
 
 # game/day 10.rpy:1206
 translate chinese_simplified juuichi10_1f5a7195:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 50-52)
-    "……哎，说起来风鸣镇到底是个怎样的地方，{w=.3}\n会不会想去看看什么的，要是被人这么问的话，{p}\n也没办法说完全没有就是了。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 30)
+    "今天的计划是要去风鸣镇看看。{p}"
 
 # game/day 10.rpy:1207
 translate chinese_simplified juuichi10_1ac0d200:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 54-55)
-    "在当初回这里时，虽然有因为等公车而在那待了一会儿，{w=.3}\n但是没机会在那里多逛逛。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 31)
+    "因为在水乡村散步已经开始觉得无聊了……"
 
 # game/day 10.rpy:1208
 translate chinese_simplified juuichi10_1351614e:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 57-59)
-    "以前爸妈曾经带我去逛过那里的大型百货公司，{w=.3}\n现在应该还在吧。{p}记得那时候，还因为在水乡村\n从来没有看过那么大的建筑物而觉得超兴奋的呢。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 32)
+    "并不是因为这种理由，{w=.3}而是有很明确的目的的。"
 
 # game/day 10.rpy:1209
 translate chinese_simplified juuichi10_2766df43:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 57-59)
-    "以前爸妈曾经带我去逛过那里的大型百货公司，{w=.3}\n现在应该还在吧。{p}记得那时候，还因为在水乡村\n从来没有看过那么大的建筑物而觉得超兴奋的呢。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 34)
+    "我瞄了一下自己的右手。{p}"
 
 # game/day 10.rpy:1210
 translate chinese_simplified juuichi10_27abcc51:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 61-63)
-    "……糟糕糟糕。{w=.3}\n今天可不是为了游玩而去风鸣的。{p}\n不管怎么说，跟柔一道谢这点是最优先事项。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 35)
+    "在收拾好的包裹里面的，{w=.3}"
 
 # game/day 10.rpy:1211
 translate chinese_simplified juuichi10_7834386c:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 61-63)
-    "……糟糕糟糕。{w=.3}\n今天可不是为了游玩而去风鸣的。{p}\n不管怎么说，跟柔一道谢这点是最优先事项。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 36)
+    "是洗干净且叠得整整齐齐的蓝色运动外套。"
 
 # game/day 10.rpy:1215
 translate chinese_simplified juuichi10_e8f21015:
 
     # "While I think about that,{w=.2}\nI see the bus approaching on the horizon."
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 70)
-    "在望着地平线另一端的公车逐渐接近时，{w=.3}"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 38)
+    "当然这不是我的东西。{p}"
 
 # game/day 10.rpy:1225
 translate chinese_simplified juuichi10_5004a081:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 70)
-    "在望着地平线另一端的公车逐渐接近时，{w=.3}"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 39)
+    "要我穿的话可是整整大了一圈……应该说，{w=.3}"
 
 # game/day 10.rpy:1226
 translate chinese_simplified juuichi10_dd30969a:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 65-66)
-    "不过，{w=.3}在那边跟柔一会合后，或许可以去别的地方\n逛逛也不一定呢。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 40)
+    "大了三个尺寸吧。"
 
 # game/day 10.rpy:1227
 translate chinese_simplified juuichi10_d33a8cd5:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 84-85)
-    "在风鸣镇下了车的我、{w=.3}把手伸进\n裤子的口袋里，从里面拿出了一张笔记。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 42)
+    "这是前几天因为突然下雨，{w=.3}那时一起躲雨的"
 
 # game/day 10.rpy:1237
 translate chinese_simplified juuichi10_memory_8ef3af3d:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 96-98)
-    "不会再做出像去找萤火虫时的那种蠢事了，{w=.3}\n这就是我，西村博行！{p}\n有把走法给事先写下来的我真是太伟大了！"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 43)
+    "柔一好心借给我的东西。{p}"
 
 # game/day 10.rpy:1238
 translate chinese_simplified juuichi10_memory_d267c05c:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 96-98)
-    "不会再做出像去找萤火虫时的那种蠢事了，{w=.3}\n这就是我，西村博行！{p}\n有把走法给事先写下来的我真是太伟大了！"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 100-101)
+    "……突然发现往来的行人好像都刻意在避免看向我，{w=.2}不过我知道那一定是我的错觉。肯定是。"
 
 # game/day 10.rpy:1243
 translate chinese_simplified juuichi10_memo_919b490e:
 
     # "On the note are directions from the bus stop to\nKazenari High."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 107)
-    "从公车站到风鸣高中的走法就写在这上面了。{p}"
+    "从公车站到风鸣高中的走法就写在这上面了。[l]"
 
 # game/day 10.rpy:1244
 translate chinese_simplified juuichi10_memo_3f3e7adc:
 
     # "I moved when I was in elementary school,{w=.2}\nso I don't really remember where it is."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 111-112)
-    "昨天有先在电话里跟柔一做过确认真是太好了。{p}\n而且也研究过了柔一的行程，确定他现在人在学校里。"
+    "昨天有先在电话里跟柔一做过确认真是太好了。[l]\n而且也研究过了柔一的行程，确定他现在人在学校里。"
 
 # game/day 10.rpy:1245
 translate chinese_simplified juuichi10_memo_9e472815:
 
     # "I called Juuichi-san yesterday,\nto make sure I had the right place,\nand that he'd be there at this time."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 111-112)
-    "昨天有先在电话里跟柔一做过确认真是太好了。{p}\n而且也研究过了柔一的行程，确定他现在人在学校里。"
+    "昨天有先在电话里跟柔一做过确认真是太好了。[l]\n而且也研究过了柔一的行程，确定他现在人在学校里。"
 
 # game/day 10.rpy:1246
 translate chinese_simplified juuichi10_memo_c3f4ab92:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 114-115)
-    "因为大会的日子近在眼前，{w=.3}\n所以最近几乎整天都在练习柔道的样子。"
+    "因为大会的日子近在眼前，[wdt]\n所以最近几乎整天都在练习柔道的样子。"
 
 # game/day 10.rpy:1247
 translate chinese_simplified juuichi10_memo_d1516133:
 
     # "...I hope his enthusiasm doesn't lead to injury.{p}Surely Juuichi-san, of all people,\nwouldn't do such a thing."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 117-118)
-    "……希望不要太努力到受伤就好了。{p}\n不过柔一的话应该是不会发生那种事啦。"
+    "……希望不要太努力到受伤就好了。[l]\n不过柔一的话应该是不会发生那种事啦。"
 
 # game/day 10.rpy:1248
 translate chinese_simplified juuichi10_memo_8afeef72:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 120-121)
-    "一边想着这种事，{w=.3}我一边单手抓着写有笔记\n的纸片，努力认着路在风鸣镇里走来走去。"
+    "一边想着这种事，[wdt]我一边单手抓着写有笔记\n的纸片，努力认着路在风鸣镇里走来走去。"
 
 # game/day 10.rpy:1249
 translate chinese_simplified juuichi10_memo_c63e72c9:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 123-125)
-    "……啊，{w=.3}这间汉堡店原来在这也有啊。{p}\n突然想起之前电视上一直在播它的广告，可是我却没机会吃，{w=.3}\n结果超后悔的那件事了。"
+    "……啊，[wdt]这间汉堡店原来在这也有啊。[l]\n突然想起之前电视上一直在播它的广告，可是我却没机会吃，[wdt]\n结果超后悔的那件事了。"
 
 # game/day 10.rpy:1250
 translate chinese_simplified juuichi10_memo_2c925b85:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 123-125)
-    "……啊，{w=.3}这间汉堡店原来在这也有啊。{p}\n突然想起之前电视上一直在播它的广告，可是我却没机会吃，{w=.3}\n结果超后悔的那件事了。"
+    "……啊，[wdt]这间汉堡店原来在这也有啊。[l]\n突然想起之前电视上一直在播它的广告，可是我却没机会吃，[wdt]\n结果超后悔的那件事了。"
 
 # game/day 10.rpy:1251
 translate chinese_simplified juuichi10_memo_4275a8de:
 
     # "Hm, are models not enough to\nmake a living from these days?{p}Times sure have gotten tougher."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 123-125)
-    "……啊，{w=.3}这间汉堡店原来在这也有啊。{p}\n突然想起之前电视上一直在播它的广告，可是我却没机会吃，{w=.3}\n结果超后悔的那件事了。"
+    "……啊，[wdt]这间汉堡店原来在这也有啊。[l]\n突然想起之前电视上一直在播它的广告，可是我却没机会吃，[wdt]\n结果超后悔的那件事了。"
 
 # game/day 10.rpy:1252
 translate chinese_simplified juuichi10_memo_f84eea23:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 134-136)
-    "而且既然便利商品都已经在风鸣这里开店了，{w=.3}\n要是他们能再加把劲在水乡村里也开店的话就好了的说。{p}\n这样的话水乡村应该也会繁荣起来吧。"
+    "而且既然便利商品都已经在风鸣这里开店了，[wdt]\n要是他们能再加把劲在水乡村里也开店的话就好了的说。[l]\n这样的话水乡村应该也会繁荣起来吧。"
 
 # game/day 10.rpy:1253
 translate chinese_simplified juuichi10_memo_30086c5d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 127-129)
-    "斜前方应该是间个人经营的模型店……{w=.3}\n虽然印象中是那样，{w=.3}不过看来现在已经\n被改建成便利商店了的样子。"
+    "斜前方应该是间个人经营的模型店……[wdt]\n虽然印象中是那样，[wdt]不过看来现在已经\n被改建成便利商店了的样子。"
 
 # game/day 10.rpy:1254
 translate chinese_simplified juuichi10_memo_2a6a0b78:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 127-129)
-    "斜前方应该是间个人经营的模型店……{w=.3}\n虽然印象中是那样，{w=.3}不过看来现在已经\n被改建成便利商店了的样子。"
+    "斜前方应该是间个人经营的模型店……[wdt]\n虽然印象中是那样，[wdt]不过看来现在已经\n被改建成便利商店了的样子。"
 
 # game/day 10.rpy:1255
 translate chinese_simplified juuichi10_memo_39cbe00c:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 127-129)
-    "斜前方应该是间个人经营的模型店……{w=.3}\n虽然印象中是那样，{w=.3}不过看来现在已经\n被改建成便利商店了的样子。"
+    "斜前方应该是间个人经营的模型店……[wdt]\n虽然印象中是那样，[wdt]不过看来现在已经\n被改建成便利商店了的样子。"
 
 # game/day 10.rpy:1256
 translate chinese_simplified juuichi10_memo_f136792d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 127-129)
-    "斜前方应该是间个人经营的模型店……{w=.3}\n虽然印象中是那样，{w=.3}不过看来现在已经\n被改建成便利商店了的样子。"
+    "斜前方应该是间个人经营的模型店……[wdt]\n虽然印象中是那样，[wdt]不过看来现在已经\n被改建成便利商店了的样子。"
 
 # game/day 10.rpy:1257
 translate chinese_simplified juuichi10_memo_968e0856:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 134-136)
-    "而且既然便利商品都已经在风鸣这里开店了，{w=.3}\n要是他们能再加把劲在水乡村里也开店的话就好了的说。{p}\n这样的话水乡村应该也会繁荣起来吧。"
+    "而且既然便利商品都已经在风鸣这里开店了，[wdt]\n要是他们能再加把劲在水乡村里也开店的话就好了的说。[l]\n这样的话水乡村应该也会繁荣起来吧。"
 
 # game/day 10.rpy:1258
 translate chinese_simplified juuichi10_memo_de79bfec:
 
     # "Next to the school stands a\nlone single-story building."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 148-149)
-    "哎，总之今天会来这里，\n也不是有什么事情要找学校方就是了。{p}"
+    "哎，总之今天会来这里，\n也不是有什么事情要找学校方就是了。[l]"
 
 # game/day 10.rpy:1259
 translate chinese_simplified juuichi10_memo_70d46a89:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 155)
-    "啊啊，{w=.3}这应该就是柔一所说的武道场了吧。{p}"
+    "啊啊，[wdt]这应该就是柔一所说的武道场了吧。[l]"
 
 # game/day 10.rpy:1260
 translate chinese_simplified juuichi10_memo_64f80972:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 152-153)
-    "连接在旁边的是相当老旧的校舍，{w=.3}\n一栋独栋的平房。"
+    "连接在旁边的是相当老旧的校舍，[wdt]\n一栋独栋的平房。"
 
 # game/day 10.rpy:1261
 translate chinese_simplified juuichi10_memo_4522a78a:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 152-153)
-    "连接在旁边的是相当老旧的校舍，{w=.3}\n一栋独栋的平房。"
+    "连接在旁边的是相当老旧的校舍，[wdt]\n一栋独栋的平房。"
 
 # game/day 10.rpy:1262
 translate chinese_simplified juuichi10_memo_2cf74735:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 152-153)
-    "连接在旁边的是相当老旧的校舍，{w=.3}\n一栋独栋的平房。"
+    "连接在旁边的是相当老旧的校舍，[wdt]\n一栋独栋的平房。"
 
 # game/day 10.rpy:1263
 translate chinese_simplified juuichi10_memo_613c7e69:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 155)
-    "啊啊，{w=.3}这应该就是柔一所说的武道场了吧。{p}"
+    "啊啊，[wdt]这应该就是柔一所说的武道场了吧。[l]"
 
 # game/day 10.rpy:1264
 translate chinese_simplified juuichi10_memo_d6687e50:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 155)
-    "啊啊，{w=.3}这应该就是柔一所说的武道场了吧。{p}"
+    "啊啊，[wdt]这应该就是柔一所说的武道场了吧。[l]"
 
 # game/day 10.rpy:1275
 translate chinese_simplified juuichi10_memo_577f34ab:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 155)
-    "啊啊，{w=.3}这应该就是柔一所说的武道场了吧。{p}"
+    "啊啊，[wdt]这应该就是柔一所说的武道场了吧。[l]"
 
 # game/day 10.rpy:1276
 translate chinese_simplified juuichi10_memo_42d8f609:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 182-183)
-    "……再怎么说也是校外人士，{w=.3}\n要进去其他学校多少会有点紧张。"
+    "……再怎么说也是校外人士，[wdt]\n要进去其他学校多少会有点紧张。"
 
 # game/day 10.rpy:1277
 translate chinese_simplified juuichi10_memo_d384d947:
@@ -3210,73 +3234,73 @@ translate chinese_simplified juuichi10_memo_d33b7b9c:
 translate chinese_simplified juuichi10_memo_c166bc49:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 192-193)
-    "其中一人是在水乡村非常少见的狼人。{p}\n另外一人，{w=.3}不用说自然就是柔一了。"
+    "其中一人是在水乡村非常少见的狼人。[l]\n另外一人，[wdt]不用说自然就是柔一了。"
 
 # game/day 10.rpy:1280
 translate chinese_simplified juuichi10_memo_9fa579a9:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 159-161)
-    "虽然冬天的时候体育课的内容是柔道，{w=.3}\n但如果运气不好在第一节课或是第六节课的话，\n光是准备垫子或是收拾垫子就已经忙不过来了。"
+    "虽然冬天的时候体育课的内容是柔道，[wdt]\n但如果运气不好在第一节课或是第六节课的话，\n光是准备垫子或是收拾垫子就已经忙不过来了。"
 
 # game/day 10.rpy:1284
 translate chinese_simplified juuichi10_memo_6ab11b76:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 159-161)
-    "虽然冬天的时候体育课的内容是柔道，{w=.3}\n但如果运气不好在第一节课或是第六节课的话，\n光是准备垫子或是收拾垫子就已经忙不过来了。"
+    "虽然冬天的时候体育课的内容是柔道，[wdt]\n但如果运气不好在第一节课或是第六节课的话，\n光是准备垫子或是收拾垫子就已经忙不过来了。"
 
 # game/day 10.rpy:1285
 translate chinese_simplified juuichi10_memo_896cf60d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 207-209)
-    "平常在众人之中总是面无表情而显得好像不太高兴的柔一，{w=.3}\n那个样子在武道馆之中反而感觉非常的自然，\n总觉得很不可思议。"
+    "平常在众人之中总是面无表情而显得好像不太高兴的柔一，[wdt]\n那个样子在武道馆之中反而感觉非常的自然，\n总觉得很不可思议。"
 
 # game/day 10.rpy:1286
 translate chinese_simplified juuichi10_memo_9a9d7e81:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 207-209)
-    "平常在众人之中总是面无表情而显得好像不太高兴的柔一，{w=.3}\n那个样子在武道馆之中反而感觉非常的自然，\n总觉得很不可思议。"
+    "平常在众人之中总是面无表情而显得好像不太高兴的柔一，[wdt]\n那个样子在武道馆之中反而感觉非常的自然，\n总觉得很不可思议。"
 
 # game/day 10.rpy:1287
 translate chinese_simplified juuichi10_memo_7229c840:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 163-165)
-    "用快冻僵的手去搬那些重物，{w=.3}真的是超辛苦的。{p}\n把柔道放进授课内容的人我绝对无法原谅……！{p}\n虽说如此，但这些话绝对不能跟柔一说就是了。"
+    "用快冻僵的手去搬那些重物，[wdt]真的是超辛苦的。[l]\n把柔道放进授课内容的人我绝对无法原谅……！[l]\n虽说如此，但这些话绝对不能跟柔一说就是了。"
 
 # game/day 10.rpy:1288
 translate chinese_simplified juuichi10_memo_691d97eb:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 163-165)
-    "用快冻僵的手去搬那些重物，{w=.3}真的是超辛苦的。{p}\n把柔道放进授课内容的人我绝对无法原谅……！{p}\n虽说如此，但这些话绝对不能跟柔一说就是了。"
+    "用快冻僵的手去搬那些重物，[wdt]真的是超辛苦的。[l]\n把柔道放进授课内容的人我绝对无法原谅……！[l]\n虽说如此，但这些话绝对不能跟柔一说就是了。"
 
 # game/day 10.rpy:1292
 translate chinese_simplified juuichi10_memo_9f726fe4:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 207-209)
-    "平常在众人之中总是面无表情而显得好像不太高兴的柔一，{w=.3}\n那个样子在武道馆之中反而感觉非常的自然，\n总觉得很不可思议。"
+    "平常在众人之中总是面无表情而显得好像不太高兴的柔一，[wdt]\n那个样子在武道馆之中反而感觉非常的自然，\n总觉得很不可思议。"
 
 # game/day 10.rpy:1293
 translate chinese_simplified juuichi10_memo_1183c43d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 167-168)
-    "……喔喔。{p}在这种地方发呆什么的可不行，{w=.3}\n还是早点把外套拿去还给柔一吧。{p}"
+    "……喔喔。[l]在这种地方发呆什么的可不行，[wdt]\n还是早点把外套拿去还给柔一吧。[l]"
 
 # game/day 10.rpy:1297
 translate chinese_simplified juuichi10_memo_2f91ba6a:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 225-226)
-    wolf "wolf \"三日月，{w=.3}有客人。\""
+    wolf "wolf \"三日月，[wdt]有客人。\""
 
 # game/day 10.rpy:1298
 translate chinese_simplified juuichi10_memo_23a38626:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 228-230)
-    "忽然间柔一旁边的狼人那尖尖的耳朵动了一下。{p}\n……咦，{w=.3}入口离那里还有相当远的距离的，\n已经注意到我了吗？"
+    "忽然间柔一旁边的狼人那尖尖的耳朵动了一下。[l]\n……咦，[wdt]入口离那里还有相当远的距离的，\n已经注意到我了吗？"
 
 # game/day 10.rpy:1299
 translate chinese_simplified juuichi10_memo_db06056f:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 228-230)
-    "忽然间柔一旁边的狼人那尖尖的耳朵动了一下。{p}\n……咦，{w=.3}入口离那里还有相当远的距离的，\n已经注意到我了吗？"
+    "忽然间柔一旁边的狼人那尖尖的耳朵动了一下。[l]\n……咦，[wdt]入口离那里还有相当远的距离的，\n已经注意到我了吗？"
 
 # game/day 10.rpy:1309
 translate chinese_simplified juuichi10_memo_17b16bea:
@@ -3288,31 +3312,31 @@ translate chinese_simplified juuichi10_memo_17b16bea:
 translate chinese_simplified juuichi10_memo_9f747a7a:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 245-247)
-    "柔一睁开眼睛，{w=.3}\n往入口的地方……也就是往我这里看了过来。{p}\n接着便站起身来对我招了招手。"
+    "柔一睁开眼睛，[wdt]\n往入口的地方……也就是往我这里看了过来。[l]\n接着便站起身来对我招了招手。"
 
 # game/day 10.rpy:1311
 translate chinese_simplified juuichi10_memo_1ad72d89:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 245-247)
-    "柔一睁开眼睛，{w=.3}\n往入口的地方……也就是往我这里看了过来。{p}\n接着便站起身来对我招了招手。"
+    "柔一睁开眼睛，[wdt]\n往入口的地方……也就是往我这里看了过来。[l]\n接着便站起身来对我招了招手。"
 
 # game/day 10.rpy:1312
 translate chinese_simplified juuichi10_memo_2962e082:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 245-247)
-    "柔一睁开眼睛，{w=.3}\n往入口的地方……也就是往我这里看了过来。{p}\n接着便站起身来对我招了招手。"
+    "柔一睁开眼睛，[wdt]\n往入口的地方……也就是往我这里看了过来。[l]\n接着便站起身来对我招了招手。"
 
 # game/day 10.rpy:1313
 translate chinese_simplified juuichi10_memo_e1502194:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 245-247)
-    "柔一睁开眼睛，{w=.3}\n往入口的地方……也就是往我这里看了过来。{p}\n接着便站起身来对我招了招手。"
+    "柔一睁开眼睛，[wdt]\n往入口的地方……也就是往我这里看了过来。[l]\n接着便站起身来对我招了招手。"
 
 # game/day 10.rpy:1314
 translate chinese_simplified juuichi10_memo_a030d1f3:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 245-247)
-    "柔一睁开眼睛，{w=.3}\n往入口的地方……也就是往我这里看了过来。{p}\n接着便站起身来对我招了招手。"
+    "柔一睁开眼睛，[wdt]\n往入口的地方……也就是往我这里看了过来。[l]\n接着便站起身来对我招了招手。"
 
 # game/day 10.rpy:1318
 translate chinese_simplified juuichi10_memo_f749dd00:
@@ -3324,7 +3348,7 @@ translate chinese_simplified juuichi10_memo_f749dd00:
 translate chinese_simplified juuichi10_memo_739b4a98:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 286-287)
-    fn "fn \"不，{w=.3}是我自己想来所以才来的啦。\""
+    fn "fn \"不，[wdt]是我自己想来所以才来的啦。\""
 
 # game/day 10.rpy:1323
 translate chinese_simplified juuichi10_memo_63369c35:
@@ -3336,43 +3360,43 @@ translate chinese_simplified juuichi10_memo_63369c35:
 translate chinese_simplified juuichi10_memo_24f7cf55:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 306-308)
-    "柔一的回应还是一样的简洁。{p}\n不过，像是放心似的浅浅地吐了一口气的样子\n还是被我注意到了。"
+    "柔一的回应还是一样的简洁。[l]\n不过，像是放心似的浅浅地吐了一口气的样子\n还是被我注意到了。"
 
 # game/day 10.rpy:1326
 translate chinese_simplified juuichi10_memo_d6e5a3b2:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 316-317)
-    ju "ju \"巓，{w=.3}今天差不多到这里就好了吧。\""
+    ju "ju \"巓，[wdt]今天差不多到这里就好了吧。\""
 
 # game/day 10.rpy:1327
 translate chinese_simplified juuichi10_memo_3ea957fe:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 369-370)
-    fn "fn \"可是……{p}那个，{w=.3}巓先生他，\""
+    fn "fn \"可是……[l]那个，[wdt]巓先生他，\""
 
 # game/day 10.rpy:1328
 translate chinese_simplified juuichi10_memo_01379bff:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 375-376)
-    "「余可没说可以随便让尔叫余的名字，{w=.3}\n看在三日月是余之知己的面子上这次先原谅你。」"
+    "「余可没说可以随便让尔叫余的名字，[wdt]\n看在三日月是余之知己的面子上这次先原谅你。」"
 
 # game/day 10.rpy:1329
 translate chinese_simplified juuichi10_memo_2a8a461d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 391)
-    "而柔一则是突然把脸别了开来。{p}看来似乎真的是这样子。"
+    "而柔一则是突然把脸别了开来。[l]看来似乎真的是这样子。"
 
 # game/day 10.rpy:1330
 translate chinese_simplified juuichi10_memo_d410953d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 425-426)
-    fn "fn \"咦，{w=.3}他在跟别人见面的时候也都是那种表情吗？\""
+    fn "fn \"咦，[wdt]他在跟别人见面的时候也都是那种表情吗？\""
 
 # game/day 10.rpy:1334
 translate chinese_simplified juuichi10_memo_22b0e32b:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 460-461)
-    ju "ju \"想到哪里去了啊，{w=.3}你喔。\""
+    ju "ju \"想到哪里去了啊，[wdt]你喔。\""
 
 # game/day 10.rpy:1335
 translate chinese_simplified juuichi10_memo_e3e0da56:
@@ -3402,93 +3426,93 @@ translate chinese_simplified juuichi10_memo_0d8f3574:
 translate chinese_simplified juuichi10_memo_f6df3c8e:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 523-525)
-    "因为是更衣室，\n所以确实跟一开始想像的一样。{p}正在换衣服的柔一和巓，{w=.3}\n正瞪大眼睛往我这看了过来。"
+    "因为是更衣室，\n所以确实跟一开始想像的一样。[l]正在换衣服的柔一和巓，[wdt]\n正瞪大眼睛往我这看了过来。"
 
 # game/day 10.rpy:1349
 translate chinese_simplified juuichi10_memo_c7ed003b:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 469-471)
-    tn "tn \"「那家伙的家里，{w=.3}孩子从小就会受到武道家\n的教育。{p}他脸上的伤是小时候在练习闪躲真剑\n的时候被父亲划伤的。」\""
+    tn "tn \"「那家伙的家里，[wdt]孩子从小就会受到武道家\n的教育。[l]他脸上的伤是小时候在练习闪躲真剑\n的时候被父亲划伤的。」\""
 
 # game/day 10.rpy:1350
 translate chinese_simplified juuichi10_memo_7422fe15:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 469-471)
-    "「那家伙的家里，{w=.3}孩子从小就会受到武道家\n的教育。{p}他脸上的伤是小时候在练习闪躲真剑\n的时候被父亲划伤的。」"
+    "「那家伙的家里，[wdt]孩子从小就会受到武道家\n的教育。[l]他脸上的伤是小时候在练习闪躲真剑\n的时候被父亲划伤的。」"
 
 # game/day 10.rpy:1351
 translate chinese_simplified juuichi10_memo_e69fe5e2:
 
     # "This feels really intimidating...{p}Actually,{w=.2} this is just plain frightening."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 523-525)
-    "因为是更衣室，\n所以确实跟一开始想像的一样。{p}正在换衣服的柔一和巓，{w=.3}\n正瞪大眼睛往我这看了过来。"
+    "因为是更衣室，\n所以确实跟一开始想像的一样。[l]正在换衣服的柔一和巓，[wdt]\n正瞪大眼睛往我这看了过来。"
 
 # game/day 10.rpy:1352
 translate chinese_simplified juuichi10_memo_51cdbb9a:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 473-475)
-    "和我的想像好像差得有点多。{p}\n能出生在平凡的家庭真是太好了。{p}我在心中，{w=.3}\n向不知道现在在哪里，生下了我的父母感激地道了谢。"
+    "和我的想像好像差得有点多。[l]\n能出生在平凡的家庭真是太好了。[l]我在心中，[wdt]\n向不知道现在在哪里，生下了我的父母感激地道了谢。"
 
 # game/day 10.rpy:1353
 translate chinese_simplified juuichi10_memo_762da6e6:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 473-475)
-    "和我的想像好像差得有点多。{p}\n能出生在平凡的家庭真是太好了。{p}我在心中，{w=.3}\n向不知道现在在哪里，生下了我的父母感激地道了谢。"
+    "和我的想像好像差得有点多。[l]\n能出生在平凡的家庭真是太好了。[l]我在心中，[wdt]\n向不知道现在在哪里，生下了我的父母感激地道了谢。"
 
 # game/day 10.rpy:1354
 translate chinese_simplified juuichi10_memo_a78dcdae:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 473-475)
-    "和我的想像好像差得有点多。{p}\n能出生在平凡的家庭真是太好了。{p}我在心中，{w=.3}\n向不知道现在在哪里，生下了我的父母感激地道了谢。"
+    "和我的想像好像差得有点多。[l]\n能出生在平凡的家庭真是太好了。[l]我在心中，[wdt]\n向不知道现在在哪里，生下了我的父母感激地道了谢。"
 
 # game/day 10.rpy:1355
 translate chinese_simplified juuichi10_memo_5192f75e:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 497-498)
-    "当然这不是我的东西。{p}\n是放在柔一的外套口袋里的。"
+    "当然这不是我的东西。[l]\n是放在柔一的外套口袋里的。"
 
 # game/day 10.rpy:1356
 translate chinese_simplified juuichi10_memo_bb364261:
 
     # "...He's quite a mysterious beastman."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478-479)
-    "「哎，{w=.3}总之今天的练习也结束了。{p}\n我也去换个衣服。」"
+    "「哎，[wdt]总之今天的练习也结束了。[l]\n我也去换个衣服。」"
 
 # game/day 10.rpy:1360
 translate chinese_simplified juuichi10_memo_d6f624c1:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478-479)
-    tn "tn \"「哎，{w=.3}总之今天的练习也结束了。{p}\n我也去换个衣服。」\""
+    tn "tn \"「哎，[wdt]总之今天的练习也结束了。[l]\n我也去换个衣服。」\""
 
 # game/day 10.rpy:1361
 translate chinese_simplified juuichi10_memo_defb5e8c:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478-479)
-    "「哎，{w=.3}总之今天的练习也结束了。{p}\n我也去换个衣服。」"
+    "「哎，[wdt]总之今天的练习也结束了。[l]\n我也去换个衣服。」"
 
 # game/day 10.rpy:1362
 translate chinese_simplified juuichi10_memo_d139f44d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478-479)
-    "「哎，{w=.3}总之今天的练习也结束了。{p}\n我也去换个衣服。」"
+    "「哎，[wdt]总之今天的练习也结束了。[l]\n我也去换个衣服。」"
 
 # game/day 10.rpy:1363
 translate chinese_simplified juuichi10_memo_70b2542d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478-479)
-    "「哎，{w=.3}总之今天的练习也结束了。{p}\n我也去换个衣服。」"
+    "「哎，[wdt]总之今天的练习也结束了。[l]\n我也去换个衣服。」"
 
 # game/day 10.rpy:1364
 translate chinese_simplified juuichi10_memo_ca1b3d4a:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 481-482)
-    fn "fn \"好的，{w=.3}请慢走。\""
+    fn "fn \"好的，[wdt]请慢走。\""
 
 # game/day 10.rpy:1365
 translate chinese_simplified juuichi10_memo_f671dc91:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 487)
-    ju "ju \"没有了主人的武道馆，{w=.3}现在只剩下蝉声不断地传来。\""
+    ju "ju \"没有了主人的武道馆，[wdt]现在只剩下蝉声不断地传来。\""
 
 # game/day 10.rpy:1366
 translate chinese_simplified juuichi10_memo_886d9160:
@@ -3500,43 +3524,43 @@ translate chinese_simplified juuichi10_memo_886d9160:
 translate chinese_simplified juuichi10_memo_c6f0fdde:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 568-569)
-    tn "tn \"仔细想想，{w=.3}我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。\""
+    tn "tn \"仔细想想，[wdt]我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。\""
 
 # game/day 10.rpy:1371
 translate chinese_simplified juuichi10_memo_565bfa95:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 568-569)
-    "仔细想想，{w=.3}我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。"
+    "仔细想想，[wdt]我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。"
 
 # game/day 10.rpy:1375
 translate chinese_simplified juuichi10_memo_ef8b86e7:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 568-569)
-    tn "tn \"仔细想想，{w=.3}我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。\""
+    tn "tn \"仔细想想，[wdt]我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。\""
 
 # game/day 10.rpy:1376
 translate chinese_simplified juuichi10_memo_31a65890:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 568-569)
-    "仔细想想，{w=.3}我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。"
+    "仔细想想，[wdt]我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。"
 
 # game/day 10.rpy:1380
 translate chinese_simplified juuichi10_memo_9c03225f:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 568-569)
-    "仔细想想，{w=.3}我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。"
+    "仔细想想，[wdt]我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。"
 
 # game/day 10.rpy:1384
 translate chinese_simplified juuichi10_memo_fde664be:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 568-569)
-    tn "tn \"仔细想想，{w=.3}我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。\""
+    tn "tn \"仔细想想，[wdt]我用不着特地现在跑进来，\n只要在外面等柔一换完衣服出来再拿给他不就好了吗。\""
 
 # game/day 10.rpy:1385
 translate chinese_simplified juuichi10_memo_1c56e5a3:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 602-603)
-    "柔一一副了解了的样子点了点头。{p}\n不过，{w=.3}旁边的巓倒是似乎不怎么认同。"
+    "柔一一副了解了的样子点了点头。[l]\n不过，[wdt]旁边的巓倒是似乎不怎么认同。"
 
 # game/day 10.rpy:1386
 translate chinese_simplified juuichi10_memo_ad5c2040:
@@ -3548,19 +3572,19 @@ translate chinese_simplified juuichi10_memo_ad5c2040:
 translate chinese_simplified juuichi10_memo_39b5d141:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 573-574)
-    "……嗯，{w=.3}肯定是因为太热了所以脑袋才\n转不过来吧。{w=.3}就是这样。"
+    "……嗯，[wdt]肯定是因为太热了所以脑袋才\n转不过来吧。[wdt]就是这样。"
 
 # game/day 10.rpy:1388
 translate chinese_simplified juuichi10_memo_fac4b36e:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 573-574)
-    "……嗯，{w=.3}肯定是因为太热了所以脑袋才\n转不过来吧。{w=.3}就是这样。"
+    "……嗯，[wdt]肯定是因为太热了所以脑袋才\n转不过来吧。[wdt]就是这样。"
 
 # game/day 10.rpy:1392
 translate chinese_simplified juuichi10_memo_6a8ebf63:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 602-603)
-    "柔一一副了解了的样子点了点头。{p}\n不过，{w=.3}旁边的巓倒是似乎不怎么认同。"
+    "柔一一副了解了的样子点了点头。[l]\n不过，[wdt]旁边的巓倒是似乎不怎么认同。"
 
 # game/day 10.rpy:1397
 translate chinese_simplified juuichi10_memo_3cbf31ac:
@@ -3572,19 +3596,19 @@ translate chinese_simplified juuichi10_memo_3cbf31ac:
 translate chinese_simplified juuichi10_memo_77875130:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 658-660)
-    "柔一明显地露出了尴尬的表情。{p}\n从他就这样没有回话的情况看来，{w=.3}\n似乎巓所说的并没有错的样子。"
+    "柔一明显地露出了尴尬的表情。[l]\n从他就这样没有回话的情况看来，[wdt]\n似乎巓所说的并没有错的样子。"
 
 # game/day 10.rpy:1399
 translate chinese_simplified juuichi10_memo_ecd21015:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 691-692)
-    fn "fn \"那，{w=.3}现在的体重是？\""
+    fn "fn \"那，[wdt]现在的体重是？\""
 
 # game/day 10.rpy:1400
 translate chinese_simplified juuichi10_memo_1c08d458:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1401
 translate chinese_simplified juuichi10_memo_22595949:
@@ -3602,81 +3626,81 @@ translate chinese_simplified juuichi10_memo_3285590e:
 translate chinese_simplified juuichi10_memo_99f65723:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1410
 translate chinese_simplified juuichi10_memo_6be312c0:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1411
 translate chinese_simplified juuichi10_memo_e2f8f53b:
 
     # "That must be his boss or dad's way of\nwelcoming him into the business!"
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1412
 translate chinese_simplified juuichi10_memo_c9d6ffe8:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1413
 translate chinese_simplified juuichi10_memo_f86a513d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1419
 translate chinese_simplified juuichi10_memo_a09669e0:
 
     # ju "「What are you associating him with?」"
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "ju \"柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。\""
+    "ju \"柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。\""
 
 # game/day 10.rpy:1420
 translate chinese_simplified juuichi10_memo_4aa787e5:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1425
 translate chinese_simplified juuichi10_memo_0e1a9c60:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    ju "ju \"柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。\""
+    ju "ju \"柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。\""
 
 # game/day 10.rpy:1426
 translate chinese_simplified juuichi10_memo_f26acad9:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    ju "ju \"柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。\""
+    ju "ju \"柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。\""
 
 # game/day 10.rpy:1427
 translate chinese_simplified juuichi10_memo_c53d3e88:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1428
 translate chinese_simplified juuichi10_memo_56bc85f8:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    "柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。"
+    "柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。"
 
 # game/day 10.rpy:1429
 translate chinese_simplified juuichi10_memo_1046b38f:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 729-731)
-    ju "ju \"柔一很勉强地点了点头。{p}\n禁止吃甜食吗……{p}有体重限制的运动\n还真的是很辛苦啊。\""
+    ju "ju \"柔一很勉强地点了点头。[l]\n禁止吃甜食吗……[l]有体重限制的运动\n还真的是很辛苦啊。\""
 
 # game/day 10.rpy:1430
 translate chinese_simplified juuichi10_memo_99b1af63:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 736-737)
-    fn "fn \"咦，{w=.3}啊，{w=.3}是？\""
+    fn "fn \"咦，[wdt]啊，[wdt]是？\""
 
 # game/day 10.rpy:1434
 translate chinese_simplified juuichi10_memo_afc70be8:
@@ -3688,19 +3712,19 @@ translate chinese_simplified juuichi10_memo_afc70be8:
 translate chinese_simplified juuichi10_memo_ed1849ff:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 739-740)
-    "完全没想到话题竟然会转到我身上，{w=.3}\n还没反应过来就先回应了。"
+    "完全没想到话题竟然会转到我身上，[wdt]\n还没反应过来就先回应了。"
 
 # game/day 10.rpy:1437
 translate chinese_simplified juuichi10_memo_cc144704:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 739-740)
-    extend "extend \"完全没想到话题竟然会转到我身上，{w=.3}\n还没反应过来就先回应了。\""
+    extend "extend \"完全没想到话题竟然会转到我身上，[wdt]\n还没反应过来就先回应了。\""
 
 # game/day 10.rpy:1438
 translate chinese_simplified juuichi10_memo_52f293fd:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 748-750)
-    "「尔以后在三日月一起行动时，{w=.3}\n要仔细盯着他不要让他吃糖果。{p}\n知道了吗？」"
+    "「尔以后在三日月一起行动时，[wdt]\n要仔细盯着他不要让他吃糖果。[l]\n知道了吗？」"
 
 # game/day 10.rpy:1439
 translate chinese_simplified juuichi10_memo_c2e0d9f3:
@@ -3712,67 +3736,67 @@ translate chinese_simplified juuichi10_memo_c2e0d9f3:
 translate chinese_simplified juuichi10_memo_0d5afb97:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 761)
-    "面对巓那种完全不让人拒绝的态度，{w=.3}"
+    "面对巓那种完全不让人拒绝的态度，[wdt]"
 
 # game/day 10.rpy:1441
 translate chinese_simplified juuichi10_memo_dc6b91a4:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 761)
-    "面对巓那种完全不让人拒绝的态度，{w=.3}"
+    "面对巓那种完全不让人拒绝的态度，[wdt]"
 
 # game/day 10.rpy:1442
 translate chinese_simplified juuichi10_memo_d60be653:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 761)
-    "面对巓那种完全不让人拒绝的态度，{w=.3}"
+    "面对巓那种完全不让人拒绝的态度，[wdt]"
 
 # game/day 10.rpy:1444
 translate chinese_simplified juuichi10_memo_6db0439d:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 758-759)
-    extend "extend \"我、{w=.3}我知道了……\""
+    extend "extend \"我、[wdt]我知道了……\""
 
 # game/day 10.rpy:1446
 translate chinese_simplified juuichi10_memo_23858ebf:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 761)
-    extend "extend \"面对巓那种完全不让人拒绝的态度，{w=.3}\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 508)
+    extend "然后，[wdt]打开了门，发出碰的一声。"
 
 # game/day 10.rpy:1455
 translate chinese_simplified juuichi10_memo_17cc092c:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 768-769)
-    fn "fn \"咦，{w=.3}可是……\""
+    fn "fn \"咦，[wdt]可是……\""
 
 # game/day 10.rpy:1456
 translate chinese_simplified juuichi10_memo_7c17d2f8:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 771-772)
-    "因为不知道该怎么拒绝，{w=.3}\n让我开口后却犹豫起来而没讲完。"
+    "因为不知道该怎么拒绝，[wdt]\n让我开口后却犹豫起来而没讲完。"
 
 # game/day 10.rpy:1457
 translate chinese_simplified juuichi10_memo_64db5d71:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 771-772)
-    "因为不知道该怎么拒绝，{w=.3}\n让我开口后却犹豫起来而没讲完。"
+    "因为不知道该怎么拒绝，[wdt]\n让我开口后却犹豫起来而没讲完。"
 
 # game/day 10.rpy:1458
 translate chinese_simplified juuichi10_memo_85f16d51:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 818-819)
-    "而且说起来，这个村里是把穿褌当成理所当然的事吗。{p}\n从辰兄到柔一，{w=.3}然后连巓也是。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 516-518)
+    "柔一和巓，两个人都在换衣服，[wdt]转过头来看着我。"
 
 # game/day 10.rpy:1465
 translate chinese_simplified juuichi10_memo_dc44d819:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 775-776)
-    "「不是要尔什么东西都不让他吃。{p}\n只要在正餐间不要吃就好。{w=.3}这很简单吧？」"
+    "「不是要尔什么东西都不让他吃。[l]\n只要在正餐间不要吃就好。[wdt]这很简单吧？」"
 
 # game/day 10.rpy:1466
 translate chinese_simplified juuichi10_memo_bf3d03b3:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 775-776)
-    "「不是要尔什么东西都不让他吃。{p}\n只要在正餐间不要吃就好。{w=.3}这很简单吧？」"
+    "「不是要尔什么东西都不让他吃。[l]\n只要在正餐间不要吃就好。[wdt]这很简单吧？」"
 
 # game/day 10.rpy:1467
 translate chinese_simplified juuichi10_memo_74d7362b:
@@ -3785,32 +3809,32 @@ translate chinese_simplified juuichi10_memo_74d7362b:
 translate chinese_simplified juuichi10_memo_53162b7a:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 814-816)
-    "巓在很熟练地用单手就把褌给绑好后对我问道。{p}\n啊，终于注意到这一点了吗……{p}\n一不小心就在这里聊了很久。"
+    "巓在很熟练地用单手就把褌给绑好后对我问道。[l]\n啊，终于注意到这一点了吗……[l]\n一不小心就在这里聊了很久。"
 
 # game/day 10.rpy:1469
 translate chinese_simplified juuichi10_memo_c666e990:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 794-796)
-    "「西村，{w=.3}抱歉啦如果我无意识地伸手去拿甜的东西\n的时候就请你阻止我吧。{p}因为熊人的习性，{w=.3}\n很容易在自己都没注意到时就……常常会这样啦。」"
+    "「西村，[wdt]抱歉啦如果我无意识地伸手去拿甜的东西\n的时候就请你阻止我吧。[l]因为熊人的习性，[wdt]\n很容易在自己都没注意到时就……常常会这样啦。」"
 
 # game/day 10.rpy:1470
 translate chinese_simplified juuichi10_memo_10129125:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 794-796)
-    "「西村，{w=.3}抱歉啦如果我无意识地伸手去拿甜的东西\n的时候就请你阻止我吧。{p}因为熊人的习性，{w=.3}\n很容易在自己都没注意到时就……常常会这样啦。」"
+    "「西村，[wdt]抱歉啦如果我无意识地伸手去拿甜的东西\n的时候就请你阻止我吧。[l]因为熊人的习性，[wdt]\n很容易在自己都没注意到时就……常常会这样啦。」"
 
 # game/day 10.rpy:1476
 translate chinese_simplified juuichi10_memo_37771de6:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 794-796)
-    "「西村，{w=.3}抱歉啦如果我无意识地伸手去拿甜的东西\n的时候就请你阻止我吧。{p}因为熊人的习性，{w=.3}\n很容易在自己都没注意到时就……常常会这样啦。」"
+    "「西村，[wdt]抱歉啦如果我无意识地伸手去拿甜的东西\n的时候就请你阻止我吧。[l]因为熊人的习性，[wdt]\n很容易在自己都没注意到时就……常常会这样啦。」"
 
 # game/day 10.rpy:1477
 translate chinese_simplified juuichi10_memo_4ace0714:
 
     # ju "「[ln],{w=.2} even if you're only coming into\n the locker room for a second,\n you should always knock first.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 870-871)
-    ju "ju \"怎么，{w=.3}巓已经走了吗？\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 871-872)
+    ju "「……[ln]，{w=.2}即便是只进入换衣室一下子，{w=.2} 也应该先敲门才是。」"
 
 # game/day 10.rpy:1478
 translate chinese_simplified juuichi10_memo_4c6d4905:
@@ -3822,21 +3846,21 @@ translate chinese_simplified juuichi10_memo_4c6d4905:
 translate chinese_simplified juuichi10_memo_d6aaaef3:
 
     # fn "「...I can't think of anything to say.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 880-881)
-    "fn \"柔一，{w=.3}吃那个没问题吗？\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 877-879)
+    "「……我、我不知道该说什么好了。」"
 
 # game/day 10.rpy:1480
 translate chinese_simplified juuichi10_memo_ecd73fde:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 890-891)
-    "听到喀嚓喀嚓的咬碎补充锭的声音。{p}\n可以马上就跟蜂蜜的热量进行换算还真是有柔一的风格。"
+    "听到喀嚓喀嚓的咬碎补充锭的声音。[l]\n可以马上就跟蜂蜜的热量进行换算还真是有柔一的风格。"
 
 # game/day 10.rpy:1484
 translate chinese_simplified juuichi10_memo_15957860:
 
     # "...Yeah,{w=.2} let's pretend my head wasn't just spinning.\nI'll do that."
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 912-913)
-    "「是啊。{p}[柔一 困惑 normal]{p}\n……真是的，{w=.3}巓那家伙从以前就常常小题大作。」"
+    "「是啊。[l][柔一 困惑 normal][l]\n……真是的，[wdt]巓那家伙从以前就常常小题大作。」"
 
 # game/day 10.rpy:1489
 translate chinese_simplified juuichi10_memo_6b90d59d:
@@ -3853,21 +3877,21 @@ translate chinese_simplified juuichi10_memo_7a215d2e:
 # game/day 10.rpy:1491
 translate chinese_simplified juuichi10_memo_ff08213d:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 517-518)
+    "我不太好意思地把手里的东西递了过去。{p}柔一歪着头看了过来。"
 
 # game/day 10.rpy:1492
 translate chinese_simplified juuichi10_memo_02068363:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 974-976)
-    fn "fn \"「啊啊。{p}似乎是要将水乡村的米推广到全国的\n事业的一环的样子。{p}从风鸣这里先打好基础，\n接着再慢慢向外发展，我听说是这样。」\""
+    fn "fn \"「啊啊。[l]似乎是要将水乡村的米推广到全国的\n事业的一环的样子。[l]从风鸣这里先打好基础，\n接着再慢慢向外发展，我听说是这样。」\""
 
 # game/day 10.rpy:1493
 translate chinese_simplified juuichi10_memo_489574bc:
 
     # fn "「I thought that you might want it now, but...{p} I guess I could've waited until you were done.{w=.2}\n Sorry about that.」"
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 974-976)
-    "fn \"「啊啊。{p}似乎是要将水乡村的米推广到全国的\n事业的一环的样子。{p}从风鸣这里先打好基础，\n接着再慢慢向外发展，我听说是这样。」\""
+    "fn \"「啊啊。[l]似乎是要将水乡村的米推广到全国的\n事业的一环的样子。[l]从风鸣这里先打好基础，\n接着再慢慢向外发展，我听说是这样。」\""
 
 # game/day 10.rpy:1494
 translate chinese_simplified juuichi10_memo_070bbff3:
@@ -3880,678 +3904,678 @@ translate chinese_simplified juuichi10_memo_070bbff3:
 translate chinese_simplified juuichi10_memo_08db89b9:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1004)
-    "「啊不，没关系的啦。{p}"
+    "「啊不，没关系的啦。[l]"
 
 # game/day 10.rpy:1499
 translate chinese_simplified juuichi10_memo_9e7b61b4:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1004)
-    tn "tn \"「啊不，没关系的啦。{p}\""
+    tn "tn \"「啊不，没关系的啦。[l]\""
 
 # game/day 10.rpy:1503
 translate chinese_simplified juuichi10_memo_f5890aa6:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1007-1008)
-    ju "ju \"……这样啊。{p}那就走吧。\""
+    ju "ju \"……这样啊。[l]那就走吧。\""
 
 # game/day 10.rpy:1504
 translate chinese_simplified juuichi10_memo_0486369c:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478-479)
+    tn "「……这个不是问题所在啦。{p}如果你不降到标准体重的话，我会有麻烦的。」"
 
 # game/day 10.rpy:1505
 translate chinese_simplified juuichi10_memo_af6e7e34:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 489-491)
+    tn "「如果需要盐分的话，直接吃盐不就好了。{p}」"
 
 # game/day 10.rpy:1509
 translate chinese_simplified juuichi10_memo_e926abfb:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 493-495)
+    "巓从我手上把锭剂抢了过去。{p}R-岩盐？他在开什么玩笑……？"
 
 # game/day 10.rpy:1510
 translate chinese_simplified juuichi10_memo_42ebf23a:
 
     # "No, he's being serious.{p}I could easily imagine him doing that."
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 497-499)
+    "不，他是认真的。{p}我完全可以想像他会做那种事。"
 
 # game/day 10.rpy:1511
 translate chinese_simplified juuichi10_memo_5cceaa02:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 533-534)
+    "……该怎么说，[wdt]这就是所谓的「Full Open」状态吧。"
 
 # game/day 10.rpy:1512
 translate chinese_simplified juuichi10_memo_47c14805:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 535-537)
+    "柔一和巓，他们的身材可以说正好成对比。{p}穿着柔道服的时候就已经可以感觉出来了，[wdt]全裸的状态感觉更是明显。"
 
 # game/day 10.rpy:1513
 translate chinese_simplified juuichi10_memo_3c58d131:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 540-542)
+    "……实际上他们似乎并不在意。[wdt]这就是运动团体的常态吗？"
 
 # game/day 10.rpy:1514
 translate chinese_simplified juuichi10_memo_caca08d0:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 541-543)
+    "……嗯，[wdt]如果他们都不在意的话，[wdt]我也不需要在意吧。"
 
 # game/day 10.rpy:1518
 translate chinese_simplified juuichi10_memo_e4eb3255:
 
     # ju "「I'll be fine.\n I've been steadily losing weight.」"
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    "ju \"总之就这样，[wdt]今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
 
 # game/day 10.rpy:1522
 translate chinese_simplified juuichi10_memo_ccf0953a:
 
     # tn "「...Hmph.{p} That reminds me of the fool who said that in winter,{w=.2}\n then barely made regulation weight.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 490-492)
+    "「……哼。[p]这让我想起了冬天里的那个笨蛋，[wdt]然后才勉强达到了标准体重。」"
 
 # game/day 10.rpy:1526
 translate chinese_simplified juuichi10_memo_1952fb49:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 494-495)
+    ju "沉默。"
 
 # game/day 10.rpy:1527
 translate chinese_simplified juuichi10_memo_e1f82be6:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 560-563)
+    "「……巓」是因为毫无预兆地开门对「你」来说已经是家常便饭了所以才这样毫不在意吗。「你」对这种事多少也该在意一下才好。」"
 
 # game/day 10.rpy:1528
 translate chinese_simplified juuichi10_memo_9daff829:
 
     # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    "总之就这样，[wdt]今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
 
 # game/day 10.rpy:1532
 translate chinese_simplified juuichi10_memo_3ef9bc9d:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 636-638)
+    ju "「……有的比赛是只有无差别级别，[wdt]不过这次风鸣是按体重分级来比赛的。{p}无差别级别的话也有，"
 
 # game/day 10.rpy:1533
 translate chinese_simplified juuichi10_memo_8c4309b4:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 525-527)
+    "他耸了耸肩。"
 
 # game/day 10.rpy:1534
 translate chinese_simplified juuichi10_memo_302767a1:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 643-647)
+    ju "「有60、[wdt]66、73、81、90、100、111、123、134、150kg及以上这几个级别。」"
 
 # game/day 10.rpy:1535
 translate chinese_simplified juuichi10_memo_138d9e72:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 647-651)
+    ju "「现在是有11个级别。[p]多少会随比赛的举办有所变化。」"
 
 # game/day 10.rpy:1536
 translate chinese_simplified juuichi10_memo_d8a8dbca:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 653-657)
+    fn "「哇，[wdt]柔道的分级真是细致啊。[p]你是什么级别？」"
 
 # game/day 10.rpy:1537
 translate chinese_simplified juuichi10_memo_51248cbe:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 659-661)
+    ju "「111公斤级。」"
 
 # game/day 10.rpy:1538
 translate chinese_simplified juuichi10_memo_d7e03565:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 661-663)
+    fn "「……你现在体重多少？」"
 
 # game/day 10.rpy:1542
 translate chinese_simplified juuichi10_memo_a0b4545e:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 663-665)
+    ju "「……114公斤。」"
 
 # game/day 10.rpy:1543
 translate chinese_simplified juuichi10_memo_d05b69c2:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 669-671)
+    "听到柔一的自言自语，[w=.3]巓的尖耳朵抖动了一下。"
 
 # game/day 10.rpy:1548
 translate chinese_simplified juuichi10_memo_e1469ca2:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 673-677)
+    tn "「……三日月[wdt]你还在这个体重啊。[p]如果我现在有把剑[wdt]我就切了你肚子！」"
 
 # game/day 10.rpy:1549
 translate chinese_simplified juuichi10_memo_32c3a71d:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 677-679)
+    "嗯……就一件事。[p]当巓用那种语气说话的时候，[wdt]"
 
 # game/day 10.rpy:1550
 translate chinese_simplified juuichi10_memo_a7968587:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 681-683)
+    "由于害怕后果，我把自己的评论压了下来……[w=.3]总之."
 
 # game/day 10.rpy:1551
 translate chinese_simplified juuichi10_memo_7066d1e7:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 685-687)
+    tn "「听好了，[wdt]剩下的时间不到两周了。[p]注意点。」"
 
 # game/day 10.rpy:1552
 translate chinese_simplified juuichi10_memo_094676e6:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 689-691)
+    "我被他那低沉[wdt]而带有威胁的声音吓得发抖，[w=.3]虽然他并不是认真的。"
 
 # game/day 10.rpy:1556
 translate chinese_simplified juuichi10_memo_b309f786:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 693-695)
+    ju "「……明白了。」"
 
 # game/day 10.rpy:1557
 translate chinese_simplified juuichi10_memo_09d2cbe4:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 697-699)
+    "柔一不情愿地点了点头。[p]禁止甜食……[p]运动员真辛苦。"
 
 # game/day 10.rpy:1558
 translate chinese_simplified juuichi10_memo_bf998972:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 701-703)
+    tn "「至于「你」，[wdt][ln]。」"
 
 # game/day 10.rpy:1559
 translate chinese_simplified juuichi10_memo_c5263989:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 705-707)
+    fn "「……嗯？[w=.3]嗯、[w=.3]是？」"
 
 # game/day 10.rpy:1560
 translate chinese_simplified juuichi10_memo_44b6f510:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 707-709)
+    "想着这个对话，[w=.3]总之，[wdt]希望不要把我卷进去就好。"
 
 # game/day 10.rpy:1561
 translate chinese_simplified juuichi10_memo_64d02bb5:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 873-875)
+    "Ten先生的其中一条眉毛抽搐着看向我。{p}不过看起来他并没有在责备我的意思。"
 
 # game/day 10.rpy:1565
 translate chinese_simplified juuichi10_memo_9f47c5e4:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 713-717)
+    tn "「你也和三日月一样，[wdt]确保他不吃甜食。{p}可以吗？」"
 
 # game/day 10.rpy:1576
 translate chinese_simplified juuichi10_understood_4f79a797:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 362)
+    fn "「不好意思打扰到练习。{p}"
 
 # game/day 10.rpy:1577
 translate chinese_simplified juuichi10_understood_6ce63fa7:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 363)
+    "我马上就要回去了所以请不用在意的。」"
 
 # game/day 10.rpy:1584
 translate chinese_simplified juuichi10_hesitation_2434e587:
 
     # fn "「Eh,{w=.2} but...」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 101-103)
+    "诶，{w=.2}不过这应该是我想太多吧。{w=.2}嗯，这种事就先不管了。"
 
 # game/day 10.rpy:1585
 translate chinese_simplified juuichi10_hesitation_aa9eaa2b:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 196)
+    "不知道该如何回答，我{w=.2}犹豫地说话。"
 
 # game/day 10.rpy:1586
 translate chinese_simplified juuichi10_hesitation_1ebb26b4:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 775-776)
+    tn "我不是在说禁食。{p}只是不要在两餐之间吃零食。{w=.2} 那应该很简单吧？"
 
 # game/day 10.rpy:1587
 translate chinese_simplified juuichi10_hesitation_a76c2bd9:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: 柔一_m_045.ks (KS 779)
+    fn "先不管这是不是容易，{p}不过如果只是这样的话……"
 
 # game/day 10.rpy:1592
 translate chinese_simplified juuichi10_manage_35ce1218:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 366)
+    tn "「不，没关系。{p}"
 
 # game/day 10.rpy:1593
 translate chinese_simplified juuichi10_manage_e308eaaf:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 367)
+    "原本就已经差不多要结束了。」"
 
 # game/day 10.rpy:1595
 translate chinese_simplified juuichi10_manage_4db726b0:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    extend "extend \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 370)
+    extend "「可是……{p}那个，{w=.3}巓先生他，」"
 
 # game/day 10.rpy:1597
 translate chinese_simplified juuichi10_manage_3919f697:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 374-376)
+    ju "「……[ln]，[wdt]不好意思，[w=.3]如果我不自觉地伸手去拿甜食的话，[wdt]你能说我几句吗？」"
 
 # game/day 10.rpy:1598
 translate chinese_simplified juuichi10_manage_d965332b:
 
     # ju "「It's something that bears do unconsciously...{p} And a lot.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 376)
+    "看在三日月是余之知己的面子上这次先原谅你。」"
 
 # game/day 10.rpy:1599
 translate chinese_simplified juuichi10_manage_d27b7347:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 378)
+    fn "巓瞪了一眼，{w=.3}那锐利的眼光几乎要将我刺穿。{p}"
 
 # game/day 10.rpy:1600
 translate chinese_simplified juuichi10_manage_2f0b4ba9:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 379)
+    "在肉食动物面前的草食动物，{w=.3}大概就是这种感觉吧，"
 
 # game/day 10.rpy:1601
 translate chinese_simplified juuichi10_manage_969da31a:
 
     # "But...{w=.2} I should've just returned his jersey,{w=.2}\nbut somehow this turned into a strange situation."
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 380)
+    "我不合时宜地开始想起这种事情来。"
 
 # game/day 10.rpy:1606
 translate chinese_simplified juuichi10_manage_096c26f2:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 385)
+    tn "「平常会在道场练到天色暗下来才离开不是吗。{p}"
 
 # game/day 10.rpy:1607
 translate chinese_simplified juuichi10_manage_713caebe:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 386)
+    "……唉，{w=.3}没办法，开始前三日月是有说过"
 
 # game/day 10.rpy:1608
 translate chinese_simplified juuichi10_manage_9986852b:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 387)
+    "今天有朋友会来希望能早点结束。」"
 
 # game/day 10.rpy:1609
 translate chinese_simplified juuichi10_manage_26f20ace:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 389)
+    "咦，是这样吗？{p}"
 
 # game/day 10.rpy:1610
 translate chinese_simplified juuichi10_manage_22a4c830:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 390)
+    "我用带着疑问的眼神把视线从巓转向柔一，{w=.3}"
 
 # game/day 10.rpy:1611
 translate chinese_simplified juuichi10_manage_ff3260d2:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 391)
+    "而柔一则是突然把脸别了开来。{p}看来似乎真的是这样子。"
 
 # game/day 10.rpy:1612
 translate chinese_simplified juuichi10_manage_adc3d9e8:
 
     # "...Speaking bluntly, I think he has a\nmagnificent body that wouldn't be safe\nfor small children to see."
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 396)
+    "「……本日的练习就到此为止。」"
 
 # game/day 10.rpy:1617
 translate chinese_simplified juuichi10_manage_c7ed003b:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 398)
+    tn "说完后巓便站起身来。{p}"
 
 # game/day 10.rpy:1618
 translate chinese_simplified juuichi10_manage_6e216a39:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 399)
+    "唔哇，{w=.3}比想像中还要高耶。{p}"
 
 # game/day 10.rpy:1619
 translate chinese_simplified juuichi10_manage_34e1a1c9:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 400)
+    fn "如字面意思的我是呈现由下往上仰望的状态了。"
 
 # game/day 10.rpy:1620
 translate chinese_simplified juuichi10_manage_7f684973:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 402)
+    "和柔一有着不同类型的压迫感。{p}"
 
 # game/day 10.rpy:1622
 translate chinese_simplified juuichi10_manage_5ae48a45:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    extend "extend \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 403)
+    extend "精美的倒三角形身材，{p}身上满是肌肉，{w=.3}"
 
 # game/day 10.rpy:1628
 translate chinese_simplified juuichi10_manage_d18b3aca:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 404)
+    "和柔道家比起来更像是格斗家的感觉。"
 
 # game/day 10.rpy:1630
 translate chinese_simplified juuichi10_manage_4097c17e:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    extend "extend \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 406)
+    extend "那个压倒性的存在感，{w=.3}让我不禁止住了呼吸。"
 
 # game/day 10.rpy:1631
 translate chinese_simplified juuichi10_manage_dec9da8b:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 410)
+    "巓从我和柔一的中间轻巧地穿过，{w=.3}"
 
 # game/day 10.rpy:1632
 translate chinese_simplified juuichi10_manage_2ab9b8e6:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 411)
+    "走进了在入口旁边的门。{p}"
 
 # game/day 10.rpy:1633
 translate chinese_simplified juuichi10_manage_eb2f277e:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 412)
+    "那里大概是这个武道场的更衣室吧。"
 
 # game/day 10.rpy:1634
 translate chinese_simplified juuichi10_manage_03b25615:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 415-417)
+    "「……总之总之，」[wdt]他走向玄关，[wdt]头也不回地对我说到。"
 
 # game/day 10.rpy:1635
 translate chinese_simplified juuichi10_manage_301a8686:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    tn "tn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 419)
+    tn "对于第一次见面的对象警戒心会非常的强。」"
 
 # game/day 10.rpy:1636
 translate chinese_simplified juuichi10_manage_0f6345da:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 421)
+    "在我呆呆地看着巓离开的地方时，{w=.3}"
 
 # game/day 10.rpy:1640
 translate chinese_simplified juuichi10_manage_3b4be62e:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 422)
+    ju "柔一这么说了。{p}"
 
 # game/day 10.rpy:1641
 translate chinese_simplified juuichi10_manage_8074338a:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 423)
+    fn "可能是看我似乎很害怕的关系吧。"
 
 # game/day 10.rpy:1642
 translate chinese_simplified juuichi10_manage_033b7db2:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 426)
+    "「咦，{w=.3}他在跟别人见面的时候也都是那种表情吗？」"
 
 # game/day 10.rpy:1643
 translate chinese_simplified juuichi10_manage_4fa835d6:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 428)
+    fn "听到我无意识地做出的回应，{w=.3}"
 
 # game/day 10.rpy:1644
 translate chinese_simplified juuichi10_manage_690b3942:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 429)
+    "柔一的嘴角微微翘起露出了淡淡的苦笑。"
 
 # game/day 10.rpy:1645
 translate chinese_simplified juuichi10_manage_243e8d5a:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 432)
+    ju "「不，也不完全是那样。{p}"
 
 # game/day 10.rpy:1646
 translate chinese_simplified juuichi10_manage_a0ab8063:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 433)
+    "巓他啊，{w=.3}不是没办法和别人亲切地讲话，而是他不会"
 
 # game/day 10.rpy:1647
 translate chinese_simplified juuichi10_manage_36719be5:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 434)
+    fn "对别人亲切。{p}对他来已经是习惯了吧。」"
 
 # game/day 10.rpy:1648
 translate chinese_simplified juuichi10_manage_a5a2569c:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 438)
+    ju "就算是柔道家，{w=.3}也不用那样在任何时候都"
 
 # game/day 10.rpy:1650
 translate chinese_simplified juuichi10_manage_da48cd2c:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    extend "extend \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 439)
+    extend "维持警戒吧……{p}"
 
 # game/day 10.rpy:1651
 translate chinese_simplified juuichi10_manage_24327086:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 440)
+    "还是说有其他的理由呢。"
 
 # game/day 10.rpy:1652
 translate chinese_simplified juuichi10_manage_bc5f8bcd:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 444)
+    fn "……例如说，常常受到狙击之类的。{p}"
 
 # game/day 10.rpy:1653
 translate chinese_simplified juuichi10_manage_ae15ae67:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 445)
+    ju "他脸上的那个伤痕，如果日常生活中经常发生打打杀杀的事情的话，{w=.3}"
 
 # game/day 10.rpy:1655
 translate chinese_simplified juuichi10_manage_6062a9a4:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    extend "extend \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 446)
+    extend "就觉得比较合理了。"
 
 # game/day 10.rpy:1656
 translate chinese_simplified juuichi10_manage_0f0742ca:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 448-449)
+    fn "「嗯，你还是小心为上。{p}我会尽量帮你的。」"
 
 # game/day 10.rpy:1657
 translate chinese_simplified juuichi10_manage_f6b42ae8:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 449)
+    ju "那种可以呼风唤雨的人，绝对没错！"
 
 # game/day 10.rpy:1659
 translate chinese_simplified juuichi10_manage_f59d676f:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    extend "extend \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 451)
+    extend "啊啊原来是这样吗。{p}"
 
 # game/day 10.rpy:1660
 translate chinese_simplified juuichi10_manage_3182e489:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 452)
+    fn "也就是说是那么回事啊。"
 
 # game/day 10.rpy:1661
 translate chinese_simplified juuichi10_manage_d9e4bdc7:
 
     # fn "「...Besides,{w=.2} nobody could say no\n if Ten-san was glaring at them like that.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 454-456)
+    "而且，[wdt]巓用那种眼神瞪过来的时候，没人能拒绝吧。{p}我打了个寒颤。"
 
 # game/day 10.rpy:1662
 translate chinese_simplified juuichi10_manage_ef926fd3:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 461)
+    "「想到哪里去了啊，{w=.3}你喔。」"
 
 # game/day 10.rpy:1666
 translate chinese_simplified juuichi10_manage_c25f3f37:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 463)
+    ju "柔一用力地叹了口气。"
 
 # game/day 10.rpy:1667
 translate chinese_simplified juuichi10_manage_d0af29f9:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 469)
+    ju "「那家伙的家里，{w=.3}孩子从小就会受到武道家"
 
 # game/day 10.rpy:1668
 translate chinese_simplified juuichi10_manage_aec6c5ce:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 470-472)
+    "他用低沉的嗓音说到。[wdt]这是在教育巓。{p}他脸上的伤是小时候在练习闪躲真剑时……"
 
 # game/day 10.rpy:1669
 translate chinese_simplified juuichi10_manage_570f9ff5:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 471)
+    "的时候被父亲划伤的。」"
 
 # game/day 10.rpy:1670
 translate chinese_simplified juuichi10_manage_678cb3df:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 473)
+    "和我的想像好像差得有点多。{p}"
 
 # game/day 10.rpy:1671
 translate chinese_simplified juuichi10_manage_c58291ab:
 
     # [待审核] 来源: extract/orig/柔一_m_045.ks (KS 482)
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 474)
+    fn "能出生在平凡的家庭真是太好了。{p}我在心中，{w=.3}"
 
 # game/day 10.rpy:1675
 translate chinese_simplified juuichi10_manage_12ec2200:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 475)
+    ju "向不知道现在在哪里，生下了我的父母感激地道了谢。"
 
 # game/day 10.rpy:1676
 translate chinese_simplified juuichi10_manage_82edd597:
 
     # fn "「I passed a burger joint on the way here,\n but I didn't go in since I\n was planning on inviting you.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 478)
+    "「哎，{w=.3}总之今天的练习也结束了。{p}"
 
 # game/day 10.rpy:1677
 translate chinese_simplified juuichi10_manage_0c90cac3:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 479)
+    fn "我也去换个衣服。」"
 
 # game/day 10.rpy:1681
 translate chinese_simplified juuichi10_manage_9621c0ca:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 482)
+    ju "「好的，{w=.3}请慢走。」"
 
 # game/day 10.rpy:1682
 translate chinese_simplified juuichi10_manage_d831e381:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 486)
+    fn "我看着柔一的背影走到衣室。{p}"
 
 # game/day 10.rpy:1686
 translate chinese_simplified juuichi10_manage_fd34c1a1:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 487)
+    ju "没有了主人的武道馆，{w=.3}现在只剩下蝉声不断地传来。"
 
 # game/day 10.rpy:1687
 translate chinese_simplified juuichi10_manage_6abe4073:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 489)
+    "……啊，说起来。{p}"
 
 # game/day 10.rpy:1688
 translate chinese_simplified juuichi10_manage_f6a3074e:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 490)
+    fn "我在放着运动外套的包裹中翻来翻去，{w=.3}"
 
 # game/day 10.rpy:1692
 translate chinese_simplified juuichi10_manage_7a5422d3:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 491)
+    ju "找出了几个糖果。"
 
 # game/day 10.rpy:1693
 translate chinese_simplified juuichi10_manage_3d132cef:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 493)
+    fn "啊不，这不是糖果，应该是营养补充锭吧。{p}"
 
 # game/day 10.rpy:1697
 translate chinese_simplified juuichi10_manage_6779f359:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    ju "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 494)
+    ju "在透明的包装上，写着「中暑对策??运动后的盐份补给」"
 
 # game/day 10.rpy:1698
 translate chinese_simplified juuichi10_manage_7c96578c:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    fn "fn \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 495)
+    fn "这样的字样。"
 
 # game/day 10.rpy:1699
 translate chinese_simplified juuichi10_manage_b7e3e4e9:
 
     # ju "「...I see.{p} All right, let's go.」"
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "ju \"总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。\""
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 497)
+    "当然这不是我的东西。{p}"
 
 # game/day 10.rpy:1700
 translate chinese_simplified juuichi10_manage_b9aa9d7f:
 
-    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 1010-1011)
-    "总之就这样，{w=.3}今天跟柔一一起在那家\n特别的餐厅里度过了一天。"
+    # [旧版翻译] 来源: extract/orig/柔一_m_045.ks (KS 498)
+    "是放在柔一的外套口袋里的。"
 
 # game/day 10.rpy:1721
 translate chinese_simplified tatsuki10_7239da5e:
@@ -4587,7 +4611,7 @@ translate chinese_simplified tatsuki10_a4d215b6:
 translate chinese_simplified tatsuki10_90b01fce:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 35)
-    cu "cu 「既然连经验丰富的哲也先生都这么说了那肯定就没错啦。」"
+    cu "「既然连经验丰富的哲也先生都这么说了那肯定就没错啦。」"
 
 # game/day 10.rpy:1736
 translate chinese_simplified tatsuki10_89fbcb24:
@@ -4623,13 +4647,13 @@ translate chinese_simplified tatsuki10_ece1e431:
 translate chinese_simplified tatsuki10_9f1b3795:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 57)
-    cu "cu 「哲先生在这方面相当的老练呢。」"
+    cu "「哲先生在这方面相当的老练呢。」"
 
 # game/day 10.rpy:1754
 translate chinese_simplified tatsuki10_99e78200:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 62)
-    ta "ta 「那是因为手艺人本来就是靠自己的一技之长吃饭的嘛！」"
+    ta "「那是因为手艺人本来就是靠自己的一技之长吃饭的嘛！」"
 
 # game/day 10.rpy:1755
 translate chinese_simplified tatsuki10_b7e74ee4:
@@ -4666,7 +4690,7 @@ translate chinese_simplified tatsuki10_cb822d0d:
 translate chinese_simplified tatsuki10_2b3e39df:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 88)
-    cu "cu 「如果是大哥的话当然能办得到啦！」"
+    cu "「如果是大哥的话当然能办得到啦！」"
 
 # game/day 10.rpy:1767
 translate chinese_simplified tatsuki10_7c3e6b8a:
@@ -4678,7 +4702,7 @@ translate chinese_simplified tatsuki10_7c3e6b8a:
 translate chinese_simplified tatsuki10_9f848a70:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 95)
-    ta "ta 「博行可是我认可的男人，成为手艺人什么的一定是轻而易举的。」"
+    ta "「博行可是我认可的男人，成为手艺人什么的一定是轻而易举的。」"
 
 # game/day 10.rpy:1775
 translate chinese_simplified tatsuki10_aef33dc3:
@@ -4696,7 +4720,7 @@ translate chinese_simplified tatsuki10_a373a250:
 translate chinese_simplified tatsuki10_a2ec4b93:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 108)
-    ta "ta 「知道啦知道啦，{w=.3}我也是因为有事才来这边的。{p}"
+    ta "「知道啦知道啦，{w=.3}我也是因为有事才来这边的。{p}"
 
 # game/day 10.rpy:1785
 translate chinese_simplified tatsuki10_6cfcef8a:
@@ -4739,7 +4763,7 @@ translate chinese_simplified tatsuki10_c4a8d9e3:
 translate chinese_simplified tatsuki10_923d1fbb:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 143)
-    ta "ta 「怎么了，博行？」"
+    ta "「怎么了，博行？」"
 
 # game/day 10.rpy:1806
 translate chinese_simplified tatsuki10_6bca4e6e:
@@ -4751,7 +4775,7 @@ translate chinese_simplified tatsuki10_6bca4e6e:
 translate chinese_simplified tatsuki10_9fb1507e:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 151-152)
-    ta "ta 「噶哈哈，我可是很忙的。{p}\\n忙到不经常到处走来走去都不行的地步呢！」"
+    ta "「噶哈哈，我可是很忙的。{p}\\n忙到不经常到处走来走去都不行的地步呢！」"
 
 # game/day 10.rpy:1811
 translate chinese_simplified tatsuki10_1923f2b4:
@@ -4763,7 +4787,7 @@ translate chinese_simplified tatsuki10_1923f2b4:
 translate chinese_simplified tatsuki10_6e603ee9:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 159-160)
-    ta "ta 「真啰嗦！别在意那些无关紧要的事请。{p}\\n怎么了，加法都不会算吗？{p}给我看看。」"
+    ta "「真啰嗦！别在意那些无关紧要的事请。{p}\\n怎么了，加法都不会算吗？{p}给我看看。」"
 
 # game/day 10.rpy:1816
 translate chinese_simplified tatsuki10_f24d0a3d:
@@ -4775,7 +4799,7 @@ translate chinese_simplified tatsuki10_f24d0a3d:
 translate chinese_simplified tatsuki10_8c669364:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 167-169)
-    ta "ta 「呃~怎么说呢……{p}\\n虽然我并不擅长计算，\\n但是大概你没算错。」"
+    ta "「呃~怎么说呢……{p}\\n虽然我并不擅长计算，\\n但是大概你没算错。」"
 
 # game/day 10.rpy:1821
 translate chinese_simplified tatsuki10_f431075a:
@@ -4788,7 +4812,7 @@ translate chinese_simplified tatsuki10_073ea166:
 
     # ta "「About Pa, if he sees good lumber, he buys it up\n right there.{w} He never thinks about money...」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 175-176)
-    "ta 「老爸那家伙，{w=.3}看到好一点的木材就会买下来。{p}\\n连会花多少钱也不考虑……」"
+    "「老爸那家伙，{w=.3}看到好一点的木材就会买下来。{p}\\n连会花多少钱也不考虑……」"
 
 # game/day 10.rpy:1823
 translate chinese_simplified tatsuki10_6fb23401:
@@ -4800,7 +4824,7 @@ translate chinese_simplified tatsuki10_6fb23401:
 translate chinese_simplified tatsuki10_b836b7d0:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 184)
-    ta "ta 「这些和俺们用的木头是不一样的。」"
+    ta "「这些和俺们用的木头是不一样的。」"
 
 # game/day 10.rpy:1831
 translate chinese_simplified tatsuki10_ee2ff4d0:
@@ -4811,20 +4835,20 @@ translate chinese_simplified tatsuki10_ee2ff4d0:
 # game/day 10.rpy:1832
 translate chinese_simplified tatsuki10_e2d48a7b:
 
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 193)
-    ta "「那样的木材已经没有了？……」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 13)
+    ta "「请问……{w=.3}这个放在这边就可以了？」"
 
 # game/day 10.rpy:1833
 translate chinese_simplified tatsuki10_d3cf0f6a:
 
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 193)
-    fn "fn 「那样的木材已经没有了？……」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 18-20)
+    fn "「恩，放在那里就行了。{p}话说回来，你也大致上习惯了这里的工作了呢{w=.3}熟练了不少啊。」"
 
 # game/day 10.rpy:1834
 translate chinese_simplified tatsuki10_117eb8ae:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 196-197)
-    ta "ta 「不过呢，{w=.3}木材在使用之前，都会先干燥一下的，{w=.3}\\n也会有干燥后忘记使用经过一百年留下来的木材。」"
+    ta "「不过呢，{w=.3}木材在使用之前，都会先干燥一下的，{w=.3}\\n也会有干燥后忘记使用经过一百年留下来的木材。」"
 
 # game/day 10.rpy:1835
 translate chinese_simplified tatsuki10_280ae33a:
@@ -4843,7 +4867,7 @@ translate chinese_simplified tatsuki10_59f8d4f9:
 
     # ta "「Oh yeah, inside there's wood about 300 years old.\n It can last that long.」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 209-210)
-    ta "ta 「是啊，其中也有超过300年年龄的木材哦。{p}\\n木材的价值就是靠年龄而计算的。」"
+    ta "「是啊，其中也有超过300年年龄的木材哦。{p}\\n木材的价值就是靠年龄而计算的。」"
 
 # game/day 10.rpy:1841
 translate chinese_simplified tatsuki10_9aa3180c:
@@ -4868,7 +4892,7 @@ translate chinese_simplified tatsuki10_4e39745f:
 translate chinese_simplified tatsuki10_1305d830:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 224-226)
-    ta "ta 「不过，{w=.3}\\n就是因为存在那种连想都不想就买木材的蠢材，所以才会亏损的。{p}\\n连价格都不看一下。」"
+    ta "「不过，{w=.3}\\n就是因为存在那种连想都不想就买木材的蠢材，所以才会亏损的。{p}\\n连价格都不看一下。」"
 
 # game/day 10.rpy:1848
 translate chinese_simplified tatsuki10_9d0c44b4:
@@ -4882,7 +4906,7 @@ translate chinese_simplified tatsuki10_6d48bb8f:
     # ta "「It'd be fine if it were just carpentry, but\n Pa has to deal with making furniture without nails.」"
     # [待审核] 来源: extract/orig/辰樹_m_02.ks (KS 151)
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 233-234)
-    ta "ta 「木匠的工作倒是没问题，{w=.3}\\n老爸倒是个像样的头头。」"
+    ta "「木匠的工作倒是没问题，{w=.3}\\n老爸倒是个像样的头头。」"
 
 # game/day 10.rpy:1854
 translate chinese_simplified tatsuki10_d469abbc:
@@ -4918,7 +4942,7 @@ translate chinese_simplified tatsuki10_09bd8f3f:
 translate chinese_simplified tatsuki10_23bc6df1:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 262)
-    ta "ta 「好痛……」"
+    ta "「好痛……」"
 
 # game/day 10.rpy:1869
 translate chinese_simplified tatsuki10_7880fd43:
@@ -4941,20 +4965,20 @@ translate chinese_simplified tatsuki10_6f29b7a3:
 # game/day 10.rpy:1872
 translate chinese_simplified tatsuki10_71e33eea:
 
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 279)
-    "fn 「嗯……{w=.3}还差一点点就干完了。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 23-25)
+    "「不不，我也只是在整理东西而已……{p}况且既然来了就一定要努力啊！{p}所以，{w=.3}埋头干活啦！」"
 
 # game/day 10.rpy:1879
 translate chinese_simplified tatsuki10_3942b5db:
 
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 279)
-    fn "fn 「现在……再一点点就完成了。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 27-28)
+    fn "「虽然已经工作几天了但还是没有习惯呢{p}就算仅仅是杂活也比想象中忙了不少{w=.3}很消耗体力啊。」"
 
 # game/day 10.rpy:1883
 translate chinese_simplified tatsuki10_8f73e434:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 284)
-    ta "ta 「哟，快干完了吗？{p}俺来帮忙吧。」"
+    ta "「哟，快干完了吗？{p}俺来帮忙吧。」"
 
 # game/day 10.rpy:1884
 translate chinese_simplified tatsuki10_a625b07f:
@@ -4966,7 +4990,7 @@ translate chinese_simplified tatsuki10_a625b07f:
 translate chinese_simplified tatsuki10_6958a994:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 291)
-    ta "ta 「不想他啦。{p}别在意。」"
+    ta "「不想他啦。{p}别在意。」"
 
 # game/day 10.rpy:1889
 translate chinese_simplified tatsuki10_5f20fd92:
@@ -4984,7 +5008,7 @@ translate chinese_simplified tatsuki10_9c234755:
 translate chinese_simplified tatsuki10_a40e9f0e:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 302-304)
-    ta "ta 「说起来确实是这样呢。{p}\\n怎样了，{w=.3}虽然刚刚已经讨论过了，\\n不过还是想问问，你在这里工作还习惯吗？」"
+    ta "「说起来确实是这样呢。{p}\\n怎样了，{w=.3}虽然刚刚已经讨论过了，\\n不过还是想问问，你在这里工作还习惯吗？」"
 
 # game/day 10.rpy:1895
 translate chinese_simplified tatsuki10_49c12805:
@@ -4996,7 +5020,7 @@ translate chinese_simplified tatsuki10_49c12805:
 translate chinese_simplified tatsuki10_bdaad102:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 312)
-    ta "ta 「这样啊~{w=.3}早点习惯起来就好了。」"
+    ta "「这样啊~{w=.3}早点习惯起来就好了。」"
 
 # game/day 10.rpy:1900
 translate chinese_simplified tatsuki10_65cba3cd:
@@ -5008,7 +5032,7 @@ translate chinese_simplified tatsuki10_65cba3cd:
 translate chinese_simplified tatsuki10_2e6a1e30:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 320-321)
-    ta "ta 「当然了。{p}毕竟这是在翠屋组里工作啊~{p}\\n噶哈哈哈~~」"
+    ta "「当然了。{p}毕竟这是在翠屋组里工作啊~{p}\\n噶哈哈哈~~」"
 
 # game/day 10.rpy:1905
 translate chinese_simplified tatsuki10_5b9df0cb:
@@ -5026,7 +5050,7 @@ translate chinese_simplified tatsuki10_c6ce73e5:
 translate chinese_simplified tatsuki10_e4b62173:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 339)
-    ta "ta 「痛啊……」"
+    ta "「痛啊……」"
 
 # game/day 10.rpy:1920
 translate chinese_simplified tatsuki10_24417abf:
@@ -5038,7 +5062,7 @@ translate chinese_simplified tatsuki10_24417abf:
 translate chinese_simplified tatsuki10_7a6e40c9:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 347)
-    cu "cu 「老爷，{w=.3}完成了。」"
+    cu "「老爷，{w=.3}完成了。」"
 
 # game/day 10.rpy:1927
 translate chinese_simplified tatsuki10_07de2249:
@@ -5052,7 +5076,7 @@ translate chinese_simplified tatsuki10_761008db:
 
     # cu "「Gwoh...!」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 357)
-    "cu 「喔……」"
+    "「喔……」"
 
 # game/day 10.rpy:1939
 translate chinese_simplified tatsuki10_f9525820:
@@ -5090,7 +5114,7 @@ translate chinese_simplified tatsuki10_2e5be3fc:
 translate chinese_simplified tatsuki10_58fdbd7d:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 390-391)
-    ta "ta 「辛苦你了。{p}\\n口渴了吧，{w=.3}把茶端来了哦~」"
+    ta "「辛苦你了。{p}\\n口渴了吧，{w=.3}把茶端来了哦~」"
 
 # game/day 10.rpy:1960
 translate chinese_simplified tatsuki10_5bba6cab:
@@ -5108,7 +5132,7 @@ translate chinese_simplified tatsuki10_0a22b749:
 translate chinese_simplified tatsuki10_62c559da:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 403-405)
-    ta "ta 「活动后累了的话，{w=.3}想要吃甜的东西嘛。{p}\\n这样啊，这样啊~{p}\\n嘛，不过我还是更喜欢喝酒呢，算是\"辣党\"罢。」"
+    ta "「活动后累了的话，{w=.3}想要吃甜的东西嘛。{p}\\n这样啊，这样啊~{p}\\n嘛，不过我还是更喜欢喝酒呢，算是\"辣党\"罢。」"
 
 # game/day 10.rpy:1966
 translate chinese_simplified tatsuki10_efbfa8ca:
@@ -5127,7 +5151,7 @@ translate chinese_simplified tatsuki10_ba9bb981:
 translate chinese_simplified tatsuki10_ae8c2ed9:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 413-415)
-    ta "ta 「喂，{w=.3}我这不是胖！！{p}\\n龙的肚子本来就是这么圆的啊！{p}\\n不如说你多吃一点，变成和我这样高大吧！！！」"
+    ta "「喂，{w=.3}我这不是胖！！{p}\\n龙的肚子本来就是这么圆的啊！{p}\\n不如说你多吃一点，变成和我这样高大吧！！！」"
 
 # game/day 10.rpy:1972
 translate chinese_simplified tatsuki10_d7957ffa:
@@ -5140,7 +5164,7 @@ translate chinese_simplified tatsuki10_7276861d:
 
     # ta "「210 centimetres or so...{p} I think I weigh 135.」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 423-424)
-    "ta 「应该是两米一吧……{p}\\n体重我想应该有135左右。」"
+    "「应该是两米一吧……{p}\\n体重我想应该有135左右。」"
 
 # game/day 10.rpy:1977
 translate chinese_simplified tatsuki10_d0dc0b53:
@@ -5152,7 +5176,7 @@ translate chinese_simplified tatsuki10_d0dc0b53:
 translate chinese_simplified tatsuki10_ce65ab95:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 432)
-    ta "ta 「呃？」"
+    ta "「呃？」"
 
 # game/day 10.rpy:1988
 translate chinese_simplified tatsuki10_a17b2230:
@@ -5171,15 +5195,15 @@ translate chinese_simplified tatsuki10_71b15836:
 translate chinese_simplified tatsuki10_98343a70:
 
     # extend "BANG! {w=1}{nw}"
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 445)
-    "extend 咄嘶！"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 30-31)
+    "「本来以为自己之前想象的就够辛苦了呢……{p}但是实际的工作却要更加辛苦啊……」"
 
 # game/day 10.rpy:1998
 translate chinese_simplified tatsuki10_b63bf029:
 
     # extend "BANG!{w=1}"
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 445)
-    "extend 咄嘶！！"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 35)
+    "「既然连经验丰富的哲也先生都这么说了那肯定就没错啦。」"
 
 # game/day 10.rpy:2000
 translate chinese_simplified tatsuki10_56772929:
@@ -5203,14 +5227,14 @@ translate chinese_simplified tatsuki10_78ef8791:
 translate chinese_simplified tatsuki10_5e801d77:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 458)
-    ta "ta 「不要啊！！！！！！！」"
+    ta "「不要啊！！！！！！！」"
 
 # game/day 10.rpy:2015
 translate chinese_simplified tatsuki10_71766a26:
 
     # ta "「Hmm... That was gross.{p} {nw}"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 468)
-    "ta 「唔……{w=.3}那样很纠结啊。{p}"
+    "「唔……{w=.3}那样很纠结啊。{p}"
 
 # game/day 10.rpy:2017
 translate chinese_simplified tatsuki10_01c70177:
@@ -5228,7 +5252,7 @@ translate chinese_simplified tatsuki10_58444c37:
 translate chinese_simplified tatsuki10_ca1c7e69:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 477)
-    ta "ta 「突然就那样一起穿着贴身衣，然后滚来滚去什么的……是不可能的……」"
+    ta "「突然就那样一起穿着贴身衣，然后滚来滚去什么的……是不可能的……」"
 
 # game/day 10.rpy:2023
 translate chinese_simplified tatsuki10_671f9ad6:
@@ -5240,7 +5264,7 @@ translate chinese_simplified tatsuki10_671f9ad6:
 translate chinese_simplified tatsuki10_ea79c84a:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 484-485)
-    ta "ta 「啊？？{w=.3}什，什么都没有。{p}\\n话说回来，你干完活之后有空吗？」"
+    ta "「啊？？{w=.3}什，什么都没有。{p}\\n话说回来，你干完活之后有空吗？」"
 
 # game/day 10.rpy:2028
 translate chinese_simplified tatsuki10_b2100bc2:
@@ -5253,7 +5277,7 @@ translate chinese_simplified tatsuki10_a971d075:
 
     # ta "「Then come out with me for a bit.{p} I'll take you someplace nice.」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 493-494)
-    "ta 「那样的话就陪我一下。{p}\\n带你去个好地方。」"
+    "「那样的话就陪我一下。{p}\\n带你去个好地方。」"
 
 # game/day 10.rpy:2033
 translate chinese_simplified tatsuki10_51cee43c:
@@ -5266,33 +5290,33 @@ translate chinese_simplified tatsuki10_51cee43c:
 translate chinese_simplified tatsuki10_cc4b00c2:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 502-504)
-    ta "ta 「噶哈哈哈，{w=.3}既然有空，跟着来就好。{p}\\n去路边等着，{p}\\n等俺开车出来就一起走。」"
+    ta "「噶哈哈哈，{w=.3}既然有空，跟着来就好。{p}\\n去路边等着，{p}\\n等俺开车出来就一起走。」"
 
 # game/day 10.rpy:2044
 translate chinese_simplified tatsuki10_0f4e5f4d:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 511-512)
-    cu "cu 「喂，{w=.3}等下要出去吗？{p}\\n也把我带上啦！」"
+    cu "「喂，{w=.3}等下要出去吗？{p}\\n也把我带上啦！」"
 
 # game/day 10.rpy:2048
 translate chinese_simplified tatsuki10_db663952:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 516)
-    ta "ta 「抱歉啦小吉，{w=.3}今天不是去玩啦。」"
+    ta "「抱歉啦小吉，{w=.3}今天不是去玩啦。」"
 
 # game/day 10.rpy:2052
 translate chinese_simplified tatsuki10_0c1d4ece:
 
     # cu "「It isn't?{p} Where're you goin' then?」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 520-521)
-    "cu 「不是出去玩么？{p}\\n那要去哪里？」"
+    "「不是出去玩么？{p}\\n那要去哪里？」"
 
 # game/day 10.rpy:2056
 translate chinese_simplified tatsuki10_6120293b:
 
     # ta "「Hehehe, I can't say...{p} It's a nice place, you hear.\n Gahaha!」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 525-526)
-    "ta 「呵呵呵，{w=.3}那就不能说了……{p}\\n好地方哦，好地方。{p}噶哈哈。」"
+    "「呵呵呵，{w=.3}那就不能说了……{p}\\n好地方哦，好地方。{p}噶哈哈。」"
 
 # game/day 10.rpy:2057
 translate chinese_simplified tatsuki10_2fdeff7a:
@@ -5305,19 +5329,19 @@ translate chinese_simplified tatsuki10_1008f584:
 
     # ta "「Later. Counting on you\n to look after the place.」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 532)
-    "ta 「再见。{w=.3}麻烦你看家了哦~」"
+    "「再见。{w=.3}麻烦你看家了哦~」"
 
 # game/day 10.rpy:2063
 translate chinese_simplified tatsuki10_d8a8f260:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 538-540)
-    cu "cu 「切，{w=.3}我也想去玩啊！大少爷总是和大哥一起出去。{p}\\n就算是幼时玩伴也未免好过头了吧。{p}\\n……！？」"
+    cu "「切，{w=.3}我也想去玩啊！大少爷总是和大哥一起出去。{p}\\n就算是幼时玩伴也未免好过头了吧。{p}\\n……！？」"
 
 # game/day 10.rpy:2064
 translate chinese_simplified tatsuki10_285507a6:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 540)
-    cu "cu 「……！？」"
+    cu "「……！？」"
 
 # game/day 10.rpy:2068
 translate chinese_simplified tatsuki10_a312914e:
@@ -5342,7 +5366,7 @@ translate chinese_simplified tatsuki10_fd33aceb:
 translate chinese_simplified tatsuki10_a9e01554:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 566)
-    ta "ta 「别急啦，{w=.3}已经快到了。」"
+    ta "「别急啦，{w=.3}已经快到了。」"
 
 # game/day 10.rpy:2089
 translate chinese_simplified tatsuki10_d10eca5a:
@@ -5366,7 +5390,7 @@ translate chinese_simplified tatsuki10_1b87eb3e:
 translate chinese_simplified tatsuki10_1b90086a:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 579-580)
-    ta "ta 「不是，那是很早之前就存在的地方，{p}\\n是我后来想到了，才开始使用那里的。」"
+    ta "「不是，那是很早之前就存在的地方，{p}\\n是我后来想到了，才开始使用那里的。」"
 
 # game/day 10.rpy:2096
 translate chinese_simplified tatsuki10_f2329f23:
@@ -5378,7 +5402,7 @@ translate chinese_simplified tatsuki10_f2329f23:
 translate chinese_simplified tatsuki10_f6cb0f29:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 587-588)
-    ta "ta 「好啦老实一点。{p}\\n看，{w=.3}到了哦。」"
+    ta "「好啦老实一点。{p}\\n看，{w=.3}到了哦。」"
 
 # game/day 10.rpy:2106
 translate chinese_simplified tatsuki10_f77bada7:
@@ -5390,7 +5414,7 @@ translate chinese_simplified tatsuki10_f77bada7:
 translate chinese_simplified tatsuki10_653284f8:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 598)
-    ta "ta 「是啊，{w=.3}既宽广，景色也不错。」"
+    ta "「是啊，{w=.3}既宽广，景色也不错。」"
 
 # game/day 10.rpy:2108
 translate chinese_simplified tatsuki10_de5824ae:
@@ -5409,7 +5433,7 @@ translate chinese_simplified tatsuki10_199cc16b:
 
     # ta "「Too surprised to say anything?{w=.2}\n It's still too early for that.\n It starts for real, here.」"
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 608-610)
-    "ta 「惊讶的连声音都出不来了啊。{p}\\n不过呢，现在惊讶还是太早。{p}真正的在后面呢。{p}\\n看到里面之后你也会害怕起来哦~」"
+    "「惊讶的连声音都出不来了啊。{p}\\n不过呢，现在惊讶还是太早。{p}真正的在后面呢。{p}\\n看到里面之后你也会害怕起来哦~」"
 
 # game/day 10.rpy:2114
 translate chinese_simplified tatsuki10_fd4d39e4:
@@ -5428,7 +5452,7 @@ translate chinese_simplified tatsuki10_ce8addad:
 translate chinese_simplified tatsuki10_d87141fa:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 616)
-    ta "ta 「呵呵，{w=.3}跟着来」"
+    ta "「呵呵，{w=.3}跟着来」"
 
 # game/day 10.rpy:2117
 translate chinese_simplified tatsuki10_77cd8943:
@@ -5440,7 +5464,7 @@ translate chinese_simplified tatsuki10_77cd8943:
 translate chinese_simplified tatsuki10_7bdcb519:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 623)
-    ta "ta 「好慢哦，{w=.3}快点啦~」"
+    ta "「好慢哦，{w=.3}快点啦~」"
 
 # game/day 10.rpy:2119
 translate chinese_simplified tatsuki10_e9c29be6:
@@ -5457,14 +5481,14 @@ translate chinese_simplified tatsuki10_9e70c743:
 # game/day 10.rpy:2121
 translate chinese_simplified tatsuki10_489e997a:
 
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 633-635)
-    "这是……洞穴？{p}\\n虽然说在山中应该并不少见……{p}\\n但是……里面有什么吗？"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 39-41)
+    "「不不，我还差得远呢……{p}虽然已经来这里好几年了，{p}现在还是经常被辰平师傅骂呢。」"
 
 # game/day 10.rpy:2127
 translate chinese_simplified tatsuki10_4bc80ea8:
 
-    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 633-635)
-    "这是……洞穴？{p}虽然说在山中应该并不少见……{p}但是……里面有什么吗？"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 43-44)
+    "「哲也先生已经是个很厉害的手艺人了，还这么谦虚。{p}而且又很有礼貌，{w=.3}看起来和辰平叔正相反呢。」"
 
 # game/day 10.rpy:2131
 translate chinese_simplified tatsuki10_cec817aa:
@@ -5488,7 +5512,7 @@ translate chinese_simplified tatsuki10_2dc54540:
 translate chinese_simplified tatsuki10_ecfcf559:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 651)
-    ta "ta 「在这边，{w=.3}稍微等一下！」"
+    ta "「在这边，{w=.3}稍微等一下！」"
 
 # game/day 10.rpy:2139
 translate chinese_simplified tatsuki10_f5563924:
@@ -5518,13 +5542,13 @@ translate chinese_simplified tatsuki10_59065120:
 translate chinese_simplified tatsuki10_5d50bd3d:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 668)
-    ta "ta 「啊，开关在这里。」"
+    ta "「啊，开关在这里。」"
 
 # game/day 10.rpy:2149
 translate chinese_simplified tatsuki10_353b1bad:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 675-677)
-    ta "ta 「抱歉啊，{w=.3}没有及时把灯点亮。{p}\\n因为平时只有自己一个人，所以也没注意。{p}噶哈哈」"
+    ta "「抱歉啊，{w=.3}没有及时把灯点亮。{p}\\n因为平时只有自己一个人，所以也没注意。{p}噶哈哈」"
 
 # game/day 10.rpy:2150
 translate chinese_simplified tatsuki10_df6ae9fd:
@@ -5578,7 +5602,7 @@ translate chinese_simplified tatsuki10_a12e65b7:
 translate chinese_simplified tatsuki10_19b15ef0:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 701-703)
-    ta "ta 「怎样，这就是所谓的男人的隐藏之家哦。\\n电线也拉过来了，\\n附近也有井，就算在这里住下来也没问题哦。」"
+    ta "「怎样，这就是所谓的男人的隐藏之家哦。\\n电线也拉过来了，\\n附近也有井，就算在这里住下来也没问题哦。」"
 
 # game/day 10.rpy:2159
 translate chinese_simplified tatsuki10_61038a88:
@@ -5596,7 +5620,7 @@ translate chinese_simplified tatsuki10_1ed059da:
 translate chinese_simplified tatsuki10_3ed47c44:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 710)
-    ta "ta 「看，{w=.3}这里有个门一样的东西，可以打开哦」"
+    ta "「看，{w=.3}这里有个门一样的东西，可以打开哦」"
 
 # game/day 10.rpy:2162
 translate chinese_simplified tatsuki10_65988684:
@@ -5614,7 +5638,7 @@ translate chinese_simplified tatsuki10_3fc0f990:
 translate chinese_simplified tatsuki10_f5bb143f:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 721-722)
-    ta "ta 「啊啊，{w=.3}因为那扇门并不是给人通过的门，{p}\\n是给这家伙通过用的。」"
+    ta "「啊啊，{w=.3}因为那扇门并不是给人通过的门，{p}\\n是给这家伙通过用的。」"
 
 # game/day 10.rpy:2168
 translate chinese_simplified tatsuki10_ee865146:
@@ -5650,7 +5674,7 @@ translate chinese_simplified tatsuki10_47489b25:
 translate chinese_simplified tatsuki10_03818b45:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 741)
-    ta "ta 「不，还在制作中，所以不能飞。」"
+    ta "「不，还在制作中，所以不能飞。」"
 
 # game/day 10.rpy:2177
 translate chinese_simplified tatsuki10_9f2d8043:
@@ -5662,7 +5686,7 @@ translate chinese_simplified tatsuki10_9f2d8043:
 translate chinese_simplified tatsuki10_23dee6ac:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 749)
-    ta "ta 「不过呢……」"
+    ta "「不过呢……」"
 
 # game/day 10.rpy:2182
 translate chinese_simplified tatsuki10_7980b6e0:
@@ -5674,7 +5698,7 @@ translate chinese_simplified tatsuki10_7980b6e0:
 translate chinese_simplified tatsuki10_4a7d553b:
 
     # [旧版翻译] 来源: extract/orig/辰樹_m_02.ks (KS 756-757)
-    ta "ta 「俺{w=.3}要在夏天里把这家伙完成，然后飞上天。{p}\\n完成之后也会带上你一起飞哦，」"
+    ta "「俺{w=.3}要在夏天里把这家伙完成，然后飞上天。{p}\\n完成之后也会带上你一起飞哦，」"
 
 translate chinese_simplified strings:
 

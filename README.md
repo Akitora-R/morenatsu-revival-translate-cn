@@ -272,6 +272,17 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | `kounosuke06` | `extract/orig/孝之助_s_02.ks` | 糖果店前孝之助邀请试胆 |
 | `torahiko06` | `extract/torahiko/6日目.ks` | 虎彦料理日（购物/烹饪/海边通知） |
 
+## Day 10 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `day10` | `extract/orig/10日目.ks` | 共通路线（公交/到达/柔一家） |
+| `tatsuki10` | `extract/orig/辰樹_m_02.ks` | 辰樹温泉/餐厅路线 |
+| `torahiko10` | `extract/torahiko/10日目.ks` | 虎彦路线 |
+| `kounosuke10` | `extract/orig/孝之助_m_04.ks` | 孝之助路线 |
+| `shun10` | `extract/orig/峻_m_04.ks` | 峻游戏路线 |
+| `juuichi10` | `extract/orig/柔一_m_045.ks` | 柔一柔道馆/餐厅路线 |
+
 ## 翻译进度
 
 | 文件 | 已翻译 | 总数 | 状态 |
@@ -281,8 +292,8 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | day 6.rpy | 1002 | 1002 | **100%** |
 | day 7.rpy | 1671 | 1671 | **100%** |
 | day 8.rpy | 645 | 645 | **100%** |
-| Welcome Party.rpy | 1336 | 1380 | 96.8% |
-| day 3.rpy | 419 | 422 | 99.3% |
-| day 2.rpy | 864 | 1076 | 80.3% |
-| Day 16.rpy | 6 | 2148 | 0.3% |
-| **合计** | **7145** | **34191** | **20.9%** |
+| day 10.rpy | 863 | 863 | **100%** |
+| Welcome Party.rpy | 1380 | 1380 | **100%** |
+| day 3.rpy | 422 | 422 | **100%** |
+| day 2.rpy | 1075 | 1076 | 99.9% |
+| **合计** | **9313** | **34191** | **27.2%** |
