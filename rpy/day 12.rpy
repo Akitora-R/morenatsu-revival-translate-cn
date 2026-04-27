@@ -5235,7 +5235,7 @@ translate chinese_simplified tatsuki12_4c83a98d:
 translate chinese_simplified tatsuki12_b93d7e51:
 
     # "Tatsu-nii came in, shaking his tail\nin a good mood.{w} Spotting me from\nacross the room, he came over."
-    "在终于打扫完之后，看着已经干净的房间发呆的时候辰兄摇晃着尾巴，看起来心情很好似的，朝[咱]的方向走过来了。"
+    "在终于打扫完之后，看着已经干净的房间发呆的时候[l]辰兄摇晃着尾巴，看起来心情很好似的，[l]朝[咱]的方向走过来了。"
 
 # game/day 12.rpy:1897
 translate chinese_simplified tatsuki12_16b851c2:
@@ -5247,2683 +5247,3129 @@ translate chinese_simplified tatsuki12_16b851c2:
 translate chinese_simplified tatsuki12_38f52034:
 
     # ta "「Heh, it's not like I came over to play.{p} Just picking up some tools, is all.」"
-    ta "「哼，我又不是来玩的啦。[l]我可是特意来这里取东西的。」"
+    ta "「哼，我又不是来玩的啦。[l]我可是特意来这里取东西的。[l]因为接下来该处理木材了，所以要用到锛子。」"
 
 # game/day 12.rpy:1902
 translate chinese_simplified tatsuki12_ffeb8206:
 
     # ta "「After this I'll be cleaning some wood,\n so I'll need the butterfly plane.」"
-    ta "「因为接下来该处理木材了，所以要用到锛子。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 44)
+    ta "因为接下来该处理木材了，所以要用到锛子。」"
 
 # game/day 12.rpy:1903
 translate chinese_simplified tatsuki12_ead0d8ea:
 
     # fn "「That one, huh? Your toolbox is over... there,\n Tatsu-nii.{w} Here, I'll get it for you.{p} This is for unrefined lumber, right?」"
-    fn "「锛子啊。那个，辰兄的工具箱我记得是在……啊，在这儿了。[l]给。[l]这是把木头粗糙的地方刨平用的工具吧？」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 50-52)
+    fn "「锛子啊。那个，辰兄的工具箱我记得是在……啊，在这儿了。给。这是把木头粗糙的地方刨平用的工具吧？」"
 
 # game/day 12.rpy:1904
 translate chinese_simplified tatsuki12_4e167a05:
 
     # "I took out the small tool from the bag,\nand gave it to Tatsu-nii."
-    "[咱]从工具箱里拿出那个手柄处有点弯曲的小斧头，递给了辰兄。"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 55)
+    "递给了辰兄。"
 
 # game/day 12.rpy:1908
 translate chinese_simplified tatsuki12_9fe094e6:
 
     # ta "「Thanks. You know a lot now, huh?{p} Someone must have taught you without telling me.」"
-    ta "「谢啦，知道得很详细嘛。[l]是谁在俺不知道的情况下告诉你的？」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 59-60)
+    ta "「谢啦，知道得很详细嘛。是谁在俺不知道的情况下告诉你的？」"
 
 # game/day 12.rpy:1909
 translate chinese_simplified tatsuki12_02fe9c8e:
 
     # fn "「I've been working here for how long, now?\n I should at least know this much.」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 63-64)
     fn "「[咱]也已经干过好几天的活了诶，这点程度已经是常识啦。」"
 
 # game/day 12.rpy:1913
 translate chinese_simplified tatsuki12_48b8e9f3:
 
     # ta "「Gahaha, for a guy who's never worked in carpentry,\n you sure are talking big.{p} Anyway, Tetsu-san taught you that, didn't he?」"
-    ta "「噶哈哈，连现场都没去过的小家伙说什么呢。[l]肯定也是哲先生教给你的吧。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 68-69)
+    ta "「噶哈哈，连现场都没去过的小家伙说什么呢。肯定也是哲先生教给你的吧。」"
 
 # game/day 12.rpy:1914
 translate chinese_simplified tatsuki12_c3d2db17:
 
     # fn "「Yep, that's right.」"
-    fn "「没错。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 72)
+    fn "「没错。"
 
 # game/day 12.rpy:1915
 translate chinese_simplified tatsuki12_276f5289:
 
     # fn "「He politely explained a bunch of stuff to me, like\n what the tools are called, how the artisans have\n their own tools, and who puts what where.」"
-    fn "「工具的名称，手艺人各自使用的工具，谁把自己的工具放在哪里……这些都很详细地告诉[咱]了。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 73-74)
+    fn "工具的名称，手艺人各自使用的工具，谁把自己的工具放在哪里……这些都很详细地告诉[咱]了。」"
 
 # game/day 12.rpy:1919
 translate chinese_simplified tatsuki12_06d39043:
 
     # ta "「I thought as much.」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 78)
     ta "「就知道会是这样。」"
 
 # game/day 12.rpy:1920
 translate chinese_simplified tatsuki12_fc74ed9e:
 
     # fn "「I remember all of it, perfectly.」"
-    fn "「[咱]已经全部都记下来了哦。[l]全部。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 81)
+    fn "「[咱]已经全部都记下来了哦。全部。」"
 
 # game/day 12.rpy:1924
 translate chinese_simplified tatsuki12_25f8da0e:
 
     # ta "「Is that so?{w} What's this one, then?」"
-    ta "「真的？[l]那就考考你~」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 85)
+    ta "「真的？那就考考你~」"
 
 # game/day 12.rpy:1925
 translate chinese_simplified tatsuki12_1c56b7ee:
 
     # "As he said that, Tatsu-nii picked up a\ncarpentry tool.{w} Blackened with dirt,\nit looked like a miniature wooden cart."
-    "辰兄说着，拿起一个大工用的工具。[l]还是一个带着黑色污迹的、木制的、上面带着一个“车轮”的东西。"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 87-89)
+    "辰兄说着，拿起一个大工用的工具。还是一个带着黑色污迹的、木制的、上面带着一个“车轮”的东西。"
 
 # game/day 12.rpy:1926
 translate chinese_simplified tatsuki12_71ce8be6:
 
     # "Let's see, that one is..."
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 91)
     "唔唔，那个大概是……"
 
 # game/day 12.rpy:1927
 translate chinese_simplified tatsuki12_21b917ec:
 
     # fn "「That one's easy enough. An inking device, right?{p} It's used for drawing lines on lumber.」"
-    fn "「这还不简单，是墨斗。[l]在木材上画线用的东西吧。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 94-95)
+    fn "「这还不简单，是墨斗。在木材上画线用的东西吧。」"
 
 # game/day 12.rpy:1931
 translate chinese_simplified tatsuki12_3b35615f:
 
     # ta "「Right.{w} The ink is pitch black,\n so that one was easy.{p} {nw}"
-    ta "「正确。[l]是因为墨水太黑了，所以很容易辨认吧。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 99)
+    ta "「正确。是因为墨水太黑了，所以很容易辨认吧。[辰樹 普 normal][wt]"
 
 # game/day 12.rpy:1933
 translate chinese_simplified tatsuki12_c864cd3d:
 
     # extend "What about this one?」"
-    extend "这样的话……这个怎样？"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 100)
+    extend "这样的话……这个怎样？」"
 
 # game/day 12.rpy:1934
 translate chinese_simplified tatsuki12_beb4ba25:
 
     # "Tatsu-nii picked up an L-shaped tool.{p}I've seen these at school."
-    "这次辰兄手里拿着的是L字形弯曲的规尺。[l]这样的东西在学校也看见过。"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 102-103)
+    "这次辰兄手里拿着的是L字形弯曲的规尺。这样的东西在学校也看见过。"
 
 # game/day 12.rpy:1935
 translate chinese_simplified tatsuki12_eb250200:
 
     # fn "「That's a carpenter's square.\n I remember because of the ruler.」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 106)
     fn "「是矩尺，因为属于规尺类的，所以记得很清楚。」"
 
 # game/day 12.rpy:1939
 translate chinese_simplified tatsuki12_e1391008:
 
     # ta "「You got it again.{p} It's mostly used for dimensioning, but lately\n a bunch of carpenters don't know how to use them.」"
-    ta "「哦，又被你说中了……[l]虽然这东西也能量出尺码，不过现在不会用这个的大工也挺多的。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 110-112)
+    ta "「哦，又被你说中了……虽然这东西也能量出尺码，不过现在不会用这个的大工也挺多的。」"
 
 # game/day 12.rpy:1940
 translate chinese_simplified tatsuki12_1b013734:
 
     # fn "「Huh? It's not just some bent ruler?」"
-    fn "「这就不对了~。[l]用它可是有相应的技巧的。[l]这可不只是个测量物体的工具哦。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 115)
+    fn "「呃，不就只是个弯曲的规尺么？」"
 
 # game/day 12.rpy:1944
 translate chinese_simplified tatsuki12_a3ff0bbb:
 
     # ta "「Nope.{w} Using it is an art,\n it's not just a simple measuring tool.」"
-    ta "「矩尺，锛子，墨斗，它们可以说是在大工的工具中，三个相当神奇的存在呐。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 119-120)
+    ta "「这就不对了~。用它可是有相应的技巧的。这可不只是个测量物体的工具哦。」"
 
 # game/day 12.rpy:1945
 translate chinese_simplified tatsuki12_87da7d0a:
 
     # ta "「The carpenter's square, butterfly plane, and\n the inking device.{p} You could say those are the three key tools.」"
-    ta "「唉，这样的啊。[l]那就是说会用这些东西的辰兄也很厉害呢。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 123-124)
+    ta "「矩尺，锛子，墨斗，它们可以说是在大工的工具中，三个相当神奇的存在呐。」"
 
 # game/day 12.rpy:1946
 translate chinese_simplified tatsuki12_adb9ab6d:
 
     # fn "「Oh, I see, then.{p} To be able to use them makes you amazing,\n Tatsu-nii.」"
-    fn "「唉，这样的啊。[l]那就是说会用这些东西的辰兄也很厉害呢。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 129-130)
+    fn "「唉，这样的啊。那就是说会用这些东西的辰兄也很厉害呢。」"
 
 # game/day 12.rpy:1950
 translate chinese_simplified tatsuki12_af17555b:
 
     # ta "「Well... I'm not that good, yet.」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 134)
     ta "「得了……我还差得远呢。」"
 
 # game/day 12.rpy:1951
 translate chinese_simplified tatsuki12_9c7b3508:
 
     # "Oh yeah, he's still an apprentice.{p}Always getting scolded every day.{p}Hang in there, Tatsu-nii."
-    "啊啊，也是，辰兄还只是见习呢。[l]每天都惹辰平叔生气。[l]加油吧，辰兄。"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 136-138)
+    "啊啊，也是，辰兄还只是见习呢。每天都惹辰平叔生气。加油吧，辰兄。"
 
 # game/day 12.rpy:1956
 translate chinese_simplified tatsuki12_20b38c66:
 
     # ta "「Okay, for getting everything right I'll give you\n an awesome prize.{p} {nw}"
-    ta "「好了，给予全部答对的你一份豪华的奖品。收下吧，来，俺亲你一口。」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 143)
+    ta "「好了，给予全部答对的你一份豪华的奖品。[辰樹 照れる normal][wt]"
 
 # game/day 12.rpy:1958
 translate chinese_simplified tatsuki12_9614b961:
 
     # extend "Here, I'll kiss you.」"
-    extend "「喂喂喂等下，为什么？」"
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 144)
+    extend "收下吧，来，俺亲你一口。」"
 
 # game/day 12.rpy:1959
 translate chinese_simplified tatsuki12_a4400835:
 
     # "Saying that, Tatsu-nii pushed out his hands and\nmouth and came close to me."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 146-147)
+    "辰兄一边说一边伸出双手和嘴，似乎是想要亲[咱]，靠了过来。"
 
 # game/day 12.rpy:1960
 translate chinese_simplified tatsuki12_32aa378b:
 
     # fn "「Wait, what?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 150)
+    fn "「喂喂喂等下，为什么？」"
 
 # game/day 12.rpy:1966
 translate chinese_simplified tatsuki12_683a2128:
 
     # ta "「I'll kiss yooouuu.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 154)
+    ta "「没事，来‘啾’一下~」"
 
 # game/day 12.rpy:1967
 translate chinese_simplified tatsuki12_6fb40342:
 
     # "Whoa, this is bad. I'm cornered.{p}Tatsu-nii's face is approaching, fast.{p}He's grabbed my shoulders firmly, so I can't run..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 156-158)
+    "哇不好，被抓住了。辰兄的脸不断接近过来……[咱]的屁股和肩膀都被抓住了，无法动弹。"
 
 # game/day 12.rpy:1968
 translate chinese_simplified tatsuki12_4b0e0469:
 
     # "But if it's Tatsu-nii...{w} it's okay..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 160)
+    "不过……如果是辰兄的话，就算这样也……"
 
 # game/day 12.rpy:1969
 translate chinese_simplified tatsuki12_42b0775f:
 
     # ta "「Kiii...{w} {nw}"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 163)
+    ta "「啾………唔哈，开玩笑的。"
 
 # game/day 12.rpy:1971
 translate chinese_simplified tatsuki12_ff68bc44:
 
     # extend "Ha, just kidding.{p} Wait, why did you close your eyes?{p} You took me seriously?」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 163-165)
+    extend "「啾………唔哈，开玩笑的。干嘛把眼睛闭上？当真了啊～」"
 
 # game/day 12.rpy:1972
 translate chinese_simplified tatsuki12_249ba0e0:
 
     # fn "「That's because you seemed serious about it.{p} Besides, it's a little intimidating,\n being approached by such a big guy.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 168-169)
+    fn "「因为辰兄看起来像是要来真的。而且被这么大个的男人拉得这么近……很可怕啊……」"
 
 # game/day 12.rpy:1973
 translate chinese_simplified tatsuki12_729b70fb:
 
     # "By intimidating I mean it was exciting."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 171)
+    "心跳加快了……"
 
 # game/day 12.rpy:1979
 translate chinese_simplified tatsuki12_a42927bb:
 
     # ta "「Gahaha, my bad.{w} I thought it'd be a cute prank.{p} I'd be careful if Pa said that, though.\n He might be serious about it.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 174-177)
+    ta "「噶哈哈，抱歉啦。本来只是想来个可爱的恶作剧而已。不过如果是老爸的话可能会来真的，[博行]要注意一下哦。」"
 
 # game/day 12.rpy:1983
 translate chinese_simplified tatsuki12_63351d2b:
 
     # ta "「Seems like he'd do that with anyone.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 180-181)
+    ta "「实际上貌似有几个人已经被这样做了。」"
 
 # game/day 12.rpy:1984
 translate chinese_simplified tatsuki12_40235f7c:
 
     # "Tappei-san..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 183)
+    "辰平叔……"
 
 # game/day 12.rpy:1988
 translate chinese_simplified tatsuki12_d710b02e:
 
     # ta "「Maybe I should be serious about it, too...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 186-187)
+    ta "「不过既然这样的话我要不要也来下真的呢？」"
 
 # game/day 12.rpy:1989
 translate chinese_simplified tatsuki12_aa1b8e04:
 
     # fn "「Wait, you mean...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 189-190)
+    fn "「喂，难不成……」"
 
 # game/day 12.rpy:1995
 translate chinese_simplified tatsuki12_683a2128_1:
 
     # ta "「I'll kiss yooouuu.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 193-194)
+    ta "「来亲一下~」"
 
 # game/day 12.rpy:1996
 translate chinese_simplified tatsuki12_ee78de28:
 
     # "Once again, Tatsu-nii comes close to me.{p}Somehow, he's always chasing after me."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 196-197)
+    "辰兄再一次逼近过来。总觉得似乎一直被这样调戏呢……"
 
 # game/day 12.rpy:1997
 translate chinese_simplified tatsuki12_77530aa5:
 
     # ta "「I'm gonna kisschuuuu...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 200)
+    ta "「啾————叽——————～」"
 
 # game/day 12.rpy:2001
 translate chinese_simplified tatsuki12_9f3220a7:
 
     # cu "「Someone call me?」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 205-206)
+    cu "「在叫我吗？」"
 
 # game/day 12.rpy:2005
 translate chinese_simplified tatsuki12_0c607f4a:
 
     # ta "「NO!!!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 209-210)
+    ta "「没叫！！！！」"
 
 # game/day 12.rpy:2009
 translate chinese_simplified tatsuki12_25394515:
 
     # ni "「What were you two doing just now?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 213-214)
+    ni "「你们从刚刚开始就在干什么？」"
 
 # game/day 12.rpy:2015
 translate chinese_simplified tatsuki12_486c7f60:
 
     # "Tatsu-nii's fellow apprentice Nikaidou-kun was\nstanding in the doorway, looking coldly at us."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 217-219)
+    "突然发觉，和辰兄一样是见习手艺人的二阶堂，站在房间的门口处用冷冰冰的眼神看着这边。"
 
 # game/day 12.rpy:2016
 translate chinese_simplified tatsuki12_b170ce14:
 
     # ta "「Nikaidou, stop bothering us.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 221-222)
+    ta "「二阶堂，别打搅俺！」"
 
 # game/day 12.rpy:2020
 translate chinese_simplified tatsuki12_dc64e6e0:
 
     # ni "「Bothering you?{w} Don't you have that\n the wrong way around?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 225-226)
+    ni "「我打搅到你了？明明是你们在打搅我吧。"
 
 # game/day 12.rpy:2021
 translate chinese_simplified tatsuki12_002cd4fb:
 
     # ni "「I only saw a little,\n but didn't you two have a little quiz,\n start kissing, and not do one bit of work?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 226-228)
+    ni "「我打搅到你了？明明是你们在打搅我吧。如果没看错的话，你们不是在你问我答，就是在亲来亲去之类的，一点工作都没干不是吗？」"
 
 # game/day 12.rpy:2025
 translate chinese_simplified tatsuki12_5b7916cc:
 
     # ta "「As far as I'm concerned,\n talking with [fn] is an\n important bit of work.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 232-234)
+    ta "「和[博行]聊天，对于俺来说就是最重要的工作！」"
 
 # game/day 12.rpy:2026
 translate chinese_simplified tatsuki12_2d7e8f6e:
 
     # "Tatsu-nii, don't say that.{p}Let's just get back to work..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 236-237)
+    "辰兄，那不好吧。好好地去工作啊……"
 
 # game/day 12.rpy:2030
 translate chinese_simplified tatsuki12_044faa74:
 
     # ni "「What would the boss say if he saw that?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 240-241)
+    ni "「要是给辰平师傅看见了会被说什么呢」"
 
 # game/day 12.rpy:2034
 translate chinese_simplified tatsuki12_667e8d0a:
 
     # ni "「Anyway, [fn]-kun.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 244-245)
+    ni "「而且，还有你，[博行]君。」"
 
 # game/day 12.rpy:2035
 translate chinese_simplified tatsuki12_8cfbc8bf:
 
     # ni "「Before you got here,\n Things weren't this disordered.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 247-248)
+    ni "「你来这里之前，这里可没乱成这样啊。」"
 
 # game/day 12.rpy:2036
 translate chinese_simplified tatsuki12_4ac66051:
 
     # ni "「The boss seems to favor you, for some reason,\n but if he saw this,\n wouldn't he pin you as the source of it all?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 250-253)
+    ni "「虽然辰平师傅也不知道为什么对你特别宽容，但是发生这样的事，你就没有责任么？」"
 
 # game/day 12.rpy:2037
 translate chinese_simplified tatsuki12_cd82b741:
 
     # "That's possible...{p}I started talking without thinking,\nbecause I really wanted to talk to Tatsu-nii."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 255-257)
+    "确实是有……[咱]也在无意中聊起天来，因为[咱]也喜欢和辰兄聊天。"
 
 # game/day 12.rpy:2041
 translate chinese_simplified tatsuki12_a1aea7ab:
 
     # ta "「No, it's my fault.{p} If [fn]'s here, things are fun, and I get\n excited.{w} I just started talking, suddenly.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 261-264)
+    ta "「算了，都是俺的错……因为[博行]在我家，俺觉得很高兴，也很兴奋……才总是无意中跟他搭话。」"
 
 # game/day 12.rpy:2042
 translate chinese_simplified tatsuki12_002b9bb4:
 
     # "Tatsu-nii hung his head and dropped his shoulders.{p}Maybe I was imagining things,\nbut he seemed more apologetic than normal."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 266-267)
+    "辰兄两臂垂下做道歉状。不知道是不是错觉，总觉得这样的辰兄看起来比平时要矮上一些，很过意不去啊。"
 
 # game/day 12.rpy:2046
 translate chinese_simplified tatsuki12_77e4d6f8:
 
     # ni "「I don't care what you do,\n but I don't want it to get in the way of work.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 270-272)
+    ni "「你想怎样倒是无所谓，只是不想因你们而妨碍到大家的工作。」"
 
 # game/day 12.rpy:2047
 translate chinese_simplified tatsuki12_912732f0:
 
     # ni "「There's time after work for that sort of thing,\n so leave it until then, yeah?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 274-276)
+    ni "「你们有时在工作结束后鬼鬼祟祟地干了什么，和刚才聊的有什么关系吗？」"
 
 # game/day 12.rpy:2051
 translate chinese_simplified tatsuki12_44586fab:
 
     # ta "「No, it's...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 279-280)
+    ta "「不，那是……」"
 
 # game/day 12.rpy:2059
 translate chinese_simplified tatsuki12_1732d482:
 
     # tp "「Hey, who was the guy who planed this wood?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 289-290)
+    tp "「喂，负责刨木的是谁？」"
 
 # game/day 12.rpy:2060
 translate chinese_simplified tatsuki12_07d60d30:
 
     # "Looking over to the source of the commotion,\nI see Tappei-san storming in with a daemon face on."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 292-293)
+    "粗野的吼声传来，恶鬼一般的辰平叔，一边怒吼一边走了过来。"
 
 # game/day 12.rpy:2061
 translate chinese_simplified tatsuki12_0abfe926:
 
     # ni "「I did that.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 295-296)
+    ni "「是我。」"
 
 # game/day 12.rpy:2065
 translate chinese_simplified tatsuki12_6f21097d:
 
     # tp "「Dumbass!!」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 300-301)
+    tp "「你这个白痴！！」"
 
 # game/day 12.rpy:2070
 translate chinese_simplified tatsuki12_42de1d5d:
 
     # tp "「The bark's rough, and uneven.\n You did it without looking again, didn't you?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 310-311)
+    tp "「木材的表面怎么被你弄得凹凸不平的，你是逆着木头的纹理刨的吧？！"
 
 # game/day 12.rpy:2071
 translate chinese_simplified tatsuki12_7ae80046:
 
     # tp "「I'm always telling you to watch your work!\n How many times do I need to say it,\n before it sinks in?!」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 316-317)
+    tp "「都跟你说过多少遍要看着木材干活，说多少遍才记得住啊？！」"
 
 # game/day 12.rpy:2075
 translate chinese_simplified tatsuki12_0278ed3e:
 
     # ni "「I'm sorry.{w} How can I remember to do it?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 320-321)
+    ni "「抱歉。不过要怎样记住才行呢？」"
 
 # game/day 12.rpy:2079
 translate chinese_simplified tatsuki12_856352c8:
 
     # ni "「You tell me to 'see the trees',\n But I can't understand without better explanation.{p} Can you explain it more clearly?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 325-327)
+    ni "「只是说“要看着木材”，但是不具体地说明白要怎么看，还是完全不行呀。请详细地说明一下啊。」"
 
 # game/day 12.rpy:2080
 translate chinese_simplified tatsuki12_e2cafa39:
 
     # tp "「Shut up. This aint a theory.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 330)
+    tp "「啰嗦，别找借口！」"
 
 # game/day 12.rpy:2081
 translate chinese_simplified tatsuki12_997e0dde:
 
     # ni "「But if you don't explain, then I can't understand.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 332-333)
+    ni "「如果不能详细说明一下的话，我就不能信服你的观点。」"
 
 # game/day 12.rpy:2082
 translate chinese_simplified tatsuki12_c7146d49:
 
     # tp "「Stop arguing about every little thing\n and put a sock in it.{p} If you hate this that much, quit.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 336-338)
+    tp "「你个笨蛋，别胡说八道地狡辩了，闭嘴去干就行。不愿意的话就别干了。」"
 
 # game/day 12.rpy:2083
 translate chinese_simplified tatsuki12_dcad9462:
 
     # ni "「I won't quit.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 340-341)
+    ni "「我才不会不干的。」"
 
 # game/day 12.rpy:2087
 translate chinese_simplified tatsuki12_c2c73e8b:
 
     # cu "「Can't see the forest for the trees, eh?」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 344-345)
+    cu "「也就是只见木材,不见森林的意思吧。」"
 
 # game/day 12.rpy:2088
 translate chinese_simplified tatsuki12_147d76b3:
 
     # tp "「Wrong.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 347-348)
+    tp "「不对！」"
 
 # game/day 12.rpy:2096
 translate chinese_simplified tatsuki12_6c34582d:
 
     # "{size=+20}Wham!"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 351-356)
+    "[fbigbig]「呃啊……」"
 
 # game/day 12.rpy:2102
 translate chinese_simplified tatsuki12_0f1c0688:
 
     # "Whoa, that looked like it hurt...{p}He'd be better off keeping his mouth shut..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 358-359)
+    "看上去好痛……不多嘴不就好了……"
 
 # game/day 12.rpy:2106
 translate chinese_simplified tatsuki12_54417b83:
 
     # te "「There is...{w} something about a craftsman's work.\n It is not something that can be easily explained,{p} and there are parts that can't be told with words.」"
-    te ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 362-365)
+    te "「关于那个啊……其实手艺人的工作吧，并不是光靠嘴说就能干好的，也有一些口头上无法解释的东西……」"
 
 # game/day 12.rpy:2107
 translate chinese_simplified tatsuki12_9a5ae731:
 
     # te "「I think the boss wants to say that.{p} The trees remember their feelings over the years.」"
-    te ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 367-369)
+    te "「我想辰平师傅想说的是这个意思。要花几年时间，用心去领会树木的纹理。」"
 
 # game/day 12.rpy:2108
 translate chinese_simplified tatsuki12_26567684:
 
     # te "「No one can teach you this.\n You must ask the tree itself, and it will tell you.{p} Only then can craftsmen learn, by experience.」"
-    te ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 371-374)
+    te "「这些其实无法用语言说清楚，当你面对木材时，用心地领会学习，渐渐地，便会知道的。」"
 
 # game/day 12.rpy:2112
 translate chinese_simplified tatsuki12_97fdf708:
 
     # te "「That's what it means to 'see the trees'.\n Right, boss?」"
-    te ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 376-378)
+    te "「这就是你所说的“看着木材”吧，辰平师傅？」"
 
 # game/day 12.rpy:2116
 translate chinese_simplified tatsuki12_ddfd2d1d:
 
     # tp "「Tch,{w=.2} you smooth-talking...{p} Okay, but I'm not putting up with it next time.{p} I'm not saying this again.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 382-384)
+    tp "「切，淅沥哗啦说了这么多，真是油嘴滑舌的家伙……知道了吗，不准有下次。同样的事情别让我说这么多次！」"
 
 # game/day 12.rpy:2117
 translate chinese_simplified tatsuki12_f34775c7:
 
     # te "「Next time, we will place the planes better.{p} Let's do our best.」"
-    te ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 386-388)
+    te "「以后还会有许多使用刨子的时间呢，加油吧。」"
 
 # game/day 12.rpy:2121
 translate chinese_simplified tatsuki12_6b566c2c:
 
     # tp "「Keh,{w=.2} have it your way.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 391-392)
+    tp "「哼，随你们便吧。」"
 
 # game/day 12.rpy:2122
 translate chinese_simplified tatsuki12_110cd57d:
 
     # "Tappei-san had an angry look as he turned away,\nbut his tail was twitching from side to side."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 394-395)
+    "虽然辰平叔一脸严肃的转向了外面，但是尾巴的末端却在地面上劈踏劈踏地跳动着。"
 
 # game/day 12.rpy:2123
 translate chinese_simplified tatsuki12_c3d85490:
 
     # "Could Tappei-san be a tsundere at work!?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 397)
+    "难道辰平叔，在工作中傲娇了吗！？"
 
 # game/day 12.rpy:2129
 translate chinese_simplified tatsuki12_6ec1f4c9:
 
     # ta "「Good luck with that.{w} I'm pretty skilled,\n so there's nothing for me to learn.\n I know all about trees' feelings by now.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 402-404)
+    ta "「嘛~加油吧，我还算机灵所以没挨骂，对于木材的感悟也很快，木材的感受什么的，一早就了解了。」"
 
 # game/day 12.rpy:2133
 translate chinese_simplified tatsuki12_1015dbef:
 
     # ni "「What...? Don't you people get angry every day?{p} As for what just happened, you do exactly the same.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 407-409)
+    ni "「什么……你不是每天都在惹辰平师傅生气吗。刚刚的事情你又不是没有经历过，你不也和我半斤八两吗？！」"
 
 # game/day 12.rpy:2137
 translate chinese_simplified tatsuki12_4c652ed0:
 
     # ta "「What?! Say that again!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 412-413)
+    ta "「你说啥，有种再说一次看看！」"
 
 # game/day 12.rpy:2138
 translate chinese_simplified tatsuki12_a7f1e7bc:
 
     # "This is not good, both of them are getting mad.{p}They take each other too seriously..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 415-416)
+    "不好了，两个人工作的时候都很暴躁呢。而且互相斗嘴的时候，好像都很容易认真起来。"
 
 # game/day 12.rpy:2142
 translate chinese_simplified tatsuki12_0ea2a112:
 
     # ta "「...You're a guy who remembers work easily,\n but you fail because you get bored too easily.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 420-422)
+    ta "「就算你丫在工作方面学得很快，但却总是犯最白痴的错误。对着木材也领悟不到什么，根本好不到哪去！」"
 
 # game/day 12.rpy:2143
 translate chinese_simplified tatsuki12_a830f082:
 
     # ta "「All because you don't see the wood.\n That's your problem.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 420-422)
+    ta "「就算你丫在工作方面学得很快，但却总是犯最白痴的错误。对着木材也领悟不到什么，根本好不到哪去！」"
 
 # game/day 12.rpy:2147
 translate chinese_simplified tatsuki12_7ed5fcae:
 
     # ni "「Look, you've forgotten what\n you just said about work」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 425-426)
+    ni "「你看，至少我不会让你这样的白痴在工作方面压过我。」"
 
 # game/day 12.rpy:2151
 translate chinese_simplified tatsuki12_c7395876:
 
     # ta "「Ha, I don't want to hear that from such a klutz.{p} Though, despite that, you fold the toilet paper into\n triangles and get methodical in the weirdest of places.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 429-433)
+    ta "「哼，俺也不想被你这么二的家伙教训呢。明明都笨成这样了，居然还为了好看把厕所的纸折成三角形，净在这些无关紧要的地方吹毛求疵，真恶心……」"
 
 # game/day 12.rpy:2152
 translate chinese_simplified tatsuki12_0e9c579b:
 
     # ta "「It creeps me out.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 432-433)
+    ta "净在这些无关紧要的地方吹毛求疵，真恶心……」"
 
 # game/day 12.rpy:2156
 translate chinese_simplified tatsuki12_a422ba9c:
 
     # ni "「Hmph... While you're so skilled with your hands,\n you just shovel food into your mouth at meals.{p} Food always ends up all over you. Disgusting.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 435-438)
+    ni "「切，你还不总是笨手笨脚的，吃饭的时候嘴都是漏的。一顿饭下来身上全是米粒，看着就让人想笑。」"
 
 # game/day 12.rpy:2160
 translate chinese_simplified tatsuki12_89f4b5cc:
 
     # ta "「What was that...!?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 441-442)
+    ta "「靠！你这家伙……」"
 
 # game/day 12.rpy:2164
 translate chinese_simplified tatsuki12_d9c2cecd:
 
     # ni "「You can't let things go,\n can you? You started this...」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 445-446)
+    ni "「你说的话我可不能当做没听见，你自找的……」"
 
 # game/day 12.rpy:2168
 translate chinese_simplified tatsuki12_ecc6466f:
 
     # ta "{cps=0}(This has been abbreviated.)"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 450)
+    ta "（此处省略xxx字，如欲观看请点击鼠标）"
 
 # game/day 12.rpy:2172
 translate chinese_simplified tatsuki12_d4866120:
 
     # ni "「○▲□×◇」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 453-454)
+    ni "「○▲□×◇」"
 
 # game/day 12.rpy:2176
 translate chinese_simplified tatsuki12_f09bfa8f:
 
     # cu "「くぁｗせｄｒｆｔｇｙふじこｌｐ；＠：」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 458-459)
+    cu "「咯啊ｗ撒ｄｒｆｔｇｙ呼ｌｐ；＠：」"
 
 # game/day 12.rpy:2177
 translate chinese_simplified tatsuki12_f3a2e3f6:
 
     # "What should I do...{w} Those two aren't\nholding back.{w} Chuukichi-kun's panicking,\neven though he's not involved..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 461-463)
+    "怎么办啊……这两人似乎都没有停止的意思。明明跟忠吉没有关系，他却也在那慌里慌张的……"
 
 # game/day 12.rpy:2178
 translate chinese_simplified tatsuki12_28d4646b:
 
     # "I have to get Tetsuya-san to stop this,\nbefore it goes too far."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 465)
+    "在大打出手之前哲也先生能不能帮忙制止一下他们啊。"
 
 # game/day 12.rpy:2184
 translate chinese_simplified tatsuki12_d43ed80d:
 
     # "I look over to Tetsuya-san,\nand make an anxious face at him."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 471-472)
+    "[咱]看了看哲也先生，他正在用似乎很不安的表情盯着某个方向。"
 
 # game/day 12.rpy:2185
 translate chinese_simplified tatsuki12_d737db03:
 
     # "Oh... I see why he's staying quiet."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 474)
+    "啊啊这样啊，明白哲也先生沉默的原因了。"
 
 # game/day 12.rpy:2186
 translate chinese_simplified tatsuki12_c47d4c19:
 
     # "As the two keep fighting,\na giant shadow comes over them."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 476)
+    "一个巨大的影子正在向两人争吵的方向靠近……"
 
 # game/day 12.rpy:2194
 translate chinese_simplified tatsuki12_d1a84877:
 
     # tp "「Start learning about the trees' feelings,\n and cool your dumbass heads off, already!!」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 485-486)
+    tp "「让你们也体会一下木材挨尅的感受，顺带让你们的脑袋瓜子冷静一下！」"
 
 # game/day 12.rpy:2205
 translate chinese_simplified tatsuki12_b2066c4f:
 
     # "Well, that's settled...{p}Those fists seem bigger than normal right now.{p}Both Tatsu-nii and Nikaidou-kun are on the floor."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 491-493)
+    "搞定了……刚刚的拳头是特大号的。两个人趴下后就都起不来了。"
 
 # game/day 12.rpy:2206
 translate chinese_simplified tatsuki12_ed36bfcd:
 
     # "I should probably go over there."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 495)
+    "一切就这样结束了……"
 
 # game/day 12.rpy:2219
 translate chinese_simplified tatsuki12_fc76a5b0:
 
     # ta "「Guh, ow...{w=.2} those were some terrible eyes.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 511)
+    ta "「呜……好痛，刚刚真是惨死了……」"
 
 # game/day 12.rpy:2220
 translate chinese_simplified tatsuki12_61e7b4da:
 
     # "There's a large bump on Tatsu-nii's head,\nAnd it looks like it really hurts...\nis he all right?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 513-514)
+    "辰兄的头上肿起了一个很大的包，看起来十分痛的样子……没事吧。"
 
 # game/day 12.rpy:2221
 translate chinese_simplified tatsuki12_edaa1c2d:
 
     # fn "「Are you okay, Tatsu-nii?{p} Anything broken from getting hit so hard?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 517)
+    fn "「辰兄怎么样，　被那样打了有没有事？」"
 
 # game/day 12.rpy:2225
 translate chinese_simplified tatsuki12_a2031284:
 
     # ta "「No, it's no worse than usual.{p} Seems like Pa held back a bit.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 521-522)
+    ta "「啊啊，习以为常啦。而且老爸好像已经手下留情了。」"
 
 # game/day 12.rpy:2226
 translate chinese_simplified tatsuki12_b2fb21a1:
 
     # "It didn't look that way to me..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 524)
+    "[咱]倒是一点都没看出来……"
 
 # game/day 12.rpy:2230
 translate chinese_simplified tatsuki12_36d7384e:
 
     # ta "「Haah, the day's finally over.{p} So, how was it? You tired?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 529)
+    ta "「哎呀呀今天的工作总算结束了。"
 
 # game/day 12.rpy:2231
 translate chinese_simplified tatsuki12_8327d267:
 
     # fn "「Yeah, completely exhausted.{p} It's better than when I started, though.\n I think I could do a bit more.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 533-535)
+    fn "「恩，[咱]也精疲力尽了。不过比刚开始的时候要好多了，似乎还能再干一会。」"
 
 # game/day 12.rpy:2235
 translate chinese_simplified tatsuki12_c43061ae:
 
     # ta "「Hey hey hey, getting attached to your work, huh?{p} Hey, Pa! [fn] said he wants overtime!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 539-541)
+    ta "「欧欧欧，很努力不是嘛。老爸~，[博行]说想加班哦。」"
 
 # game/day 12.rpy:2236
 translate chinese_simplified tatsuki12_5f362b24:
 
     # fn "「Hold on, I never said that.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 544)
+    fn "「等等，没说啊！」"
 
 # game/day 12.rpy:2240
 translate chinese_simplified tatsuki12_5a107935:
 
     # ta "「What? You're still able to do work.{p} Aren't you going to put in some overtime?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 548-549)
+    ta "「什么嘛，还有很多要干的活没干完呢。不想加个班么？」"
 
 # game/day 12.rpy:2241
 translate chinese_simplified tatsuki12_2223b256:
 
     # ta "「Pa always closes up at five,\n but it's normal for overtime in this kind of work.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 552-553)
+    ta "「因为老爸固定会在5点下班，留下没干完的工作不好，主动加班什么的很正常啊……」"
 
 # game/day 12.rpy:2242
 translate chinese_simplified tatsuki12_cdd68c4d:
 
     # fn "「That's surprising.{p} I wonder why he doesn't do overtime?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 556-557)
+    fn "「真意外呢，辰平叔不加班啊。不过为什么呢？」"
 
 # game/day 12.rpy:2246
 translate chinese_simplified tatsuki12_e4a8d88d:
 
     # ta "「What could it be?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 561)
+    ta "「没什么可为什么的……」"
 
 # game/day 12.rpy:2247
 translate chinese_simplified tatsuki12_2978a06f:
 
     # ta "「Does he just not want to do it?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 564)
+    ta "「只是因为老爸不想干了而已……」"
 
 # game/day 12.rpy:2248
 translate chinese_simplified tatsuki12_b4a654b6:
 
     # "Is that the true Tappei-san...?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 566)
+    "不是吧……"
 
 # game/day 12.rpy:2252
 translate chinese_simplified tatsuki12_a826b044:
 
     # ta "「Well then, I've got some personal stuff to do,\n so just stay here, and make yourself at home.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 570-571)
+    ta "「好了~，今天我有事先走了，你随便放松一下吧~"
 
 # game/day 12.rpy:2253
 translate chinese_simplified tatsuki12_a3925792:
 
     # "Hmm, personal stuff...{p}wait, what?!{p}Tatsu-nii's not even inviting me along."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 573-575)
+    "唔，有事要干啊……厄，哎哎哎哎！？辰兄居然没邀请我一起……"
 
 # game/day 12.rpy:2254
 translate chinese_simplified tatsuki12_269d28d1:
 
     # "It's impossible for Tatsu-nii to just want\nto do errands by himself.{p}So why???"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 577-579)
+    "明明连工作上的杂七杂八事也想着带上我的辰兄，居然要自己一个人出去，不可能吧。怎么回事？？？"
 
 # game/day 12.rpy:2258
 translate chinese_simplified tatsuki12_de1d23c8:
 
     # ta "「Catch you later.{w} See you at work.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 582-583)
+    ta "「再见，记得明天还要来干活哦~」"
 
 # game/day 12.rpy:2262
 translate chinese_simplified tatsuki12_297a442a:
 
     # ta "Tatsu-nii said that as he left me there,\n and went off by himself."
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 586-587)
+    ta "辰兄道别后，就要丢下[咱]离开。"
 
 # game/day 12.rpy:2263
 translate chinese_simplified tatsuki12_31309ae5:
 
     # fn "「Wait, Tatsu-nii.{w} Where are you going?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 590)
+    fn "「等下辰兄。你要去哪里？」"
 
 # game/day 12.rpy:2264
 translate chinese_simplified tatsuki12_3ce4ccc2:
 
     # "I stopped him, in a panic, and it was effective...\nbut I asked him directly...{p}Maybe a little too directly."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 592-594)
+    "虽然[咱]很慌张地想挽留他一下，但是又不知道说什么好，于是问话直接便脱口而出了……会不会有点儿太直接了。"
 
 # game/day 12.rpy:2268
 translate chinese_simplified tatsuki12_259241b1:
 
     # ta "「Oh, I'm headed off to work on that airplane from\n before.{w} There aren't enough parts for it,\n So I'm going to buy them from town.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 598-600)
+    ta "「哦，之前不是一起去看过那个飞机吗，部件什么的还不够，上街去买些必要的材料。」"
 
 # game/day 12.rpy:2269
 translate chinese_simplified tatsuki12_3807fd9b:
 
     # fn "「You're going to get them from the\n mayor on the way, right?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 602-603)
+    fn "「那个飞机是村长给你的吧……」"
 
 # game/day 12.rpy:2273
 translate chinese_simplified tatsuki12_e18dd693:
 
     # ta "「Yeah, that's right.{p} I have to get them now,\n since I'm all dirty from work.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 607-608)
+    ta "「恩，是啊。看它满是灰尘的，所以我就要来了。"
 
 # game/day 12.rpy:2277
 translate chinese_simplified tatsuki12_d9acf2e2:
 
     # ta "「Anyway, if Uncle Shigure has got working parts,\n It won't matter how old the plane is.\n It should fly with no problems.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 610-614)
+    ta "「不过，从村长爷爷买来的要是新飞机就好了，那样就不必费劲修理这个陈年老货了，直接就可以“呼～”地在空中飞翔了呢。」"
 
 # game/day 12.rpy:2278
 translate chinese_simplified tatsuki12_b75549a4:
 
     # fn "「But if the mayor catches on,\n He might take the plane off you.{p} So all your hard work would come to nothing.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 617-619)
+    fn "「但是要是新飞机的话，恐怕村长他就直接坐上去了，不会转让给辰兄了吧。旧飞机要是能修好不也行嘛。」"
 
 # game/day 12.rpy:2282
 translate chinese_simplified tatsuki12_e64cbdba:
 
     # ta "「Still. If the blueprints are lost, and the body stays\n all worn out, then I can't do anything on it.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 622-623)
+    ta "「话虽如此……」"
 
 # game/day 12.rpy:2286
 translate chinese_simplified tatsuki12_cde081ce:
 
     # ta "「There's also the engine that needs repairing,\n so that'll keep me busy.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 627-629)
+    ta "「设计图也没有，机体破破烂烂的，俺不得不一边想象一边做，发动机什么的也要修，好麻烦啊……」"
 
 # game/day 12.rpy:2287
 translate chinese_simplified tatsuki12_efb0eb2f:
 
     # fn "「\"There's nothing more rewarding than working for\n free,\"{p} Or something like that, huh?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 632-633)
+    fn "「所谓的，便宜没好货嘛，就是这么一回事……」"
 
 # game/day 12.rpy:2291
 translate chinese_simplified tatsuki12_e7c6591f:
 
     # ta "「I've salvaged a lot of stuff,\n and I've got some money saved up for this.\n It's just a matter of doing it, now.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 637-638)
+    ta "「已经查了好多资料了，赚来的钱也是，几乎全都砸在上面了。」"
 
 # game/day 12.rpy:2295
 translate chinese_simplified tatsuki12_22f502f4:
 
     # ta "「I'm really lucky. Because it's got a lot of\n wooden parts, I can make those sections myself.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 642-644)
+    ta "「不过幸运的是，因为是很久以前的东西，所以有很多地方是用木头做出来的呢，那种地方自己想想办法的话，也是能做出来的。」"
 
 # game/day 12.rpy:2296
 translate chinese_simplified tatsuki12_423f7711:
 
     # fn "「Oh, you're able to do that?{p} It's awesome that you can\n fix up a plane like this.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 647-648)
+    fn "「唔，于是你打算做些自己力所能及的配件么。自己制作的飞机什么的，感觉好厉害哦。」"
 
 # game/day 12.rpy:2300
 translate chinese_simplified tatsuki12_b8bf9a3c:
 
     # ta "「You reckon? I'm not going too far off the plans.{p} I'm just going to fix it back to the way it was.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 652-653)
+    ta "「是么？没这么大不啦，只是在将原本就已经做好的东西复原而已~」"
 
 # game/day 12.rpy:2304
 translate chinese_simplified tatsuki12_c219901c:
 
     # ta "「Well, if I'm doing it all myself,\n there's no reason I can't tweak the plans a bit.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 657-658)
+    ta "「嘛，如果自己动手在飞机上随便加点东西，也可能会成为我的原创吧……」"
 
 # game/day 12.rpy:2305
 translate chinese_simplified tatsuki12_8bfbedb7:
 
     # ta "「The working parts I have are pretty modern,\n and I think they'll fit in the design properly.\n Plus, I can be picky about wood quality.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 661-663)
+    ta "「那些看上去似乎还能用的零件，也许可以换成更新的零件，对了！在材料上也可以这样更换啊~」"
 
 # game/day 12.rpy:2306
 translate chinese_simplified tatsuki12_886893a1:
 
     # "Tatsu-nii combined a bunch of\nsweeping hand gestures\nas he talked to me about the plane."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 665-666)
+    "辰兄很夸张地手舞足蹈着告诉[咱]关于飞机的事情。"
 
 # game/day 12.rpy:2307
 translate chinese_simplified tatsuki12_980f9340:
 
     # "When he puts his mind to something,\nit's like he never stopped being a kid."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 668-669)
+    "看来无论干什么都很拼命的个性，从小到现在都没变呢。"
 
 # game/day 12.rpy:2308
 translate chinese_simplified tatsuki12_c9e36157:
 
     # fn "「Right. I don't really get it, but it sounds\n like you're doing a lot of remodeling.{p} When it finally flies, you won't be afraid?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 672-674)
+    fn "「唔~，虽然不太明白，不过大致就是很多地方都进行了改造的意思吧。这样的东西在天上飞，不害怕吗？」"
 
 # game/day 12.rpy:2312
 translate chinese_simplified tatsuki12_b1b3b431:
 
     # ta "「I think I'll be too excited to be afraid.{p} Besides, this feeling of wanting to fly\n seems kinda instinctual, you know?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 678-680)
+    ta "「害怕什么俺倒没想过，比起那个，应该说是期待吧！而且飞上天的愿望，可能是源于本能吧。」"
 
 # game/day 12.rpy:2313
 translate chinese_simplified tatsuki12_391ffa72:
 
     # ta "「In ancient times, dragonmen flying seems...\n Right.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 683)
+    ta "「因为好像龙人在很久很久以前，就是能在天上飞的吧……」"
 
 # game/day 12.rpy:2314
 translate chinese_simplified tatsuki12_b42bd3a8:
 
     # fn "「Instinctual...{p} I think I know what you mean,\n about wanting to fly.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 686-687)
+    fn "「本能啊……不过不知道为什么，"
 
 # game/day 12.rpy:2318
 translate chinese_simplified tatsuki12_edd626fb:
 
     # ta "「I know, right? Flying is a man's dream!{p} People have always wanted to soar, high in the air.{p} Even you get that feeling.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 692-694)
+    ta "「是吧！天空可是男人的浪漫啊！！人可是在很久以前就很憧憬广阔的天空和大海哦。真不愧是[博行]，挺懂这一套的嘛。」"
 
 # game/day 12.rpy:2319
 translate chinese_simplified tatsuki12_6ce8b914:
 
     # "As Tatsu-nii was saying all that,\nhe put his arm around my shoulder\nand drew me closer."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 696-697)
+    "辰兄越说越兴奋，，手伸到[咱]的肩膀后面，然后拉向他的方向。"
 
 # game/day 12.rpy:2320
 translate chinese_simplified tatsuki12_30eff7f2:
 
     # "He didn't bend down, though,\nso he just ended up holding me under his arm."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 699)
+    "如果辰兄没有弯下腰的话，"
 
 # game/day 12.rpy:2321
 translate chinese_simplified tatsuki12_d581d934:
 
     # "Tatsu-nii kept talking as though in a trance.\nSitting down to match my height like old times,\nhe pulled me in and started ruffling my hair."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 702-704)
+    "辰兄在谈话时谈到忘我的时候，还是像以前一样自然地弯腰到和[咱]一般高的位置，然后搭上[咱]的肩膀。"
 
 # game/day 12.rpy:2322
 translate chinese_simplified tatsuki12_a4376979:
 
     # "I love him when he's like this."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 706)
+    "这种感觉真好……"
 
 # game/day 12.rpy:2323
 translate chinese_simplified tatsuki12_fc27a058:
 
     # ta "「I wonder what it feels like to fly.{p} It's probably an awesome feeling.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 709-710)
+    ta "「飞上天会是什么感觉呢。肯定很爽！」"
 
 # game/day 12.rpy:2324
 translate chinese_simplified tatsuki12_07d6c393:
 
     # fn "「The feeling of freedom,\n with nothing like traffic jams to get in the way.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 713-714)
+    fn "「哪里都能去呢，信号灯，路障等东西全都成了浮云。」"
 
 # game/day 12.rpy:2325
 translate chinese_simplified tatsuki12_832e7631:
 
     # ta "「[fn], you don't need to worry about a thing.{p} I'll make sure I finish it soon.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 717-718)
+    ta "「[博行]，不用担心。俺肯定会让你坐上去的。就在完成的第一时间~」"
 
 # game/day 12.rpy:2326
 translate chinese_simplified tatsuki12_8296e714:
 
     # "My hair was starting to get very disheveled as\nTatsu-nii kept talking."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 720-721)
+    "一边说着一边保持着搭肩动作的辰兄，不停地摸着[咱]的头。"
 
 # game/day 12.rpy:2327
 translate chinese_simplified tatsuki12_48c934cc:
 
     # "I could smell the bittersweet scent of\ndragonman sweat on him."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 723-724)
+    "工作结束后的辰兄的身体上，很强烈地散发着龙人独有的酸甜气味。"
 
 # game/day 12.rpy:2328
 translate chinese_simplified tatsuki12_b1278e6b:
 
     # fn "「Okay, I'm looking forward to it.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 727)
+    fn "「[咱]等着那一天。」"
 
 # game/day 12.rpy:2329
 translate chinese_simplified tatsuki12_c89742bb:
 
     # "Going into the sky with Tatsu-nii...{p}What kind of things would we see?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 729-730)
+    "和辰兄在天空上兜风啊……在那里的话看到的景色会是怎样的呢。"
 
 # game/day 12.rpy:2333
 translate chinese_simplified tatsuki12_491ab018:
 
     # ta "「That's good, I'm glad you are.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 734-735)
+    ta "「哟呼，先等着吧。虽然大概会花很长的时间，"
 
 # game/day 12.rpy:2334
 translate chinese_simplified tatsuki12_c2bcc5be:
 
     # ta "「When you're working on a hobby, you need to take\n time out, but I'll get it done for you, [fn].」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 738-739)
+    ta "「这个，一直都是你自己一个人在做？」"
 
 # game/day 12.rpy:2335
 translate chinese_simplified tatsuki12_a728f3e4:
 
     # fn "「Are you going to do the whole thing by yourself?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 786)
+    fn "好痛……"
 
 # game/day 12.rpy:2339
 translate chinese_simplified tatsuki12_5c1fc87a:
 
     # ta "「Yeah. That way, I won't bother anyone around me.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 744)
+    ta "「哦，不能因为我的兴趣而给周围人带来麻烦嘛~」"
 
 # game/day 12.rpy:2340
 translate chinese_simplified tatsuki12_56a2e187:
 
     # fn "「In that case, I'll help too!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 747)
+    fn "「那[咱]也来帮忙吧。」"
 
 # game/day 12.rpy:2344
 translate chinese_simplified tatsuki12_4acfcd10:
 
     # ta "「Come on, I'll be fine by myself.{p} You've already done enough, by coming back and\n working at my place. I can't let you do more...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 751-753)
+    ta "「想那些干嘛，我一个人也没问题的。而且难得你回到水乡村来，却在我家里干活，已经很忙活了，怎么还能让你来帮我做这些事呢。」"
 
 # game/day 12.rpy:2345
 translate chinese_simplified tatsuki12_e015c945:
 
     # fn "「Shouldn't you be a bit more careful?{p} If it's only for a short time, I think the guys\n at the Midoriya group would help you out.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 758-761)
+    fn "「还不是为辰兄着想嘛。我想如果找大家或翠屋组的人一起来帮忙的话，或许会更好。」"
 
 # game/day 12.rpy:2346
 translate chinese_simplified tatsuki12_05daa7c1:
 
     # fn "「Besides, you said you'd take me on the flight,\n so that means it's my hobby, too.{p} At least let me help. It should be fine.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 764-766)
+    fn "「能够坐飞机什么的，[咱]也超感兴趣啊。所以让[咱]帮忙吧。就这样定了~」"
 
 # game/day 12.rpy:2350
 translate chinese_simplified tatsuki12_7695bc38:
 
     # ta "「Maybe...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 770)
+    ta "「果然……」"
 
 # game/day 12.rpy:2351
 translate chinese_simplified tatsuki12_103ed58a:
 
     # fn "「No go?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 773)
+    fn "「不行？」"
 
 # game/day 12.rpy:2355
 translate chinese_simplified tatsuki12_d03ff992:
 
     # ta "「You're the best, you know.{p} There's no way I could refuse. Gahahahaha!{p} I'm counting on you, partner!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 777-779)
+    ta "「你真好。怎么可能不行，嘎哈哈哈哈。还请多多关照呢，搭档！」"
 
 # game/day 12.rpy:2359
 translate chinese_simplified tatsuki12_673dfe83:
 
     # "Tatsu-nii laughed, his mouth open wider than\nusual.{w} He was almost exploding with happiness, as\nhe clapped me on the back with an open hand."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 782-784)
+    "辰兄像以往那样，张大嘴巴笑了起来。看起来高兴过度了用力拍打着[咱]的背。"
 
 # game/day 12.rpy:2360
 translate chinese_simplified tatsuki12_5a93a118:
 
     # "Ouch..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 786)
+    "好痛……"
 
 # game/day 12.rpy:2361
 translate chinese_simplified tatsuki12_040e8972:
 
     # "I was blown easily off my feet,\nand rolled across the ground like\nleaves in the wind."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 788-789)
+    "[咱]自然而然的被拍飞了出去，像树叶那样在地面上滚啊滚啊滚。"
 
 # game/day 12.rpy:2365
 translate chinese_simplified tatsuki12_113b422e:
 
     # ta "「Oh. {w=.2}Whoops...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 793)
+    ta "「啊，不好……」"
 
 # game/day 12.rpy:2369
 translate chinese_simplified tatsuki12_0dc245b4:
 
     # ta "「My bad.\n I only meant to give you a light pat.{p} I guess I overdid it, huh?{w} Gahaha!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 797-799)
+    ta "「抱歉，本来只是想轻轻地在你背上拍一下而已。失手了啊？　噶哈哈……」"
 
 # game/day 12.rpy:2370
 translate chinese_simplified tatsuki12_dd0a6d1c:
 
     # fn "「'Gahaha' my ass, this isn't funny.{p} How'd I go that far with just a pat?{p} I can't be that light.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 802-803)
+    fn "「‘噶哈哈’什么啊，这不好笑啊。为什么[咱]一说帮忙，就要被你打飞啊。"
 
 # game/day 12.rpy:2371
 translate chinese_simplified tatsuki12_65d17497:
 
     # ta "「Hey, maybe you are.{p} Just eat more meat.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 807-808)
+    ta "「是你太轻了吧。所以啦，多吃点肉、吃肉！」"
 
 # game/day 12.rpy:2372
 translate chinese_simplified tatsuki12_557745e8:
 
     # fn "「Tatsu-nii, you're probably the\n only one who'd say that...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 811-812)
+    fn "「辰兄明明也没像你自己说的那样，吃那么多的肉……」"
 
 # game/day 12.rpy:2376
 translate chinese_simplified tatsuki12_f4b6cad3:
 
     # ta "「Heh, that's because I'm already big enough.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 816-817)
+    ta "「哼，俺已经长的够大了，所以不用吃了哦！」"
 
 # game/day 12.rpy:2377
 translate chinese_simplified tatsuki12_56893614:
 
     # "His excuses are so childish.\nThey really haven't changed at all."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 819-820)
+    "这种辩解方式怎么听都像是小孩子在怄气，看来思考方式和小时候一样，没怎么变呢。"
 
 # game/day 12.rpy:2378
 translate chinese_simplified tatsuki12_9a9e2b18:
 
     # "I always knew he'd grow up to be a craftsman,\nBut I never thought he'd want to fly.{p}I wonder how long he's been thinking about it."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 822-824)
+    "虽然很久以前就听说过，他想要成为手艺人，但是想在天上飞的什么的，倒是从没听说过。是在什么时候开始有这种想法的呢。"
 
 # game/day 12.rpy:2379
 translate chinese_simplified tatsuki12_8cdf1bcb:
 
     # fn "「Hey, Tatsu-nii.{w} When did you start thinking\n about flying?{p} Was it a dream that just got bigger, over time?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 827-828)
+    fn "「呐，辰兄。你为什么会想到飞上天呢？难道是因为想飞的愿望太过强烈了吗？」"
 
 # game/day 12.rpy:2383
 translate chinese_simplified tatsuki12_6c26e8fd:
 
     # ta "「Yeah, there's that.{p} But the biggest reason is...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 832)
+    ta "「那也算是其中之一吧。最主要的是……」"
 
 # game/day 12.rpy:2384
 translate chinese_simplified tatsuki12_6b90f356:
 
     # ta "「[fn].」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 835)
+    ta "「[博行]」"
 
 # game/day 12.rpy:2385
 translate chinese_simplified tatsuki12_f5a703a0:
 
     # "Tatsu-nii looked serious as he turned to face me."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 837-838)
+    "辰兄用认真的表情直勾勾地……盯着[咱]的眼睛。"
 
 # game/day 12.rpy:2386
 translate chinese_simplified tatsuki12_36764e8a:
 
     # ta "「Don't you remember?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 842)
+    ta "「不记得了吗？」"
 
 # game/day 12.rpy:2387
 translate chinese_simplified tatsuki12_18393a7c:
 
     # "This wasn't the usual Tatsu-nii,\nthe one who'd always joke around,\nmake clumsy mistakes, or laugh too much."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 844-846)
+    "刚刚快乐的气氛，因为[咱]失败的问题消失的无影无踪，原本气迈豪爽的辰兄似乎一下子消失了，表情严肃的张着嘴，一副欲言又止的样子。"
 
 # game/day 12.rpy:2388
 translate chinese_simplified tatsuki12_ad243b85:
 
     # "As I look at the new Tatsu-nii,\nit feels like I'm being suffocated."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 848-849)
+    "看着这样的辰兄，不知道为什么突然有股难过的感觉涌了上来。"
 
 # game/day 12.rpy:2389
 translate chinese_simplified tatsuki12_83e70fa4:
 
     # "Why is that?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 850)
+    "到底怎么了？"
 
 # game/day 12.rpy:2393
 translate chinese_simplified tatsuki12_25a69bc5:
 
     # ta "「The 29th of each month is Meat Day!{p} Meat's on sale at supermarkets,\n So we can eat a whole bunch!!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 854-856)
+    ta "「每个月的29日是肉之日啊。超市的肉会变得很便宜，多吃点肉变大个吧！！」"
 
 # game/day 12.rpy:2394
 translate chinese_simplified tatsuki12_091b11b3:
 
     # ta "「Gah!{w} But not at Minasato's market!!!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 859)
+    ta "「虽然水乡村没超市！！！！」"
 
 # game/day 12.rpy:2395
 translate chinese_simplified tatsuki12_6252366d:
 
     # fn "「Huh!?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 862)
+    fn "「厄厄！？」"
 
 # game/day 12.rpy:2396
 translate chinese_simplified tatsuki12_d81df2d1:
 
     # "Before I could even ask that,\nTatsu-nii punched his hand and cried out.{p}What is this?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 864-866)
+    "在回答[咱]之后，狠狠地朝天空挥了一拳，这算什么啊……"
 
 # game/day 12.rpy:2400
 translate chinese_simplified tatsuki12_d64fd1b5:
 
     # ta "「Oh, it's nothing.{p} Just that you should eat more.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 870-871)
+    ta "「没事啦。仅仅是要多吃点儿的意思啦。」"
 
 # game/day 12.rpy:2401
 translate chinese_simplified tatsuki12_f23f7ce1:
 
     # "Oh, really..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 873)
+    "是这样么……"
 
 # game/day 12.rpy:2402
 translate chinese_simplified tatsuki12_ab93c543:
 
     # "Could it be that you're changing the subject...?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 875)
+    "好像有什么重要的事情被回避掉了……"
 
 # game/day 12.rpy:2406
 translate chinese_simplified tatsuki12_ae23eb5b:
 
     # ta "「All right, from today on you'll be helping me,\n partner.{w} The only thing I need to do today is a\n bit of shopping, so you can just take it easy.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 878-881)
+    ta "「这样的话~下次便要你来好好帮忙啦。今天就先不用了，回去好好休息一下吧。唯一要办的事也只有买东西而已，没别的要干的啦。」"
 
 # game/day 12.rpy:2407
 translate chinese_simplified tatsuki12_b57b7219:
 
     # "Aren't you going to take me with you?{p}Maybe it really is nothing..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 883-884)
+    "阿勒，结果还是不带我去吗？怎么办好呢……"
 
 # game/day 12.rpy:2422
 translate chinese_simplified tatsuki12_force_ea897a2a:
 
     # fn "「Hey, I'll come with you.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 903)
+    fn "「呐，也带上[咱]吧。」"
 
 # game/day 12.rpy:2426
 translate chinese_simplified tatsuki12_force_b125dc76:
 
     # ta "「You'll be bored if you come.\n Shopping isn't anything exciting.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 908-909)
+    ta "「来了也没什么事做啊，只是去买东西而已，又不是什么大事……」"
 
 # game/day 12.rpy:2427
 translate chinese_simplified tatsuki12_force_c9ed357e:
 
     # fn "「No way, I wanna come with you.{p} I don't wanna be left here by myself.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 912-913)
+    fn "「不要不要，[咱]想和辰兄一起去。不许说不！」"
 
 # game/day 12.rpy:2431
 translate chinese_simplified tatsuki12_force_59e25f76:
 
     # ta "「C'mon, don't whine like that...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 917)
+    ta "「别‘不要不要’的！」"
 
 # game/day 12.rpy:2432
 translate chinese_simplified tatsuki12_force_2a457687:
 
     # fn "「I'll keep it up until you let me come.{p} Take me!{w=.2} Take me!{w=.2} Take me!{w=.2} Take me!{w=.2} C'mon!{w=.2} Take me!{w=.2}\n Take me!{w=.2} Take me!{w=.2} Take me!{w=.2}」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 920-922)
+    fn "「不要，在你说‘要’之前，[咱]不会停的。不要！不要！不要！不要！没用的！不要！不要！不要！不要！」"
 
 # game/day 12.rpy:2436
 translate chinese_simplified tatsuki12_force_fa326c98:
 
     # ta "「Gah, shut up already!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 927)
+    ta "「啊~~，吵死了！」"
 
 # game/day 12.rpy:2440
 translate chinese_simplified tatsuki12_force_5cab53de:
 
     # ta "「Okay, okay, you can come.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 931)
+    ta "「好吧好吧，带上你总行了吧……」"
 
 # game/day 12.rpy:2441
 translate chinese_simplified tatsuki12_force_425fa17a:
 
     # fn "「Hooray!」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 934)
+    fn "「耶~」"
 
 # game/day 12.rpy:2445
 translate chinese_simplified tatsuki12_force_1f02d0a1:
 
     # ta "「There's really no other way, is there.{p} I already said this won't be anything special...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 939-940)
+    ta "「真拿你没办法，都说了没什么大事了……」"
 
 # game/day 12.rpy:2446
 translate chinese_simplified tatsuki12_force_390bb347:
 
     # fn "「Ehehe.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 943)
+    fn "「嘿嘿嘿~」"
 
 # game/day 12.rpy:2450
 translate chinese_simplified tatsuki12_force_1c76c939:
 
     # ta "「Let's get going, then.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 947)
+    ta "「那就走吧。」"
 
 # game/day 12.rpy:2451
 translate chinese_simplified tatsuki12_force_6c37ff00:
 
     # fn "「Oh, hold up.\n I need to change after sweating so much.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 950-951)
+    fn "「啊，等一下，汗水粘乎乎的，[咱]先去换件T恤穿。」"
 
 # game/day 12.rpy:2452
 translate chinese_simplified tatsuki12_force_349243b0:
 
     # "Whew, it feels good to\nchange out of sweaty clothes."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 953)
+    "呼~，出汗了之后脱衣服，凉丝丝的感觉，真不错啊。"
 
 # game/day 12.rpy:2453
 translate chinese_simplified tatsuki12_force_d4facf65:
 
     # ta "「Now that you mention it,\n I guess I'll change, too.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 956)
+    ta "「也是，那俺也换衣服吧」"
 
 # game/day 12.rpy:2457
 translate chinese_simplified tatsuki12_force_c75f86d4:
 
     # fn "「...Why are you stripping from the bottom up?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 962)
+    fn "「……你怎么连下面都脱了？」"
 
 # game/day 12.rpy:2461
 translate chinese_simplified tatsuki12_force_893b2c5a:
 
     # ta "「Oh, I was thinking of changing, too.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 966)
+    ta "「厄，俺只是单纯的换衣服而已……」"
 
 # game/day 12.rpy:2468
 translate chinese_simplified tatsuki12_force_c0125067:
 
     # ni "「Why are you two stripping...?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 974)
+    ni "「你们把衣服脱了到底想干什么……」"
 
 # game/day 12.rpy:2472
 translate chinese_simplified tatsuki12_force_9a772cc2:
 
     # ta "「We're in the middle of changing. Don't look.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 978)
+    ta "「现场换衣中，别偷看。」"
 
 # game/day 12.rpy:2476
 translate chinese_simplified tatsuki12_force_e5dce41c:
 
     # ni "「I don't really get why, but if you don't want to\n be seen, shouldn't you be changing in your room,\n and not out here?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 982-984)
+    ni "「什么现场的就不打听了，不想被偷窥的话就别在起居室换，到自己的房间去换衣服怎样。」"
 
 # game/day 12.rpy:2480
 translate chinese_simplified tatsuki12_force_626f27fd:
 
     # ta "「Hey, stop staring at [fn] like that.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 988)
+    ta "「喂，你！盯着[博行]看嘛呢！」"
 
 # game/day 12.rpy:2484
 translate chinese_simplified tatsuki12_force_47ba3cec:
 
     # ni "「As I said, changing elsewhere would be better.{p} You have your own room, after all.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 992-994)
+    ni "「所以说，到别的地方换衣服不就行了吗。你也有你自己的房间啊。反正也没看到‘重要部分’」"
 
 # game/day 12.rpy:2485
 translate chinese_simplified tatsuki12_force_75ae3e97:
 
     # ni "「Besides, it's not like I'm making\n eyes at your precious [fn]-kun.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 998-999)
+    ni "「那不就是在看吗！不知道这家伙会干什么，"
 
 # game/day 12.rpy:2489
 translate chinese_simplified tatsuki12_force_00f62691:
 
     # ta "「So you ARE looking!{p} [fn], we don't know what he's gonna do.\n You'd better get behind me.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1004)
+    ta "「说了没在看了嘛！」"
 
 # game/day 12.rpy:2493
 translate chinese_simplified tatsuki12_force_85942d25:
 
     # ni "「I just said I wasn't looking at him!」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1008)
+    ni "「……你们俩不是一直都很要好的么」"
 
 # game/day 12.rpy:2497
 translate chinese_simplified tatsuki12_force_537d8697:
 
     # cu "「...The two of 'em get along so well.」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1012)
+    cu "「谁跟谁啊。俺怎么可能和这家伙合得来？！」"
 
 # game/day 12.rpy:2501
 translate chinese_simplified tatsuki12_force_623c0e25:
 
     # ta "「What.{w} No one could ever get along with this guy.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1016)
+    ta "「就是。从哪里看才能得出你那鬼结论？！」"
 
 # game/day 12.rpy:2505
 translate chinese_simplified tatsuki12_force_7e205b90:
 
     # ni "「Give me a break.{p} How can you possibly see things like that?」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1020)
+    ni "「要不是工作关系的话，连他的名字都不会问！」"
 
 # game/day 12.rpy:2509
 translate chinese_simplified tatsuki12_force_2ff47c14:
 
     # ta "「If we didn't have to work together, I'd probably\n never remember your name.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1024)
+    ta "「不是同一个组的话，连话都不会说。」"
 
 # game/day 12.rpy:2513
 translate chinese_simplified tatsuki12_force_edcf294f:
 
     # ni "「If we didn't have to work together, I'd probably\n never speak to you in the first place.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1028)
+    ni "「就是。俺讨厌爱咬文嚼字的家伙。」"
 
 # game/day 12.rpy:2517
 translate chinese_simplified tatsuki12_force_4c7035e5:
 
     # ta "「Totally.{w} I hate argumentative know-it-alls.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1032-1033)
+    ta "「就是，对于粗野的生物生理和心理上各种无法接受。」"
 
 # game/day 12.rpy:2521
 translate chinese_simplified tatsuki12_force_8a9a932b:
 
     # ni "「Right. I could never accept people who are\n so rude and unrefined.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1036)
+    ni "「意见突然一致了呢……」"
 
 # game/day 12.rpy:2522
 translate chinese_simplified tatsuki12_force_96f762d4:
 
     # ta "「So we agree.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1039)
+    ta "「是啊。」"
 
 # game/day 12.rpy:2523
 translate chinese_simplified tatsuki12_force_1c0696c0:
 
     # ni "「Indeed.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1041)
+    ni "要不怎么说看上去其实还挺要好的……"
 
 # game/day 12.rpy:2524
 translate chinese_simplified tatsuki12_force_b0fd2d16:
 
     # "Looks like you two are getting on well enough..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1045-1047)
+    "「不过，大哥的身体光溜溜的没长毛呢。我还是第一次看见赤裸的人类的身体呢。二阶堂盯着看也是这原因吧？」"
 
 # game/day 12.rpy:2528
 translate chinese_simplified tatsuki12_force_f0e24447:
 
     # cu "「Anyway, Aniki's body is so smooth. No fur at all!{p} This is th' first time I've seen a human's body.{p} Nikaidou-san, you had a good look, didn't ya?」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1051)
+    cu "「俺也是光溜溜的啊！」"
 
 # game/day 12.rpy:2532
 translate chinese_simplified tatsuki12_force_cff215e1:
 
     # ta "「Hey, I'm smooth, too.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1055)
+    ta "「我都说我没有盯着看了。」"
 
 # game/day 12.rpy:2536
 translate chinese_simplified tatsuki12_force_548ac7c4:
 
     # ni "「I wasn't looking.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1059-1060)
+    ni "「（人类的身体长的真不可思议呢，不知道为什么有点心跳的感觉。）」"
 
 # game/day 12.rpy:2540
 translate chinese_simplified tatsuki12_force_ff78736c:
 
     # cu "「(Humans 've got such strange bodies.\n 'S kinda exciting.)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1063-1064)
+    cu "「说起来，水乡村附近没什么人类居住呢。果然很少见吗？」"
 
 # game/day 12.rpy:2541
 translate chinese_simplified tatsuki12_force_51f9faaf:
 
     # fn "「Come to mention it, I don't remember\n seeing many humans around Minasato.{p} Am I that unusual?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1068)
+    fn "「这里的话估计只有雷门的老爷子吧……」"
 
 # game/day 12.rpy:2542
 translate chinese_simplified tatsuki12_force_4491c5da:
 
     # ta "「Well, there's the old man at Raimon...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1072-1074)
+    ta "「虽然偶尔看到过，不过衣服里是怎样的也只能想象而已。没毛的身体真干净呢。」"
 
 # game/day 12.rpy:2546
 translate chinese_simplified tatsuki12_force_208463bc:
 
     # cu "「Ya see one around now and then, but you haveta\n imagine what they look like wit' no clothes.{p} Furless bodies look pretty.」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1077)
+    cu "「是这样吗？"
 
 # game/day 12.rpy:2547
 translate chinese_simplified tatsuki12_force_040eacb8:
 
     # fn "「Is that so?{p} I'm used to seeing it,\n so I wouldn't really know.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1082)
+    fn "「你！　对[博行]出手的话可别怪俺不客气的！」"
 
 # game/day 12.rpy:2551
 translate chinese_simplified tatsuki12_force_b1d243e3:
 
     # ta "「Hey!{w} Touch [fn],\n and I'll make you regret it!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1086)
+    ta "「（不过，对男人心跳什么的可不行啊……）」"
 
 # game/day 12.rpy:2555
 translate chinese_simplified tatsuki12_force_fc0370e1:
 
     # cu "「(Still, 'm not supposed to get\n all excited over another dude...)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1090-1092)
+    cu "「要说美丽的话应该是我吧。看看我的身体吧。作为我的祖先的马，在上古时代一定也被称为美丽的生物。」"
 
 # game/day 12.rpy:2559
 translate chinese_simplified tatsuki12_force_cd957e76:
 
     # ni "「If you want beauty, look at me.{p} I'm descended from a long line of some\n of the most striking horses.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1095)
+    ni "「虽然[博行]君的看起来也还好，不过在跟我一比，那可就……」"
 
 # game/day 12.rpy:2560
 translate chinese_simplified tatsuki12_force_b58e365a:
 
     # ni "「[fn]-kun's not that bad,\n but he just can't compare to me.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1099-1100)
+    ni "「哼，你那个花瓶似的身体算个毛？忠，你也让俺们看下。」"
 
 # game/day 12.rpy:2564
 translate chinese_simplified tatsuki12_force_7baeb378:
 
     # ta "「Ha! You mean that spongy body of yours?{p} Hey, Chuu, {w=.2}show us yours.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1103)
+    ta "「（同为男人这样太奇怪了……厄？）」"
 
 # game/day 12.rpy:2565
 translate chinese_simplified tatsuki12_force_1b50fff8:
 
     # cu "「（'S weird for this to be between guys...{w} {nw}"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1107-1109)
+    cu "「那可不行啊。只是因为同为男人就随便乱脱，给人看裸体什么的……不行啊。那样的……」"
 
 # game/day 12.rpy:2567
 translate chinese_simplified tatsuki12_force_ac6d51df:
 
     # extend "Huh?)」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1113)
+    extend "「怎么了这家伙？」"
 
 # game/day 12.rpy:2571
 translate chinese_simplified tatsuki12_force_88bdd74d:
 
     # cu "「Uhh, I can't do that.{p} I can't strip naked and show myself ta other guys.{p} I just can't...」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1115)
+    cu "忠吉以前发生过什么事情么？"
 
 # game/day 12.rpy:2575
 translate chinese_simplified tatsuki12_force_bdf9a223:
 
     # ta "「Hey, what's up with you?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1119-1120)
+    ta "「啊，现在可不是干这种事的时候。赶紧换衣服要去买东西啊。」"
 
 # game/day 12.rpy:2576
 translate chinese_simplified tatsuki12_force_ca3eeaa1:
 
     # "Does Chuukichi-kun have something to hide...?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1126-1127)
+    "「哇~，辰兄的便服还是第一次看见呢。厄，为什么还是工作服？」"
 
 # game/day 12.rpy:2580
 translate chinese_simplified tatsuki12_force_49a33f6a:
 
     # ta "「Now's not the time for this.{p} I've got to hurry up and finish my stuff.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1131)
+    ta "「俺，只有这一件啊"
 
 # game/day 12.rpy:2585
 translate chinese_simplified tatsuki12_force_af7d18da:
 
     # fn "「Whoa, Tatsu-nii, that's the first time I've seen\n you in plain clothes.{p} Wait, why are you wearing the work uniform?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1134)
+    fn "「说起来去玩的时候也是一样的服装呢……」"
 
 # game/day 12.rpy:2589
 translate chinese_simplified tatsuki12_force_79faf7fc:
 
     # ta "「I don't have any others.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1138-1139)
+    ta "「不过，俺的工作服可是背后印有辰字的独一无二的衣服哦。为了换洗所以还有好几件呢」"
 
 # game/day 12.rpy:2590
 translate chinese_simplified tatsuki12_force_2399daeb:
 
     # fn "「That reminds me, you hung out in\n those same clothes, too...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1141)
+    fn "下次工钱到手的话，买件衣服给他吧……"
 
 # game/day 12.rpy:2594
 translate chinese_simplified tatsuki12_force_3cb9e940:
 
     # ta "「Well, I've got a custom one with the dragon kanji\n on the back.{p} It's easy to wash it, too.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1145-1146)
+    ta "「没空陪你们……我和哲先生有约，先告辞了。」"
 
 # game/day 12.rpy:2595
 translate chinese_simplified tatsuki12_force_a98be1b9:
 
     # "Next payday I've got to\nget him some more clothes..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1153)
+    "「好吧，俺们也走吧。」"
 
 # game/day 12.rpy:2599
 translate chinese_simplified tatsuki12_force_fb241250:
 
     # ni "「I can't come... I made a promise to Tetsu-san,\n so you'll have to excuse me.」"
-    ni ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1156)
+    ni "「恩，也对。拜拜忠吉。」"
 
 # game/day 12.rpy:2604
 translate chinese_simplified tatsuki12_force_0d352b44:
 
     # ta "「Nuts, we'd better get going, too.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1159)
+    ta "「再见。吃饭的时候会回来的。」"
 
 # game/day 12.rpy:2605
 translate chinese_simplified tatsuki12_force_1764cafb:
 
     # fn "「Yeah, okay.{w} Bye, Chuukichi-kun.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1165)
+    fn "「二位走好。」"
 
 # game/day 12.rpy:2606
 translate chinese_simplified tatsuki12_force_b68ea971:
 
     # ta "「Later, Chuu.{w} We'll be back by dinner.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1169)
+    ta "「大家都走了呢……」"
 
 # game/day 12.rpy:2611
 translate chinese_simplified tatsuki12_force_d6e22903:
 
     # cu "「Take care.」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1173)
+    cu "「（果然大哥和大少爷是那个了吗？）」"
 
 # game/day 12.rpy:2615
 translate chinese_simplified tatsuki12_force_b5a47b9b:
 
     # cu "「Man, everyone left...」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1177)
+    cu "「（不行啊，那样的男人之间什么的。我该怎么办……）」"
 
 # game/day 12.rpy:2619
 translate chinese_simplified tatsuki12_force_97e55ae7:
 
     # cu "「(Maybe Aniki and Young Master are together,\n after all?)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1181)
+    cu "「（不过，只剩下我一个人的话就太寂寞了。）」"
 
 # game/day 12.rpy:2623
 translate chinese_simplified tatsuki12_force_69e39d3e:
 
     # cu "「(They're both dudes, so no way.{p} If I tried somethin'...)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1184)
+    cu "「（二阶堂和哲先生也出门了，只有我……）」"
 
 # game/day 12.rpy:2627
 translate chinese_simplified tatsuki12_force_33f81961:
 
     # cu "「(Man, 's so lonely here...)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1189)
+    cu "「忠，你现在很闲吗？」"
 
 # game/day 12.rpy:2628
 translate chinese_simplified tatsuki12_force_5fba8746:
 
     # cu "「(Looks like Nikaidou-san and Tetsuya-san 've both\n gone out. Just me, then...)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1193)
+    cu "「恩，是的。」"
 
 # game/day 12.rpy:2632
 translate chinese_simplified tatsuki12_force_1d0656c7:
 
     # tp "「Chuu, you free right now?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1196)
+    tp "「这样啊……」"
 
 # game/day 12.rpy:2636
 translate chinese_simplified tatsuki12_force_500e2036:
 
     # cu "「Yep, I am.」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1200)
+    cu "「（难不成是……）」"
 
 # game/day 12.rpy:2637
 translate chinese_simplified tatsuki12_force_c9c5f05c:
 
     # tp "「I see...」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1204-1205)
+    tp "「（不，不行啊。老爷可是床上杀手啊。我肯定会被弄坏的）」"
 
 # game/day 12.rpy:2641
 translate chinese_simplified tatsuki12_force_ed902975:
 
     # cu "「(Could dis be...)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1209-1210)
+    cu "「（不可能不可能，不可能的啦。明明就有体格差距。可是会裂开的啊）」"
 
 # game/day 12.rpy:2645
 translate chinese_simplified tatsuki12_force_e61ba306:
 
     # cu "「(N-no way.{w} Not even if Master was th'\n Emperor of the Night.{p} I'm totally gonna be made into a toy.)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1214)
+    cu "「（不，不过，稍微……一下的话应该可以吧……开玩笑啊……）」"
 
 # game/day 12.rpy:2649
 translate chinese_simplified tatsuki12_force_d105bd7a:
 
     # cu "「There's no way, it's impossible.{p} Look at the difference in body size!{p} 'll be torn apart!)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1219-1220)
+    cu "「你！明明是个见习生，却闲得很啊！！去刨你的木头去！」"
 
 # game/day 12.rpy:2653
 translate chinese_simplified tatsuki12_force_fde64793:
 
     # cu "「(B-but maybe I should try it...{w} Right?)」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1223-1225)
+    cu "「见习的家伙除了吃饭，洗澡，睡觉之外，一直都要工作！这是常识！！别偷懒！！！！」"
 
 # game/day 12.rpy:2657
 translate chinese_simplified tatsuki12_force_10700c89:
 
     # tp "「Dumbass, don't think an apprentice like you\n can have time to spare!!{p} Go polish the blade of the wood plane!」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1229)
+    tp "「哈哈哈哈，是的说。现在马上就去干。」"
 
 # game/day 12.rpy:2658
 translate chinese_simplified tatsuki12_force_9d15f57d:
 
     # tp "「Apprentices are always working, at meals, in the\n bath, right up until bedtime!{p} Don't you act all spoiled on me!!!」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1234)
+    tp "「嗯，去吧。」"
 
 # game/day 12.rpy:2662
 translate chinese_simplified tatsuki12_force_d34d0629:
 
     # cu "「Y-y-yes, of course!{w} I'm going right now!」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1240)
+    cu "「哈哈哈，心情很诡异滴说……」"
 
 # game/day 12.rpy:2666
 translate chinese_simplified tatsuki12_force_68d57c00:
 
     # tp "「Keh, idjit.{w} {nw}"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1243-1244)
+    tp "「思想正常的话怎么可能会这样呢，我在想些什么啊……」"
 
 # game/day 12.rpy:2668
 translate chinese_simplified tatsuki12_force_3a994437:
 
     # extend " Hic!」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1248)
+    extend "「我还是想的太歪了呢☆」"
 
 # game/day 12.rpy:2673
 translate chinese_simplified tatsuki12_force_47c5b062:
 
     # cu "「Haah, he's in a bad mood...」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1240)
+    cu "「哈哈哈，心情很诡异滴说……」"
 
 # game/day 12.rpy:2674
 translate chinese_simplified tatsuki12_force_92b26e62:
 
     # cu "「Now I think about it, he's not normally like that.」"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1243-1244)
+    cu "「思想正常的话怎么可能会这样呢，我在想些什么啊……」"
 
 # game/day 12.rpy:2678
 translate chinese_simplified tatsuki12_force_e94b0732:
 
     # cu "「{nw}"
-    cu ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1248)
+    cu "「我还是想的太歪了呢☆」"
 
 # game/day 12.rpy:2680
 translate chinese_simplified tatsuki12_force_446654bd:
 
     # extend "That's for jumping t' conclusions,\n m'boy☆」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1248)
+    extend "「我还是想的太歪了呢☆」"
 
 # game/day 12.rpy:2693
 translate chinese_simplified tatsuki12_quiet_c5d22509:
 
     # ta "「Catch you later.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1264)
+    ta "「再见啦~」"
 
 # game/day 12.rpy:2697
 translate chinese_simplified tatsuki12_quiet_6b5cd025:
 
     # "Man, there he goes.{p}Ah well, I'd better get changed."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1268-1269)
+    "啊~啊，走掉了……没办法，换好衣服回去吧。"
 
 # game/day 12.rpy:2701
 translate chinese_simplified tatsuki12_quiet_a148aabe:
 
     # fn "「Whew. Today was hot, too.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1273)
+    fn "「呼，今天也真热啊……」"
 
 # game/day 12.rpy:2705
 translate chinese_simplified tatsuki12_quiet_2ad054df:
 
     # tp "「Hey [fn].」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1278)
+    tp "「嘿！[博行]」"
 
 # game/day 12.rpy:2706
 translate chinese_simplified tatsuki12_quiet_8690f148:
 
     # fn "「Thanks for the work today, Tappei-san.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1281)
+    fn "「您辛苦了。」"
 
 # game/day 12.rpy:2707
 translate chinese_simplified tatsuki12_quiet_3a3a70c2:
 
     # tp "「Just you here?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1283-1284)
+    tp "正当打算换掉衣服后去放松一下时辰平叔回到这个房间来了。"
 
 # game/day 12.rpy:2708
 translate chinese_simplified tatsuki12_quiet_169b9afc:
 
     # fn "「Yeah.{w} I was all sweaty from work,\n So I thought I'd change clothes...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1287)
+    fn "「就你一个？」"
 
 # game/day 12.rpy:2709
 translate chinese_simplified tatsuki12_quiet_16965a83:
 
     # tp "「Is that so.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1290-1291)
+    tp "「是。因为让汗湿透了，想把上衣换掉再回去……」"
 
 # game/day 12.rpy:2710
 translate chinese_simplified tatsuki12_quiet_0aa23a1b:
 
     # "Somehow, it's embarrassing changing in front of\nTappei-san.{w} I wouldn't mind if everyone else were\nhere, but if it's just the two of us..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1294)
+    "「这样啊。」"
 
 # game/day 12.rpy:2711
 translate chinese_simplified tatsuki12_quiet_73dfe712:
 
     # "Maybe I shouldn't be getting changed around here."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1296-1298)
+    "总觉得在辰平叔面前换衣服有点害羞。之前因为大家都在换衣服所以没去在意，就剩2个人的话就觉得……"
 
 # game/day 12.rpy:2715
 translate chinese_simplified tatsuki12_quiet_a4c8857e:
 
     # tp "「Well, [fn].{p} You've certainly put on a bit more meat\n since you started work here, haven't you?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1300)
+    tp "好像不该在这种地方换衣服吧。"
 
 # game/day 12.rpy:2716
 translate chinese_simplified tatsuki12_quiet_12736793:
 
     # "Suddenly, there was the feeling of smooth scales\nagainst my back, and a pair of hands started\npatting me all over the place."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1304-1306)
+    "「顺带一提,[博行]。比起在俺家第一次工作时，长了不少肉了嘛？」"
 
 # game/day 12.rpy:2717
 translate chinese_simplified tatsuki12_quiet_d713d93d:
 
     # fn "「You think so...?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1308-1309)
+    fn "突然，背后传来了滑溜溜的感觉，毫不顾忌的摸来摸去。"
 
 # game/day 12.rpy:2722
 translate chinese_simplified tatsuki12_quiet_d460cd58:
 
     # tp "「You're looking pretty good there.{p} I almost wanna just eat you up...」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1077)
+    tp "「是这样吗？"
 
 # game/day 12.rpy:2723
 translate chinese_simplified tatsuki12_quiet_45dc3c91:
 
     # "I'm getting a bad feeling about this."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1317-1318)
+    "「很不错的身体呢。不错到想要吃掉的程度呢……」"
 
 # game/day 12.rpy:2724
 translate chinese_simplified tatsuki12_quiet_8aa8ce51:
 
     # fn "「Uhh, excuse me...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1320)
+    fn "手的动作总觉得有种猥亵的感觉。"
 
 # game/day 12.rpy:2728
 translate chinese_simplified tatsuki12_quiet_cd536d91:
 
     # tp "「And how are things going down below?{p} Let me just check if you've grown into a man.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1327)
+    tp "「呃呃呃等下……」"
 
 # game/day 12.rpy:2729
 translate chinese_simplified tatsuki12_quiet_57ddd36a:
 
     # "Tappei-san's hand moved up my inner thigh..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1331-1332)
+    "「下面怎样了呢？让俺看看是不是和身体一样长大了？"
 
 # game/day 12.rpy:2730
 translate chinese_simplified tatsuki12_quiet_6fb8af78:
 
     # fn "「T-{w=.2}Tappei-san,{w} please stop.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1334)
+    fn "辰平叔的手伸向[咱]的大腿内侧。"
 
 # game/day 12.rpy:2734
 translate chinese_simplified tatsuki12_quiet_99c70717:
 
     # tp "「Gahahaha, you can't take a joke, can you?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1337)
+    tp "「辰，辰平叔。请不要这样……」"
 
 # game/day 12.rpy:2735
 translate chinese_simplified tatsuki12_quiet_e8f90a04:
 
     # "With you, I don't think it would be a joke..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1341)
+    "「嘎哈哈哈，真是不会开玩笑的家伙！」"
 
 # game/day 12.rpy:2739
 translate chinese_simplified tatsuki12_quiet_19b5650c:
 
     # tp "「[fn], you've got some free time, right?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1343)
+    tp "你来干的事情完全不像是开玩笑啊……"
 
 # game/day 12.rpy:2740
 translate chinese_simplified tatsuki12_quiet_65e32958:
 
     # fn "「Uhh, yes.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1347)
+    fn "「[博行]，现在有空吧？」"
 
 # game/day 12.rpy:2741
 translate chinese_simplified tatsuki12_quiet_33d2993d:
 
     # tp "「Come out with me, then.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 607)
+    tp "「恩，是啊。"
 
 # game/day 12.rpy:2742
 translate chinese_simplified tatsuki12_quiet_16d2f0eb:
 
     # fn "「Huh? With you, Tappei-san?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1353)
+    fn "「那来陪俺一会吧！」"
 
 # game/day 12.rpy:2746
 translate chinese_simplified tatsuki12_quiet_cc65f924:
 
     # tp "「What is it?{p} You don't want to come with me...?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1356)
+    tp "「呃呃，和辰平叔吗？」"
 
 # game/day 12.rpy:2747
 translate chinese_simplified tatsuki12_quiet_96a4e223:
 
     # "Maybe it's reluctance, maybe it's anxiety...{p}I'm happy to go, but also a little bit scared."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1360)
+    "「啊啊？和俺一起出去有那么丢人么……」"
 
 # game/day 12.rpy:2751
 translate chinese_simplified tatsuki12_quiet_6a943678:
 
     # tp "「I'm not going to eat you, or anything.{p} I just wanna drink at Raimon, but it looks like\n no one else is here, and drinking alone sucks.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1362-1363)
+    tp "应该说讨厌吗，还是说不安……虽然很高兴，有点害怕呢。"
 
 # game/day 12.rpy:2752
 translate chinese_simplified tatsuki12_quiet_8b4b1233:
 
     # fn "「Huh? But I can't drink...{p} And what about dinner?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1367-1369)
+    fn "「不是说在哪里推倒你啦。就是想去雷门喝酒但是没人陪啊，一个人喝酒一点意思都没有，所以来拽你一起去啦。」"
 
 # game/day 12.rpy:2753
 translate chinese_simplified tatsuki12_quiet_d4f470d4:
 
     # tp "「You're free, right?\n Stop making excuses and come with me.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1372-1373)
+    tp "「哈啊，只喝酒啊……晚饭呢？」"
 
 # game/day 12.rpy:2754
 translate chinese_simplified tatsuki12_quiet_965fe8d8:
 
     # "So, I was strong-armed into going along...\nWell, more like physically dragged along."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1376)
+    "「不是有空嘛，别唧唧歪歪了，走吧。」"
 
 # game/day 12.rpy:2767
 translate chinese_simplified tatsuki12_shigure_b61608b3:
 
     # ta "「There, what'd I say?{w} No big deal.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1394)
+    ta "「呐，不是都说了么，不是什么大事的……」"
 
 # game/day 12.rpy:2768
 translate chinese_simplified tatsuki12_shigure_a5cb1259:
 
     # fn "「You don't get it, do you Tatsu-nii?{p} Going out like this is fun, too.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1397-1398)
+    fn "「你不会是真的不明白吧，辰兄。能这样一起出来，才是最让人高兴的事情啊。」"
 
 # game/day 12.rpy:2772
 translate chinese_simplified tatsuki12_shigure_40d44f4c:
 
     # ta "「Oh, okay then.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1294)
+    ta "「这样啊。」"
 
 # game/day 12.rpy:2776
 translate chinese_simplified tatsuki12_shigure_ae2a5b36:
 
     # ta "「Oh yeah, want to go visit Uncle Shigure?{p} There's a bunch of interesting stuff at his place.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1408-1409)
+    ta "「对了，回去时顺便去一下村长时雨先生那里吧，那儿有些东西挺有趣的」"
 
 # game/day 12.rpy:2777
 translate chinese_simplified tatsuki12_shigure_3a285c4b:
 
     # fn "「The mayor's house, huh?{p} He's the one that gave us the plane, after all.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1412-1413)
+    fn "「村长先生的家啊。的确，给你飞机的就是村长先生吧。」"
 
 # game/day 12.rpy:2781
 translate chinese_simplified tatsuki12_shigure_31c53b5d:
 
     # ta "「Yep.{p} His taste in antiques usually\n leans towards smaller things, "
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1417)
+    ta "「嗯。」"
 
 # game/day 12.rpy:2782
 translate chinese_simplified tatsuki12_shigure_9451dc7a:
 
     # ta "but somehow he got the plane cheap, \nalong with the airfield.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1420-1421)
+    ta "「据说时雨老头子当初全凭兴趣买下了很久以前使用过的简易飞机场，然后顺便还用很便宜的价格买回了这架飞机……」"
 
 # game/day 12.rpy:2783
 translate chinese_simplified tatsuki12_shigure_3b9c1fed:
 
     # ta "「Seems like he gave up on fixing it about\n halfway through,\n so I took the old thing off his hands.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1424-1425)
+    ta "「好像实在没辙了，才半途放弃了修理，因为它放在那里还会碍事，就顺带送给俺了。」"
 
 # game/day 12.rpy:2784
 translate chinese_simplified tatsuki12_shigure_2fb149a7:
 
     # fn "「I see, so that's how you got it.{p} and about buying the airfield...{p} So that rumour was true, then?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1428-1430)
+    fn "「原来如此，所以辰兄才会有飞机那种东西。说到买飞机场什么的……难道说那个传言是真的吗？」"
 
 # game/day 12.rpy:2788
 translate chinese_simplified tatsuki12_shigure_d935c005:
 
     # ta "「Which rumour?」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1434)
+    ta "「传言？」"
 
 # game/day 12.rpy:2789
 translate chinese_simplified tatsuki12_shigure_dc9b9f26:
 
     # fn "「This is back when I was still living here...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1437)
+    fn "「就是当年[咱]还在村子里生活时的传言。」"
 
 # game/day 12.rpy:2790
 translate chinese_simplified tatsuki12_shigure_6961e6a4:
 
     # fn "「I heard that the mayor's hobby of buying antiques\n grew to the point where he had too much stuff,{p} and he buried an entire cellar-full of junk.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1440-1442)
+    fn "「村长凭兴趣买下了许多东西，但是实际却又不怎么需要，于是就将没用了的破烂儿埋在一个仓库里。……这样的传言。」"
 
 # game/day 12.rpy:2794
 translate chinese_simplified tatsuki12_shigure_e497c07a:
 
     # ta "「Oh, that... yeah, that's true.{p} It's an old story, though.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1446-1447)
+    ta "「这种事……是真的哦。不过这已经是以前的事了。」"
 
 # game/day 12.rpy:2795
 translate chinese_simplified tatsuki12_shigure_ed48a107:
 
     # ta "「Lately, he's been getting even more stuff,\n so he's started renting a storehouse from Kazenari.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1450-1451)
+    ta "「最近这种东西又多了不少，多到老头子甚至跑到风鸣町去租了个仓库。"
 
 # game/day 12.rpy:2796
 translate chinese_simplified tatsuki12_shigure_27fa12ca:
 
     # fn "「So the rumour was true... wow, that's awesome.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1454)
+    fn "「传言是真的啊……真可怕……」"
 
 # game/day 12.rpy:2800
 translate chinese_simplified tatsuki12_shigure_fe69c26c:
 
     # ta "「No, Uncle Shigure's a fad junkie.\n Always getting into the latest thing.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1458-1460)
+    ta "「不，时雨老爷子也算是追星族吧，很容易被不同的东西吸引不是吗。尤其是喜欢拿下刚开始流行的东西。」"
 
 # game/day 12.rpy:2801
 translate chinese_simplified tatsuki12_shigure_8a255477:
 
     # ta "「Still, he gets a lot of stuff through\n mail order.{w} It's interesting to see the\n variety of stuff in his house.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1463-1464)
+    ta "「到了如今还是这样，经常全凭兴趣就去打电视购物频道的电话。不过家里对着不同的东西还是很有趣啊~」"
 
 # game/day 12.rpy:2802
 translate chinese_simplified tatsuki12_shigure_11866050:
 
     # fn "「What? So did he get the\n airplane by mail-order, too!?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1467)
+    fn "「呃，那样的话飞机也是通过电视购物买的！？」"
 
 # game/day 12.rpy:2806
 translate chinese_simplified tatsuki12_shigure_3daf1ba4:
 
     # ta "「Moron. There's no way it is.{p} When it broke, the original owner\n just abandoned it.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1471-1473)
+    ta "「傻瓜，怎么可能呢。飞机场要重建的时候还能飞的飞机早就卖光了。」"
 
 # game/day 12.rpy:2807
 translate chinese_simplified tatsuki12_shigure_ca4ac666:
 
     # ta "「So, when Uncle Shigure bought the plot of land,\n he got the plane with it.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1476-1477)
+    ta "「好像只有出故障的这种飞机才会丢放在那种地方。」"
 
 # game/day 12.rpy:2811
 translate chinese_simplified tatsuki12_shigure_10cee1e1:
 
     # ta "「Once he saw the thing,\n he somehow got the idea inside his head\n to fix the thing so that it could fly again.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1480-1481)
+    ta "「所以在老爷子买下那块地后这架飞机就出现了。」"
 
 # game/day 12.rpy:2812
 translate chinese_simplified tatsuki12_shigure_53d5fcaf:
 
     # fn "「But he gave up,\n and decided to give it to you?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1485-1487)
+    fn "「看见飞机之后的老爷子，好像激情澎湃了，决定要将那个坏得七七八八的家伙修好并让它飞起来。」"
 
 # game/day 12.rpy:2816
 translate chinese_simplified tatsuki12_shigure_91a3e00d:
 
     # ta "「That's right. It's mine, now.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1490-1491)
+    ta "「那么最后还是失败了，才流落到你手上吧。」"
 
 # game/day 12.rpy:2817
 translate chinese_simplified tatsuki12_shigure_78474141:
 
     # "I never knew the mayor was that kind of person.{p}I only ever saw him as a guy who smiled\nand laughed."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1495)
+    "「答对咯，所以现在这是我的东西了噶哈哈哈……」"
 
 # game/day 12.rpy:2821
 translate chinese_simplified tatsuki12_shigure_c8102ca4:
 
     # ta "「What's up, you daydreaming again?{w} We're here.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1497-1498)
+    ta "村长是这样的人啊。对他的残留印象仅仅停留在它眯着眼微笑的样子上呢。"
 
 # game/day 12.rpy:2822
 translate chinese_simplified tatsuki12_shigure_55cc527d:
 
     # fn "「Wha, huh? Oh, right.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1502)
+    fn "「怎么，发什么呆呢？到了哦」"
 
 # game/day 12.rpy:2827
 translate chinese_simplified tatsuki12_shigure_880bf42b:
 
     # "The mayor's house is in the middle of Minasato,\na fancy place for the countryside."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1505)
+    "「啊哈？哦，现在就下来。」"
 
 # game/day 12.rpy:2828
 translate chinese_simplified tatsuki12_shigure_ae95e805:
 
     # "It looks ancient. I wonder if the Midoriya group\nhas anything to do with it?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1515-1516)
+    "村长的屋子在水郷村里也算是豪华的了，就算说是在田野中，看起来还算是赏心悦目。"
 
 # game/day 12.rpy:2832
 translate chinese_simplified tatsuki12_shigure_099f84a0:
 
     # ta "「Hey, Uncle, you home?{w} We came over to say hi.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1518)
+    ta "即使看上去已经很古旧了。这大概就是翠屋組建造的吧……"
 
 # game/day 12.rpy:2839
 translate chinese_simplified tatsuki12_shigure_2f6d8087:
 
     # "While Tatsu-nii called out in his loud voice,\nhe pounded hard on the gate."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1522)
+    "「老爷子，在吗？俺来了哦~」"
 
 # game/day 12.rpy:2840
 translate chinese_simplified tatsuki12_shigure_1ae75e3c:
 
     # "A normal person would probably knock,\nbut the gate looks like it can take a beating."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1525)
+    "辰兄一边大声地喊话，一边很用力地拍打房子的大门。"
 
 # game/day 12.rpy:2846
 translate chinese_simplified tatsuki12_shigure_05705df3:
 
     # sg "「What a racket.{p} Are you trying to break our gate or something?」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1527-1528)
+    sg "也许他仅仅是打算敲门，但是这门都快让他拍碎了啊……"
 
 # game/day 12.rpy:2847
 translate chinese_simplified tatsuki12_shigure_ee87556d:
 
     # "The door opened, and the\nmayor's aged figure came into view."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1533-1534)
+    "「怎么回事？这么吵闹。你们父子俩打算将我家的门弄坏吗？」"
 
 # game/day 12.rpy:2851
 translate chinese_simplified tatsuki12_shigure_1fad713f:
 
     # ta "「Yo, we came over to play!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1536)
+    ta "打开门后一看就认出是村长老人从里面出来了。"
 
 # game/day 12.rpy:2852
 translate chinese_simplified tatsuki12_shigure_89f1536f:
 
     # fn "「Good afternoon.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1541)
+    fn "「唷，过来玩了哦。」"
 
 # game/day 12.rpy:2856
 translate chinese_simplified tatsuki12_shigure_9034b810:
 
     # sg "「Hohoho, good afternoon to you, too.{p} Coming over to play is fine,{p} but could you at least take pity on the gate?」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1544)
+    sg "「你好。」"
 
 # game/day 12.rpy:2857
 translate chinese_simplified tatsuki12_shigure_54f3efce:
 
     # ta "「Well, since you have such a huge house,\n I thought you wouldn't hear me.{w} Anyway, if I\n broke the gate, I'd fix it.{w} Gahaha!」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1548-1550)
+    ta "「呵呵呵。你好。过来玩是可以啦，再稍微顾及一下门的感受就更好啦。」"
 
 # game/day 12.rpy:2858
 translate chinese_simplified tatsuki12_shigure_1b4aed75:
 
     # sg "「That would be great,{p} but since you'd probably make it with a raw plank,{p} could you exercise some restraint?」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1554-1556)
+    sg "「不是啦，只是觉得如果不使劲的话，你一定听不见嘛。而且要是坏掉的话俺一定会来修好的啦。噶哈哈」"
 
 # game/day 12.rpy:2862
 translate chinese_simplified tatsuki12_shigure_d932bc56:
 
     # sg "「Besides, if you did break it, I'd still end up\n with the repair bill. Isn't that right?」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1559-1561)
+    sg "「虽然那样是很让我感激，不过如果仅仅是把一块木板削平了装上，还是算了吧。」"
 
 # game/day 12.rpy:2863
 translate chinese_simplified tatsuki12_shigure_e0324d81:
 
     # ta "「Gahahaha...haha, ha.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1565-1566)
+    ta "「而且即使不是我弄的，辰平师傅真的自己拍坏了之后，想要叫他修还找我要修理费呢。」"
 
 # game/day 12.rpy:2867
 translate chinese_simplified tatsuki12_shigure_1cd56a5c:
 
     # "Don't laugh, Tatsu-nii..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1569)
+    "「嘎哈哈哈……哈哈，哈……」"
 
 # game/day 12.rpy:2868
 translate chinese_simplified tatsuki12_shigure_d31ef6b8:
 
     # sg "「As expected.\nIt's always when I'm doing moxibustion.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1573)
+    sg "估计是已经笑不出来……"
 
 # game/day 12.rpy:2872
 translate chinese_simplified tatsuki12_shigure_d4274cd8:
 
     # ta "「Hey, be careful.{p} Shigure's a martial arts expert. Even when Pa was\n younger, he'd get tossed around all the time.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1576)
+    ta "「那次自己修理真的很无奈啊，修完之后就难受的赶紧针灸去了……」"
 
 # game/day 12.rpy:2873
 translate chinese_simplified tatsuki12_shigure_e0d02731:
 
     # "So like Juuichi-san and Torahiko, or something."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1580-1581)
+    "「还是要小心呢。就算是俺老爸那样能打的人，小时候还是经常被时雨老头扔出去呢……」"
 
 # game/day 12.rpy:2881
 translate chinese_simplified tatsuki12_shigure_c915f50d:
 
     # tp "「Aaa-choo!!{p} Must be getting a summer cold...」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1583)
+    tp "就像是柔一先生扔虎彦那样吧。"
 
 # game/day 12.rpy:2889
 translate chinese_simplified tatsuki12_shigure_05d03f89:
 
     # sg "「Well, don't just stand there,\n come on in and we'll have\n some cold barley tea.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1596-1597)
+    sg "「阿~~~嚏！！难道是得感冒了么……」"
 
 # game/day 12.rpy:2890
 translate chinese_simplified tatsuki12_shigure_a04087b0:
 
     # sg "「Would you like to\n hear about the master carpenter\n when he was young, [fn]-kun?」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1611-1613)
+    sg "「别站在这里说话了，进来吧。喝点喝冰冻的麦茶吧，说说你小时候的事情吧，[博行]？」"
 
 # game/day 12.rpy:2891
 translate chinese_simplified tatsuki12_shigure_6f0da262:
 
     # fn "「Wait, you know me?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1616)
+    fn "「阿勒，你知道[咱]的事情？」"
 
 # game/day 12.rpy:2895
 translate chinese_simplified tatsuki12_shigure_e7aeaf76:
 
     # sg "「Of course! You're quite the celebrity.{p} I can remember like it was yesterday,\n all of the mischief you and Torahiko got up to.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1620-1622)
+    sg "「当然了，你小时候很有名的啊。整天和虎彦君一起搞恶作剧，现在想起来还像昨天发生的一样呢~」"
 
 # game/day 12.rpy:2896
 translate chinese_simplified tatsuki12_shigure_dae85acd:
 
     # fn "「I'm very sorry.\n I was such a troublemaker back then.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1625)
+    fn "「对不起。小时候做了很多不好的事情」"
 
 # game/day 12.rpy:2900
 translate chinese_simplified tatsuki12_shigure_50d8182a:
 
     # sg "「Hohoho, boys will be boys.{p} No need to worry about all of that.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1629-1630)
+    sg "「呵呵呵，小孩子的恶作剧嘛。不用在意哦。」"
 
 # game/day 12.rpy:2904
 translate chinese_simplified tatsuki12_shigure_1576b881:
 
     # sg "「Hurry up and come out of the heat.{p} I don't have that much junk lying around,\n so you can relax.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1634-1636)
+    sg "「好热啊，总而言之先进来吧。那一仓库的破烂也早就没有了，可以放心进来了哦。」"
 
 # game/day 12.rpy:2905
 translate chinese_simplified tatsuki12_shigure_294ec184:
 
     # fn "「Eh!?{w} Ah,{w=.2} no,{w=.2} that doesn't matter...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1639)
+    fn "「呃！？　啊，不是。[咱]没有……」"
 
 # game/day 12.rpy:2906
 translate chinese_simplified tatsuki12_shigure_e2735072:
 
     # sg "「I like to keep stuff around my house,\n so I can have interesting things to talk to people\n about.{w} I'm renting a storehouse, too.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1642-1644)
+    sg "「看到我家乱糟糟的，你们这帮小子就编一堆谣言传出去。根本没有什么租借仓库的哦。」"
 
 # game/day 12.rpy:2910
 translate chinese_simplified tatsuki12_shigure_bf1312bb:
 
     # ta "「Wait, what!?{p} What the hell, Uncle. Seriously.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1648-1649)
+    ta "「呃，这样么！？什么嘛……肯定是老爸又说别人坏话了。」"
 
 # game/day 12.rpy:2911
 translate chinese_simplified tatsuki12_shigure_265bd19c:
 
     # sg "「Well, it's true that the storehouse is already\n half full of things that I've bought.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1652)
+    sg "「嘛，不过仓库的确有一半的位置被买来的东西给填满了呢。」"
 
 # game/day 12.rpy:2915
 translate chinese_simplified tatsuki12_shigure_f2793373:
 
     # ta "「Last I checked, it looked more than half full...」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1656)
+    ta "「不对啊，俺上次看见的时候应该要多得多……」"
 
 # game/day 12.rpy:2916
 translate chinese_simplified tatsuki12_shigure_d1c63c75:
 
     # sg "「Is that so?{w} Take another look later, then.{p} Aah, I can't bear this heat.{p} Hurry up and come in, already.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1659-1660)
+    sg "「这样么？那等一下去看下吧。来来，进来吧。我已经热得受不了了。」"
 
 # game/day 12.rpy:2917
 translate chinese_simplified tatsuki12_shigure_f819219a:
 
     # fn "「Excuse us for intruding.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1663)
+    fn "「那打扰了。」"
 
 # game/day 12.rpy:2918
 translate chinese_simplified tatsuki12_shigure_7856504d:
 
     # ta "「I love Uncle Shigure's stories.\nThey give me so much to tease Pa with.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1666-1667)
+    ta "「老爷子的话很有趣的哦，用他说的这些话能整整老爸呢」"
 
 # game/day 12.rpy:2919
 translate chinese_simplified tatsuki12_shigure_fea1fa0f:
 
     # "...Making fun of Tappei-san would be suicide..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1669)
+    "……[咱]来整辰平叔可是标准的自杀，还是算了。"
 
 # game/day 12.rpy:2923
 translate chinese_simplified tatsuki12_shigure_631f949b:
 
     # sg "「Today is another scorcher...{p} It's so much nicer inside, you'll see.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1673-1674)
+    sg "「真是的今天这么热呢……进去之后稍等一下哦。」"
 
 # game/day 12.rpy:2924
 translate chinese_simplified tatsuki12_shigure_bec218f4:
 
     # sg "「While we're having tea,\n do this old man a favor\n and chat for a while.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1677)
+    sg "「一边喝茶一边和我聊聊天吧。」"
 
 # game/day 12.rpy:2928
 translate chinese_simplified tatsuki12_shigure_994f0319:
 
     # ta "「Sure thing.」"
-    ta ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1681)
+    ta "「好吧。」"
 
 # game/day 12.rpy:2929
 translate chinese_simplified tatsuki12_shigure_b16bc932:
 
     # fn "「Of course.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1684)
+    fn "「是，打扰了。」"
 
 # game/day 12.rpy:2930
 translate chinese_simplified tatsuki12_shigure_5a2c7733:
 
     # sg "「Hmm, I think I have some candy somewhere.\nLet me go get it.」"
-    sg ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1687-1688)
+    sg "「呼唔，别人给的糖果也应该还有，给你们拿点吧。」"
 
 # game/day 12.rpy:2942
 translate chinese_simplified tatsuki12_tappei_2241dc2f:
 
     # "It's still evening,\nbut since there aren't any restaurants in the\nvillage besides Raimon,"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1701-1702)
+    "虽然还只是傍晚，但因为村子里只有雷门是吃饭的地方，"
 
 # game/day 12.rpy:2943
 translate chinese_simplified tatsuki12_tappei_038dd8ce:
 
     # "there are already customers sitting\naround the place, and a busy atmosphere\nis in the air."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1704-1705)
+    "所以店内已经零零星星地有客人进来了，看起来一会人就会多起来呢……"
 
 # game/day 12.rpy:2948
 translate chinese_simplified tatsuki12_tappei_d4773ee4:
 
     # om "「Welcome back!」"
-    om ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1709)
+    om "「唷，老大，欢迎光临。」"
 
 # game/day 12.rpy:2949
 translate chinese_simplified tatsuki12_tappei_218684c3:
 
     # "Tappei-san and I take seats by the counter."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1716)
+    "「[博行]，喜欢什么都可以点哦」"
 
 # game/day 12.rpy:2953
 translate chinese_simplified tatsuki12_tappei_46cc3886:
 
     # tp "「Go order whatever you like.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1719)
+    tp "「是。」"
 
 # game/day 12.rpy:2954
 translate chinese_simplified tatsuki12_tappei_d544ed7e:
 
     # fn "「Okay.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1721)
+    fn "难道你说什么就有什么啊……"
 
 # game/day 12.rpy:2955
 translate chinese_simplified tatsuki12_tappei_cf87e050:
 
     # "What am I going to get...?"
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1723-1725)
+    "还不是要看菜单上有什么，除了套餐和一些小菜，然后就只有杂菜饼和烤肉之类的小吃了。"
 
 # game/day 12.rpy:2956
 translate chinese_simplified tatsuki12_tappei_11a93263:
 
     # "This is Raimon, so there's only so much on the\nmenu. With drinks, there's the daily special, side\ndishes, okonomiyaki, BBQ, and that's about it."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1727)
+    "唔……不过，要说种类已经不算少了。"
 
 # game/day 12.rpy:2957
 translate chinese_simplified tatsuki12_tappei_19a48a85:
 
     # "Hmm...{w} actually, that's plenty of variety."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1730)
+    "「选哪个好呢？」"
 
 # game/day 12.rpy:2958
 translate chinese_simplified tatsuki12_tappei_85ce3f29:
 
     # fn "「What should I get?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1732-1733)
+    fn "柜台附近烟雾弥漫的，似乎很难闻……烤肉还是算了吧。"
 
 # game/day 12.rpy:2959
 translate chinese_simplified tatsuki12_tappei_d17446b2:
 
     # "We're at the counter,\nso it's probably not the best idea to get a BBQ."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1735-1736)
+    "还是选择套餐吧，杂菜饼实在不行还能到时候点完了带走呢。"
 
 # game/day 12.rpy:2960
 translate chinese_simplified tatsuki12_tappei_c336e1df:
 
     # "I think I'll go for something easy to eat,\nso the okonomiyaki should be good."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1740-1741)
+    "「俺还要以前那几样，再加一份腌墨鱼下酒，然后别的随便上一点吧！」"
 
 # game/day 12.rpy:2964
 translate chinese_simplified tatsuki12_tappei_6dfbc0a0:
 
     # tp "「I'll have the usual, overnight salted squid.{p} And then whatever goes good with that.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1744)
+    tp "「啊那，来一碗乌龙茶，别的就随便了。」"
 
 # game/day 12.rpy:2965
 translate chinese_simplified tatsuki12_tappei_cd68673d:
 
     # fn "「Well then, I'll have some oolong tea, and\n whatever goes well with that, please.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1746-1747)
+    fn "难得来到这里，各种东西都尝一下也不错。而且还是辰平叔请客。"
 
 # game/day 12.rpy:2966
 translate chinese_simplified tatsuki12_tappei_3bb011d2:
 
     # "It's been a long time, so it's a good plan\nto be trying different things.{p}I'm being treated, too."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1751)
+    "「你不喝酒啊？」"
 
 # game/day 12.rpy:2970
 translate chinese_simplified tatsuki12_tappei_b2579544:
 
     # tp "「Eh? You're not drinking?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1754)
+    tp "「恩，[咱]喝茶就可以了。」"
 
 # game/day 12.rpy:2971
 translate chinese_simplified tatsuki12_tappei_ff419ee8:
 
     # fn "「Yes, I'm fine with tea.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1758)
+    fn "「别客气，想吃什么吃什么"
 
 # game/day 12.rpy:2975
 translate chinese_simplified tatsuki12_tappei_025017d0:
 
     # tp "「Don't hold back, drink all you want.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1719)
+    tp "「是。」"
 
 # game/day 12.rpy:2976
 translate chinese_simplified tatsuki12_tappei_d544ed7e_1:
 
     # fn "「Okay.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1764-1765)
+    fn "「怎么这么安分呢，别是被猫附体了吧，喂！」"
 
 # game/day 12.rpy:2977
 translate chinese_simplified tatsuki12_tappei_ec268110:
 
     # tp "「Well, aren't you a good boy.{p} Not exactly the bottom, {w=.2}eh?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1767-1768)
+    tp "在工作结束之后来这里喝酒，辰平叔似乎心情很好。"
 
 # game/day 12.rpy:2978
 translate chinese_simplified tatsuki12_tappei_78bc7a1f:
 
     # "Tappei-san gets into a very good mood after work's\nover and he comes here to drink."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1770)
+    "另一方面，"
 
 # game/day 12.rpy:2979
 translate chinese_simplified tatsuki12_tappei_5954b1e4:
 
     # "Still,\nsince I've seen him be so scary at work,\nI'm still a little nervous of him."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1772)
+    "心里还有一点点紧张。"
 
 # game/day 12.rpy:2983
 translate chinese_simplified tatsuki12_tappei_3db533f0:
 
     # tp "「Hey, [fn].{p} How've things been since you got back?\n You having fun?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1776-1777)
+    tp "「喂，[博行]。回来后怎样，玩得还高兴吗？」"
 
 # game/day 12.rpy:2984
 translate chinese_simplified tatsuki12_tappei_d0e5aeb9:
 
     # fn "「Yeah, it's fun.{w} I'm back in my childhood town,\n so I can catch up with everyone.{p} I'm also helping with the Midoriya Group.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1780-1782)
+    fn "「很高兴啊。这里是[咱]的故乡，有很多人一起玩。而且还能在翠屋組里干活。」"
 
 # game/day 12.rpy:2988
 translate chinese_simplified tatsuki12_tappei_1c5b348d:
 
     # tp "「That so... I'm glad you're assisting us.{p} You've been a great help.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1786-1787)
+    tp "「是吗……这两天谢谢了啊。还挺能干的呢。」"
 
 # game/day 12.rpy:2989
 translate chinese_simplified tatsuki12_tappei_cceef4d4:
 
     # fn "「Oh, I should be thanking you.{p} You've given me fun experiences,\n plus I'm getting part-time wages.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1790-1791)
+    fn "「啊不，[咱]才应该感谢呢。得到了这么多有趣的工作经验，而且还有工钱呢。」"
 
 # game/day 12.rpy:2993
 translate chinese_simplified tatsuki12_tappei_a5a377f5:
 
     # tp "「Still, you live in the city.\n Why'd you come back to the crappy country?{p} There's nothing here, compared to the city.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1795-1797)
+    tp "「但是为什么都已经住到都市了，还回这样破烂的乡下呢？而且这里什么都没有，都市那边更有意思吧。」"
 
 # game/day 12.rpy:2994
 translate chinese_simplified tatsuki12_tappei_685c9810:
 
     # fn "「That's not true.{w} There are more people and\n buildings in the city, but that's it.{p} Here, there's always something fun going on.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1800-1802)
+    fn "「也不全是啦。都市也只是人和建筑多一点而已，什么都没有的呢。这里倒是有各种各样的游戏。」"
 
 # game/day 12.rpy:2995
 translate chinese_simplified tatsuki12_tappei_0b526445:
 
     # fn "「Also... everyone else is here.{p} I guess the hometown is the best, after all.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1805-1806)
+    fn "「而且……大家都在。也只有故乡才是最棒的呢」"
 
 # game/day 12.rpy:2996
 translate chinese_simplified tatsuki12_tappei_f4835241:
 
     # tp "「Maybe...」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 873)
+    tp "是这样么……"
 
 # game/day 12.rpy:2997
 translate chinese_simplified tatsuki12_tappei_fd19e359:
 
     # fn "「Yeah, it is.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1812)
+    fn "「就是这样。」"
 
 # game/day 12.rpy:2998
 translate chinese_simplified tatsuki12_tappei_efbd84b1:
 
     # "This is so different from the Tappei-san at work.{p}I'm sure alcohol is a part of it,\nbut maybe this is the real personality."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1814-1816)
+    "不像工作时那样全身是刺，辰平先生还是很能说的。虽然也有可能是喝酒后话多起来了的缘故，不过这才是本来的性格吧。"
 
 # game/day 12.rpy:3004
 translate chinese_simplified tatsuki12_tappei_6ae36f5c:
 
     # tp "「By the way...{w} you got anyone you like?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1821)
+    tp "「话说回来……你现在有喜欢的人么？」"
 
 # game/day 12.rpy:3005
 translate chinese_simplified tatsuki12_tappei_978ec0db:
 
     # fn "「!?{w} *cough, cough* I'm sorry, what?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1824)
+    fn "「！？　噗……怎么突然问到这些了？」"
 
 # game/day 12.rpy:3006
 translate chinese_simplified tatsuki12_tappei_d55d4f90:
 
     # "The question was so out of the blue that I\nalmost knocked my tea over."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1826-1827)
+    "这种问题实在是太过突然了，嘴里的乌龙茶直接喷到了柜台上。"
 
 # game/day 12.rpy:3010
 translate chinese_simplified tatsuki12_tappei_de6c2e61:
 
     # tp "「At your age, it's normal to feel these things.{p} Now, how many people have you done it with?」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1831-1832)
+    tp "「长这么大了，有个喜欢的人没什么不应该的。还是说……已经和外人‘干’过了？」"
 
 # game/day 12.rpy:3011
 translate chinese_simplified tatsuki12_tappei_9a2ecd2e:
 
     # fn "「What do you mean, 'it'!?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1835)
+    fn "「‘干过’……是指什么啊！？」"
 
 # game/day 12.rpy:3015
 translate chinese_simplified tatsuki12_tappei_dcb2b38e:
 
     # tp "「So, ya never done it before?{p} When I was your age,\n I did it with just about anyone around.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1839-1841)
+    tp "「‘那种事’还能指什么啊。俺在你这个年纪的时候看上谁就上谁哦~」"
 
 # game/day 12.rpy:3016
 translate chinese_simplified tatsuki12_tappei_112c9e8d:
 
     # fn "「Just about anyone...?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1844)
+    fn "「看上谁就上谁……」"
 
 # game/day 12.rpy:3017
 translate chinese_simplified tatsuki12_tappei_05898738:
 
     # "Even though he's dropping a bombshell like this,\nhe's speaking like it's just a trivial memory."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1846-1847)
+    "明明是这么私密的话题，却像回忆往事那样，很轻松地说出来了。"
 
 # game/day 12.rpy:3018
 translate chinese_simplified tatsuki12_tappei_758c82c3:
 
     # "Well, maybe it is a trivial memory, to him..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1849-1850)
+    "嘛，对于这个人来说可能就真的只是像回忆往事吧……"
 
 # game/day 12.rpy:3022
 translate chinese_simplified tatsuki12_tappei_c882c204:
 
     # fn "「So, how many of your friends have you slept with?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1854)
+    fn "「那，有没有和你的兄弟‘干’过啊？」"
 
 # game/day 12.rpy:3023
 translate chinese_simplified tatsuki12_tappei_478d8e96:
 
     # fn "「Tappei-san, you know we're both guys, right!?」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1857)
+    fn "「辰平叔。[咱]们都是男的啊！？」"
 
 # game/day 12.rpy:3024
 translate chinese_simplified tatsuki12_tappei_ebbcc36f:
 
     # tp "「'Course I know.{w} Friends your own age are fine\n and all, but how 'bout someone my age?{p} I could teach you so many things...」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1860-1862)
+    tp "「知道啊。不过呢，搞基也不错的，俺这样年纪的感觉怎么样？！俺来教你做些快乐的事吧……」"
 
 # game/day 12.rpy:3025
 translate chinese_simplified tatsuki12_tappei_9c94c36c:
 
     # "He leaned towards me,\nputting his face close to mine."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1864-1865)
+    "把[咱]抱到怀里，辰平叔的脸向[咱]的脸靠近了。"
 
 # game/day 12.rpy:3026
 translate chinese_simplified tatsuki12_tappei_ea509f99:
 
     # fn "「Tappei-san... I-」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 183)
+    fn "辰平叔……"
 
 # game/day 12.rpy:3027
 translate chinese_simplified tatsuki12_tappei_a36c2efc:
 
     # "He's so much bigger than Tatsu-nii..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1871)
+    "比辰兄还要壮硕的身体。"
 
 # game/day 12.rpy:3028
 translate chinese_simplified tatsuki12_tappei_77d9febb:
 
     # "His hair's also getting a bit thinner,\nand there are wrinkles\nstarting to show in his face."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1873-1874)
+    "头发微微少了些，脸上能看到一点皱纹。"
 
 # game/day 12.rpy:3029
 translate chinese_simplified tatsuki12_tappei_42f24eac:
 
     # "His scales aren't young and smooth anymore,\nthey're dry and rough."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1876-1877)
+    "鳞也没有了光滑的感觉，干巴巴的。"
 
 # game/day 12.rpy:3030
 translate chinese_simplified tatsuki12_tappei_2bc4ec42:
 
     # "Those eyes are staring hotly at me."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1879)
+    "这个人的眼睛正散发着炽热的光芒。"
 
 # game/day 12.rpy:3031
 translate chinese_simplified tatsuki12_tappei_92b9a81d:
 
     # fn "「I can't.{w} You have a wife,\n and Tatsu-nii...」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1882-1883)
+    fn "「不行啊。辰平叔已经有太太了，辰兄也……」"
 
 # game/day 12.rpy:3035
 translate chinese_simplified tatsuki12_tappei_2b651e11:
 
     # tp "「Gaahahaha! You really can't take a joke, can you?{p} That's good. Means you're innocent.」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1887-1888)
+    tp "「嘎哈哈哈，你还当真了啊真有意思，这就是所谓‘纯情’啊嘎哈哈哈哈哈……」"
 
 # game/day 12.rpy:3036
 translate chinese_simplified tatsuki12_tappei_cec49e17:
 
     # fn "「Please stop.{p} If you say it, I can't hear it as a joke.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1891-1892)
+    fn "「请不要这样啦。辰平叔这种说话的语气听不出来是在开玩笑啊」"
 
 # game/day 12.rpy:3037
 translate chinese_simplified tatsuki12_tappei_3b691f17:
 
     # tp "「Then how about I stop joking, and get serious?{p} After this,\nI can take you somewhere where adults have fun...」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1895-1896)
+    tp "「那不开玩笑来真的不？等一下带你去‘大人的游乐场’也可以哦。」"
 
 # game/day 12.rpy:3038
 translate chinese_simplified tatsuki12_tappei_97445a08:
 
     # fn "「I respectfully decline.」"
-    fn ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1899)
+    fn "「……不用了。」"
 
 # game/day 12.rpy:3039
 translate chinese_simplified tatsuki12_tappei_04f7dd75:
 
     # tp "「Hey, what was that for?{nw}"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1902)
+    tp "「为什么，不用客气啊。嘎哈哈哈——」"
 
 # game/day 12.rpy:3041
 translate chinese_simplified tatsuki12_tappei_48c55af9:
 
     # extend "{w=.2} Gahahaha!」"
-    extend ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1904-1905)
+    extend "逗弄[咱]难道真的这么有意思吗……而且和儿子的朋友开这种玩笑好像不太好吧。"
 
 # game/day 12.rpy:3042
 translate chinese_simplified tatsuki12_tappei_9fa78911:
 
     # "Maybe I really am the biggest sucker for jokes...{p}Why he pranks his son's friend, I'll never know."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1907)
+    "不过，看上去眼神还是挺认真的。"
 
 # game/day 12.rpy:3043
 translate chinese_simplified tatsuki12_tappei_3cc444ab:
 
     # "Still, I saw some real seriousness in his eyes."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1911)
+    "「来，老爸再给你添一份饭"
 
 # game/day 12.rpy:3047
 translate chinese_simplified tatsuki12_tappei_e01339b1:
 
     # tp "「Old man, I want seconds!」"
-    tp ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1913)
+    tp "……这是错觉吗？"
 
 # game/day 12.rpy:3048
 translate chinese_simplified tatsuki12_tappei_04301275:
 
     # "Maybe I was imagining it..."
-    ""
+    # [旧版翻译] 来源: extract/orig/辰樹_m_03.ks (KS 1913)
+    "……这是错觉吗？"
 
 translate chinese_simplified strings:
 
