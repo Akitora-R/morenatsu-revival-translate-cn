@@ -137,3 +137,45 @@ print(f'Errors: {errors}/10')
 | tatsuki11 | extract/orig/辰樹_s_03.ks | 305 | ✅ 已完成 |
 | shin11 | extract/orig/深_s_02.ks | 91 | ✅ 已完成 |
 | juuichi11 | extract/orig/柔一_s_01.ks | 261 | ✅ 已完成 |
+
+## Day 12 路由对应关系（已验证）
+
+| RPY前缀 | KS源文件 | 条目数 | 状态 |
+|---------|----------|--------|------|
+| torahiko12 | extract/torahiko/12日目.ks | 171 | ✅ 已完成 |
+| juuichi12 | extract/orig/柔一_s_02.ks | 199 | ✅ 已完成 |
+| kouya12 | extract/orig/洸哉_s_05.ks | 373 | ✅ 已完成 |
+| tatsuki12 (主线) | extract/orig/辰樹_m_03.ks | 212 | ✅ 已完成 |
+| tatsuki12_force | extract/orig/辰樹_m_03.ks | 84 | ✅ 已完成 |
+| tatsuki12_quiet | extract/orig/辰樹_m_03.ks | 31 | ✅ 已完成 |
+| tatsuki12_shigure | extract/orig/辰樹_m_03.ks | 66 | ✅ 已完成 |
+| tatsuki12_tappei | extract/orig/辰樹_m_03.ks | 61 | ✅ 已完成 |
+
+> ⚠️ **辰樹_m_03.ks 包含4条分支路线**（force/quiet/shigure/tappei），对应KS行号段不同，必须在修复JSONL中逐条指明 `ks_lines` 而非依赖自动计算。
+
+## Day 12 关键教训
+
+### 1. 已翻译条目≠已正确匹配
+tatsuki12 原有 35 条带 `ks_lines` 的翻译，其中仅前 8 条（0-7）匹配正确，剩余 27 条（8-34）被自动匹配算法**系统性偏移**（偏移量从 2 行逐步扩大到 50+ 行），CN文本与EN语义完全不对应。
+
+### 2. 偏移量非线性增长
+自动匹配的偏移不是常数——随着KS文件中的空行、注释行、舞台指令行增多，偏移逐步累积。辰樹_m_03.ks 中条目 131+ 的偏移量达 40-50 行，导致翻译指向完全错误的场景（如 "Guh, ow..." 的疼痛感叹被映射到 "加班" 讨论）。
+
+### 3. `translate.py update` 只更新指定字段
+仅更新 `ks_lines` 不会自动从KS提取翻译。必须同时在 batch JSONL 中提供 `translation` 字段。提取翻译时需过滤 `【说话人】` 头、`;注释`、`[舞台指令]`，保留 `[咱]`/`[博行]`/`[fn]`/`[ln]` 等占位符。
+
+### 4. 分支路由的 ks_lines 补全策略
+force/quiet/shigure/tappei 分支条目的RPY文件已有正确CN文本（来自之前的 apply），但 translation_table 缺少 `ks_lines`。可以直接从 RPY 的CN文本反向搜索 KS 对应行号，无需重新翻译。
+
+### 5. 验证必须覆盖所有子分支
+Day 12 共 1198 条，单次 `apply` 曾只写入 778 条（遗漏了 tatsuki12 的 419 条未翻译项）。修复后 `apply` 写入 1197 条（仅 1 条为有意空白的停顿条目）。
+
+## Day 13 路由对应关系（已验证）
+
+| RPY前缀 | KS源文件 | 条目数 | 状态 |
+|---------|----------|--------|------|
+| day13 | extract/orig/13日目.ks | 1 | ✅ 已完成 |
+| shun13 / shun13_play | extract/orig/峻_s_01.ks | 174 | ✅ 已完成 |
+| tatsuki13 / tatsuki13_tatsuki / tatsuki13_torahiko | extract/orig/辰樹_s_04.ks | 346 | ✅ 已完成 |
+
+> **13日目.ks 引入外部文件**：`storage="辰樹_s_04.ks"`（辰樹路线）和 `storage="峻_s_01.ks"`（峻路线）。shun13 的分支（play/alone/carpenters/gohome/surprise）均在同一个 `峻_s_01.ks` 内通过 `*label` 标签跳转实现。
