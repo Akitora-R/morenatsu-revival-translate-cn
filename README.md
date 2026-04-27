@@ -283,6 +283,40 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | `shun10` | `extract/orig/峻_m_04.ks` | 峻游戏路线 |
 | `juuichi10` | `extract/orig/柔一_m_045.ks` | 柔一柔道馆/餐厅路线 |
 
+## Day 11 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `torahiko11` | `extract/torahiko/11日目.ks` | 虎彦路线（346条） |
+| `tatsuki11` | `extract/orig/辰樹_s_03.ks` | 辰樹路线（305条） |
+| `shin11` | `extract/orig/深_s_02.ks` | 深路线（91条） |
+| `juuichi11` | `extract/orig/柔一_s_01.ks` | 柔一路线（261条） |
+
+## Day 12 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `torahiko12` | `extract/torahiko/12日目.ks` | 虎彦游泳社参观（171条） |
+| `juuichi12` (含 body/stick) | `extract/orig/柔一_s_02.ks` | 柔一河边偶遇（199条） |
+| `kouya12` (含 continue/lake/me/you/pass/go) | `extract/orig/洸哉_s_05.ks` | 洸哉神社乐队成员（373条） |
+| `tatsuki12` (主线) | `extract/orig/辰樹_m_03.ks` | 辰樹工具问答+二阶堂冲突+飞机话题（212条） |
+| `tatsuki12_force` | `extract/orig/辰樹_m_03.ks` | 强行跟去分支（84条） |
+| `tatsuki12_quiet` | `extract/orig/辰樹_m_03.ks` | 保持沉默/辰平分支（31条） |
+| `tatsuki12_shigure` | `extract/orig/辰樹_m_03.ks` | 拜访村长时雨（66条） |
+| `tatsuki12_tappei` | `extract/orig/辰樹_m_03.ks` | 雷门辰平喝酒（61条） |
+
+> **辰樹_m_03.ks 包含 4 条分支路线**（force/quiet/shigure/tappei），对应 KS 行号段不同，需逐条手工指明 `ks_lines`。
+
+## Day 13 路线对应
+
+| RPY 前缀 | KS 源文件 | 场景概要 |
+|----------|-----------|----------|
+| `day13` | `extract/orig/13日目.ks` | 地图选择（1条） |
+| `shun13` (含 play/alone/carpenters/gohome/surprise) | `extract/orig/峻_s_01.ks` | 峻屋顶冒险（174条） |
+| `tatsuki13` (含 tatsuki/torahiko/done 等) | `extract/orig/辰樹_s_04.ks` | 辰樹雨中农场帮忙（346条） |
+
+> **13日目.ks 通过 `storage=` 引入外部文件**：`storage="辰樹_s_04.ks"` 和 `storage="峻_s_01.ks"`。shun13 的 5 个子分支均在 `峻_s_01.ks` 内通过 `*label` 跳转实现。
+
 ## 翻译进度
 
 | 文件 | 已翻译 | 总数 | 状态 |
@@ -293,7 +327,10 @@ python scripts/translate.py embed --model paraphrase-multilingual:278m --file "d
 | day 7.rpy | 1671 | 1671 | **100%** |
 | day 8.rpy | 645 | 645 | **100%** |
 | day 10.rpy | 863 | 863 | **100%** |
+| day 11.rpy | 1003 | 1003 | **100%** |
+| day 12.rpy | 1197 | 1198 | 99.9% |
+| day 13.rpy | 521 | 521 | **100%** |
 | Welcome Party.rpy | 1380 | 1380 | **100%** |
 | day 3.rpy | 422 | 422 | **100%** |
 | day 2.rpy | 1075 | 1076 | 99.9% |
-| **合计** | **9313** | **34191** | **27.2%** |
+| **合计** | **10981** | **34191** | **32.1%** |
