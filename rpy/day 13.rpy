@@ -2713,8 +2713,8 @@ translate chinese_simplified tatsuki13_tatsuki_16a01456:
 translate chinese_simplified tatsuki13_tatsuki_9522e634:
 
     # ky "「Did it get free?」"
-    # [旧版翻译] 来源: extract/orig/辰樹_s_04.ks (KS 904-906)
-    ky "\n\n「就这样下去，一口气走出水潭吧！」"
+    # [旧版翻译] 来源: extract/orig/辰樹_s_04.ks (KS 897)
+    ky "「成功了吗？」"
 
 # game/day 13.rpy:1215
 translate chinese_simplified tatsuki13_tatsuki_480d5b58:
@@ -2902,8 +2902,8 @@ translate chinese_simplified tatsuki13_kyouji_4426f882:
 translate chinese_simplified tatsuki13_kyouji_f031357d:
 
     # ta "「Isn't the one laughing always the same guy?」"
-    # [旧版翻译] 来源: extract/orig/辰樹_s_04.ks (KS 1022-1023)
-    ta "\n「被谁戏弄什么的不是家常便饭么」"
+    # [原版缩写] 来源: extract/orig/辰樹_s_04.ks (KS 1023)
+    ta "「被谁戏弄什么的不是家常便饭么」"
 
 # game/day 13.rpy:1292
 translate chinese_simplified tatsuki13_kyouji_6465365b:
